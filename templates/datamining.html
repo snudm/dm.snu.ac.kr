@@ -1,0 +1,8 @@
+{% extends "layout.html" %}
+
+{% block contents %}
+{% for content in datamining['datamining'] %}
+<h3>{{ content['question'] }}</h3>
+<p>{{ content['answer'] }}</p>
+{% endfor %}
+{% endblock %}

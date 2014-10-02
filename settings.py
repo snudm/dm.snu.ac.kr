@@ -1,6 +1,6 @@
 import os
 
-MENUS = ['datamining', 'admission', 'courses', 'projects', 'research', 'faq']
+MENUS = ['datamining', 'members', 'admission', 'courses']
 
 SERVER = {
     'host': '0.0.0.0',

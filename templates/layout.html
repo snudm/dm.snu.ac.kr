@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>SNU Data Mining Center</title>
+    <link href="{{ url_for('static', filename='css/bootstrap.min.css') }}" rel="stylesheet">
+    <link href="{{ url_for('static', filename='css/dmlab.css') }}" rel="stylesheet">
+  </head>
+  <body>
+    <header class="container">
+    {% include "header.html" with context %}
+    </header>
+
+    <div class="container">
+    {% block contents %}
+    {% endblock %}
+    </div>
+
+    <footer>
+    {% include "footer.html" %}
+    </footer>
+ </body>
+</html>

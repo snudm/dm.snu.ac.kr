@@ -1,0 +1,37 @@
+footer {
+    background-color: #eee;
+    margin-top: 50px;
+    padding: 20px;
+    text-align: center;
+}
+
+.member-photo {
+    height: 200px;
+    width: 150px;
+}
+
+.navbar {
+    background-color: #005596;
+}
+
+.navbar-brand {
+    color: white;
+}
+
+.navbar-brand:hover {
+    color: white;
+    text-decoration: underline;
+}
+
+.width-50 {
+    width: 50%;
+    margin: 0;
+}
+
+.width-49 {
+    width: 49%;
+}
+
+.width-100 {
+    width: 100%;
+}

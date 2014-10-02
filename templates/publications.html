@@ -1,0 +1,26 @@
+{% extends "layout.html" %}
+
+{% block contents %}
+<h2>Publications</h2>
+
+<h3>International Journals</h3>
+<ol>
+    {% for pub in pub_int_journals %}
+    <li>{{ pub }}</li>
+    {% endfor %}
+</ol>
+
+<h3>International Conferences</h3>
+<ol>
+    {% for pub in pub_int_conferences %}
+    <li>{{ pub }}</li>
+    {% endfor %}
+</ol>
+
+<h3>Domestic Conferences</h3>
+<ol>
+    {% for pub in pub_dom_conferences %}
+    <li>{{ pub }}</li>
+    {% endfor %}
+</ol>
+{% endblock %}

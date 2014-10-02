@@ -1,0 +1,10 @@
+{% extends "layout.html" %}
+
+{% block contents %}
+
+{% for qna in admission['admission_qna'] %}
+<h3>{{ qna['question'] }}</h3>
+<p>{{ qna['answer'] }}</p>
+{% endfor %}
+
+{% endblock %}

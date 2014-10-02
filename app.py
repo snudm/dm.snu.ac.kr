@@ -4,7 +4,7 @@
 from flask import Flask, redirect, render_template, url_for
 
 from settings import MENUS, SERVER
-from utils import read_csv_data, read_txt_data
+from utils import read_csv_data, read_json_data, read_txt_data
 
 app = Flask(__name__)
 app.debug = SERVER['debug']
@@ -20,28 +20,25 @@ def contact():
 @app.route('/courses')
 def courses():
     return render_template('courses.html', menus=MENUS,
-           courses_under=read_csv_data('courses_under.csv'),
-           courses_grad=read_csv_data('courses_grad.csv'))
+           courses=read_json_data('courses.json'))
 
 @app.route('/datamining')
 def datamining():
     return render_template('datamining.html',\
-    		menus=MENUS, 
-    		contents=read_csv_data('datamining.csv'))
+           menus=MENUS,
+           datamining=read_json_data('datamining.json'))
 
 @app.route('/admission')
 def admission():
     return render_template('admission.html',\
            menus=MENUS,
-           admission=read_csv_data('admission.csv'))
+           admission=read_json_data('admission.json'))
 
 @app.route('/members')
 def members():
     return render_template('members.html',\
            menus=MENUS,
-           members=read_csv_data('members.csv'),
-           alumni_ms=read_csv_data('alumni_ms.csv'),
-           alumni_phd=read_csv_data('alumni_ms.csv'))
+           members=read_json_data('members.json'))
 
 @app.route('/projects')
 def projects():
