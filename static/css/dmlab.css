@@ -6,20 +6,19 @@ footer {
 }
 
 .member {
-    padding: 30px;
+    padding-top: 30px;
 }
 
 .member:hover {
     background-color: #eee;
 }
 
-.member table td:first-child {
-    width: 20%;
+.member h4 {
+    font-weight: bold;
 }
 
-.member-photo {
-    height: 200px;
-    width: 150px;
+.member table td:first-child {
+    width: 20%;
 }
 
 .navbar {
@@ -35,15 +34,18 @@ footer {
     text-decoration: underline;
 }
 
-.width-50 {
-    width: 50%;
-    margin: 0;
-}
-
 .width-49 {
     width: 49%;
 }
 
 .width-100 {
     width: 100%;
+}
+
+#zoon {
+    text-align: center;
+}
+
+#zoon .glyphicon {
+    padding: 0 5px 10px;
 }
