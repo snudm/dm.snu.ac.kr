@@ -3,16 +3,28 @@
 {% block contents %}
 <h3>Members</h3>
 {% for member in members %}
-<img class="member-photo" src="{{ url_for('static', filename='images/members/%s.jpg' % member['image']) }}">
-<table class="table">
-    {% for key, value in member.items() %}
-        {% if key!='image' %}
-        <tr>
-            <td>{{ key }}</td><td>{{ value }}</td>
-        </tr>
-        {% endif %}
-    {% endfor %}
-</table>
+<div id="{{ member['image'] }}" class="member row">
+    <div class="col-md-2">
+        <img class="member-photo" src="{{ url_for('static', filename='images/members/%s.jpg' % member['image']) }}">
+    </div>
+    <div class="col-md-10">
+        <h4><b>{{ member['name'] }}</b></h4>
+        <table class="table">
+            {% for key, value in member.items() %}
+                {% if key not in ['image', 'name'] %}
+                <tr>
+                    <td>{{ key }}</td>
+                    <td>
+                        {% if key=='homepage' and value!='N/A'%}<a href="{{ value }}">{% endif %}
+                        {{ value }}
+                        {% if key=='homepage' and value!='N/A' %}</a>{% endif %}
+                    </td>
+                </tr>
+                {% endif %}
+            {% endfor %}
+        </table>
+    </div>
+</div>
 {% endfor %}
 
 <h3>Alumni Ph.D.</h3>

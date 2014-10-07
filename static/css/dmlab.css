@@ -5,6 +5,18 @@ footer {
     text-align: center;
 }
 
+.member {
+    padding: 30px;
+}
+
+.member:hover {
+    background-color: #eee;
+}
+
+.member table td:first-child {
+    width: 20%;
+}
+
 .member-photo {
     height: 200px;
     width: 150px;
