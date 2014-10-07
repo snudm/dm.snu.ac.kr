@@ -63,14 +63,14 @@ table.alumni td:nth-child(2) {
     text-transform: capitalize;
 }
 
+.navbar #title,
+.navbar li a {
+    line-height: 50px;
+}
+
 .navbar li.active {
-    border-top: 3px solid #d0402f;
+    border-bottom: 3px solid whitesmoke;
 }
-
-.navbar li.active a {
-    margin-top: -3px;
-}
-
 
 .navbar .navbar-toggle {
     border-color: #eee;
