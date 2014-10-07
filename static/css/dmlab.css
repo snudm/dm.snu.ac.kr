@@ -10,12 +10,23 @@ table.alumni td:nth-child(2) {
     width: 10%;
 }
 
-.member {
-    padding-top: 20px;
+.border {
+    border: 3px solid #eee;
+    border-radius: 5px 5px 5px 5px;
+    -moz-border-radius: 10px 10px 10px 10px;
+    -webkit-border-radius: 10px 10px 10px 10px;
 }
 
-.member:hover {
+.hover:hover {
     background-color: #f5f5f5;
+}
+
+.inline {
+    display: inline-block;
+}
+
+.member {
+    padding-top: 20px;
 }
 
 .member h3 {
@@ -43,6 +54,30 @@ table.alumni td:nth-child(2) {
 .navbar-brand:hover {
     color: white;
     text-decoration: underline;
+}
+
+.project {
+    display: inline-block;
+    margin: 3px 1px;
+    min-width: 210px;
+    padding: 5px 10px;
+    width: 23%;
+}
+
+.project:hover {
+    border: 3px solid #ddd;
+    border-radius: 5px 5px 5px 5px;
+    -moz-border-radius: 10px 10px 10px 10px;
+    -webkit-border-radius: 10px 10px 10px 10px;
+}
+
+.project img {
+    max-width: 150px;
+    width: 100%;
+}
+
+.project li {
+    list-style-type: none;
 }
 
 .width-49 {

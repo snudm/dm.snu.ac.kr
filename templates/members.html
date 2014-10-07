@@ -2,7 +2,7 @@
 
 {% block contents %}
 <h2>Director</h2>
-<div class="member row">
+<div class="member hover row">
     <div id="zoon" class="col-md-2">
         <img class="width-100 thumbnail" src="{{ url_for('static', filename='images/members/zoon.jpg') }}">
         <h3>조 성 준 교수</h3>
@@ -29,7 +29,7 @@
 </div>
 <h2>Researchers</h2>
 {% for member in members %}
-<div id="{{ member['image'] }}" class="member row">
+<div id="{{ member['image'] }}" class="member hover row">
     <div class="col-md-2">
         <img class="width-100 thumbnail" src="{{ url_for('static', filename='images/members/%s.jpg' % member['image']) }}">
     </div>

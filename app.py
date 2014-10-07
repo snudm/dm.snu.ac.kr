@@ -50,7 +50,8 @@ def projects():
 @app.route('/projects/topics')
 def topics():
     return render_template('topics.html',\
-           menus=MENUS)
+           menus=MENUS,
+           topics=read_json_data('topics.json'))
 
 @app.route('/projects/faq')
 def faq():

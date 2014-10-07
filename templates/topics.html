@@ -1,6 +1,18 @@
 {% extends "layout.html" %}
 
 {% block contents %}
-<h2 id="topics">Topics</h2>
-<img src="{{ url_for('static', filename='images/research_topics.png')}}" class="width-100">
+<h2>Project Topics</h2>
+{% for topic in topics %}
+<div>
+    <h3>{{ topic['title_ko'] }}</h3>
+    <ul>
+    {% for project in topic['projects'] %}
+        <li class="project border">
+            <img src="{{ url_for('static', filename='images/projects/%s.png' % project['id']) }}">
+            <p>{{ project['description_ko'] }}</p>
+        </li>
+    {% endfor %}
+    </ul>
+</div>
+{% endfor %}
 {% endblock %}
