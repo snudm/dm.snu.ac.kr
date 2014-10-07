@@ -7,10 +7,10 @@ import os
 from settings import APP_STATIC
 
 
-def read_csv_data(filename):
+def read_csv_data(filename, sep=','):
     filepath = os.path.join(APP_STATIC, 'data', filename)
     with open(filepath, 'r') as f:
-        return [row.decode('utf-8').split(',')\
+        return [row.decode('utf-8').split(sep)\
             for row in f.read().splitlines()]
 
 def read_json_data(filename):

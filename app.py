@@ -38,7 +38,9 @@ def admission():
 def members():
     return render_template('members.html',\
            menus=MENUS,
-           members=read_json_data('members.json'))
+           members=read_json_data('members.json'),
+           alumni_phd=read_csv_data('alumni_phd.csv'),
+           alumni_ms=read_csv_data('alumni_ms.tsv', sep='\t'))
 
 @app.route('/projects')
 def projects():
