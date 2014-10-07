@@ -1,11 +1,11 @@
 {% extends "layout.html" %}
 
 {% block contents %}
-<h3>Director</h3>
+<h2>Director</h2>
 <div class="member row">
     <div id="zoon" class="col-md-2">
         <img class="width-100 thumbnail" src="{{ url_for('static', filename='images/members/zoon.jpg') }}">
-        <h4>조 성 준 교수</h4>
+        <h3>조 성 준 교수</h3>
         <p>(趙成埈, Sungzoon Cho)</p>
         <a href="{{ url_for('member', name='zoon') }}"><span class="glyphicon glyphicon-home"></span></a>
         <a href="mailto:zoon@snu.ac.kr"><span class="glyphicon glyphicon-envelope"></span></a>
@@ -27,14 +27,14 @@
         </p>
     </div>
 </div>
-<h3>Researchers</h3>
+<h2>Researchers</h2>
 {% for member in members %}
 <div id="{{ member['image'] }}" class="member row">
     <div class="col-md-2">
         <img class="width-100 thumbnail" src="{{ url_for('static', filename='images/members/%s.jpg' % member['image']) }}">
     </div>
     <div class="col-md-10">
-        <h4>{{ member['name'] }}</h4>
+        <h3>{{ member['name'] }}</h3>
         <table class="table table-condensed">
             {% for key, value in member.items() %}
                 {% if key not in ['image', 'name'] %}
@@ -53,8 +53,8 @@
 </div>
 {% endfor %}
 
-<h3>Alumni</h3>
-<h4>Ph.D.</h4>
+<h2>Alumni</h2>
+<h3>Ph.D.</h3>
 <table class="alumni table table-hover">
 {% for member in alumni_phd %}
 <tr>
@@ -65,7 +65,7 @@
 {% endfor %}
 </table>
 
-<h4>M.S.</h4>
+<h3>M.S.</h3>
 <table class="alumni table table-hover">
 {% for member in alumni_ms %}
 <tr>

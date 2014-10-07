@@ -43,19 +43,29 @@ def members():
            alumni_phd=read_csv_data('alumni_phd.csv'),
            alumni_ms=read_csv_data('alumni_ms.tsv', sep='\t'))
 
-@app.route('/projects')
+@app.route('/projects/')
 def projects():
     return redirect(url_for('faq'))
+
+@app.route('/projects/topics')
+def topics():
+    return render_template('topics.html',\
+           menus=MENUS)
 
 @app.route('/projects/faq')
 def faq():
     return render_template('faq.html',\
            menus=MENUS,
-           faq=read_csv_data('faq.csv'))
+           faq=read_json_data('faq.json'))
 
-@app.route('/research')
+@app.route('/research/')
 def research():
     return redirect(url_for('publications'))
+
+@app.route('/research/methods')
+def methods():
+    return render_template('methods.html',\
+           menus=MENUS)
 
 @app.route('/research/publications')
 def publications():
@@ -70,7 +80,7 @@ def publications():
 def software():
     return render_template('software.html',\
            menus=MENUS,
-           software=read_csv_data('software.csv'))
+           software=read_json_data('software.json'))
 
 @app.route('/~<name>')
 def member(name):

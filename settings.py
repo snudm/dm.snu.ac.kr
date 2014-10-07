@@ -2,7 +2,11 @@ import os
 
 MENUS = [
     'members',
+    ('research', ['methods', 'publications']),
+    ('projects', ['topics', 'FAQ']),
     'courses',
+    'software',
+    'contact',
     ('FAQ', ['datamining', 'admission'])
 ]
 
