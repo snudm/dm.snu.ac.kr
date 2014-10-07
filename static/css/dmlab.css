@@ -64,7 +64,7 @@ table.alumni td:nth-child(2) {
 }
 
 .navbar #title,
-.navbar li a {
+.navbar-nav > li > a {
     line-height: 50px;
 }
 
