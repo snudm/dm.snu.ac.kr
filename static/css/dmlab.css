@@ -7,7 +7,12 @@ footer {
 
 h2 {
     border-bottom: 1px solid #eee;
+    font-family: 'Play', sans-serif;
     font-weight: bold;
+}
+
+h3 {
+    font-family: 'Play', sans-serif;
 }
 
 table.alumni td:first-child,
@@ -51,11 +56,21 @@ table.alumni td:nth-child(2) {
 
 .navbar {
     background-color: #005596;
+    min-height: 80px;
 }
 
 .navbar a {
     text-transform: capitalize;
 }
+
+.navbar li.active {
+    border-top: 3px solid #d0402f;
+}
+
+.navbar li.active a {
+    margin-top: -3px;
+}
+
 
 .navbar .navbar-toggle {
     border-color: #eee;
@@ -66,11 +81,23 @@ table.alumni td:nth-child(2) {
 
 .navbar-brand {
     color: white;
+    height: 80px;
 }
 
 .navbar-brand:hover {
     color: white;
     text-decoration: underline;
+}
+
+.navbar-brand #title {
+    font-family: 'Play', sans-serif;
+    font-size: 30px;
+    margin-left: 10px;
+    vertical-align: top;
+}
+
+.navbar-header {
+    height: 80px;
 }
 
 .project {
@@ -111,6 +138,10 @@ table.alumni td:nth-child(2) {
 
 .width-100 {
     width: 100%;
+}
+
+#logo svg {
+    margin-top: -5px;
 }
 
 #zoon {

@@ -1,4 +1,4 @@
-{% set active_page = request.path.split('/')[-1] %}
+{% set active_page = request.path.split('/')[1] %}
 
 <nav class="navbar" role="navigation">
   <div class="container container-fluid">
@@ -10,7 +10,7 @@
         <span class="icon-bar"></span>
         <span class="icon-bar"></span>
       </button>
-      <a class="navbar-brand" href="{{ url_for('home') }}">SNU Data Mining Center</a>
+      <a class="navbar-brand" href="{{ url_for('home') }}"><span id="logo"></span><span id="title">SNU Data Mining Center</span></a>
     </div>
 
     <!-- Collect the nav links, forms, and other content for toggling -->
@@ -18,9 +18,9 @@
       <ul class="nav navbar-nav">
         {% for menu in menus %}
             {% if isinstance(menu, str) %}
-            <li><a href="{{ url_for(menu.lower()) }}">{{ menu }}</a></li>
+            <li{% if active_page==menu %} class="active"{% endif %}><a href="{{ url_for(menu.lower()) }}">{{ menu }}</a></li>
             {% else %}
-            <li class="dropdown">
+            <li class="{% if active_page==menu[0] %}active {% endif %}dropdown">
                 <a href="#" class="dropdown-toggle" data-toggle="dropdown">{{ menu[0] }}<span class="caret"></span></a>
                 <ul class="dropdown-menu" role="menu">
                     {% for submenu in menu[1] %}
