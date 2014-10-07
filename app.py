@@ -23,13 +23,17 @@ def courses():
     return render_template('courses.html', menus=MENUS,
            courses=read_json_data('courses.json'))
 
-@app.route('/datamining')
+@app.route('/faq/')
+def dummy_faq():
+    return redirect(url_for('datamining'))
+
+@app.route('/faq/datamining')
 def datamining():
     return render_template('datamining.html',\
            menus=MENUS,
            datamining=read_json_data('datamining.json'))
 
-@app.route('/admission')
+@app.route('/faq/admission')
 def admission():
     return render_template('admission.html',\
            menus=MENUS,
