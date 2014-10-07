@@ -31,6 +31,10 @@ table.alumni td:nth-child(2) {
     background-color: #005596;
 }
 
+.navbar a {
+    text-transform: capitalize;
+}
+
 .navbar-brand {
     color: white;
 }
