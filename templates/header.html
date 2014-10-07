@@ -17,7 +17,18 @@
     <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
       <ul class="nav navbar-nav">
         {% for menu in menus %}
-        <li><a href="{{ url_for(menu) }}">{{ menu }}</a></li>
+            {% if isinstance(menu, str) %}
+            <li><a href="{{ url_for(menu) }}">{{ menu }}</a></li>
+            {% else %}
+            <li class="dropdown">
+                <a href="#" class="dropdown-toggle" data-toggle="dropdown">{{ menu[0] }}<span class="caret"></span></a>
+                <ul class="dropdown-menu" role="menu">
+                    {% for submenu in menu[1] %}
+                    <li><a href="{{ url_for(submenu) }}">{{ submenu }}</a></li>
+                    {% endfor %}
+                </ul>
+            </li>
+            {% endif %}
         {% endfor %}
       </ul>
     </div><!-- /.navbar-collapse -->

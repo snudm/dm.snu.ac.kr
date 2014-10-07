@@ -8,6 +8,7 @@ from utils import read_csv_data, read_json_data, read_txt_data
 
 app = Flask(__name__)
 app.debug = SERVER['debug']
+app.jinja_env.globals.update(isinstance=isinstance, str=str)
 
 @app.route('/')
 def home():
