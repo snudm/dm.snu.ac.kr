@@ -5,6 +5,11 @@ footer {
     text-align: center;
 }
 
+h2 {
+    border-bottom: 1px solid #eee;
+    font-weight: bold;
+}
+
 table.alumni td:first-child,
 table.alumni td:nth-child(2) {
     width: 10%;
@@ -34,6 +39,11 @@ table.alumni td:nth-child(2) {
     font-weight: bold;
 }
 
+.member img {
+    margin: 0 auto;
+    max-width: 200px;
+}
+
 .member table td:first-child {
     text-transform: capitalize;
     width: 20%;
@@ -45,6 +55,13 @@ table.alumni td:nth-child(2) {
 
 .navbar a {
     text-transform: capitalize;
+}
+
+.navbar .navbar-toggle {
+    border-color: #eee;
+}
+.navbar .navbar-toggle .icon-bar {
+    background-color: #eee;
 }
 
 .navbar-brand {
@@ -78,6 +95,14 @@ table.alumni td:nth-child(2) {
 
 .project li {
     list-style-type: none;
+}
+
+.width-10 {
+    width: 10%;
+}
+
+.width-25 {
+    width: 25%;
 }
 
 .width-49 {

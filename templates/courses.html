@@ -7,8 +7,8 @@
 <table class="table">
 {% for course in courses['undergrad'] %}
 <tr>
-    <td>{{ course['id'] }}</td>
-    <td><a href="{{ course['url'] }}">{{ course['name'] }}</a></td>
+    <td class="width-10">{{ course['id'] }}</td>
+    <td class="width-25"><a href="{{ course['url'] }}">{{ course['name'] }}</a></td>
     <td>{{ course['description'] }}</td>
 </tr>
 {% endfor %}
@@ -18,12 +18,23 @@
 <table class="table">
 {% for course in courses['grad'] %}
 <tr>
-    <td>{{ course['id'] }}</td>
-    <td><a href="{{ course['url'] }}">{{ course['name'] }}</a></td>
+    <td class="width-10">{{ course['id'] }}</td>
+    <td class="width-25"><a href="{{ course['url'] }}">{{ course['name'] }}</a></td>
     <td>{{ course['description'] }}</td>
 </tr>
 {% endfor %}
 </table>
 
+<h3>Archive</h3>
+<table class="table">
+{% for course in courses['archive'] %}
+<tr>
+    <td>{{ course['id'] }}</td>
+    <td>{{ course['semester'] }}</td>
+    <td><a href="{{ course['url'] }}">{{ course['name'] }}</a></td>
+    <td>{{ course['target'] }}</td>
+</tr>
+{% endfor %}
+</table>
 
 {% endblock %}
