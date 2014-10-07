@@ -3,7 +3,7 @@
 
 from flask import Flask, redirect, render_template, url_for
 
-from settings import MENUS, SERVER
+from settings import APP_URL, MENUS, SERVER
 from utils import read_csv_data, read_json_data, read_txt_data
 
 app = Flask(__name__)
@@ -68,6 +68,10 @@ def software():
     return render_template('software.html',\
            menus=MENUS,
            software=read_csv_data('software.csv'))
+
+@app.route('/~<name>')
+def member(name):
+    return redirect('%s/~%s' % (APP_URL, name))
 
 if __name__=='__main__':
     app.run(SERVER['host'], SERVER['port'])
