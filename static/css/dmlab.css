@@ -1,8 +1,14 @@
 footer {
     background-color: #eee;
+    color: #777;
     margin-top: 50px;
     padding: 20px;
     text-align: center;
+}
+
+footer p {
+    font-size: 12px;
+    margin-bottom: 3px;
 }
 
 h2 {
