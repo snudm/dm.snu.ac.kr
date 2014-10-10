@@ -4,22 +4,36 @@
 <h2>Publications</h2>
 
 <h3>International Journals</h3>
-<ol>
+<ol reversed>
     {% for pub in pub_int_journals %}
     <li>{{ pub }}</li>
     {% endfor %}
 </ol>
 
 <h3>International Conferences</h3>
-<ol>
+<ol reversed>
     {% for pub in pub_int_conferences %}
     <li>{{ pub }}</li>
     {% endfor %}
 </ol>
 
+<h3>Domestic Journals</h3>
+<ol reversed>
+    {% for pub in pub_dom_journals %}
+    <li>{{ pub }}</li>
+    {% endfor %}
+</ol>
+
 <h3>Domestic Conferences</h3>
-<ol>
+<ol reversed>
     {% for pub in pub_dom_conferences %}
+    <li>{{ pub }}</li>
+    {% endfor %}
+</ol>
+
+<h3>Patent</h3>
+<ol>
+    {% for pub in pub_patent %}
     <li>{{ pub }}</li>
     {% endfor %}
 </ol>

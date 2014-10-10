@@ -3,7 +3,7 @@
 {% block contents %}
 <h2>Data Mining FAQ</h2>
 {% for content in datamining['datamining'] %}
-<h3>{{ content['question'] }}</h3>
-<p>{{ content['answer'] }}</p>
+<h3 class="question"><li>{{ content['question'] }}</li></h3>
+<p class="answer">{{ content['answer'] }}</p>
 {% endfor %}
 {% endblock %}

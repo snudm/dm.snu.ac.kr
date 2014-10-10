@@ -79,7 +79,8 @@ def publications():
            pub_dom_conferences=read_txt_data('pub_dom_conferences.txt'),
            pub_dom_journals=read_txt_data('pub_dom_journals.txt'),
            pub_int_conferences=read_txt_data('pub_int_conferences.txt'),
-           pub_int_journals=read_txt_data('pub_int_journals.txt'))
+           pub_int_journals=read_txt_data('pub_int_journals.txt'),
+           pub_patent =read_txt_data('pub_patent.txt'))
 
 @app.route('/software')
 def software():

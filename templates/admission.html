@@ -3,7 +3,7 @@
 {% block contents %}
 <h2>Admission FAQ</h2>
 {% for qna in admission['admission_qna'] %}
-<h3>{{ qna['question'] }}</h3>
-<p>{{ qna['answer'] }}</p>
+<h3 class="question"><li>{{ qna['question'] }}</li></h3>
+<p class="answer">{{ qna['answer'] }}</p>
 {% endfor %}
 {% endblock %}

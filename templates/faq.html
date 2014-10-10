@@ -1,11 +1,10 @@
 {% extends "layout.html" %}
 
 {% block contents %}
-
-<h3>FAQ<h3>
-{% for faq in projects_faq %}
-    <h3>{{ faq['question'] }}</h3>
-    <p>{{ faq['answer'] }}</p>
+<h2>FAQ</h2>
+{% for faq in faq %}
+    <h3 class="question"><li>{{ faq['question'] }}</li></h3>
+    <p class="answer">{{ faq['answer'] }}</p>
 {% endfor %}
 
 {% endblock %}
