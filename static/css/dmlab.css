@@ -1,3 +1,7 @@
+body {
+    font-family: 'Malgun Gothic', sans-serif;
+}
+
 footer {
     background-color: #eee;
     color: #777;
@@ -18,7 +22,8 @@ h2 {
 }
 
 h3 {
-    font-family: 'Play', sans-serif;
+    font-family: 'Play', 'Malgun Gothic', sans-serif;
+    font-weight: bold;
 }
 
 table.alumni td:first-child,
@@ -26,11 +31,19 @@ table.alumni td:nth-child(2) {
     width: 10%;
 }
 
+.answer {
+    margin-left: 15px;
+}
+
 .border {
     border: 3px solid #eee;
     border-radius: 5px 5px 5px 5px;
     -moz-border-radius: 10px 10px 10px 10px;
     -webkit-border-radius: 10px 10px 10px 10px;
+}
+
+.contact table tr:first-child {
+    border: 0px;
 }
 
 .hover:hover {
@@ -72,6 +85,15 @@ table.alumni td:nth-child(2) {
 .navbar #title,
 .navbar-nav > li > a {
     line-height: 50px;
+    color: #f5f5f5;
+}
+
+.navbar-nav > li > a:hover {
+    background-color: #2277b8;
+}
+
+.navbar .nav > li.dropdown.open > .dropdown-toggle {
+    background-color: #2277b8;
 }
 
 .navbar li.active {
@@ -81,6 +103,7 @@ table.alumni td:nth-child(2) {
 .navbar .navbar-toggle {
     border-color: #eee;
 }
+
 .navbar .navbar-toggle .icon-bar {
     background-color: #eee;
 }
@@ -108,8 +131,10 @@ table.alumni td:nth-child(2) {
 
 .project {
     display: inline-block;
+    vertical-align: bottom;
     margin: 3px 1px;
     min-width: 210px;
+    min-height: 175px;
     padding: 5px 10px;
     width: 23%;
 }
@@ -128,6 +153,10 @@ table.alumni td:nth-child(2) {
 
 .project li {
     list-style-type: none;
+}
+
+.question {
+    font-size: 16px;
 }
 
 .width-10 {
