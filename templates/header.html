@@ -11,7 +11,7 @@
       </button>
     </div>
     <div class="navbar-header">
-      <a class="navbar-brand" href="{{ url_for('home', lang_code='ko') }}"><span id="logo"></span><span id="title">SNU Data Mining Center</span></a>
+      <a class="navbar-brand" href="{{ url_for('home', lang_code=locale) }}"><span id="logo"></span><span id="title">SNU Data Mining Center</span></a>
     </div>
 
     <!-- Collect the nav links, forms, and other content for toggling -->
@@ -19,13 +19,13 @@
       <ul class="nav navbar-nav">
         {% for menu in menus %}
             {% if isinstance(menu, str) %}
-            <li{% if active_page==menu %} class="active"{% endif %}><a href="{{ url_for(menu.lower(), lang_code='ko') }}">{{ menu }}</a></li>
+            <li{% if active_page==menu %} class="active"{% endif %}><a href="{{ url_for(menu.lower(), lang_code=locale) }}">{{ menu }}</a></li>
             {% else %}
             <li class="{% if active_page==menu[0] %}active {% endif %}dropdown">
                 <a href="#" class="dropdown-toggle" data-toggle="dropdown">{{ menu[0] }}<span class="caret"></span></a>
                 <ul class="dropdown-menu" role="menu">
                     {% for submenu in menu[1] %}
-                    <li><a href="{{ url_for(submenu.lower(), lang_code='ko') }}">{{ submenu }}</a></li>
+                    <li><a href="{{ url_for(submenu.lower(), lang_code=locale) }}">{{ submenu }}</a></li>
                     {% endfor %}
                 </ul>
             </li>

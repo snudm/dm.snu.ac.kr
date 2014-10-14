@@ -9,7 +9,7 @@
 <tr>
     <td class="width-10">{{ course['id'] }}</td>
     <td class="width-25"><a href="{{ course['url'] }}">{{ course['name'] }}</a></td>
-    <td>{{ course['description'] }}</td>
+    <td>{{ course['description_%s' % locale] }}</td>
 </tr>
 {% endfor %}
 </table>
@@ -20,7 +20,7 @@
 <tr>
     <td class="width-10">{{ course['id'] }}</td>
     <td class="width-25"><a href="{{ course['url'] }}">{{ course['name'] }}</a></td>
-    <td>{{ course['description'] }}</td>
+    <td>{{ course['description_%s' % locale] }}</td>
 </tr>
 {% endfor %}
 </table>
