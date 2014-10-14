@@ -4,7 +4,7 @@
 from flask import Flask, g, redirect, render_template, request, url_for
 from flask.ext.babel import Babel, get_locale
 
-from settings import APP_URL, BABEL, MENUS, SERVER
+from settings import APP_URL, BABEL, CONTACT, MENUS, SERVER
 from utils import read_csv_data, read_json_data, read_txt_data
 
 
@@ -110,7 +110,7 @@ def member(name):
 
 @app.context_processor
 def inject_vars():
-    return dict(menus=MENUS, locale=get_locale())
+    return dict(menus=MENUS, locale=get_locale(), contact=CONTACT)
 
 
 if __name__=='__main__':

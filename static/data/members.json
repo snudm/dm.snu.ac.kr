@@ -4,7 +4,6 @@
      "name": "박 성 훈 (Sunghoon Park)",
      "status": "Ph.D Candidate", 
      "email": "shpark82@snu.ac.kr",
-     "homepage": "N/A",
      "researcharea": "Incremental Learning, Time Series Analysis, Financial Engineering",
      "B.S.": "Dept. of Computer Science, KAIST, 2005K",
      "highschool": "Seoul Science, 2000"
@@ -14,7 +13,6 @@
      "name": "선 미 선 (Meesun Sun)",
      "status": "Ph.D Candidate",
      "email": "misunny@kida.re.kr",
-     "homepage": "N/A",
      "jobs": "Korea Institute for Defense Analyses, 2004-present",
      "M.S.": "Dept. of Industrial Engineering, POSTECH, 2004",
      "B.S.": "Dept. of Industrial Engineering, Pusan Nat'l Univ., 2002",
@@ -25,7 +23,6 @@
     "name": "고 태 훈 (Taehoon Ko)",
     "status": "Ph.D Candidate",
     "email": "hooni915@snu.ac.kr",
-    "homepage": "N/A",
     "researcharea": "Clustering, Time Series Analysis",
     "B.S.": "Dept. of Industrial Engineering, Seoul Nat'l Univ., 2008",
     "highschool": "Gwacheon, 2004"      
@@ -56,7 +53,6 @@
     "name": "박 주 성 (Jooseoung Park)",
     "status": "Ph.D Candidate",
     "email": "uni208@snu.ac.kr",
-    "homepage": "N/A",
     "M.S.": "Dept. of Industrial Engineering, Seoul Nat'l Univ., 2011",
     "B.S.": "Dept. of Industrial Engineering, KAIST, 2009",
     "highschool": "Seoul Science, 2004" 
@@ -66,7 +62,6 @@
     "name": "양 지 원 (Jiwon Yang)",
     "status": "Ph.D Candidate",
     "email": "ad1392@gmail.com",
-    "homepage": "N/A",
     "B.S.": "Dept. of Industrial Engineering, and Dept. of Computer Science and Engineering, Seoul Nat'l Univ., 2010",
     "highschool": "Sangdong, 2005"      
     },
@@ -75,7 +70,6 @@
     "name": "김 연 국 (Yeonkook Kim)",
     "status": "Ph.D Candidate",
     "email": "yjk15@snu.ac.kr",
-    "homepage": "N/A",
     "job": "D&Si, 2010-",
     "M.S.": "Dept. of Industrial Engineering and Operations Research, Columbia Univ., 2000",
     "B.S.": "Dept. of Economics, Univ. of Toronto",
@@ -96,7 +90,6 @@
     "name": "김 현 중 (Hyunjoong Kim)",
     "status": "Ph.D Student",
     "email": "web2005@snu.ac.kr",
-    "homepage": "N/A",
     "researcharea": "Natural Language Processing, Instance-based Learning, Graph Mining",
     "M.S.": "Dept. of Industrial Engineering, Seoul Nat'l Univ., 2013",
     "B.S.": "Dept. of Industrial Engineering, Seoul Nat'l Univ., 2011",
@@ -107,7 +100,6 @@
     "name": "이 제 혁 (Jehyuk Lee)",
     "status": "Ph.D Student",
     "email": "wpgur0107@naver.com",
-    "homepage": "N/A",
     "M.S.": "Dept. of Industrial & Systems Engineering, KAIST, 2014",
     "B.S.": "Dept. of Industrial & Systems Engineering, and Dept. of Management Science, KAIST, 2012",
     "highschool": "Jeju Science, 2007"  
@@ -117,7 +109,6 @@
     "name": "김 은 지 (Eunji Kim)",
     "status": "Ph.D Student",
     "email": "ejejejk@gmail.com",
-    "homepage": "N/A",
     "job": "Kyobo Life Insurance, 2011-2013",
     "B.S.": "Dept. of Mathematical Sciences, Seoul Nat'l Univ., 2012",
     "highschool": "Baekseok, 2006"      
@@ -127,7 +118,6 @@
     "name": "조 현 창 (Hyunchang Cho)",
     "status": "Ph.D Student",
     "email": "eva0071@gmail.com",
-    "homepage": "N/A",
     "B.S.": "Dept. of Computer Science and Engineering, Seoul Nat'l Univ., 2014",
     "highschool": "Banpo, 2007" 
     },
@@ -136,7 +126,6 @@
     "name": "심 재 웅 (Jaewoong Shim)",
     "status": "Ph.D Student",
     "email": "sjw821@snu.ac.kr",
-    "homepage": "N/A",
     "B.S.": "Dept. of Industrial Engineering, Seoul Nat'l Univ., 2014",
     "highschool": "Dukwon, 2008"        
     },
@@ -145,7 +134,6 @@
     "name": "안 진 원 (Jinwon An)",
     "status": "Ph.D Student",
     "email": "roah@snu.ac.kr",
-    "homeapage": "N/A",
     "B.S.": "Dept. of Industrial Engineering, Seoul Nat'l Univ., 2014",
     "highschool": "Hanil, 2009" 
     },
@@ -154,7 +142,6 @@
     "name": "한 송 원 (Songwon Han)",
     "status": "Master Student",
     "email": "yakantoss@snu.ac.kr",
-    "homepage": "N/A",
     "B.S.": "Dept. of Industrial Engineering, Seoul Nat'l Univ., 2013",
     "highschool": "Jamsil, 2008"        
     },
@@ -163,7 +150,6 @@
     "name": "김 홍 태 (Hongtae Kim)",
     "status": "Master Student",
     "email": "kht0910@snu.ac.kr",
-    "homepage": "N/A",
     "B.S.": "Dept. of Industrial Engineering, Seoul Nat'l Univ., 2013",
     "highschool": "Incheon Science, 2007"       
     },
@@ -172,7 +158,6 @@
     "name": "김 한 결 (Han Kyul Kim)",
     "status": "Master Student",
     "email": "hank1111@gmail.com",
-    "homepage": "N/A",
     "B.S.": "Dept. of Industrial & Systems Engineering, and Dept. of Business and Technology Management, KAIST, 2014",
     "highschool": "Concordia International School Shanghai, 2007"       
     },
@@ -180,7 +165,6 @@
     "image": "mskim",
     "name": "김 미 숙 (Misuk Kim),Researcher",
     "email": "misuke88@naver.com",
-    "homepage": "N/A",
     "researcharea": "Optimization, Sentiment Analysis",
     "jobs": "Kookmin Bank, 2012-2014",
     "M.S.": "Dept. of Industrial & Management Engineering, POSTECH, 2012",

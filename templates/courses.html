@@ -8,7 +8,7 @@
 {% for course in courses['undergrad'] %}
 <tr>
     <td class="width-10">{{ course['id'] }}</td>
-    <td class="width-25"><a href="{{ course['url'] }}">{{ course['name'] }}</a></td>
+    <td class="width-25"><a href="{{ course['url'] }}">{{ course['name_%s' % locale] }}</a></td>
     <td>{{ course['description_%s' % locale] }}</td>
 </tr>
 {% endfor %}
@@ -19,7 +19,7 @@
 {% for course in courses['grad'] %}
 <tr>
     <td class="width-10">{{ course['id'] }}</td>
-    <td class="width-25"><a href="{{ course['url'] }}">{{ course['name'] }}</a></td>
+    <td class="width-25"><a href="{{ course['url'] }}">{{ course['name_%s' % locale] }}</a></td>
     <td>{{ course['description_%s' % locale] }}</td>
 </tr>
 {% endfor %}
@@ -31,7 +31,7 @@
 <tr>
     <td>{{ course['id'] }}</td>
     <td>{{ course['semester'] }}</td>
-    <td><a href="{{ course['url'] }}">{{ course['name'] }}</a></td>
+    <td><a href="{{ course['url'] }}">{{ course['name_%s' % locale] }}</a></td>
     <td>{{ course['target'] }}</td>
 </tr>
 {% endfor %}
