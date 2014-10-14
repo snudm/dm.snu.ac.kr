@@ -1,16 +1,17 @@
-{% set active_page = request.path.split('/')[1] %}
-
 <nav class="navbar" role="navigation">
   <div class="container container-fluid">
     <!-- Brand and toggle get grouped for better mobile display -->
-    <div class="navbar-header">
-      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
+    <div id=navbar-toggle" class="navbar-toggle">
+      <input id="locale-toggle" type="checkbox" {% if locale=='ko' %}checked {% endif %}data-toggle="toggle" data-on="ko" data-off="en" data-size="mini">
+      <button type="button" class="collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
         <span class="sr-only">Toggle navigation</span>
         <span class="icon-bar"></span>
         <span class="icon-bar"></span>
         <span class="icon-bar"></span>
       </button>
-      <a class="navbar-brand" href="{{ url_for('home') }}"><span id="logo"></span><span id="title">SNU Data Mining Center</span></a>
+    </div>
+    <div class="navbar-header">
+      <a class="navbar-brand" href="{{ url_for('home', lang_code='ko') }}"><span id="logo"></span><span id="title">SNU Data Mining Center</span></a>
     </div>
 
     <!-- Collect the nav links, forms, and other content for toggling -->
@@ -18,13 +19,13 @@
       <ul class="nav navbar-nav">
         {% for menu in menus %}
             {% if isinstance(menu, str) %}
-            <li{% if active_page==menu %} class="active"{% endif %}><a href="{{ url_for(menu.lower()) }}">{{ menu }}</a></li>
+            <li{% if active_page==menu %} class="active"{% endif %}><a href="{{ url_for(menu.lower(), lang_code='ko') }}">{{ menu }}</a></li>
             {% else %}
             <li class="{% if active_page==menu[0] %}active {% endif %}dropdown">
                 <a href="#" class="dropdown-toggle" data-toggle="dropdown">{{ menu[0] }}<span class="caret"></span></a>
                 <ul class="dropdown-menu" role="menu">
                     {% for submenu in menu[1] %}
-                    <li><a href="{{ url_for(submenu.lower()) }}">{{ submenu }}</a></li>
+                    <li><a href="{{ url_for(submenu.lower(), lang_code='ko') }}">{{ submenu }}</a></li>
                     {% endfor %}
                 </ul>
             </li>
@@ -34,3 +35,12 @@
     </div><!-- /.navbar-collapse -->
   </div><!-- /.container-fluid -->
 </nav>
+<script>
+$(function() {
+    var split_url = '{{ request.path.split('/', 2)[-1] }}';
+    var toggle_lang = $('#locale-toggle').prop('checked') ? 'en':'ko'
+    $('#locale-toggle').change(function() {
+        window.location.replace('/' + toggle_lang + '/' + split_url);
+    })
+})
+</script>

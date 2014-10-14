@@ -8,9 +8,18 @@
 
 ### Dependencies
 
-    pip install Flask
+    $ make install
+or
 
+    $ pip install Flask Flask-Babel
 
 ### Run
 
     python app.py
+
+
+### Update i18n
+
+    $ make extract_i18n
+    $ # update *.po files
+    $ make update_i18n

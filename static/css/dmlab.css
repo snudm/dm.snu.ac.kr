@@ -101,10 +101,18 @@ table.alumni td:nth-child(2) {
 }
 
 .navbar .navbar-toggle {
-    border-color: #eee;
+    display: inline;
 }
 
-.navbar .navbar-toggle .icon-bar {
+.navbar .navbar-toggle button {
+    border: 1px solid transparent;
+    border-color: #eee;
+    border-radius: 4px;
+    background-color: transparent;
+    padding: 7px 6px;
+}
+
+.navbar .navbar-toggle button .icon-bar {
     background-color: #eee;
 }
 
@@ -185,4 +193,42 @@ table.alumni td:nth-child(2) {
 
 #zoon .glyphicon {
     padding: 0 5px 10px;
+}
+
+@media(max-width:767px) {
+    .navbar li.active {
+        border-bottom: none;
+        text-decoration: underline;
+    }
+
+    .navbar .navbar-toggle {
+        margin-bottom: 0;
+    }
+
+    .navbar .navbar-toggle button {
+        margin-top: 5px;
+    }
+
+    .navbar .navbar-toggle div {
+        display: block;
+    }
+
+    .navbar #title, .navbar-nav > li > a {
+        line-height: inherit;
+    }
+    .navbar #title, .navbar-nav > li > a#title {
+        line-height: 50px;
+    }
+}
+
+@media(min-width:768px) {
+    .navbar .navbar-toggle button {
+        display: none;
+    }
+
+    .navbar .navbar-toggle {
+        position: relative;
+        right: 0;
+        top: 10px;
+    }
 }

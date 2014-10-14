@@ -1,5 +1,6 @@
 import os
 
+
 MENUS = [
     'members',
     ('research', ['methods', 'publications']),
@@ -9,6 +10,10 @@ MENUS = [
     'contact',
     ('FAQ', ['datamining', 'admission'])
 ]
+
+BABEL = {
+    'default_locale': 'ko',
+}
 
 SERVER = {
     'host': '0.0.0.0',
