@@ -1,0 +1,96 @@
+# English translations for PROJECT.
+# Copyright (C) 2014 ORGANIZATION
+# This file is distributed under the same license as the PROJECT project.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2014.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PROJECT VERSION\n"
+"Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
+"POT-Creation-Date: 2014-10-14 22:53+0900\n"
+"PO-Revision-Date: 2014-10-14 16:22+0900\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: en <LL@li.org>\n"
+"Plural-Forms: nplurals=2; plural=(n != 1)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 1.3\n"
+
+#: templates/contact.html:10
+msgid "주소"
+msgstr "Address"
+
+#: templates/contact.html:14
+msgid "전화번호"
+msgstr "Phone"
+
+#: templates/contact.html:18
+msgid "이메일"
+msgstr "Email"
+
+#: templates/contact.html:22
+msgid "오시는 길"
+msgstr "Directions"
+
+#: templates/contact.html:26
+msgid "서울대학교 정문 통과 후, 1.3 km 직진. 좌측에 Gate 5 로 들어온 후 주변에 주차."
+msgstr ""
+
+#: templates/contact.html:28
+msgid "우측 첫 번째 건물이 38 동이고 여길 지나서 두 번째 건물이 39동"
+msgstr ""
+
+#: templates/contact.html:31
+msgid "서울대학교 후문 통과 후, 400 미터 직진. T 자 삼거리에서 좌회전 후, 950 미터 직진."
+msgstr ""
+
+#: templates/contact.html:33
+msgid "삼거리에서 우회전하여 내리막 오른쪽으로 구부러진 길로 150 미터 직진."
+msgstr ""
+
+#: templates/contact.html:35
+msgid "버스 정거장 옆 우측에 있는 Gate 6 으로 들어온 후, 주변에 주차. 내리막길 아래 좌측에 보이는 건물이 39동"
+msgstr ""
+
+#: templates/software.html:7
+msgid "개발자"
+msgstr "Developer"
+
+#: templates/software.html:7
+msgid "박은정 연구원"
+msgstr "Eunjeong Park"
+
+#: templates/software.html:8
+msgid ""
+"파이썬은 간결한 아름다움을 추구하는 동시에 강력한 스트링 연산이 가능한 언어입니다. KoNLPy(“코엔엘파이”로 읽습니다)는 그러한"
+" 특장점을 살려, 파이썬으로 한국어 자연어처리를 할 수 있게 지원하는 패키지입니다. 꼬꼬마, 한나눔, MeCab 등 국내외에서 "
+"개발된 여러 형태소 분석기들을 모듈화하고, 자연어 처리에 필요한 각종 사전, 코퍼스, 도구 및 다양한 예제 등을 포함하여 누구나 "
+"손쉽게 한국어 분석을 할 수 있도록 만들었습니다. 이 프로젝트로 인해 한국어 자연어처리 커뮤니티가 더욱 성장하고, 연구와 개발이 "
+"활발해지기를 바랍니다."
+msgstr ""
+"Korean, the 13th most widely spoken language in the world, is a "
+"beautiful, yet complex language. Myriad Korean morpheme analyzer tools "
+"were built by numerous researchers, to computationally extract meaningful"
+" features from the labyrinthine text. KoNLPy is not just to create "
+"another, but to unify and build upon their shoulders, and see one step "
+"further. It is built particularly in the Python (programming) language, "
+"not only because of the language’s simplicity and elegance, but also the "
+"powerful string processing modules and applicability to various tasks - "
+"including crawling, Web programming, and data analysis."
+
+#: templates/software.html:12
+msgid "키스트로크기반 인증솔루션"
+msgstr "Keystroke based authentication software"
+
+#: templates/software.html:13
+msgid "소아청소년 주의집중력 훈련프로그램"
+msgstr ""
+
+#: templates/software.html:14
+msgid "소아청소년 정밀주의력 검사프로그램"
+msgstr ""
+
+#~ msgid "서울대학교 데이터마이닝센터"
+#~ msgstr ""
+
