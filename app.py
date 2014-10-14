@@ -35,7 +35,7 @@ def root():
 def home():
     return render_template('home.html')
 
-@app.route('/<lang_code>/contact/')
+@app.route('/<lang_code>/contact')
 def contact():
     return render_template('contact.html')
 

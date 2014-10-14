@@ -8,7 +8,7 @@
 <table class="table table-condensed contact">
     <tr>
         <td>{{ _('주소') }}</td>
-        <td>{{ contact['address_%s' % locale] }}</td>
+        <td>{{ contact['address_%s' % locale].decode('utf-8') }}</td>
     </tr>
     <tr>
         <td>{{ _('전화번호') }}</td>
