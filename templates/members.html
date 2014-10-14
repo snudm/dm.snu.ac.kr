@@ -16,32 +16,7 @@
         <a href="mailto:zoon@snu.ac.kr"><span class="glyphicon glyphicon-envelope"></span></a>
     </div>
     <div class="col-md-10">
-        {% if locale=='ko' %}
-        <p>현재 서울대학교 산업공학과 교수로 재직하고 있으며 <a href="http://www.igi-global.com/journal/international-journal-operations-research-information/1141">International Journal of Operations Research and Information Systems(IJORIS)</a> 및 <a href="http://www.inderscience.com/browse/index.php?journalCODE=ijcb">International Journal of Cognitive Biometrics</a> 편집위원을 맡고 있다.
-        <a href="http://www.kdms.or.kr/">한국BI데이터마이닝학회</a> 회장을 역임하였으며, <a href="http://www.gov30.go.kr/gov30/index.do">정부 3.0 추진위원회</a> 위원을 맡고 있다.
-        주 연구 분야는 데이터 선택, 앙상블, 분류예측 및 이상탐지 알고리즘 개발 및 제품개발, 공정분석, 마케팅, 인사, 파이낸스, 의료진단 및 생체보안과 같은 다양한 비즈니스 분야에서의 응용이다.
-        </p>
-        <p>
-        Pattern Recognition, Neural Computation, IEEE Transactions on Neural Networks, Artificial Intelligence in Medicine, Computer and Security, Journal of Interactive Marketing 등의 top journal에 150 여 편의 논문을 발표하였고, 다수의 특허와 상용 소프트웨어를 개발하였다.
-        삼성전자, 현대자동차, 포스코, 대우조선해양, 현대중공업, SK텔레콤, LG전자, 삼성카드, CJ제일제당 등과 관련 분야의 연구과제 및 자문을 수행하여왔다.
-        지금까지 60여명의 석박사를 배출하였으며, 현재 20여명의 석박사과정 학생들을 지도하고 있다.
-        </p>
-        <p>
-        <a href="http://ie.snu.ac.kr/">서울대 산업공학과</a> 학부와 석사과정에서 경영과학, 확률모델링, 통계학, 인간공학을 공부하였고 Dial-a-Ride 문제의 배차 최적화 알고리즘으로 석사학위를 받았다.
-        풀브라이트 장학생으로 선발되어 미국 시애틀 소재 <a href="http://cs.washington.edu/">워싱톤대학교 컴퓨터사이언스 학과</a>에서 이미지 프로세싱 연구로 석사학위를 받았고, 미국 칼리지파크 소재 <a href="http://cs.umd.edu/">메릴랜드대학교 컴퓨터사이언스 학과</a>에서는 기계학습, 회귀 신경회로망, 브레인 모델링, 학습기반 자동진단 연구로 박사학위를 받았다.
-        포스텍 컴퓨터공학과 조교수, 호주 University of New South Wales 의 Anthony Mason Fellow, 미국 워싱톤대학교 포스터 경영대학 방문교수를 역임하였다.
-        </p>
-        {% else %}
-        <p>
-        Prof. Sungzoon Cho is a professor at the Industrial Engineering Department of Seoul National University. He is serving as the Deputy Director of the SNU Big Data Center and Big Data advisor of the Ministry of Science, ICT, and Future Planning of the South Korean Government. He also sits on the editorial board the International Journal of Operations Research and Information Systems (IJORIS) and the International Journal of Cognitive Biometrics. In the past, he has served as the president of the Korea Data Mining Society. He teaches and does research in the area of data mining and machine learning.
-        </p>
-        <p>
-        Sungzoon has publications on data selection, anomaly detection, and response modeling for manufacturing, marketing, finance, new product development, HR, biometrics in journals such as Pattern Recognition, Neural Computation, IEEE Transactions on Neural Networks, Artificial Intelligence in Medicine, Computer and Security, Journal of Interactive Marketing, and Expert Systems with Applications. He registered several patents in the US and Korea and helped to develop a few commercial SW. He worked with major corporations in Korea such as Samsung Electronics, Hyundai Motors, LG Electronics, Daewoo Shipbuilding & Marine Engineering, Hyundai Heavy Industries, Samsung Card, and Doosan Corp. He advised more than 60 Ph D and Masters’ students, and currently advises 20 graduate students.
-        </p>
-        <p>
-        He received BS and MS in Industrial Engineering from Seoul National University. He went to the US with an aid of Fulbright scholarship and received MS in Computer Science from University of Washington in the area of Image Processing and Ph D in Computer Science from University of Maryland in the area of Neural Networks. He was an assistant professor in Computer Science and Engineering at POSTECH, Pohang, Korea, a Anthony Mason Fellow at University of New South Wales at Sydney, Australia, and a visiting faculty at Foster School of Business at the University of Washington, Seattle, USA.
-        </p>
-        {% endif %}
+        {% include 'zoon.html' %}
     </div>
 </div>
 <h2>Researchers <small>(n={{ members | length }})</small></h2>
