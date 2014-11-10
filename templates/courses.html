@@ -1,0 +1,40 @@
+{% extends "layout.html" %}
+
+{% block contents %}
+<h2>Courses</h2>
+
+<h3>Undergraduate Courses</h3>
+<table class="table">
+{% for course in courses['undergrad'] %}
+<tr>
+    <td class="width-10">{{ course['id'] }}</td>
+    <td class="width-25"><a href="{{ course['url'] }}">{{ course['name_%s' % locale] }}</a></td>
+    <td>{{ course['description_%s' % locale] }}</td>
+</tr>
+{% endfor %}
+</table>
+
+<h3>Graduate Courses</h3>
+<table class="table">
+{% for course in courses['grad'] %}
+<tr>
+    <td class="width-10">{{ course['id'] }}</td>
+    <td class="width-25"><a href="{{ course['url'] }}">{{ course['name_%s' % locale] }}</a></td>
+    <td>{{ course['description_%s' % locale] }}</td>
+</tr>
+{% endfor %}
+</table>
+
+<h3>Archive</h3>
+<table class="table">
+{% for course in courses['archive'] %}
+<tr>
+    <td>{{ course['id'] }}</td>
+    <td>{{ course['semester'] }}</td>
+    <td><a href="{{ course['url'] }}">{{ course['name_%s' % locale] }}</a></td>
+    <td>{{ course['target'] }}</td>
+</tr>
+{% endfor %}
+</table>
+
+{% endblock %}

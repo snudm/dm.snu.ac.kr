@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+    <title>SNU Data Mining Center</title>
+    <link href="{{ url_for('static', filename='css/bootstrap.min.css') }}" rel="stylesheet">
+    <link href="{{ url_for('static', filename='css/bootstrap-toggle.min.css') }}" rel="stylesheet">
+    <link href="{{ url_for('static', filename='css/snudm.css') }}" rel="stylesheet">
+    <script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
+    <script>window.jQuery || document.write('<script src="{{ url_for('static', filename='js/jquery.min.js') }}">\x3C/script>')</script>
+    <script type="text/javascript" src="{{ url_for('static', filename='js/bootstrap.min.js') }}"></script>
+    <script type="text/javascript" src="{{ url_for('static', filename='js/bootstrap-toggle.min.js') }}"></script>
+    <script type="text/javascript" src="{{ url_for('static', filename='js/d3.v3.min.js') }}"></script>
+    <link href='http://fonts.googleapis.com/css?family=Play' rel='stylesheet' type='text/css'>
+  </head>
+  <body>
+    <header>
+    {% include "header.html" with context %}
+    </header>
+
+    <div class="container">
+    {% block contents %}
+    {% endblock %}
+    </div>
+
+    <footer>
+    {% include "footer.html" with context %}
+    </footer>
+    <script type="text/javascript" src="{{ url_for('static', filename='js/logo.js') }}"></script>
+    <script type="text/javascript" src="{{ url_for('static', filename='js/ga.js') }}"></script>
+ </body>
+</html>
