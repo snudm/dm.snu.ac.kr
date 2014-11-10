@@ -1,0 +1,44 @@
+{% extends "layout.html" %}
+
+{% block contents %}
+<h2>Contact</h2>
+<br />
+
+
+<table class="table table-condensed contact">
+    <tr>
+        <td>{{ _('주소') }}</td>
+        <td>{{ contact['address_%s' % locale].decode('utf-8') }}</td>
+    </tr>
+    <tr>
+        <td>{{ _('전화번호') }}</td>
+        <td>{{ contact['phone'] }}</td>
+    </tr>
+    <tr>
+        <td>{{ _('이메일') }}</td>
+        <td><a href="mailto:{{ contact['email'] }}">{{ contact['email'] }}</a></p></td>
+    </tr>
+    <tr>
+        <td>{{ _('오시는 길') }}</td>
+        <td>
+            <ol>
+                <li>
+                    {{ _('서울대학교 정문 통과 후, 1.3 km 직진. 좌측에 Gate 5 로 들어온 후 주변에 주차.')}}
+                    <br>
+                    {{ _('우측 첫 번째 건물이 38 동이고 여길 지나서 두 번째 건물이 39동') }}
+                </li>
+                <li>
+                    {{ _('서울대학교 후문 통과 후, 400 미터 직진. T 자 삼거리에서 좌회전 후, 950 미터 직진.') }}
+                    <br>
+                    {{ _('삼거리에서 우회전하여 내리막 오른쪽으로 구부러진 길로 150 미터 직진.') }}
+                    <br>
+                    {{ _('버스 정거장 옆 우측에 있는 Gate 6 으로 들어온 후, 주변에 주차. 내리막길 아래 좌측에 보이는 건물이 39동') }}
+                </li>
+            </ol>
+        </td>
+    </tr>
+</table>
+
+<iframe src="//maps.google.com/?ll=37.454972%2C126.951348&amp;spn=0.001516%2C0.002784&amp;ie=UTF8&amp;z=18&amp;t=roadmap&amp;sll=37.454972%2C126.951348&amp;sspn=0.001516%2C0.002784&amp;q=37.455029%2C126.951447%20(%EC%A0%9C%EB%AA%A9%20%EC%97%86%EB%8A%94%20%EC%9C%84%EC%B9%98)&amp;output=embed" width="100%" height="400" frameborder="0" class="map_embed" scrolling="no"></iframe>
+
+{% endblock %}
