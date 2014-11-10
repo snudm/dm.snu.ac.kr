@@ -1,0 +1,5 @@
+.dropbox
+.project
+.pydevproject
+.settings/*
+*.pyc

@@ -1,0 +1,71 @@
+{% extends "layout.html" %}
+
+{% block contents %}
+<h2>Director</h2>
+<div class="member hover row">
+    <div id="zoon" class="col-md-2">
+        <img class="width-100 thumbnail" src="{{ url_for('static', filename='images/members/zoon.jpg') }}">
+        {% if locale=='ko' %}
+        <h3>조 성 준 교수</h3>
+        <p>(趙成埈, Sungzoon Cho)</p>
+        {% else %}
+        <h3>Prof. Sungzoon Cho</h3>
+        <p>(조성준, 趙成埈)</p>
+        {% endif %}
+        <a href="{{ url_for('member', name='zoon') }}"><span class="glyphicon glyphicon-home"></span></a>
+        <a href="mailto:zoon@snu.ac.kr"><span class="glyphicon glyphicon-envelope"></span></a>
+    </div>
+    <div class="col-md-10">
+        {% include 'zoon.html' %}
+    </div>
+</div>
+<h2>Researchers <small>(n={{ members | length }})</small></h2>
+{% for member in members %}
+<div id="{{ member['image'] }}" class="member hover row">
+    <div class="col-md-2">
+        <img class="width-100 thumbnail" src="{{ url_for('static', filename='images/members/%s.jpg' % member['image']) }}">
+    </div>
+    <div class="col-md-10">
+        <h3>{{ member['name'] }}</h3>
+        <table class="table table-condensed">
+            {% for key, value in member.items() %}
+                {% if key not in ['image', 'name'] %}
+                <tr>
+                    <td>{{ key }}</td>
+                    <td>
+                        {% if key=='homepage' and value!='N/A'%}<a href="{{ value }}">{% endif %}
+                        {{ value }}
+                        {% if key=='homepage' and value!='N/A' %}</a>{% endif %}
+                    </td>
+                </tr>
+                {% endif %}
+            {% endfor %}
+        </table>
+    </div>
+</div>
+{% endfor %}
+
+<h2>Alumni</h2>
+<h3>Ph.D. <small>(n={{ alumni_phd | length }})</small></h3>
+<table class="alumni table table-hover">
+{% for member in alumni_phd %}
+<tr>
+    {% for column in member %}
+    <td>{{ column }}</td>
+    {% endfor %}
+</tr>
+{% endfor %}
+</table>
+
+<h3>M.S. <small>(n={{ alumni_ms | length }})</small></h3>
+<table class="alumni table table-hover">
+{% for member in alumni_ms %}
+<tr>
+    {% for column in member %}
+    <td>{{ column }}</td>
+    {% endfor %}
+</tr>
+{% endfor %}
+</table>
+
+{% endblock %}

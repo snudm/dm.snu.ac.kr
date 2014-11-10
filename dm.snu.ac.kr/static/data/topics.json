@@ -1,0 +1,195 @@
+[{
+    "title_ko": "품질관리",
+    "title_en": "Quality Control",
+    "projects": [
+    {
+        "id": "samsungds",
+        "description_ko": "반도체 FDC 센서 값과 소자의 전기적 특성 관계 이해"
+    },
+    {
+        "id": "samsungjejo",
+        "description_ko": "모바일 기기 필드 failure와 검사항목 관계 이해"
+    },
+    {
+        "id": "samsungsaengsan",
+        "description_ko": "반도체 설비 오류, 혐의 설비 / 센서 탐지"
+    },
+    {
+        "id": "samsungsaengsan",
+        "description_ko": "반도체 공정 가상계측 모델링 및 Run to Run Control"
+    },
+    {
+        "id": "dsme",
+        "description_ko": "해양 플랜트 펀치 유형 분석"
+    },
+    {
+        "id": "hyundai",
+        "description_ko": "자동차 부품 설계 검증 데이터 분석"
+    },
+    {
+        "id": "hyundai",
+        "description_ko": "자동차 주행 패턴에 따른 배터리 상태 변화 분석"
+    },
+    {
+        "id": "hyundai",
+        "description_ko": "자동차 센서 데이터의 분석 방향 및 가용 알고리즘 탐색"
+    },
+    {
+        "id": "skhynix",
+        "description_ko": "반도체 최종검사 수율 예측"
+    },
+    {
+        "id": "doosaninfra",
+        "description_ko": "고차원의 엔진 공정 데이터로부터 이상 엔진 탐지"
+    }]
+},
+{
+    "title_ko": "마케팅 & 영업",
+    "title_en": "Marketing & Sales",
+    "projects": [
+    {
+        "id": "samsungcard",
+        "description_ko": "카드 고객 마켓 세그멘테이션"
+    },
+    {
+        "id": "duzon",
+        "description_ko": "Cross Sell 및 Up Sell 판매전략"
+    },
+    {
+        "id": "cj",
+        "description_ko": "영업 전략의 매출 영향력 분석"
+    },
+    {
+        "id": "cj",
+        "description_ko": "셋트제품 판매 패턴 분류"
+    },
+    {
+        "id": "dsme",
+        "description_ko": "카드 고객 마켓 세그멘테이션"
+    },
+    {
+        "id": "lgelectronics",
+        "description_ko": "스마트 TV 자동녹화 방법론 개발"
+    }]
+},
+{
+    "title_ko": "생산 & 물류",
+    "title_en": "Manufacturing & Transportation",
+    "projects": [
+    {
+        "id": "samsungds",
+        "description_ko": "반도체 공정 효율 향상"
+    },
+    {
+        "id": "samsungds",
+        "description_ko": "연속 공정 조업 조건의 최적화"
+    },
+    {
+        "id": "dsme",
+        "description_ko": "시수 물량 예측"
+    },
+    {
+        "id": "dsme",
+        "description_ko": "블록 조립 프로세스 최적화"
+    },
+    {
+        "id": "posco",
+        "description_ko": "소결기 속도 제어"
+    }
+    ,
+    {
+        "id": "posco",
+        "description_ko": "냉간 압연 최적 Roll Force 예측"
+    }]
+},
+{
+    "title_ko": "고장진단",
+    "title_en": "Malfunction Detection",
+    "projects": [
+    {
+        "id": "samsunggajeon",
+        "description_ko": "시스템 에어컨 실외기 이상 작동 예지"
+    }]
+},
+{
+    "title_ko": "에너지",
+    "title_en": "Energy",
+    "projects": [
+    {
+        "id": "hyundaih",
+        "description_ko": "스마트그리드 데이터 분석"
+    },
+    {
+        "id": "samsunggajeon",
+        "description_ko": "시스템 에어컨 실내기 운전패턴 분석"
+    }]
+},
+{
+    "title_ko": "인사관리",
+    "title_en": "Human Resource",
+    "projects": [
+    {
+        "id": "hyundai",
+        "description_ko": "인재 선발 모델링 및 조기 퇴사 예측"
+    }]
+},
+{
+    "title_ko": "소셜미디어",
+    "title_en": "Social Media",
+    "projects": [
+    {
+        "id": "daumsoft",
+        "description_ko": "Twiterrian 영향도 평가"
+    },
+    {
+        "id": "lgelectronics",
+        "description_ko": "트위터 분석을 통한 새로운 스마트 TV 기능 개발"
+    },
+    {
+        "id": "samsungdmc",
+        "description_ko": "가전기기 별 컨텍스트 탐색을 통한 스마트 홈 시나리오 설계"
+    },
+    {
+        "id": "samsungdmc",
+        "description_ko": "UX 및 가전 기기 사용 패턴을 이용한 스마트 가전기기 시나리오 설계"
+    }]
+},
+{
+    "title_ko": "추천",
+    "title_en": "Recommendation",
+    "projects": [
+    {
+        "id": "lgelectronics",
+        "description_ko": "영화 리뷰 및 메타데이터를 이용한 시멘틱 영화 검색 엔진 연구"
+    },
+    {
+        "id": "lgelectronics",
+        "description_ko": "영화 리뷰 및 메타데이터를 이용한 개인화 시멘틱 영화 추천 엔진 연구"
+    }]
+},
+{
+    "title_ko": "키스트로크 보안",
+    "title_en": "Keystroke Security",
+    "projects": [
+    {
+        "id": "seoulbeone",
+        "description_ko": "키스트로크 다이나믹스 기반 계정 공유 탐지"
+    },
+    {
+        "id": "smbizbeone",
+        "description_ko": "ATM 사용자 화면터치 행동 패턴 사용자 인증"
+    },
+    {
+        "id": "nrf",
+        "description_ko": "키스트로크 다이나믹스 기반 사용자 인증"
+    }]
+},
+{
+    "title_ko": "재무",
+    "title_en": "Finance",
+    "projects": [
+    {
+        "id": "bok",
+        "description_ko": "세계 중앙은행 총재 연설문 분석"
+    }]
+}]
