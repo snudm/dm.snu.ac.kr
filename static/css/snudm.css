@@ -82,11 +82,23 @@ table.alumni td:nth-child(2) {
     text-transform: capitalize;
 }
 
-.navbar #title,
-.navbar-nav > li > a {
-    display: inline-block;
+.navbar #title {
     line-height: 50px;
     color: #f5f5f5;
+    display: inline-block;
+}
+
+.navbar #title:hover {
+    text-decoration: underline;
+}
+
+.navbar-nav > li > a {
+    line-height: 50px;
+    color: #f5f5f5;
+}
+
+.navbar-collapse {
+    margin: 0 !important;
 }
 
 .navbar-nav > li > a:hover {
