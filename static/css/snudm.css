@@ -151,12 +151,14 @@ table.alumni td:nth-child(2) {
 }
 
 .project {
+    color: #777;
     display: inline-block;
-    vertical-align: bottom;
     margin: 3px 1px;
+    min-height: 155px;
     min-width: 210px;
-    min-height: 175px;
     padding: 5px 10px;
+    text-align: center;
+    vertical-align: bottom;
     width: 23%;
 }
 
@@ -170,10 +172,6 @@ table.alumni td:nth-child(2) {
 .project img {
     max-width: 150px;
     width: 100%;
-}
-
-.project li {
-    list-style-type: none;
 }
 
 .question {
