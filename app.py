@@ -24,7 +24,7 @@ def before():
 
 @babel.localeselector
 def get_locale():
-    return g.get('current_lang', BABEL['default_locale'])
+    return g.current_lang or BABEL['default_locale']
 
 
 @app.route('/')
