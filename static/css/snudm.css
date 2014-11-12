@@ -204,6 +204,7 @@ table.alumni td:nth-child(2) {
 
     .navbar .navbar-toggle {
         margin-bottom: 0;
+        padding: 0;
     }
 
     .navbar .navbar-toggle button {
