@@ -11,7 +11,11 @@
       </button>
     </div>
     <div class="navbar-header">
-      <a class="navbar-brand" href="{{ url_for('home', lang_code=locale) }}"><span id="logo"></span><span id="title">SNU Data Mining Center</span></a>
+      <a class="navbar-brand" href="{{ url_for('home', lang_code=locale) }}">
+        <span id="logo"></span>
+        <span id="title" class="hidden-xs">SNU Data Mining Center</span>
+        <span id="title" class="visible-xs-*">SNUDM</span>
+      </a>
     </div>
 
     <!-- Collect the nav links, forms, and other content for toggling -->
