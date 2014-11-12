@@ -1,2 +1,6 @@
 <p>&copy; 2014 Data Mining Center. All Rights Reserved.</p>
-<p>Phone: {{ contact['phone'] }} | Email: <a href="mailto:{{ contact['email'] }}">{{ contact['email'] }}</a></p>
+<p>
+  <span class="inline">Phone: {{ contact['phone'] }}</span>
+  <span class="hidden-xs"> | </span>
+  <span class="inline">Email: <a href="mailto:{{ contact['email'] }}">{{ contact['email'] }}</a></span>
+</p>
