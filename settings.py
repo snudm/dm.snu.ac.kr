@@ -11,13 +11,15 @@ CONTACT = {
 }
 
 MENUS = [
+    'datamining',
     'members',
     ('research', ['methods', 'publications']),
     ('projects', ['topics', 'FAQ']),
     'courses',
+    'admission',
+    'seminar',
     'software',
-    'contact',
-    ('FAQ', ['datamining', 'admission'])
+    'contact'
 ]
 
 BABEL = {

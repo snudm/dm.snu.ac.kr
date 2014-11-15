@@ -35,6 +35,11 @@ def root():
 def home():
     return render_template('home.html')
 
+@app.route('/<lang_code>/admission')
+def admission():
+    return render_template('admission.html',\
+           admission=read_json_data('admission.json'))
+
 @app.route('/<lang_code>/contact')
 def contact():
     return render_template('contact.html')
@@ -44,19 +49,14 @@ def courses():
     return render_template('courses.html',
            courses=read_json_data('courses.json'))
 
-@app.route('/<lang_code>/faq/')
-def dummy_faq():
-    return redirect(url_for('datamining'))
+# @app.route('/<lang_code>/faq/')
+# def dummy_faq():
+#     return redirect(url_for('datamining'))
 
-@app.route('/<lang_code>/faq/datamining')
+@app.route('/<lang_code>/datamining')
 def datamining():
     return render_template('datamining.html',\
            datamining=read_json_data('datamining.json'))
-
-@app.route('/<lang_code>/faq/admission')
-def admission():
-    return render_template('admission.html',\
-           admission=read_json_data('admission.json'))
 
 @app.route('/<lang_code>/members')
 def members():
@@ -99,6 +99,11 @@ def publications():
            pub_int_journals=read_txt_data('pub_int_journals.txt'),
            pub_patent =read_txt_data('pub_patent.txt'))
 
+
+@app.route('/<lang_code>/seminar')
+def seminar():
+    return render_template('seminar.html')
+
 @app.route('/<lang_code>/software')
 def software():
     return render_template('software.html',\
@@ -111,7 +116,6 @@ def member(name):
 @app.context_processor
 def inject_vars():
     return dict(menus=MENUS, locale=get_locale(), contact=CONTACT)
-
 
 if __name__=='__main__':
     app.run(SERVER['host'], SERVER['port'])
