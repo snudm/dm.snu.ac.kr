@@ -23,3 +23,7 @@ or
     $ make extract_i18n
     $ # update *.po files
     $ make update_i18n
+    
+### 관리자 문서
+
+https://sites.google.com/a/dm.snu.ac.kr/web
