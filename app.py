@@ -49,10 +49,6 @@ def courses():
     return render_template('courses.html',
            courses=read_json_data('courses.json'))
 
-# @app.route('/<lang_code>/faq/')
-# def dummy_faq():
-#     return redirect(url_for('datamining'))
-
 @app.route('/<lang_code>/datamining')
 def datamining():
     return render_template('datamining.html',\
@@ -65,10 +61,9 @@ def members():
            alumni_phd=read_csv_data('alumni_phd.csv'),
            alumni_ms=read_csv_data('alumni_ms.tsv', sep='\t'))
 
-@app.route('/projects/')
 @app.route('/<lang_code>/projects/')
 def projects():
-    return redirect(url_for('faq'))
+    return redirect(url_for('faq', lang_code=get_locale()))
 
 @app.route('/<lang_code>/projects/topics')
 def topics():
@@ -81,10 +76,9 @@ def faq():
     return render_template('faq.html',\
            faq=read_json_data('faq.json'))
 
-@app.route('/research/')
 @app.route('/<lang_code>/research/')
 def research():
-    return redirect(url_for('publications'))
+    return redirect(url_for('publications', lang_code=get_locale()))
 
 @app.route('/<lang_code>/research/methods')
 def methods():
