@@ -105,11 +105,11 @@
     },
     {
         "id": "dsme",
-        "description_ko": "해양 플랜트 펀치 유형 분석"
+        "description_ko": "해양 플랜트 펀치 텍스트 유형 분석"
     },
     {
         "id": "hyundai",
-        "description_ko": "자동차 부품 설계 검증 데이터 분석"
+        "description_ko": "자동차 부품 설계 검증 데이터 텍스트 분석"
     },
     {
         "id": "hyundai",
