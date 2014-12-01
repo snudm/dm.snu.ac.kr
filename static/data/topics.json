@@ -125,7 +125,7 @@
     },
     {
         "id": "doosaninfra",
-        "description_ko": "고차원의 엔진 공정 데이터로부터 이상 엔진 탐지"
+        "description_ko": "필드 클레임 및 공정 데이터를 활용한 이상 엔진 탐지"
     },
     {
         "id": "samsunggajeon",
