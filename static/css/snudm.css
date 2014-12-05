@@ -198,6 +198,12 @@ table.alumni td:nth-child(2) {
     margin-top: -5px;
 }
 
+#hidden3{
+  width:450px; height:500px; background:#ffffff; color:#333333; 
+  position:absolute; top:150px; left:200px; text-align:left; 
+  border:3px solid #000;
+}
+
 #zoon {
     text-align: center;
 }
