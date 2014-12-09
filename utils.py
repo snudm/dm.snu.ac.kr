@@ -8,17 +8,17 @@ import os
 from flask import Markup
 import markdown
 
-from settings import APP_STATIC
+from settings import APP_STATIC, APP_TEMPLATES
 
 
 get_data_path = lambda f: os.path.join(APP_STATIC, 'data', f)
 
 def get_notice(id):
-    notice_file = glob(os.path.join(APP_STATIC, 'notices', '%s-*.md' % id))
+    notice_file = glob(os.path.join(APP_TEMPLATES, 'notices', '%s-*.md' % id))
     if len(notice_file)==1:
         with open(notice_file[0], 'r') as f:
             return {'id': id,
-                    'title': notice_file[0].rsplit('-', 1)[-1].rsplit('.', 1)[0],
+                    'title': notice_file[0].split('-', 1)[-1].rsplit('.', 1)[0],
                     'content': Markup(markdown.markdown(f.read().decode('utf-8')))}
     else:
         raise Exception("Are all file IDs unique?")
