@@ -5,7 +5,7 @@ from flask import Flask, g, redirect, render_template, request, url_for
 from flask.ext.babel import Babel, get_locale
 
 from settings import APP_URL, BABEL, CONTACT, MENUS, SERVER
-from utils import read_csv_data, read_json_data, read_txt_data
+from utils import get_notice, read_csv_data, read_json_data, read_txt_data
 
 
 app = Flask(__name__)
@@ -25,7 +25,6 @@ def before():
 @babel.localeselector
 def get_locale():
     return g.current_lang or BABEL['default_locale']
-
 
 @app.route('/')
 def root():
@@ -61,6 +60,14 @@ def members():
            alumni_phd=read_csv_data('alumni_phd.csv'),
            alumni_ms=read_csv_data('alumni_ms.tsv', sep='\t'))
 
+@app.route('/<lang_code>/notices/')
+def notices():
+    return redirect(url_for('root'))
+
+@app.route('/<lang_code>/notices/<id>')
+def notice(id):
+    return render_template('notice.html', notice=get_notice(id))
+
 @app.route('/<lang_code>/projects/')
 def projects():
     return redirect(url_for('faq', lang_code=get_locale()))
@@ -93,7 +100,6 @@ def publications():
            pub_int_journals=read_txt_data('pub_int_journals.txt'),
            pub_patent =read_txt_data('pub_patent.txt'))
 
-
 @app.route('/<lang_code>/seminar')
 def seminar():
     return render_template('seminar.html')
@@ -110,6 +116,7 @@ def member(name):
 @app.context_processor
 def inject_vars():
     return dict(menus=MENUS, locale=get_locale(), contact=CONTACT)
+
 
 if __name__=='__main__':
     app.run(SERVER['host'], SERVER['port'])

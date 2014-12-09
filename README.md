@@ -9,9 +9,6 @@
 ### Dependencies
 
     $ make install
-or
-
-    $ pip install Flask Flask-Babel
 
 ### Run
 

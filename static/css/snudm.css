@@ -150,6 +150,19 @@ table.alumni td:nth-child(2) {
     height: 80px;
 }
 
+.notice {
+    margin: 0 auto;
+    max-width: 800px;
+}
+
+.notice h3 {
+    text-align: center;
+}
+
+.notice .content {
+    margin-top: 50px;
+}
+
 .project {
     color: #777;
     display: inline-block;

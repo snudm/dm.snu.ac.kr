@@ -1,32 +1,13 @@
 {% extends "layout.html" %}
 
+{% block extended_headers %}
+<link href="{{ url_for('static', filename='css/animate.css') }}" rel="stylesheet">
+<script type="text/javascript" src="{{ url_for('static', filename='js/jquery.noty.packaged.min.js') }}"></script>
+<script type="text/javascript" src="{{ url_for('static', filename='js/relax.js') }}"></script>
+{% endblock %}
+
 {% block contents %}
-<script language="Javascript">
-// 창펼치기
-function tost(){
-    if(document.getElementById('hidden3').style.display==""){
-        document.getElementById('hidden3').style.display="none";
-    }else{
-        document.getElementById('hidden3').style.display="";  
-    }
-}
-</script> 
-<div id="hidden3" style="height:500px;">
-    <span style="font-size:10pt; line-height:1.8em;"> 
-
-<b>[ 서울대학교 산업공학과 데이터마이닝 연구실 인턴 모집 ]</b><br><br>
-
-반갑습니다. 
-<br>
-이번 14/15 겨울방학동안 데이터마이닝센터에서는 <b>두 가지 연구분야에 대하여</b> 인턴 과정이 진행됩니다. 인턴 과정의 두 분야는 학생들로 구성된 이론/개발 스터디입니다. 인턴 과정은 무급으로 진행됩니다. 인턴 신청은 어떤 분들도 가능합니다. 각 인턴 신청자들은 <b>두 가지 연구 주제 중 한가지를 선택하여</b> 신청하여 주시기 바랍니다. 연구 분야에 관련된 내용은 <a href="/static/etc/dm_Intern_recruit.pdf">이 파일</a>에 등록되어 있습니다. 
-<br>언제든지 hyunjoong <img style="clear:none; float:none; margin:0; border:0;" src="/static/images/at.gif"> dm.snu.ac.kr (연구 분야 1), hccho <img style="clear:none; float:none; margin:0; border:0;" src="/static/images/at.gif"> dm.snu.ac.kr (연구 분야 2)로 문의주시기 바랍니다. 그 외의 인턴 관련 질문은 hyunjoong <img style="clear:none; float:none; margin:0; border:0;" src="/static/images/at.gif"> dm.snu.ac.kr로 주시기 바랍니다. 인턴 신청 역시 각 연구 분야별로 hyunjoong <img style="clear:none; float:none; margin:0; border:0;" src="/static/images/at.gif"> dm.snu.ac.kr 혹은 hccho <img style="clear:none; float:none; margin:0; border:0;" src="/static/images/at.gif"> dm.snu.ac.kr로 해주시기 바랍니다.<br><br>
-     ○ 기간: 12월 29일부터 2월 14일까지 총 7주<br>
-     ○ 지원 마감 : 2014년 12월 14일<br><br>
-감사합니다.
-   <br>
-    </span>
-    <div id="close" style="width:100px; margin:auto;"><a href="Javascript:tost();"><b>close</b></a></div>
-</div>
+<script type="text/javascript" src="{{ url_for('static', filename='js/snudm-notice.js') }}"></script>
 
 <img class="width-49" src="{{ url_for('static', filename='images/home1_topleft.jpg') }}">
 <img class="width-49" src="{{ url_for('static', filename='images/home2_topright.jpg') }}">

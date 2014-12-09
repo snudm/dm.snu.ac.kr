@@ -1,0 +1,15 @@
+{% if notice.id[:6].isdigit() %}
+{% set date = '%s-%s-%s' % (notice.id[:4], notice.id[4:6], notice.id[6:8]) %}
+{% endif %}
+
+{% extends "layout.html" %}
+
+{% block contents %}
+<h2>Notice</h2>
+
+<div class="notice">
+<h3>{{ notice.title }}</h3>
+<p class="pull-right">{{ date }}</p>
+<p class="content">{{ notice.content }}</p>
+</div>
+{% endblock %}
