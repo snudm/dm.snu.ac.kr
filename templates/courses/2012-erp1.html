@@ -1,0 +1,106 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="UTF-8">
+	<title>Engineering Research Practice 1 - 2012</title>
+	<style type="text/css">
+		h1 {color:blue;}
+		body, table {font-size:15px;}
+		ol>li {line-height:300%; font-weight:bold;}
+		ul>li {line-height:100%; font-weight:normal;}
+		table {border-collapse:collapse;}
+		td, th {border:1px solid gray; padding:3px 10px 3px 10px;}
+		img {border:0px;}
+		.notice {color: red;}
+		.idrow {background-color: #b0c4de;}
+		.exams {background-color: #ffa;}
+		.putthepastbehindyou {text-decoration: line-through;}
+		.caution {background-color: #98FF98;}
+		.noclass {color: red;}
+		.byta {color: #00308F;}
+		.headcolumn {color: #000; background-color: whitesmoke;}
+		table {width: 800px;}
+		iframe {border: 0px;}
+		.success {background-color: #EEEEFF; padding: 10px;}
+		.sub {color: green; background-color: yellow; font-weight: normal;}
+
+	</style>
+	
+	<!--Google Analytics-->
+	<script type="text/javascript">
+		  var _gaq = _gaq || [];
+		  _gaq.push(['_setAccount', 'UA-13040549-8']);
+		  _gaq.push(['_trackPageview']);
+
+		  (function() {
+			var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+			ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+			var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+		  })();
+	</script>
+</head>
+
+<body>
+	<h1>Engineering Research Practice 1 (400.320) : Fall 2012</h1>
+	<table>
+		<tr>
+			<td>
+				<b><span class='notice'>Notice:</span>&nbsp;This page works on modern web browsers. (e.g., <a href='http://www.google.com/chrome'>Google Chrome</a>, <a href='http://www.mozilla.org/en-US/firefox/new/'>Mozilla Firefox</a>)</b>
+			</td>
+		</tr>
+		<tr>
+			<td>
+				<b><span class='notice'>Notice:</span>&nbsp;수정해야 할 사항이 있는 경우, 박은정 조교에게 이메일을 발송해주시기 바랍니다.</b>
+			</td>
+		</tr>
+	</table> 
+	<ol>
+		<li>Instructor
+			<ul>
+				<li>Prof. Sungzoon Cho&nbsp;
+                (zoon<img src="{{ url_for('static', filename='images/icon_email.gif') }}" alt='at'>snu.ac.kr)&nbsp;
+					<a href="http://dmlab.snu.ac.kr/~zoon" target="_blank" title="homepage">
+					  <img src="{{ url_for('static', filename='images/icon_home.gif') }}" alt='home'>
+					</a>
+				</li>
+				<li>Office: 39-302 (Expecting to move to 39-320 someday)</li>
+				<li>Office Hours: M/W 14:30~15:30 or by appointments for other times</li>
+			</ul>
+		</li>
+		
+		<li>Teaching Assistants (TA)
+			<ul>
+			  <li>Eunjeong Lucy Park&nbsp;
+			  (ejpark04<img src="{{ url_for('static', filename='images/icon_email.gif') }}" alt='at'>snu.ac.kr)
+			  </li>
+			  <li>Jiwon Yang&nbsp;
+			  (master<img src="{{ url_for('static', filename='images/icon_email.gif') }}" alt='at'>teamaqua.net)
+			  </li>
+			  <li>Lab: 39-339</li>
+			</ul>
+		</li>
+		
+		<li>Members' Contact Information
+			<ul>
+				<li>
+					<a href='https://docs.google.com/spreadsheet/ccc?key=0Aj8wo5xNNSzCdEdyQkRNa210RWxHenpONW5VbUIxa2c#gid=0' target='_blank'>link</a> (only members and TAs are allowed to access)
+				</li>
+			</ul>
+		</li>
+		<li>Lab Locations
+			<span class='sub'>- 연구실 이름을 클릭하면 해당 연구실 홈페이지로 이동합니다.</span>
+			<div id="map">
+                <iframe src="{{ url_for('static', filename='images/labs_2012.svg') }}" width="950" height="600"></iframe>
+			</div>
+		</li>
+		<li>Board 
+			<span class='sub'>- In case you're shy, you are free to write anonymously! :)</span>
+			<div id="board">
+				<iframe src="http://dmlab.snu.ac.kr/bbs/xe/dmlab_course_ERP2012" width="800" height="700"></iframe>
+			</div>
+		</li>
+	</ol>
+	<div class="success">This document is valid HTML5 + ARIA + SVG 1.1 + MathML 2.0.</div>
+</body>
+</html>
+

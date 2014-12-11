@@ -1,0 +1,355 @@
+<!doctype html>
+<html>
+<head>
+	<meta charset="UTF-8">
+	<title>Data Mining 2012</title>
+	<style type="text/css">
+		h1 {color:blue;}
+		body, table {font-size:15px;}
+		ol>li {line-height:300%; font-weight:bold;}
+		table {border-collapse:collapse;}
+		td, th {border:1px solid gray; padding:3px 10px 3px 10px;}
+		img {border:0px;}
+		.idrow {background-color: #b0c4de;}
+		.exams {background-color: #ffa;}
+		.caution {background-color: #98FF98;}
+		.noclass {color: red;}
+		.byta {color: #00308F;}
+		.headcolumn {color: #000; background-color: whitesmoke;}
+	</style>
+	
+	<!--Google Analytics-->
+	<script type="text/javascript">
+		  var _gaq = _gaq || [];
+		  _gaq.push(['_setAccount', 'UA-35631550-1']);
+		  _gaq.push(['_trackPageview']);
+
+		  (function() {
+			var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+			ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+			var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+		  })();
+	</script>
+</head>
+
+<body>
+	<h1>Data Mining (406.429) : Fall 2012</h1>
+	<ol>
+		<li>Instructor</li>
+		Prof. Sungzoon Cho&nbsp;
+        (zoon<img src="{{ url_for('static', filename='images/icon_email.gif') }}">snu.ac.kr)&nbsp;
+		<a href="http://dm.snu.ac.kr/~zoon" target="_blank" title="homepage">
+            <img src="{{ url_for('static', filename='images/icon_home.gif') }}">
+		</a>
+		<br>
+		<ul>
+			<li>Office: 39-302 (Expecting to move to 39-320 someday)</li>
+			<li>Office Hours: M/W 14:30~15:30 or by appointments for other times</li>
+		</ul>
+
+		<li>Time and Place</li>
+			<ul>
+				<li>Where: 39-B118</li>
+				<li>When: M/W 15:30~16:45</li>
+			</ul>
+		
+		<li>Texts</li>
+			<ul>
+				<li>
+					Main:<br>
+					<ul>
+						<li>Galit Shumueli et al., <i>Data Mining for Business Intelligence: Concepts, Techniques, and Applications in Microsoft Office Excel with XLMiner,</i> 2nd ed., Wiley, 2010.
+					</ul>
+				</li>
+				<li>
+					Sub:<br>
+					<ul>
+						<li>[N] Stephen Baker, <i>The Numerati</i>, Mariner Books, 2009. 
+						<li>[E] The Economist, Feb 25, 2010.
+					</ul>
+				</li>
+			</ul>
+		
+		
+		<li>Evaluation</li>
+			<ul>
+				<li>Concepts and Models(55%): Quizzes 15, Midterm Exam 20, Final Exam 20</li>
+				<li>Term Project(45%): Proposal 15, Progress 15, Final 15</li>
+				<!--
+				<li>Quiz & exam results are <a href="https://docs.google.com/spreadsheet/ccc?key=0Aj8wo5xNNSzCdEpVUFZvN2VnaXUyU3hHWXQ4ZnhKQ1E#gid=0">here</a>. <img src="../images/icon_new.gif"></li>
+				<li>You can see project teams and their topics <a href="https://docs.google.com/spreadsheet/ccc?key=0Aj8wo5xNNSzCdFczRkJMMmUwbFBhUTdxb2JBalRFaHc#gid=0">here</a>.
+				-->
+				
+			</ul>
+		
+		<li>Teaching Assistants (TA)</li>
+			<ul>
+			  <li>Eunjeong Lucy Park&nbsp;
+              (ejpark04<img src="{{ url_for('static', filename='images/icon_email.gif') }}">snu.ac.kr)
+			  </li>
+			  <li>Jiwon Yang&nbsp;
+              (master<img src="{{ url_for('static', filename='images/icon_email.gif') }}">teamaqua.net)
+			  </li>
+			</ul>
+			<br>
+			<ul>
+				<li>Lab: 39-339</li>
+			</ul>
+		
+<!-- Course schedule ----------------------------------->	
+		<li>Course schedule&nbsp;
+        <a href="{{ url_for('static', filename='docs/syllabus_2012_dm.pdf') }}">
+                <img src="{{ url_for('static', filename='images/icon_page.png') }}" title="syllabus"></a>
+		</li>
+		<ul id='legend'>
+			<li><span class='noclass'>&nbsp;&nbsp;abc&nbsp;&nbsp;</span>: No class</li>
+			<li><span class='byta'>&nbsp;&nbsp;abc&nbsp;&nbsp;</span>: TA class</li>
+			<li><span class='caution'>&nbsp;&nbsp;abc&nbsp;&nbsp;</span>: Two classes in one day</li>
+			<li><span class='exams'>&nbsp;&nbsp;abc&nbsp;&nbsp;</span>: Exam date</li>
+			<li><span>&nbsp;&nbsp;abc&nbsp;&nbsp;</span>: The past</li>
+		</ul>
+<table><thead>
+<tr class="idrow">
+<th>No.</th>
+<th>Date</th>
+<th>Topic</th>
+<th>Reading</th>
+<th>Assignment</th>
+</tr>
+</thead><tbody>
+<tr>
+<td rowspan=2 class='headcolumn' class='headcolumn'>1</td>
+<td>9/3</td>
+<td>Introduction</td>
+<td>E:The data deluge</td>
+<td></td>
+</tr>
+<tr>
+<td>9/5</td>
+<td>Introduction, Overview of DM Process</td>
+<td>Ch 1 and 2</td>
+<td></td>
+</tr>
+<tr>
+<td rowspan=2 class='headcolumn' class='headcolumn'>2</td>
+<td>9/10</td>
+<td>데이터마이닝 사례 (3인 발표)</td>
+<td>N:1,2 E:Data, data everywhere, All too much, Needle in a haystack</td>
+<td></td>
+</tr>
+<tr>
+<td>9/12</td>
+<td>Data Visualization</td>
+<td>Ch 3</td>
+<td>자기소개서 due</td>
+</tr>
+<tr>
+<td rowspan=2 class='headcolumn' class='headcolumn'>3</td>
+<td>9/17</td>
+<td>Dimension Reduction</td>
+<td>Ch 4</td>
+<td>Quiz 1 (Ch 4, 13)</td>
+</tr>
+<tr>
+<td>9/19</td>
+<td>[Invited lecture] Introduction to Spotfire</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td rowspan=2 class='headcolumn'>4</td>
+<td>9/24</td>
+<td>Association Rules</td>
+<td>Ch 13</td>
+<td></td>
+</tr>
+<tr class='noclass'>
+<td>9/26</td>
+<td>[No class] School festival</td>
+<td></td>
+<td></td>
+</tr>
+<tr class='noclass'>
+<td rowspan=2 class='headcolumn'>5</td>
+<td>10/1</td>
+<td>[No class] Chuseok</td>
+<td></td>
+<td></td>
+</tr>
+<tr class='noclass'>
+<td>10/3</td>
+<td>[No class] Foundation day</td>
+<td></td>
+<td></td>
+</tr>
+<tr class='byta'>
+<td rowspan=2 class='headcolumn'>6</td>
+<td>10/8</td>
+<td>Evaluating Classification and Predictive Performance</td>
+<td>Ch 5</td>
+<td>Quiz 2 (Ch 5)</td>
+</tr>
+<tr class='caution'>
+<td>10/10</td>
+<td>(1) Multiple Linear Regression<br> (2) 데이터마이닝 사례 (3인 발표)</td>
+<td>Ch 6<br>N:3, 4 E:A different game, Clicking for gold</td>
+<td></td>
+</tr>
+<tr class='caution byta'>
+<td rowspan=2 class='headcolumn'>7</td>
+<td>10/15</td>
+<td>(1) Cluster analysis<br>(2) XLMiner</td>
+<td>Ch 14</td>
+<td>Quiz 3 (Ch 14)</td>
+</tr>
+<tr class='exams'>
+<td>10/17</td>
+<td>Exam 1</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td rowspan=2 class='headcolumn'>8</td>
+<td>10/22</td>
+<td>Term Project Proposal</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>10/24</td>
+<td>Term Project Proposal</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td rowspan=2 class='headcolumn'>9</td>
+<td>10/29</td>
+<td>k-Nearest Neighbors, Naïve Bayes</td>
+<td>Ch 7, Ch 8</td>
+<td>Quiz 4 (Ch 7, 8)</td>
+</tr>
+<tr>
+<td>10/31</td>
+<td>Classification and Reg trees</td>
+<td>Ch 9</td>
+<td>Quiz 5 (Ch 9)</td>
+</tr>
+<tr>
+<td rowspan=2 class='headcolumn'>10</td>
+<td>11/5</td>
+<td>Classification and Reg trees</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>11/7</td>
+<td>데이터마이닝 사례 (3인 발표)</td>
+<td>N:5,6 E: The open society, Show me</td>
+<td></td>
+</tr>
+<td rowspan=2 class='headcolumn'>11</td>
+<td>11/12</td>
+<td>Logistic Regression</td>
+<td>Ch 10</td>
+<td>Quiz 6 (Ch 10)</td>
+</tr>
+<tr>
+<td>11/14</td>
+<td>Logistic Regression</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td rowspan=2 class='headcolumn'>12</td>
+<td>11/19</td>
+<td>Neural Network</td>
+<td>Ch 11</td>
+<td>Quiz 7 (Ch 11)</td>
+</tr>
+<tr>
+<td>11/21</td>
+<td class='byta'>Neural Network, R</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td rowspan=2 class='headcolumn'>13</td>
+<td>11/26</td>
+<td>Term Project Progress Presentation</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>11/28</td>
+<td>Term Project Progress Presentation</td>
+<td></td>
+<td></td>
+</tr>
+<tr class='exams'>
+<td rowspan=2 class='headcolumn' class='headcolumn'>14</td>
+<td>12/3</td>
+<td>Exam 2</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>12/5</td>
+<td>데이터마이닝 사례 (3인 발표)</td>
+<td>N:7, 맺음말, E: New Rules for big data, Handling the cornucopia</td>
+<td></td>
+</tr>
+<tr>
+<td rowspan=2 class='headcolumn'>15</td>
+<td>12/10</td>
+<td>Term Project Final report</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>12/12</td>
+<td>Term Project Final report</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td rowspan=2 class='headcolumn'>16</td>
+<td>12/14</td>
+<td>종강</td>
+<td></td>
+<td></td>
+</tr>
+</tbody></table>
+<!--
+		<table width=830>
+			<tr class="idrow">
+				<th width=5%>Week</th>
+				<th width=65%>Topic</th>
+				<th width=15%>Reading Assignment*</th>
+				<th width=15%>Homework**</th>
+			</tr>
+			
+			<tr class="putthepastbehindyou">
+				<td rowspan=2 class='headcolumn'>1</td>
+				<td>
+					<b>9/3 (Mon)</b> - Introduction
+				</td>
+				<td></td><td></td>
+			</tr>
+			<tr>
+				<td>
+					<b>9/5 (Wed)</b> - TBA 
+				</td>
+				<td></td><td></td>
+			</tr>
+		</table>
+		* Quiz는 reading assignment의 범위 내에서 출제됩니다. 문제는 italic & bold-face text, figures 그리고 equations에서 주로 출제.<br>
+		** Delay penalty: 10% off per hour from soft-copy due<br>
+-->		
+		<li>Board</li>
+			<div id="board">
+				<iframe src="http://dmlab.snu.ac.kr/bbs/xe/dmlab_course_DM2012" width="800px" height="700px" frameborder="0"></iframe>
+			  </div>
+	</ol>
+</body>
+</html>
+

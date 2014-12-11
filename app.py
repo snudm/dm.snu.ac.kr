@@ -48,6 +48,10 @@ def courses():
     return render_template('courses.html',
            courses=read_json_data('courses.json'))
 
+@app.route('/<lang_code>/courses/<id>')
+def course(id):
+    return render_template('courses/%s.html' % id)
+
 @app.route('/<lang_code>/datamining')
 def datamining():
     return render_template('datamining.html',\
