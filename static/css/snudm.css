@@ -42,6 +42,10 @@ table.alumni td:nth-child(2) {
     -webkit-border-radius: 10px 10px 10px 10px;
 }
 
+.center {
+    text-align: center;
+}
+
 .contact table tr:first-child {
     border: 0px;
 }

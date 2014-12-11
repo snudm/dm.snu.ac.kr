@@ -24,7 +24,10 @@ def before():
 
 @babel.localeselector
 def get_locale():
-    return g.current_lang or BABEL['default_locale']
+    try:
+        return g.current_lang or BABEL['default_locale']
+    except AttributeError:
+        return BABEL['default_locale']
 
 @app.route('/')
 def root():
