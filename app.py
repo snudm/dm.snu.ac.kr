@@ -4,7 +4,7 @@
 from flask import Flask, g, redirect, render_template, request, url_for
 from flask.ext.babel import Babel, get_locale
 
-from settings import APP_URL, BABEL, CONTACT, MENUS, SERVER
+from settings import APP_URL, BABEL, CONTACT, LOCALES, MENUS, SERVER
 from utils import get_notice, read_csv_data, read_json_data, read_txt_data
 
 
@@ -32,7 +32,8 @@ def root():
 
 @app.route('/<lang_code>/')
 def home():
-    return render_template('home.html')
+    if g.current_lang in LOCALES:
+        return render_template('home.html')
 
 @app.route('/<lang_code>/admission')
 def admission():
@@ -116,6 +117,10 @@ def software():
 @app.route('/~<name>')
 def member(name):
     return redirect('%s/~%s' % (APP_URL, name))
+
+@app.errorhandler(404)
+def page_not_found(e):
+    return render_template('404.html'), 404
 
 @app.context_processor
 def inject_vars():
