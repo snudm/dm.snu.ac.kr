@@ -1,7 +1,7 @@
 #! /usr/bin/python2.7
 # -*- coding: utf-8 -*-
 
-from flask import Flask, g, redirect, render_template, request, url_for
+from flask import abort, Flask, g, redirect, render_template, request, url_for
 from flask.ext.babel import Babel, get_locale
 
 from settings import APP_URL, BABEL, CONTACT, LOCALES, MENUS, SERVER
@@ -37,6 +37,8 @@ def root():
 def home():
     if g.current_lang in LOCALES:
         return render_template('home.html')
+    else:
+        return abort(404)
 
 @app.route('/<lang_code>/admission')
 def admission():
