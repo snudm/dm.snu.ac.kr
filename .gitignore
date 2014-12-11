@@ -1,5 +1,7 @@
+*.pyc
+.DS_Store
 .dropbox
 .project
 .pydevproject
 .settings/*
-*.pyc
+node_modules/*
