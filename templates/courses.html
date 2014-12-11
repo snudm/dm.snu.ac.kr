@@ -31,7 +31,11 @@
 <tr>
     <td>{{ course['id'] }}</td>
     <td>{{ course['semester'] }}</td>
+    {% if course.get('url') %}
     <td><a href="{{ course['url'] }}">{{ course['name_%s' % locale] }}</a></td>
+    {% else %}
+    <td>{{ course['name_%s' % locale] }}</td>
+    {% endif %}
     <td>{{ course['target'] }}</td>
 </tr>
 {% endfor %}
