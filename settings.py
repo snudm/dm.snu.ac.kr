@@ -17,7 +17,6 @@ MENUS = [
     ('projects', ['topics', 'FAQ']),
     'courses',
     'admission',
-    'seminar',
     'software',
     'contact'
 ]
