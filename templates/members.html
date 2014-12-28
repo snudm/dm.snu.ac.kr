@@ -19,8 +19,87 @@
         {% include 'zoon.html' %}
     </div>
 </div>
-<h2>Researchers <small>(n={{ members | length }})</small></h2>
-{% for member in members %}
+
+<h2>Ph.D. Candidates <small>(n={{ members['phd_candidates'] | length }})</small></h2>
+{% for member in members['phd_candidates'] %}
+<div id="{{ member['image'] }}" class="member hover row">
+    <div class="col-md-2">
+        <img class="width-100 thumbnail" src="{{ url_for('static', filename='images/members/%s.jpg' % member['image']) }}">
+    </div>
+    <div class="col-md-10">
+        <h3>{{ member['name'] }}</h3>
+        <table class="table table-condensed">
+            {% for key, value in member.items() %}
+                {% if key not in ['image', 'name'] %}
+                <tr>
+                    <td>{{ key }}</td>
+                    <td>
+                        {% if key=='homepage' and value!='N/A'%}<a href="{{ value }}">{% endif %}
+                        {{ value }}
+                        {% if key=='homepage' and value!='N/A' %}</a>{% endif %}
+                    </td>
+                </tr>
+                {% endif %}
+            {% endfor %}
+        </table>
+    </div>
+</div>
+{% endfor %}
+
+<h2>Ph.D. All but Dissertation <small>(n={{ members['phd_abd'] | length }})</small></h2>
+{% for member in members['phd_abd'] %}
+<div id="{{ member['image'] }}" class="member hover row">
+    <div class="col-md-2">
+        <img class="width-100 thumbnail" src="{{ url_for('static', filename='images/members/%s.jpg' % member['image']) }}">
+    </div>
+    <div class="col-md-10">
+        <h3>{{ member['name'] }}</h3>
+        <table class="table table-condensed">
+            {% for key, value in member.items() %}
+                {% if key not in ['image', 'name'] %}
+                <tr>
+                    <td>{{ key }}</td>
+                    <td>
+                        {% if key=='homepage' and value!='N/A'%}<a href="{{ value }}">{% endif %}
+                        {{ value }}
+                        {% if key=='homepage' and value!='N/A' %}</a>{% endif %}
+                    </td>
+                </tr>
+                {% endif %}
+            {% endfor %}
+        </table>
+    </div>
+</div>
+{% endfor %}
+
+<h2>Ph.D. Students <small>(n={{ members['phd_students'] | length }})</small></h2>
+{% for member in members['phd_students'] %}
+<div id="{{ member['image'] }}" class="member hover row">
+    <div class="col-md-2">
+        <img class="width-100 thumbnail" src="{{ url_for('static', filename='images/members/%s.jpg' % member['image']) }}">
+    </div>
+    <div class="col-md-10">
+        <h3>{{ member['name'] }}</h3>
+        <table class="table table-condensed">
+            {% for key, value in member.items() %}
+                {% if key not in ['image', 'name'] %}
+                <tr>
+                    <td>{{ key }}</td>
+                    <td>
+                        {% if key=='homepage' and value!='N/A'%}<a href="{{ value }}">{% endif %}
+                        {{ value }}
+                        {% if key=='homepage' and value!='N/A' %}</a>{% endif %}
+                    </td>
+                </tr>
+                {% endif %}
+            {% endfor %}
+        </table>
+    </div>
+</div>
+{% endfor %}
+
+<h2>Masters' Students <small>(n={{ members['ms_students'] | length }})</small></h2>
+{% for member in members['ms_students'] %}
 <div id="{{ member['image'] }}" class="member hover row">
     <div class="col-md-2">
         <img class="width-100 thumbnail" src="{{ url_for('static', filename='images/members/%s.jpg' % member['image']) }}">
