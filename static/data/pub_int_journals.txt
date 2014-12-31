@@ -1,7 +1,8 @@
+"Selecting an Optimal Set of Keywords for Search Engine Advertising", Minhoe Hur, Songwon Han, Hongtae Kim, and Sungzoon Cho, International Journal Of Industrial Engineering: Theory, Applications And Practice, Accepted. (SCIE)
 "Keystroke dynamics-based user authentication using long and free text strings from various input devices", Pilsung Kang, Sungzoon Cho, Information Sciences, Accepted. (SCI), http://www.sciencedirect.com/science/article/pii/S0020025514009062
-"Constructing a multi-class classifier using one-against-one approach with different binary classifiers", Seokho Kang, Pilsung Kang, Sungzoon Cho, Neurocomputing, Accepted. (SCIE)
+"Constructing a multi-class classifier using one-against-one approach with different binary classifiers", Seokho Kang, Pilsung Kang, Sungzoon Cho, Neurocomputing, , Volume 149, Feb 2015, Pages 677-682. (SCIE)
 "A novel multi-class classification algorithm based on one-class support vector machine", Seokho Kang, Sungzoon Cho, Intelligent Data Analysis, Accepted. (SCIE)
-"Evaluating the reliability level of virtual metrology results for flexible process control: A novelty detection-based approach", Pilsung Kang, Dongil Kim, and Sungzoon Cho, Pattern Analysis and Applications, Accepted. (SCIE)
+"Evaluating the reliability level of virtual metrology results for flexible process control: A novelty detection-based approach", Pilsung Kang, Dongil Kim, and Sungzoon Cho, Pattern Analysis and Applications, Volume 17, Issue 4, Nov 2014, Pages 863-881. (SCIE)
 "A Study on the Man-hour Prediction System for Shipbuilding", Minhoe Hur, Seung-kyung Lee, Bongseok Kim, Sungzoon Cho, Dongha Lee, and Daehyung Lee, Journal of Intelligent Manufacturing, Accepted. (SCIE)
 "Improvement of virtual metrology performance by removing metrology noises in a training dataset", Dongil Kim, Pilsung Kang, Seung-kyung Lee, Seokho Kang, Seungyong Doh, and Sungzoon Cho, Pattern Analysis and Applications, Accepted. (SCIE)
 "Approximating support vector machine with artificial neural network for fast prediction", Seokho Kang, Sungzoon Cho, Expert Systems with Applications, Volume 41, Issue 10, August 2014, Pages 4989-4995. (SCIE)

@@ -1,4 +1,14 @@
-﻿연설문 텍스트마이닝을 통한 미국 연방공개시장위원회 인사들의 Dual Mandate 측면의 통화정책 성향 분석, 전영환, 박성훈, 조성준, 2014년 5월, 2014 대한산업공학회/한국경영과학회 춘계공동학술대회.
+﻿2형 당뇨병 환자의 진단 및 처방 정보를 이용한 지식 발견 모델 구축, 고태훈, 강석호, 이수진, 조성준, 유경상, 2014년 11월, 대한산업공학회 2014 추계학술대회.
+Machine Learning-based Drug Failure Prediction for Type 2 Diabetes, 강석호, 고태훈, 조성준, 이수진, 유경상, 2014년 11월, 대한산업공학회 2014 추계학술대회.
+데이터마이닝 알고리즘을 위한 효율적 k-NN Graph 계산, 김현중, 강필성, 조성준, 2014년 11월, 대한산업공학회 2014 추계학술대회.
+Hybrid approach with centroid based classification and SVM for multi-class text classification, 심재웅, 김은지, 강석호, 조성준, 2014년 11월, 한국BI데이터마이닝학회 2014 추계학술대회.
+Multiclass Object Categorization using Ensemble methods, 안진원, 조성준, 2014년 11월, 한국BI데이터마이닝학회 2014 추계학술대회.
+Locality Sensitive Hashing for Nearest Neighbor Problem, 김현중, 조성준, 2014년 11월, 한국BI데이터마이닝학회 2014 추계학술대회.
+Tutorial Data Science를 위한 주요 프로그래밍 언어에 대한 평가, 고태훈, 조성준, 2014년 11월, 한국BI데이터마이닝학회 2014 추계학술대회.
+한국어 형태소 분석기의 현황 및 성능 비교, 박은정, 조성준, 이상구, 2014년 11월, 한국BI데이터마이닝학회 2014 추계학술대회.
+웹기반 한국어 워드클라우드 생성기, 박은정, 조성준, 서진욱, 2014년 11월, 한국BI데이터마이닝학회 2014 추계학술대회.
+KoNLPy: 쉽고 간결한 한국어 정보처리 파이썬 패키지, 박은정, 조성준, 2014년 10월, 제26회 한글 및 한국어 정보처리 학술대회.
+연설문 텍스트마이닝을 통한 미국 연방공개시장위원회 인사들의 Dual Mandate 측면의 통화정책 성향 분석, 전영환, 박성훈, 조성준, 2014년 5월, 2014 대한산업공학회/한국경영과학회 춘계공동학술대회.
 User Perception Based Music Map: Resolving issues in collaborative tagging system, 한송원, 조성준, 2014년 5월, 2014 대한산업공학회/한국경영과학회 춘계공동학술대회.
 A density-based validation method for support vector data description, 강석호, 양지원, 조성준, 2014년 5월, 2014 대한산업공학회/한국경영과학회 춘계공동학술대회.
 Kernel PCA 기법을 이용한 Rotation Forest 성능 향상, 심재웅, 강석호, 조성준, 2014년 5월, 2014 대한산업공학회/한국경영과학회 춘계공동학술대회.
