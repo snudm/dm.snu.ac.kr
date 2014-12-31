@@ -1,4 +1,4 @@
-Knowledge Discovery in Pre-assembly Design Review Database, Minhoe Hur, Jiwon Yang, Eunji Kim, Sungzoon Cho,  April 2015, PATTERNS 2015, Nice, France.
+"Knowledge Discovery in Pre-assembly Design Review Database", Minhoe Hur, Jiwon Yang, Eunji Kim, Sungzoon Cho,  April 2015, PATTERNS 2015, Nice, France.
 "Generating Ideas from Hidden Customer Needs in Social Media for New Product Development Process", Taehoon Ko, Minhoe Hur, Ilsun Rhiu, Sung Hee Ahn, Sungzoon Cho, Chul Chung, Myung Hwan Yun, Jun 2014, INFORMS Conference on the Business of Big Data, San Jose, CA, USA.
 "Bridging the semantic gap in multimedia retrieval with topic extraction from user reviews search", Eunjeong Park, Hyunjoong Kim, Seokho Kang, Sungzoon Cho, Yongki Lee, Jun 2014, INFORMS Conference on the Business of Big Data, San Jose, CA, USA.
 "Understanding HVAC usage logs for energy saving decision making", Jooseoung Park, Seung-Kyung Lee, Seokho Kang, Young Soo Kim, Ji Young Kim, Dong Seock Choi and Sungzoon Cho, October 2013, 17th International Conference on Industrial Engineering Theory, Applications and Practice, Pusan National University, Busan, Korea, 
