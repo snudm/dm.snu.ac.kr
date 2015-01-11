@@ -12,15 +12,14 @@
         <h3>Prof. Sungzoon Cho</h3>
         <p>(조성준, 趙成埈)</p>
         {% endif %}
-        <a href="{{ url_for('member', name='zoon') }}"><span class="glyphicon glyphicon-home"></span></a>
-        <a href="mailto:zoon@snu.ac.kr"><span class="glyphicon glyphicon-envelope"></span></a>
+        <a href="mailto:zoon@snu.ac.kr"><span class="glyphicon glyphicon-envelope"></span>zoon at snu.ac.kr</a>
     </div>
     <div class="col-md-10">
         {% include 'zoon.html' %}
     </div>
 </div>
 
-<h2>Ph.D. Candidates <small>(n={{ members['phd_candidates'] | length }})</small></h2>
+<h2>Ph.D. Candidates</h2>
 {% for member in members['phd_candidates'] %}
 <div id="{{ member['image'] }}" class="member hover row">
     <div class="col-md-2">
@@ -29,24 +28,74 @@
     <div class="col-md-10">
         <h3>{{ member['name'] }}</h3>
         <table class="table table-condensed">
-            {% for key, value in member.items() %}
-                {% if key not in ['image', 'name'] %}
-                <tr>
-                    <td>{{ key }}</td>
-                    <td>
-                        {% if key=='homepage' and value!='N/A'%}<a href="{{ value }}">{% endif %}
-                        {{ value }}
-                        {% if key=='homepage' and value!='N/A' %}</a>{% endif %}
-                    </td>
-                </tr>
-                {% endif %}
-            {% endfor %}
+            {% if 'email' in member.keys() %}
+            <tr>
+                <td>Email</td>
+                <td>
+                    {{ member.get('email')}}
+                </td>
+            </tr>
+            {% endif %}
+
+            {% if 'homepage' in member.keys() %}
+            <tr>
+                <td>Homepage</td>
+                <td>
+                    <a href="{{ member.get('homepage') }}">{{ member.get('homepage') }}</a>
+                </td>
+            </tr>
+            {% endif %}
+
+            {% if 'research area' in member.keys() %}
+            <tr>
+                <td>Research Area</td>
+                <td>
+                    {{ member.get('research area') }}
+                </td>
+            </tr>
+            {% endif %}
+
+            {% if 'job' in member.keys() %}
+            <tr>
+                <td>Job</td>
+                <td>
+                    {{ member.get('job') }}
+                </td>
+            </tr>
+            {% endif %}
+
+            {% if 'M.S.' in member.keys() %}
+            <tr>
+                <td>M.S.</td>
+                <td>
+                    {{ member.get('M.S.') }}
+                </td>
+            </tr>
+            {% endif %}
+
+            {% if 'B.S.' in member.keys() %}
+            <tr>
+                <td>B.S.</td>
+                <td>
+                    {{ member.get('B.S.') }}
+                </td>
+            </tr>
+            {% endif %}
+
+            {% if 'highschool' in member.keys() %}
+            <tr>
+                <td>Highschool</td>
+                <td>
+                    {{ member.get('highschool') }}
+                </td>
+            </tr>
+            {% endif %}
         </table>
     </div>
 </div>
 {% endfor %}
 
-<h2>Ph.D. All but Dissertation <small>(n={{ members['phd_abd'] | length }})</small></h2>
+<h2>Ph.D. All but Dissertation</h2>
 {% for member in members['phd_abd'] %}
 <div id="{{ member['image'] }}" class="member hover row">
     <div class="col-md-2">
@@ -55,24 +104,74 @@
     <div class="col-md-10">
         <h3>{{ member['name'] }}</h3>
         <table class="table table-condensed">
-            {% for key, value in member.items() %}
-                {% if key not in ['image', 'name'] %}
-                <tr>
-                    <td>{{ key }}</td>
-                    <td>
-                        {% if key=='homepage' and value!='N/A'%}<a href="{{ value }}">{% endif %}
-                        {{ value }}
-                        {% if key=='homepage' and value!='N/A' %}</a>{% endif %}
-                    </td>
-                </tr>
-                {% endif %}
-            {% endfor %}
+            {% if 'email' in member.keys() %}
+            <tr>
+                <td>Email</td>
+                <td>
+                    {{ member.get('email')}}
+                </td>
+            </tr>
+            {% endif %}
+
+            {% if 'homepage' in member.keys() %}
+            <tr>
+                <td>Homepage</td>
+                <td>
+                    <a href="{{ member.get('homepage') }}">{{ member.get('homepage') }}</a>
+                </td>
+            </tr>
+            {% endif %}
+
+            {% if 'research area' in member.keys() %}
+            <tr>
+                <td>Research Area</td>
+                <td>
+                    {{ member.get('research area') }}
+                </td>
+            </tr>
+            {% endif %}
+
+            {% if 'job' in member.keys() %}
+            <tr>
+                <td>Job</td>
+                <td>
+                    {{ member.get('job') }}
+                </td>
+            </tr>
+            {% endif %}
+
+            {% if 'M.S.' in member.keys() %}
+            <tr>
+                <td>M.S.</td>
+                <td>
+                    {{ member.get('M.S.') }}
+                </td>
+            </tr>
+            {% endif %}
+
+            {% if 'B.S.' in member.keys() %}
+            <tr>
+                <td>B.S.</td>
+                <td>
+                    {{ member.get('B.S.') }}
+                </td>
+            </tr>
+            {% endif %}
+
+            {% if 'highschool' in member.keys() %}
+            <tr>
+                <td>Highschool</td>
+                <td>
+                    {{ member.get('highschool') }}
+                </td>
+            </tr>
+            {% endif %}
         </table>
     </div>
 </div>
 {% endfor %}
 
-<h2>Ph.D. Students <small>(n={{ members['phd_students'] | length }})</small></h2>
+<h2>Ph.D. Students</h2>
 {% for member in members['phd_students'] %}
 <div id="{{ member['image'] }}" class="member hover row">
     <div class="col-md-2">
@@ -81,24 +180,74 @@
     <div class="col-md-10">
         <h3>{{ member['name'] }}</h3>
         <table class="table table-condensed">
-            {% for key, value in member.items() %}
-                {% if key not in ['image', 'name'] %}
-                <tr>
-                    <td>{{ key }}</td>
-                    <td>
-                        {% if key=='homepage' and value!='N/A'%}<a href="{{ value }}">{% endif %}
-                        {{ value }}
-                        {% if key=='homepage' and value!='N/A' %}</a>{% endif %}
-                    </td>
-                </tr>
-                {% endif %}
-            {% endfor %}
+            {% if 'email' in member.keys() %}
+            <tr>
+                <td>Email</td>
+                <td>
+                    {{ member.get('email')}}
+                </td>
+            </tr>
+            {% endif %}
+
+            {% if 'homepage' in member.keys() %}
+            <tr>
+                <td>Homepage</td>
+                <td>
+                    <a href="{{ member.get('homepage') }}">{{ member.get('homepage') }}</a>
+                </td>
+            </tr>
+            {% endif %}
+
+            {% if 'research area' in member.keys() %}
+            <tr>
+                <td>Research Area</td>
+                <td>
+                    {{ member.get('research area') }}
+                </td>
+            </tr>
+            {% endif %}
+
+            {% if 'job' in member.keys() %}
+            <tr>
+                <td>Job</td>
+                <td>
+                    {{ member.get('job') }}
+                </td>
+            </tr>
+            {% endif %}
+
+            {% if 'M.S.' in member.keys() %}
+            <tr>
+                <td>M.S.</td>
+                <td>
+                    {{ member.get('M.S.') }}
+                </td>
+            </tr>
+            {% endif %}
+
+            {% if 'B.S.' in member.keys() %}
+            <tr>
+                <td>B.S.</td>
+                <td>
+                    {{ member.get('B.S.') }}
+                </td>
+            </tr>
+            {% endif %}
+
+            {% if 'highschool' in member.keys() %}
+            <tr>
+                <td>Highschool</td>
+                <td>
+                    {{ member.get('highschool') }}
+                </td>
+            </tr>
+            {% endif %}
         </table>
     </div>
 </div>
 {% endfor %}
 
-<h2>Masters' Students <small>(n={{ members['ms_students'] | length }})</small></h2>
+<h2>Masters' Students</h2>
 {% for member in members['ms_students'] %}
 <div id="{{ member['image'] }}" class="member hover row">
     <div class="col-md-2">
@@ -107,25 +256,75 @@
     <div class="col-md-10">
         <h3>{{ member['name'] }}</h3>
         <table class="table table-condensed">
-            {% for key, value in member.items() %}
-                {% if key not in ['image', 'name'] %}
-                <tr>
-                    <td>{{ key }}</td>
-                    <td>
-                        {% if key=='homepage' and value!='N/A'%}<a href="{{ value }}">{% endif %}
-                        {{ value }}
-                        {% if key=='homepage' and value!='N/A' %}</a>{% endif %}
-                    </td>
-                </tr>
-                {% endif %}
-            {% endfor %}
+            {% if 'email' in member.keys() %}
+            <tr>
+                <td>Email</td>
+                <td>
+                    {{ member.get('email')}}
+                </td>
+            </tr>
+            {% endif %}
+
+            {% if 'homepage' in member.keys() %}
+            <tr>
+                <td>Homepage</td>
+                <td>
+                    <a href="{{ member.get('homepage') }}">{{ member.get('homepage') }}</a>
+                </td>
+            </tr>
+            {% endif %}
+
+            {% if 'research area' in member.keys() %}
+            <tr>
+                <td>Research Area</td>
+                <td>
+                    {{ member.get('research area') }}
+                </td>
+            </tr>
+            {% endif %}
+
+            {% if 'job' in member.keys() %}
+            <tr>
+                <td>Job</td>
+                <td>
+                    {{ member.get('job') }}
+                </td>
+            </tr>
+            {% endif %}
+
+            {% if 'M.S.' in member.keys() %}
+            <tr>
+                <td>M.S.</td>
+                <td>
+                    {{ member.get('M.S.') }}
+                </td>
+            </tr>
+            {% endif %}
+
+            {% if 'B.S.' in member.keys() %}
+            <tr>
+                <td>B.S.</td>
+                <td>
+                    {{ member.get('B.S.') }}
+                </td>
+            </tr>
+            {% endif %}
+
+            {% if 'highschool' in member.keys() %}
+            <tr>
+                <td>Highschool</td>
+                <td>
+                    {{ member.get('highschool') }}
+                </td>
+            </tr>
+            {% endif %}
         </table>
     </div>
 </div>
 {% endfor %}
 
 <h2>Alumni</h2>
-<h3>Ph.D. <small>(n={{ alumni_phd | length }})</small></h3>
+<h3>Ph.D.</h3>
 <table class="alumni table table-hover">
 {% for member in alumni_phd %}
 <tr>
@@ -136,7 +335,7 @@
 {% endfor %}
 </table>
 
-<h3>M.S. <small>(n={{ alumni_ms | length }})</small></h3>
+<h3>M.S.</h3>
 <table class="alumni table table-hover">
 {% for member in alumni_ms %}
 <tr>
