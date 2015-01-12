@@ -326,23 +326,47 @@
 <h2>Alumni</h2>
 <h3>Ph.D.</h3>
 <table class="alumni table table-hover">
-{% for member in alumni_phd %}
-<tr>
-    {% for column in member %}
-    <td>{{ column }}</td>
-    {% endfor %}
-</tr>
+{% for member in alumni['phd_alumni'] %}
+    <tr>
+        <td>
+            {{ member.get('year') }}
+        </td>
+        <td>
+            {{ member.get('name') }}
+        </td>
+        <td>
+    {% if 'job' in member.keys() %}
+            {{ member.get('job') }}
+    {% endif %}
+        <br /><br />
+    {% if 'dissertation' in member.keys() %}
+            <a href="{{ member.get('diss_address') }}">{{ member.get('dissertation') }}</a>
+    {% endif %}
+        </td>
+    </tr>
 {% endfor %}
 </table>
 
 <h3>M.S.</h3>
 <table class="alumni table table-hover">
-{% for member in alumni_ms %}
-<tr>
-    {% for column in member %}
-    <td>{{ column }}</td>
-    {% endfor %}
-</tr>
+{% for member in alumni['ms_alumni'] %}
+    <tr>
+        <td>
+            {{ member.get('year') }}
+        </td>
+        <td>
+            {{ member.get('name') }}
+        </td>
+        <td>
+        {% if 'job' in member.keys() %}
+            {{ member.get('job') }}
+        {% endif %}
+        <br /><br />
+        {% if 'dissertation' in member.keys() %}
+            <a href="{{ member.get('diss_address') }}">{{ member.get('dissertation') }}</a>
+        {% endif %}
+        </td>
+    </tr>
 {% endfor %}
 </table>
 

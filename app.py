@@ -67,8 +67,7 @@ def datamining():
 def members():
     return render_template('members.html',\
            members=read_json_data('members.json'),
-           alumni_phd=read_csv_data('alumni_phd.csv'),
-           alumni_ms=read_csv_data('alumni_ms.tsv', sep='\t'))
+           alumni=read_json_data('alumni.json'))
 
 @app.route('/<lang_code>/notices/')
 def notices():
