@@ -2,36 +2,36 @@
     {
      "image": "sppark",
      "name": "박 성 훈 (Sunghoon Park)",
-     "email": "shpark82@snu.ac.kr",
+     "email": "shpark82 at snu.ac.kr",
      "research area": "Incremental Learning, Time Series Analysis, Financial Engineering",
-     "B.S.": "Dept. of Computer Science, KAIST, 2005",
+     "B.S.": "Computer Science, KAIST, 2005",
      "highschool": "Seoul Science, 2000"
     },
     {
     "image": "thko",
     "name": "고 태 훈 (Taehoon Ko)",
-    "email": "hooni915@snu.ac.kr",
+    "email": "taehoonko at dm.snu.ac.kr",
     "research area": "Clustering, Time Series Analysis",
-    "B.S.": "Dept. of Industrial Engineering, Seoul Nat'l Univ., 2008",
+    "B.S.": "Industrial Engineering, Seoul Nat'l Univ., 2008",
     "highschool": "Gwacheon, 2004"      
     },
     {
     "image": "mhhor",
     "name": "허 민 회 (Minhoe Hur)",
-    "email": "dninb.kr@gmail.com",
+    "email": "dninb.kr at gmail.com",
     "homepage": "http://blog.naver.com/dninb",
     "research area": "Machine Learning",
     "M.S.": "Graduate School of Culture Technology, KAIST, 2009",
-    "B.S.": "Dept. of Industrial and Management Engineering, POSTECH, 2007",
+    "B.S.": "Industrial and Management Engineering, POSTECH, 2007",
     "highschool": "Jemulpo, 2002"       
     },
     {
     "image": "shkang",
     "name": "강 석 호 (Seokho Kang)",
-    "email": "prokids@snu.ac.kr",
+    "email": "skang at dm.snu.ac.kr",
     "homepage": "https://sites.google.com/site/seokhokang90",
     "research area": "Kernel-based Learning Algorithms, Multiple Classifier Systems, Dimensionality Reduction",
-    "B.S.": "Dept. of Industrial Engineering, Seoul Nat'l Univ., 2011",
+    "B.S.": "Industrial Engineering, Seoul Nat'l Univ., 2011",
     "highschool": "Chonnam Science, 2008"       
     }
 ],
@@ -39,43 +39,44 @@
    {
     "image": "ejpark",
     "name": "박 은 정 (Eunjeong Park)",
-    "email": "epark@dm.snu.ac.kr",
+    "email": "epark at dm.snu.ac.kr",
     "homepage": "http://dm.snu.ac.kr/~epark",
-    "M.S.": "Dept. of Industrial Engineering, Seoul Nat'l Univ., 2011",
-    "B.S.": "Dept. of Industrial Engineering, Seoul Nat'l Univ., 2009",
+    "M.S.": "Industrial Engineering, Seoul Nat'l Univ., 2011",
+    "B.S.": "Industrial Engineering, Seoul Nat'l Univ., 2009",
     "highschool": "Daedeok, 2004"       
     },
     {
     "image": "jspark",
     "name": "박 주 성 (Jooseoung Park)",
-    "email": "uni208@snu.ac.kr",
-    "M.S.": "Dept. of Industrial Engineering, Seoul Nat'l Univ., 2011",
-    "B.S.": "Dept. of Industrial Engineering, KAIST, 2009",
+    "email": "jspark at dm.snu.ac.kr",
+    "M.S.": "Industrial Engineering, Seoul Nat'l Univ., 2011",
+    "B.S.": "Industrial Engineering, KAIST, 2009",
     "highschool": "Seoul Science, 2004" 
     },
     {
     "image": "jwyang",
     "name": "양 지 원 (Jiwon Yang)",
-    "email": "ad1392@gmail.com",
-    "B.S.": "Dept. of Industrial Engineering, and Dept. of Computer Science and Engineering, Seoul Nat'l Univ., 2010",
+    "email": "yang at dm.snu.ac.kr",
+    "research area": "Learning Algorithms, Mining for Manufacturing Systems",
+    "B.S.": "Industrial Engineering, and Computer Science and Engineering, Seoul Nat'l Univ., 2010",
     "highschool": "Sangdong, 2005"      
     },
     {
     "image": "ykkim",
     "name": "김 연 국 (Yeonkook Kim)",
-    "email": "yjk15@snu.ac.kr",
+    "email": "ykkim at dm.snu.ac.kr",
     "job": "D&Si, 2010-",
-    "M.S.": "Dept. of Industrial Engineering and Operations Research, Columbia Univ., 2000",
-    "B.S.": "Dept. of Economics, Univ. of Toronto",
+    "M.S.": "Industrial Engineering and Operations Research, Columbia Univ., 2000",
+    "B.S.": "Economics, Univ. of Toronto",
     "highschool": "Jarvis Collegiate Institute"
     },
     {
     "image": "hjkim",
     "name": "김 현 중 (Hyunjoong Kim)",
-    "email": "web2005@snu.ac.kr",
+    "email": "hyunjoong at dm.snu.ac.kr",
     "research area": "Natural Language Processing, Instance-based Learning, Graph Mining",
-    "M.S.": "Dept. of Industrial Engineering, Seoul Nat'l Univ., 2013",
-    "B.S.": "Dept. of Industrial Engineering, Seoul Nat'l Univ., 2011",
+    "M.S.": "Industrial Engineering, Seoul Nat'l Univ., 2013",
+    "B.S.": "Industrial Engineering, Seoul Nat'l Univ., 2011",
     "highschool": "Kukje, 2005" 
     }
 ],
@@ -83,70 +84,92 @@
     {
     "image": "jhlee",
     "name": "이 제 혁 (Jehyuk Lee)",
-    "email": "wpgur0107@naver.com",
-    "M.S.": "Dept. of Industrial & Systems Engineering, KAIST, 2014",
-    "B.S.": "Dept. of Industrial & Systems Engineering, and Dept. of Management Science, KAIST, 2012",
+    "email": "jehyuklee at dm.snu.ac.kr",
+    "M.S.": "Industrial & Systems Engineering, KAIST, 2014",
+    "B.S.": "Industrial & Systems Engineering, and Management Science, KAIST, 2012",
     "highschool": "Jeju Science, 2007"  
     },
     {
     "image": "ejkim",
     "name": "김 은 지 (Eunji Kim)",
-    "email": "eunjikim@dm.snu.ac.kr",
+    "email": "eunjikim at dm.snu.ac.kr",
     "job": "Kyobo Life Insurance, 2011-2013",
-    "B.S.": "Dept. of Mathematical Sciences, Seoul Nat'l Univ., 2012",
+    "B.S.": "Mathematical Sciences, Seoul Nat'l Univ., 2012",
     "highschool": "Baekseok, 2006"      
     },
     {
     "image": "hccho",
     "name": "조 현 창 (Hyunchang Cho)",
-    "email": "hccho@dm.snu.ac.kr",
-    "B.S.": "Dept. of Computer Science and Engineering, Seoul Nat'l Univ., 2014",
+    "email": "hccho at dm.snu.ac.kr",
+    "B.S.": "Computer Science and Engineering, Seoul Nat'l Univ., 2014",
     "highschool": "Banpo, 2007" 
     },
     {
     "image": "jwsim",
     "name": "심 재 웅 (Jaewoong Shim)",
-    "email": "sjw821@snu.ac.kr",
-    "B.S.": "Dept. of Industrial Engineering, Seoul Nat'l Univ., 2014",
+    "email": "shimjw at dm.snu.ac.kr",
+    "B.S.": "Industrial Engineering, Seoul Nat'l Univ., 2014",
     "highschool": "Dukwon, 2008"        
     },
     {
     "image": "jwahn",
     "name": "안 진 원 (Jinwon An)",
-    "email": "roah@snu.ac.kr",
-    "B.S.": "Dept. of Industrial Engineering, Seoul Nat'l Univ., 2014",
+    "email": "jinwon at dm.snu.ac.kr",
+    "B.S.": "Industrial Engineering, Seoul Nat'l Univ., 2014",
     "highschool": "Hanil, 2009" 
     },
     {
     "image": "mskim",
     "name": "김 미 숙 (Misuk Kim)",
-    "email": "misuke88@naver.com",
+    "email": "mskim at dm.snu.ac.kr",
     "research area": "Optimization, Sentiment Analysis",
-    "M.S.": "Dept. of Industrial & Management Engineering, POSTECH, 2012",
-    "B.S.": "Dept. of Industrial & Management Engineering, POSTECH, 2009",
+    "M.S.": "Industrial & Management Engineering, POSTECH, 2012",
+    "B.S.": "Industrial & Management Engineering, POSTECH, 2009",
     "highschool": "Chonnam Science, 2006"       
+    },
+    {    
+    "image": "ydahn",
+    "name": "안 용 대 (Yongdae Ahn)",
+    "email": "ydahn at dm.snu.ac.kr ",
+    "job": "Hyundai Heavy Industries",
+    "B.S.": "Industrial Engineering, KAIST, 2012",
+    "highschool": "Korea Science Academy of KAIST, 2004"
+    },
+    {
+    "image": "hsshin",
+    "name": "신 훈 식 (Hunsik Shin)",
+    "email": "hunsik0528 at gmail.com",
+    "B.S.": "Industrial & Management Engineering, POSTECH, 2015",
+    "highschool": "Chungbuk Science, 2010"       
     }
 ],
 "ms_students": [
     {
     "image": "swhan",
     "name": "한 송 원 (Songwon Han)",
-    "email": "yakantoss@snu.ac.kr",
-    "B.S.": "Dept. of Industrial Engineering, Seoul Nat'l Univ., 2013",
+    "email": "yakantoss at snu.ac.kr",
+    "B.S.": "Industrial Engineering, Seoul Nat'l Univ., 2013",
     "highschool": "Jamsil, 2008"        
     },
     {
     "image": "htkim",
     "name": "김 홍 태 (Hongtae Kim)",
-    "email": "kht0910@snu.ac.kr",
-    "B.S.": "Dept. of Industrial Engineering, Seoul Nat'l Univ., 2013",
+    "email": "kht0910 at snu.ac.kr",
+    "B.S.": "Industrial Engineering, Seoul Nat'l Univ., 2013",
     "highschool": "Incheon Science, 2007"       
     },
     {
     "image": "hkkim",
     "name": "김 한 결 (Han Kyul Kim)",
-    "email": "hank1111@gmail.com",
-    "B.S.": "Dept. of Industrial & Systems Engineering, and Dept. of Business and Technology Management, KAIST, 2014",
+    "email": "hank at dm.snu.ac.kr",
+    "B.S.": "Industrial & Systems Engineering, and Business and Technology Management, KAIST, 2014",
     "highschool": "Concordia International School Shanghai, 2007"       
+    },
+    {
+    "image": "hsyang",
+    "name": "양 호 성 (Hoseong Yang)",
+    "email": "dedert at naver.com",
+    "B.S.":  "Industrial Engineering, Seoul Nat'l Univ., 2015",
+    "highschool": "Sungdeok, 2008"       
     }
 ]}

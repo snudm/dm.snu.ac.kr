@@ -25,7 +25,7 @@
       <ul class="nav navbar-nav">
         {% for menu in menus %}
             {% if isinstance(menu, str) %}
-            <li{% if active_page==menu %} class="active"{% endif %}><a href="{{ url_for(menu.lower(), lang_code=locale) }}">{{ menu }}</a></li>
+            <li{% if active_page==menu %} class="active"{% endif %}><a href="{{ url_for(menu.lower(), lang_code=locale) }}">{% if menu=='datamining' %} Data Mining {% else %} {{ menu }} {% endif %} </a></li>
             {% else %}
             <li class="{% if active_page==menu[0] %}active {% endif %}dropdown">
                 <a href="#" class="dropdown-toggle" data-toggle="dropdown">{{ menu[0] }}<span class="caret"></span></a>

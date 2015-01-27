@@ -161,7 +161,6 @@
     {
      "year": "2010",
      "name": "윤준하",
-     "job": "전문연구요원",
      "dissertation": "(A) Present and future of data brokerage in Korea",
      "diss_address": "http://library.snu.ac.kr/search/DetailView.ax?sid=12&cid=3441690"
     },
@@ -273,7 +272,7 @@
     {
      "year": "2004",
      "name": "하경남",
-     "job": "Business School, University of New Haven",
+     "job": "Business School, University of New Haven, Assistant Professor",
      "dissertation": "배깅 신경망 및 SVM을 이용한 응답모델 구축",
      "diss_address": "http://library.snu.ac.kr/search/DetailView.ax?sid=12&cid=1141873"
     },
@@ -292,21 +291,21 @@
     {
      "year": "2003",
      "name": "정세희",
-     "job": "SK Telecom SKT CI 본부 CI 개인화팀",
+     "job": "NC 소프트",
      "dissertation": "인공 신경망을 이용한 옵션 가격 결정 모형",
      "diss_address": "http://library.snu.ac.kr/search/DetailView.ax?sid=12&cid=1079115"
     },
     {
      "year": "2003",
      "name": "이준명",
-     "job": "하나은행 Data Miner, 고객 데이터 분석",
+     "job": "하나은행",
      "dissertation": "유전자 알고리즘을 이용한 변수 선택과 기본 학습 모델로서의 Support Vector Machine",
      "diss_address": "http://library.snu.ac.kr/search/DetailView.ax?sid=12&cid=1079531"
     },
     {
      "year": "2002",
      "name": "백진우",
-     "job": "한국투자증권",
+     "job": "신한 BNP파리바 자산운용",
      "dissertation": "KOSPI 200 선물에서의 자기연상학습 신경망을 이용한 상승 추세 탐지",
      "diss_address": "http://library.snu.ac.kr/search/DetailView.ax?sid=12&cid=1079860"
     },
@@ -327,7 +326,7 @@
     {
      "year": "2001",
      "name": "이봉기",
-     "job": "SK Telecom SKT CI 본부 CI 개인화팀",
+     "job": "SK Planet",
      "dissertation": "입력 데이터 분포에 따른 가상 샘플 생성",
      "diss_address": "http://library.snu.ac.kr/search/DetailView.ax?sid=12&cid=927858"
     },
@@ -394,7 +393,7 @@
     {
      "year": "1997",
      "name": "한대희",
-     "job": "비원플러스"
+     "job": "Tedium"
     },
     {
      "year": "1997",

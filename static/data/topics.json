@@ -1,88 +1,4 @@
-[{
-    "title_ko": "제품 기획",
-    "title_en": "Product Design",
-    "projects": [
-    {
-        "id": "lgelectronics",
-        "description_ko": "영화 리뷰 및 메타데이터를 이용한 시멘틱 영화 검색 엔진 연구"
-    },
-    {
-
-        "id": "lgelectronics",
-        "description_ko": "트위터 분석을 통한 새로운 스마트 TV 기능 개발"
-    },
-    {
-        "id": "samsungdmc",
-        "description_ko": "가전기기 별 컨텍스트 탐색을 통한 스마트 홈 시나리오 설계"
-    },
-    {
-        "id": "samsungdmc",
-        "description_ko": "UX 및 가전 기기 사용 패턴을 이용한 스마트 가전기기 시나리오 설계"
-    }]
-},
-{
-    "title_ko": "마케팅 & 영업",
-    "title_en": "Marketing & Sales",
-    "projects": [
-    {
-        "id": "samsungcard",
-        "description_ko": "카드 고객 마켓 세그멘테이션"
-    },
-    {
-        "id": "duzon",
-        "description_ko": "Cross Sell 및 Up Sell 판매전략"
-    },
-    {
-        "id": "cj",
-        "description_ko": "영업 전략의 매출 영향력 분석"
-    },
-    {
-        "id": "cj",
-        "description_ko": "셋트제품 판매 패턴 분류"
-    },
-    {
-        "id": "dsme",
-        "description_ko": "선박 생산기간 예측"
-    },
-    {
-        "id": "lgelectronics",
-        "description_ko": "스마트 TV 자동녹화 방법론 개발"
-    },
-    {
-        "id": "daumsoft",
-        "description_ko": "Twiterrian 영향도 평가"
-    }]
-},
-{
-    "title_ko": "생산 & 물류",
-    "title_en": "Manufacturing & Transportation",
-    "projects": [
-    {
-        "id": "samsungds",
-        "description_ko": "반도체 공정 효율 향상"
-    },
-    {
-        "id": "samsungds",
-        "description_ko": "연속 공정 조업 조건의 최적화"
-    },
-    {
-        "id": "dsme",
-        "description_ko": "시수 물량 예측"
-    },
-    {
-        "id": "dsme",
-        "description_ko": "블록 조립 프로세스 최적화"
-    },
-    {
-        "id": "posco",
-        "description_ko": "소결기 속도 제어"
-    }
-    ,
-    {
-        "id": "posco",
-        "description_ko": "냉간 압연 최적 Roll Force 예측"
-    }]
-},
+[
 {
     "title_ko": "품질관리",
     "title_en": "Quality Control",
@@ -102,6 +18,10 @@
     {
         "id": "samsungsaengsan",
         "description_ko": "반도체 공정 가상계측 모델링 및 Run to Run Control"
+    },
+    {
+        "id": "samsunggajeon",
+        "description_ko": "시스템 에어컨 실외기 이상 작동 예지"
     },
     {
         "id": "dsme",
@@ -128,8 +48,95 @@
         "description_ko": "필드 클레임 및 공정 데이터를 활용한 이상 엔진 탐지"
     },
     {
-        "id": "samsunggajeon",
-        "description_ko": "시스템 에어컨 실외기 이상 작동 예지"
+        "id": "doosaninfra",
+        "description_ko": "Text Mining을 이용한 엔진 검사 이력 및 필드클레임 분석"
+    },
+    {
+        "id": "doosanelectronics",
+        "description_ko": "CCL 공정 최적화 및 불량 예측"
+    }]
+},
+{
+    "title_ko": "마케팅 & 영업",
+    "title_en": "Marketing & Sales",
+    "projects": [
+    {
+        "id": "samsungcard",
+        "description_ko": "카드 고객 마켓 세그멘테이션"
+    },
+    {
+        "id": "dsme",
+        "description_ko": "선박 생산기간 예측"
+    },
+    {
+        "id": "lgelectronics",
+        "description_ko": "스마트 TV 자동녹화 방법론 개발"
+    },
+    {
+        "id": "cj",
+        "description_ko": "영업 전략의 매출 영향력 분석"
+    },
+    {
+        "id": "cj",
+        "description_ko": "셋트제품 판매 패턴 분류"
+    },
+    {
+        "id": "duzon",
+        "description_ko": "Cross Sell 및 Up Sell 판매전략"
+    },
+    {
+        "id": "daumsoft",
+        "description_ko": "Twiterrian 영향도 평가"
+    }]
+},
+{
+    "title_ko": "생산 & 물류",
+    "title_en": "Manufacturing & Transportation",
+    "projects": [
+    {
+        "id": "posco",
+        "description_ko": "소결기 속도 제어"
+    },
+    {
+        "id": "posco",
+        "description_ko": "냉간 압연 최적 Roll Force 예측"
+    },
+    {
+        "id": "samsungds",
+        "description_ko": "반도체 공정 효율 향상"
+    },
+    {
+        "id": "samsungds",
+        "description_ko": "연속 공정 조업 조건의 최적화"
+    },
+    {
+        "id": "dsme",
+        "description_ko": "시수 물량 예측"
+    },
+    {
+        "id": "dsme",
+        "description_ko": "블록 조립 프로세스 최적화"
+    }]
+},
+{
+    "title_ko": "제품 기획",
+    "title_en": "Product Design",
+    "projects": [
+    {
+        "id": "samsungdmc",
+        "description_ko": "가전기기 별 컨텍스트 탐색을 통한 스마트 홈 시나리오 설계"
+    },
+    {
+        "id": "samsungdmc",
+        "description_ko": "UX 및 가전 기기 사용 패턴을 이용한 스마트 가전기기 시나리오 설계"
+    },
+    {
+        "id": "lgelectronics",
+        "description_ko": "영화 리뷰 및 메타데이터를 이용한 시멘틱 영화 검색 엔진 연구"
+    },
+    {
+        "id": "lgelectronics",
+        "description_ko": "트위터 분석을 통한 새로운 스마트 TV 기능 개발"
     }]
 },
 {
@@ -143,6 +150,10 @@
     {
         "id": "samsunggajeon",
         "description_ko": "시스템 에어컨 실내기 운전패턴 분석"
+    },
+    {
+        "id": "etri",
+        "description_ko": "통계분석 기반 건물 에너지 고장진단 시스템 개발"
     }]
 },
 {
@@ -155,7 +166,7 @@
     }]
 },
 {
-    "title_ko": "재무",
+    "title_ko": "금융",
     "title_en": "Finance",
     "projects": [
     {
