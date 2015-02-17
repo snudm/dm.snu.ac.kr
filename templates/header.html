@@ -1,14 +1,16 @@
 <nav class="navbar" role="navigation">
   <div class="container container-fluid">
     <!-- Brand and toggle get grouped for better mobile display -->
-    <div id=navbar-toggle" class="navbar-toggle">
-      <input id="locale-toggle" type="checkbox" {% if locale=='ko' %}checked {% endif %}data-toggle="toggle" data-on="ko" data-off="en" data-size="mini">
-      <button type="button" class="collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
-        <span class="sr-only">Toggle navigation</span>
-        <span class="icon-bar"></span>
-        <span class="icon-bar"></span>
-        <span class="icon-bar"></span>
-      </button>
+    <!--<div id="navbar-toggle" class="navbar-toggle">
+      <input id="locale-toggle" type="checkbox" {% if locale=='ko' %}checked {% endif %}data-toggle="toggle" data-on="Korean" data-off="English" data-size="mini">
+    </div>-->
+    <div id="navbar-toggle" class="navbar-toggle" data-toggle="buttons">
+      <label class="btn btn-primary {% if locale=='ko' %}active{% endif %}">
+        <input type="radio" name="options" id="option1" autocomplete="off" {% if locale=='ko' %}checked {% endif %}> Korean
+      </label>
+      <label class="btn btn-primary {% if locale=='en' %}active{% endif %}">
+        <input type="radio" name="options" id="option2" autocomplete="off" {% if locale=='en' %}checked {% endif %}> English
+      </label>
     </div>
     <div class="navbar-header">
       <a class="navbar-brand" href="{{ url_for('home', lang_code=locale) }}">
@@ -44,8 +46,11 @@
 <script>
 $(function() {
     var split_url = '{{ request.path.split('/', 2)[-1] }}';
-    var toggle_lang = $('#locale-toggle').prop('checked') ? 'en':'ko'
-    $('#locale-toggle').change(function() {
+    var toggle_lang = $('#option1').prop('checked') ? 'en':'ko';
+    $('#option1').change(function() {
+        window.location.replace('/' + toggle_lang + '/' + split_url);
+    });
+    $('#option2').change(function() {
         window.location.replace('/' + toggle_lang + '/' + split_url);
     })
 })

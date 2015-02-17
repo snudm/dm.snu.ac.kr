@@ -5,55 +5,68 @@
     "projects": [
     {
         "id": "samsungds",
-        "description_ko": "반도체 FDC 센서 값과 소자의 전기적 특성 관계 이해"
+        "description_ko": "FDC 센서 값을 활용한 수율 예측 및 관리",
+        "description_en": "Yield Prediction and Management based on FDC sensor values"
     },
     {
         "id": "samsungjejo",
-        "description_ko": "모바일 기기 필드 failure와 검사항목 관계 이해"
+        "description_ko": "모바일 기기 필드 failure와 검사항목 관계 이해",
+        "description_en": "Understanding Relation between Field Failures"
     },
     {
         "id": "samsungsaengsan",
-        "description_ko": "반도체 설비 오류, 혐의 설비 / 센서 탐지"
+        "description_ko": "반도체 설비 오류, 혐의 설비 / 센서 탐지",
+        "description_en": "Facility/Sensor Malfunction Detection in Semiconductor Manufacturing"
     },
     {
         "id": "samsungsaengsan",
-        "description_ko": "반도체 공정 가상계측 모델링 및 Run to Run Control"
+        "description_ko": "반도체 공정 가상계측 모델링 및 Run to Run Control",
+        "description_en": "Virtual Metrology and Run to Run Control in Semiconductor Manufacturing"
     },
     {
         "id": "samsunggajeon",
-        "description_ko": "시스템 에어컨 실외기 이상 작동 예지"
+        "description_ko": "시스템 에어컨 실외기 이상 작동 예지",
+        "description_en": "Predicting Outdoor A/C Unit Malfunction"
     },
     {
         "id": "dsme",
-        "description_ko": "해양 플랜트 펀치 텍스트 유형 분석"
+        "description_ko": "해양 플랜트 펀치 텍스트 유형 분석",
+        "description_en": "Mining Inspection Reports from Offshore Platform Construction"
     },
     {
         "id": "hyundai",
-        "description_ko": "자동차 부품 설계 검증 데이터 텍스트 분석"
+        "description_ko": "자동차 부품 설계 검증 데이터 텍스트 분석",
+        "description_en": "Mining Review Texts from Automobile Part Designing"
     },
     {
         "id": "hyundai",
-        "description_ko": "자동차 주행 패턴에 따른 배터리 상태 변화 분석"
+        "description_ko": "자동차 주행 패턴에 따른 배터리 상태 변화 분석",
+        "description_en": "Understanding Relation between Battery Status Change and Driving Behavior"
     },
     {
         "id": "hyundai",
-        "description_ko": "자동차 센서 데이터의 분석 방향 및 가용 알고리즘 탐색"
+        "description_ko": "자동차 센서 데이터의 분석 방향 및 가용 알고리즘 탐색",
+        "description_en": "Surveying Algorithms and Methods to analyze Vehicle Field Data"
     },
     {
         "id": "skhynix",
-        "description_ko": "반도체 최종검사 수율 예측"
+        "description_ko": "반도체 최종검사 수율 예측",
+        "description_en": "Yield Prediction in Semiconductor Manufacturing"
     },
     {
         "id": "doosaninfra",
-        "description_ko": "필드 클레임 및 공정 데이터를 활용한 이상 엔진 탐지"
+        "description_ko": "필드 클레임 및 공정 데이터를 활용한 이상 엔진 탐지",
+        "description_en": "Understanding Relation between Field Failures and Test Items"
     },
     {
         "id": "doosaninfra",
-        "description_ko": "Text Mining을 이용한 엔진 검사 이력 및 필드클레임 분석"
+        "description_ko": "Text Mining을 이용한 엔진 검사 이력 및 필드클레임 분석",
+        "description_en": "Understanding Relation between Field Failure Texts and Test Item Texts"
     },
     {
         "id": "doosanelectronics",
-        "description_ko": "CCL 공정 최적화 및 불량 예측"
+        "description_ko": "CCL 공정 최적화 및 불량 예측",
+        "description_en": "Understanding Relation between Process Parameters and Product Quality in CCL Process"
     }]
 },
 {
@@ -62,31 +75,38 @@
     "projects": [
     {
         "id": "samsungcard",
-        "description_ko": "카드 고객 마켓 세그멘테이션"
+        "description_ko": "카드 고객 마켓 세그멘테이션",
+        "description_en": "Market Segmentation of Customers"
     },
     {
         "id": "dsme",
-        "description_ko": "선박 생산기간 예측"
+        "description_ko": "선박 생산기간 예측",
+        "description_en": "Prediction of Ship Building Period"
     },
     {
         "id": "lgelectronics",
-        "description_ko": "스마트 TV 자동녹화 방법론 개발"
+        "description_ko": "스마트 TV 자동녹화 방법론 개발",
+        "description_en": "Development of Automatic Recording for Smart TV"
     },
     {
         "id": "cj",
-        "description_ko": "영업 전략의 매출 영향력 분석"
+        "description_ko": "영업 전략의 매출 영향력 분석",
+        "description_en": "Quantifying Sales Effect of Marketing Actions"
     },
     {
         "id": "cj",
-        "description_ko": "셋트제품 판매 패턴 분류"
+        "description_ko": "셋트제품 판매 패턴 분류",
+        "description_en": "Identifying Sales Patterns of Holiday Gift Sets"
     },
     {
         "id": "duzon",
-        "description_ko": "Cross Sell 및 Up Sell 판매전략"
+        "description_ko": "Cross Sell 및 Up Sell 판매전략",
+        "description_en": "Identifying Cross Sell and Up Sell targets based on Data Mining"
     },
     {
         "id": "daumsoft",
-        "description_ko": "Twiterrian 영향도 평가"
+        "description_ko": "Twiterrian 영향도 평가",
+        "description_en": "Quantifying Twitterians' Influence"
     }]
 },
 {
@@ -95,27 +115,23 @@
     "projects": [
     {
         "id": "posco",
-        "description_ko": "소결기 속도 제어"
+        "description_ko": "소결기 속도 제어",
+        "description_en": "Belt Speed Control in Sinter Plant"
     },
     {
         "id": "posco",
-        "description_ko": "냉간 압연 최적 Roll Force 예측"
-    },
-    {
-        "id": "samsungds",
-        "description_ko": "반도체 공정 효율 향상"
-    },
-    {
-        "id": "samsungds",
-        "description_ko": "연속 공정 조업 조건의 최적화"
+        "description_ko": "냉간 압연 최적 Roll Force 예측",
+        "description_en": "Prediction of Optimal Roll Force in Cold Mill"
     },
     {
         "id": "dsme",
-        "description_ko": "시수 물량 예측"
+        "description_ko": "시수 물량 예측",
+        "description_en": "Man Hour Prediction"
     },
     {
         "id": "dsme",
-        "description_ko": "블록 조립 프로세스 최적화"
+        "description_ko": "블록 조립 프로세스 최적화",
+        "description_en": "Understanding Block Assemly Process for Optimal Scheduling"
     }]
 },
 {
@@ -124,19 +140,23 @@
     "projects": [
     {
         "id": "samsungdmc",
-        "description_ko": "가전기기 별 컨텍스트 탐색을 통한 스마트 홈 시나리오 설계"
+        "description_ko": "가전기기 별 컨텍스트 탐색을 통한 스마트 홈 시나리오 설계",
+        "description_en": "Identifying Customer Needs for Smart Home Appliances from Social Media"
     },
     {
         "id": "samsungdmc",
-        "description_ko": "UX 및 가전 기기 사용 패턴을 이용한 스마트 가전기기 시나리오 설계"
+        "description_ko": "UX 및 가전 기기 사용 패턴을 이용한 스마트 가전기기 시나리오 설계",
+        "description_en": "Identifying Functions of Smart Home Appliances"
     },
     {
         "id": "lgelectronics",
-        "description_ko": "영화 리뷰 및 메타데이터를 이용한 시멘틱 영화 검색 엔진 연구"
+        "description_ko": "영화 리뷰 및 메타데이터를 이용한 시멘틱 영화 검색 엔진 연구",
+        "description_en": "Developing Movie Search Engine based on Viewer Reviews"
     },
     {
         "id": "lgelectronics",
-        "description_ko": "트위터 분석을 통한 새로운 스마트 TV 기능 개발"
+        "description_ko": "트위터 분석을 통한 새로운 스마트 TV 기능 개발",
+        "description_en": "Identifying new Smart TV functions from Social Media"
     }]
 },
 {
@@ -145,15 +165,18 @@
     "projects": [
     {
         "id": "hyundaih",
-        "description_ko": "스마트그리드 데이터 분석"
+        "description_ko": "스마트그리드 데이터 분석",
+        "description_en": "Understanding Energy Consumption by Mining Smart Grid"
     },
     {
         "id": "samsunggajeon",
-        "description_ko": "시스템 에어컨 실내기 운전패턴 분석"
+        "description_ko": "시스템 에어컨 실내기 운전패턴 분석",
+        "description_en": "Undersatnding Enery Consumption by Mining Indoor A/C units"
     },
     {
         "id": "etri",
-        "description_ko": "통계분석 기반 건물 에너지 고장진단 시스템 개발"
+        "description_ko": "통계분석 기반 건물 에너지 고장진단 시스템 개발",
+        "description_en": "Understanding Building Energy Consumption by Mining Machine Units"
     }]
 },
 {
@@ -162,7 +185,8 @@
     "projects": [
     {
         "id": "hyundai",
-        "description_ko": "인재 선발 모델링 및 조기 퇴사 예측"
+        "description_ko": "인재 선발 모델링 및 조기 퇴사 예측",
+        "description_en": "Predicting Employee Performance with Hiring Data"
     }]
 },
 {
@@ -171,7 +195,8 @@
     "projects": [
     {
         "id": "bok",
-        "description_ko": "세계 중앙은행 총재 연설문 분석"
+        "description_ko": "세계 중앙은행 총재 연설문 분석",
+        "description_en": "Text Mining Central Bankers' Speeches"
     }]
 },
 {
@@ -180,14 +205,17 @@
     "projects": [
     {
         "id": "seoulbeone",
-        "description_ko": "키스트로크 다이나믹스 기반 계정 공유 탐지"
+        "description_ko": "키스트로크 다이나믹스 기반 계정 공유 탐지",
+        "description_en": "Account Sharing Detection with Keystroke Dynamics"
     },
     {
         "id": "smbizbeone",
-        "description_ko": "ATM 사용자 화면터치 행동 패턴 사용자 인증"
+        "description_ko": "ATM 사용자 화면터치 행동 패턴 사용자 인증",
+        "description_en": "Authenticating ATM users with Screen Touch Dynamics"
     },
     {
         "id": "nrf",
-        "description_ko": "키스트로크 다이나믹스 기반 사용자 인증"
+        "description_ko": "키스트로크 다이나믹스 기반 사용자 인증",
+        "description_en": "Authenticating users with Keystroke Dynamics"
     }]
 }]

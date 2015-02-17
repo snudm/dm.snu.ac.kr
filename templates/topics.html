@@ -9,7 +9,7 @@
     {% for project in topic['projects'] %}
         <li class="project border">
             <img src="{{ url_for('static', filename='images/projects/%s.png' % project['id']) }}">
-            <p>{{ project['description_ko'] }}</p>
+            <p>{{ project['description_%s' % locale] }}</p>
         </li>
     {% endfor %}
     </ul>

@@ -251,6 +251,7 @@ table.alumni td:nth-child(2) {
     .navbar #title, .navbar-nav > li > a {
         line-height: inherit;
     }
+
     .navbar #title, .navbar-nav > li > a#title {
         line-height: 50px;
     }
