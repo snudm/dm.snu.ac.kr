@@ -178,6 +178,17 @@ table.alumni td:nth-child(2) {
     vertical-align: bottom;
     width: 23%;
 }
+.project_edu {
+    color: #777;
+    display: inline-block;
+    margin: 3px 1px;
+    min-height: 100px;
+    min-width: 210px;
+    padding: 5px 10px;
+    text-align: center;
+    vertical-align: bottom;
+    width: 23%;
+}
 
 .project:hover {
     border: 3px solid #ddd;
