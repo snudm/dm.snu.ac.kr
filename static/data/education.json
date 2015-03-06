@@ -4,104 +4,104 @@
     "title_en": "Practical Education",
     "companies": [
     {
-        "id": "samsung electronics",
+        "id": "samsung electronics"
     },
     {
-        "id": "posco",
+        "id": "posco"
     },
     {
-        "id": "cj",
+        "id": "cj"
     },
     {
-        "id": "doosaninfra",
+        "id": "doosaninfra"
     },
     {
-        "id": "skhynix",
+        "id": "skhynix"
     },
     {
-        "id": "samsung sds",
+        "id": "samsung sds"
     }
-	]
+    ]
 },
 {
     "title_ko": "단기교육 및 세미나",
     "title_en": "Short-term Education & Seminar",
     "companies": [
     {
-        "id": "hyundai-kia motors",
+        "id": "hyundai-kia motors"
     },
     {
-        "id": "samsung advanced institute of technology",
+        "id": "samsung advanced institute of technology"
     },
     {
-        "id": "hyundai mobis",
+        "id": "hyundai mobis"
     },
     {
-        "id": "doosan",
+        "id": "doosan"
     },
     {
-        "id": "mando",
+        "id": "mando"
     },
     {
-        "id": "sk innovation",
+        "id": "sk innovation"
     },
     {
-        "id": "halla",
+        "id": "halla"
     },
     {
-        "id": "bok",
+        "id": "bok"
     },
     {
-        "id": "kdb",
+        "id": "kdb"
     },
     {
-        "id": "shinhan bank",
+        "id": "shinhan bank"
     },
     {
-        "id": "wooribank",
+        "id": "wooribank"
     },
     {
-        "id": "lig",
+        "id": "lig"
     },
     {
-        "id": "accenture",
+        "id": "accenture"
     },
     {
-        "id": "sas korea",
+        "id": "sas korea"
     },
     {
-        "id": "kmac",
+        "id": "kmac"
     },
     {
-        "id": "ibm",
+        "id": "ibm"
     },
     {
-        "id": "microsoft",
+        "id": "microsoft"
     },
     {
-        "id": "spss",
+        "id": "spss"
     },
     {
-        "id": "sktelecom",
+        "id": "sktelecom"
     },
     {
-        "id": "nexon",
+        "id": "nexon"
     },
     {
-        "id": "jonggeun",
+        "id": "jonggeun"
     },
     {
-        "id": "lotte",
+        "id": "lotte"
     },
     {
-        "id": "khnp",
+        "id": "khnp"
     },
     {
-        "id": "maeil",
+        "id": "maeil"
     },
     {
-        "id": "nia",
+        "id": "nia"
     }    
-	]
+    ]
 }
 ]
