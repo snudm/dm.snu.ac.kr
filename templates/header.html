@@ -3,12 +3,24 @@
     <!-- Brand and toggle get grouped for better mobile display -->
     <!--<div id="navbar-toggle" class="navbar-toggle">
       <input id="locale-toggle" type="checkbox" {% if locale=='ko' %}checked {% endif %}data-toggle="toggle" data-on="Korean" data-off="English" data-size="mini">
-    </div>-->
+      <button type="button" class="collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
+        <span class="sr-only">Toggle navigation</span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+      </button>
+    </div> -->
     <div id="navbar-toggle" class="navbar-toggle" data-toggle="buttons">
-      <label class="btn btn-primary {% if locale=='ko' %}active{% endif %}">
+      <button type="button" class="collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
+        <span class="sr-only">Toggle navigation</span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+      </button>
+      <label class="btn btn-primary btn-xs {% if locale=='ko' %}active{% endif %} ">
         <input type="radio" name="options" id="option1" autocomplete="off" {% if locale=='ko' %}checked {% endif %}> Korean
       </label>
-      <label class="btn btn-primary {% if locale=='en' %}active{% endif %}">
+      <label class="btn btn-primary btn-xs {% if locale=='en' %}active{% endif %}">
         <input type="radio" name="options" id="option2" autocomplete="off" {% if locale=='en' %}checked {% endif %}> English
       </label>
     </div>
