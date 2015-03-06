@@ -1,0 +1,107 @@
+[
+{
+    "title_ko": "실무교육",
+    "title_en": "Practical Education",
+    "companies": [
+    {
+        "id": "samsung electronics",
+    },
+    {
+        "id": "posco",
+    },
+    {
+        "id": "cj",
+    },
+    {
+        "id": "doosaninfra",
+    },
+    {
+        "id": "skhynix",
+    },
+    {
+        "id": "samsung sds",
+    }
+	]
+},
+{
+    "title_ko": "단기교육 및 세미나",
+    "title_en": "Short-term Education & Seminar",
+    "companies": [
+    {
+        "id": "hyundai-kia motors",
+    },
+    {
+        "id": "samsung advanced institute of technology",
+    },
+    {
+        "id": "hyundai mobis",
+    },
+    {
+        "id": "doosan",
+    },
+    {
+        "id": "mando",
+    },
+    {
+        "id": "sk innovation",
+    },
+    {
+        "id": "halla",
+    },
+    {
+        "id": "bok",
+    },
+    {
+        "id": "kdb",
+    },
+    {
+        "id": "shinhan bank",
+    },
+    {
+        "id": "wooribank",
+    },
+    {
+        "id": "lig",
+    },
+    {
+        "id": "accenture",
+    },
+    {
+        "id": "sas korea",
+    },
+    {
+        "id": "kmac",
+    },
+    {
+        "id": "ibm",
+    },
+    {
+        "id": "microsoft",
+    },
+    {
+        "id": "spss",
+    },
+    {
+        "id": "sktelecom",
+    },
+    {
+        "id": "nexon",
+    },
+    {
+        "id": "jonggeun",
+    },
+    {
+        "id": "lotte",
+    },
+    {
+        "id": "khnp",
+    },
+    {
+        "id": "maeil",
+    },
+    {
+        "id": "nia",
+    }    
+	]
+}
+]

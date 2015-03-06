@@ -1,0 +1,18 @@
+{% extends "layout.html" %}
+
+{% block contents %}
+<h2>Education</h2>
+{% for education in educations %}
+<div>
+    <h3>{{ education['title_%s' % locale] }}</h3>
+    <ul>
+    {% for company in education['companies'] %}
+        <li class="project border">
+            <img src="{{ url_for('static', filename='images/educations/%s.png' % education['id']) }}">
+           
+        </li>
+    {% endfor %}
+    </ul>
+</div>
+{% endfor %}
+{% endblock %}
