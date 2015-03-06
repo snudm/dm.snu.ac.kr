@@ -63,6 +63,20 @@ def datamining():
     return render_template('datamining.html',\
            datamining=read_json_data('datamining.json'))
 
+@app.route('/<lang_code>/development/')
+def development():
+    return redirect(url_for('faq', lang_code=get_locale()))
+
+@app.route('/<lang_code>/development/sponsors')
+def sponsors():
+    return render_template('sponsors.html',\
+           topics=read_json_data('sponsors.json'))
+
+@app.route('/<lang_code>/education')
+def education():
+    return render_template('education.html',\
+           educations=read_json_data('education.json'))
+
 @app.route('/<lang_code>/members')
 def members():
     return render_template('members.html',\
@@ -77,16 +91,7 @@ def notices():
 def notice(id):
     return render_template('notice.html', notice=get_notice(id))
 
-@app.route('/<lang_code>/projects/')
-def projects():
-    return redirect(url_for('faq', lang_code=get_locale()))
-
-@app.route('/<lang_code>/projects/topics')
-def topics():
-    return render_template('topics.html',\
-           topics=read_json_data('topics.json'))
-
-@app.route('/<lang_code>/projects/faq')
+@app.route('/<lang_code>/development/faq')
 def faq():
     print request.view_args
     return render_template('faq.html',\
