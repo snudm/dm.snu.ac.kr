@@ -7,10 +7,10 @@
     <h3>{{ education['title_%s' % locale] }}</h3>
     <ul>
     {% for company in education['companies'] %}
-        <li class="project_edu border">
+        <div class="project_edu border">
             <img src="{{ url_for('static', filename='images/educations/%s.png' % company['id']) }}">
            
-        </li>
+        </div>
     {% endfor %}
     </ul>
 </div>
