@@ -16,16 +16,6 @@
     "highschool": "Gwacheon, 2004"      
     },
     {
-    "image": "mhhor",
-    "name": "허 민 회 (Minhoe Hur)",
-    "email": "dninb.kr at gmail.com",
-    "homepage": "http://blog.naver.com/dninb",
-    "research area": "Machine Learning",
-    "M.S.": "Graduate School of Culture Technology, KAIST, 2009",
-    "B.S.": "Industrial and Management Engineering, POSTECH, 2007",
-    "highschool": "Jemulpo, 2002"       
-    },
-    {
     "image": "shkang",
     "name": "강 석 호 (Seokho Kang)",
     "email": "skang at dm.snu.ac.kr",
@@ -153,20 +143,6 @@
     }
 ],
 "ms_students": [
-    {
-    "image": "swhan",
-    "name": "한 송 원 (Songwon Han)",
-    "email": "yakantoss at snu.ac.kr",
-    "B.S.": "Industrial Engineering, Seoul Nat'l Univ., 2013",
-    "highschool": "Jamsil, 2008"        
-    },
-    {
-    "image": "htkim",
-    "name": "김 홍 태 (Hongtae Kim)",
-    "email": "kht0910 at snu.ac.kr",
-    "B.S.": "Industrial Engineering, Seoul Nat'l Univ., 2013",
-    "highschool": "Incheon Science, 2007"       
-    },
     {
     "image": "hkkim",
     "name": "김 한 결 (Han Kyul Kim)",

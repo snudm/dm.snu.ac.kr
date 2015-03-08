@@ -1,5 +1,10 @@
 {"phd_alumni": [
     {
+     "year": "2015",
+     "name": "허민회",
+     "job": "현대자동차"
+    },
+    {
      "year": "2014",
      "name": "이승경",
      "job": "삼성전자 DS 총괄",
@@ -19,11 +24,6 @@
      "job": "육군",
      "dissertation": "Launch point estimation and team performance prediction for military application",
      "diss_address": "http://library.snu.ac.kr/search/DetailView.ax?sid=12&cid=4107506"
-    },
-    {
-     "year": "2012",
-     "name": "선미선 (수료)",
-     "job": "한국 국방연구원"
     },
     {
      "year": "2010",
@@ -68,6 +68,16 @@
 ],
 "ms_alumni" : [
     {
+     "year": "2015",
+     "name": "한송원",
+     "job": "SK Telecom"
+    },
+    {
+     "year": "2015",
+     "name": "김홍태",
+     "job": "SK Telecom"
+    },
+    {
      "year": "2014",
      "name": "전영환",
      "job": "티맥스소프트",
@@ -77,7 +87,7 @@
     {
      "year": "2014",
      "name": "구윤성",
-     "job": "전문연구요원",
+     "job": "NC soft",
      "dissertation": "사용자들의 공통관람 영화 유사도를 이용한 추천시스템의 성능향상",
      "diss_address": "http://library.snu.ac.kr/search/DetailView.ax?sid=12&cid=4427928"
     },
@@ -291,7 +301,7 @@
     {
      "year": "2003",
      "name": "정세희",
-     "job": "NC 소프트",
+     "job": "NC soft",
      "dissertation": "인공 신경망을 이용한 옵션 가격 결정 모형",
      "diss_address": "http://library.snu.ac.kr/search/DetailView.ax?sid=12&cid=1079115"
     },
@@ -312,7 +322,7 @@
     {
      "year": "2002",
      "name": "임용업",
-     "job": "SKT",
+     "job": "SK Telecom",
      "dissertation": "데이터 마이닝을 이용한 매출액변화 예측모델링",
      "diss_address": "http://library.snu.ac.kr/search/DetailView.ax?sid=12&cid=976865"
     },
