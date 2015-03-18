@@ -340,7 +340,11 @@
     {% endif %}
         <br /><br />
     {% if 'dissertation' in member.keys() %}
+        {% if member.get('diss_address')==""  %}
+            {{ member.get('dissertation') }}
+        {% else %}
             <a href="{{ member.get('diss_address') }}">{{ member.get('dissertation') }}</a>
+        {% endif %}
     {% endif %}
         </td>
     </tr>
@@ -363,7 +367,11 @@
         {% endif %}
         <br /><br />
         {% if 'dissertation' in member.keys() %}
-            <a href="{{ member.get('diss_address') }}">{{ member.get('dissertation') }}</a>
+            {% if member.get('diss_address') ==""  %}
+                {{ member.get('dissertation') }}
+            {% else %}
+                <a href="{{ member.get('diss_address') }}">{{ member.get('dissertation') }}</a>
+            {% endif %}
         {% endif %}
         </td>
     </tr>

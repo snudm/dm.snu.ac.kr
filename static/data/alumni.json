@@ -2,7 +2,10 @@
     {
      "year": "2015",
      "name": "허민회",
-     "job": "현대자동차"
+     "job": "현대자동차 빅데이터실",
+     "dissertation": "Demand Forecasting, Keyword Selecting, and Ad Placing in Digital Marketing with Text Mining",
+     "diss_address": ""
+
     },
     {
      "year": "2014",
@@ -70,12 +73,16 @@
     {
      "year": "2015",
      "name": "한송원",
-     "job": "SK Telecom"
+     "job": "SK Telecom 빅데이터팀",
+     "dissertation": "협업 태깅 시스템의 문제를 고려한 사용자 인식 기반 음악 지도",
+     "diss_address": ""
     },
     {
      "year": "2015",
      "name": "김홍태",
-     "job": "SK Telecom"
+     "job": "SK Telecom 빅데이터팀",
+     "dissertation": "필드 클레임 데이터를 활용한 시장품질 예측 및 불량감지",
+     "diss_address": ""
     },
     {
      "year": "2014",
