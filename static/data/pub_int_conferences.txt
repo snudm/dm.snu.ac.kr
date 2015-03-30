@@ -1,3 +1,4 @@
+"Predicting final yield in semiconductor manufacturing using wafer test data", Seokho Kang, Sungzoon Cho, Daewoong An, Jaeyoung Rim, Woonghee Kim, 2015 INFORMS Conference on Business Analytics & Operations Research, April 2015, Huntington Beach, CA, USA.
 "Knowledge Discovery in Pre-assembly Design Review Database", Minhoe Hur, Jiwon Yang, Eunji Kim, Sungzoon Cho,  March 2015, The 7th International Conferences on Pervasive Patterns and Applications, Nice, France.
 "Sales Patterns Clustering Analysis on Seasonal Product Sales Data", Soojin Kim, Jiwon Yang, Sungzoon Cho, Jan 2015, International Conference on Neural Networks and Learning Networks, Singapore, SG.
 "Generating Ideas from Hidden Customer Needs in Social Media for New Product Development Process", Taehoon Ko, Minhoe Hur, Ilsun Rhiu, Sung Hee Ahn, Sungzoon Cho, Chul Chung, Myung Hwan Yun, Jun 2014, INFORMS Conference on the Business of Big Data, San Jose, CA, USA.
