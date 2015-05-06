@@ -2,17 +2,33 @@
 
 {% block contents %}
 <h2>Education</h2>
-{% for education in educations %}
+
+
+<!-- longterm edu -->
 <div>
-    <h3>{{ education['title_%s' % locale] }}</h3>
+    <h3>{{ educations[0]['title_%s' % locale] }}</h3>
     <ul>
-    {% for company in education['companies'] %}
-        <div class="project_edu border">
+    {% for company in educations[0]['companies'] %}
+        <div class="project border">
             <img src="{{ url_for('static', filename='images/educations/%s.png' % company['id']) }}">
-           
+            <p>{{ company['description_%s' % locale] }}</p>
         </div>
     {% endfor %}
     </ul>
 </div>
-{% endfor %}
+
+
+<!-- short-term edu and seminar -->
+<div>
+    <h3>{{ educations[1]['title_%s' % locale] }}</h3>
+    <ul>
+    {% for company in educations[1]['companies'] %}
+        <div class="project_semi border">
+            <img src="{{ url_for('static', filename='images/educations/%s.png' % company['id']) }}">
+            <p>{{ company['description_%s' % locale] }}</p>
+        </div>
+    {% endfor %}
+    </ul>
+</div>
+
 {% endblock %}

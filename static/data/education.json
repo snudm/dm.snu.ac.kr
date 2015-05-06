@@ -1,25 +1,37 @@
 [
 {
-    "title_ko": "실무교육",
-    "title_en": "Practical Education",
+    "title_ko": "장기교육",
+    "title_en": "Long-term Education",
     "companies": [
     {
-        "id": "samsung electronics"
+        "id": "samsungsemi",
+        "description_ko": "제조 / 마케팅 애널리틱스",
+        "description_en": "Manufacturing / Marketing Analytics"
     },
     {
-        "id": "posco"
+        "id": "posco",
+        "description_ko": "제조 애널리틱스",
+        "description_en": "Manufacturing Analytics"
     },
     {
-        "id": "cj"
+        "id": "cj",
+        "description_ko": "마케팅 애널리틱스",
+        "description_en": "Marketing Analytics"
     },
     {
-        "id": "doosaninfra"
+        "id": "doosaninfra",
+        "description_ko": "제조 애널리틱스 / 텍스트 마이닝",
+        "description_en": "Manufacturing Analytics / Text Mining"
     },
     {
-        "id": "skhynix"
+        "id": "skhynix",
+        "description_ko": "제조 애널리틱스",
+        "description_en": "Manufacturing Analytics"
     },
     {
-        "id": "samsung sds"
+        "id": "samsung sds",
+        "description_ko": "빅데이터 비즈니스 모델 개발",
+        "description_en": "Big Data Business Model Development"
     }
     ]
 },

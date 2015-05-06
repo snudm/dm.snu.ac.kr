@@ -1,3 +1,4 @@
+"Optimal construction of one-against-one classifier based on meta-learning", Seokho Kang, Sungzoon Cho, Neurocomputing, Accepted. (SCIE)
 "Multi-class classification via heterogeneous ensemble of one-class classifiers", Seokho Kang, Sungzoon Cho, Pilsung Kang, Engineering Applications of Artificial Intelligence, Accepted. (SCIE)
 "Memory die clustering and matching for optimal voltage window in semiconductor", Yongwon Park, Seokho Kang, Sungzoon Cho, IEEE Transactions on Semiconductor Manufacturing, Accepted. (SCI)
 "Estimating the minority class proportion with the ROC curve using Military Personality Inventory data of the ROK Armed Forces", Meesun Sun, Kwanghyun Choi, Sungzoon Cho, Journal of Applied Statistics, Accepted. (SCIE)
