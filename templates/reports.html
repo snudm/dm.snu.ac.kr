@@ -1,0 +1,16 @@
+{% extends "layout.html" %}
+
+{% block contents %}
+<h2>Technical reports</h2>
+
+<ol reversed>
+{% for report in reports %}
+    <li>
+    {% set code, info = report.split(',', 1) %}
+    <a href="{{ url_for('static', filename='docs/%s.pdf' % code) }}">[{{ code }}]</a>
+    {{ info }}
+    </li>
+{% endfor %}
+</ol>
+
+{% endblock %}

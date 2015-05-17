@@ -105,6 +105,11 @@ def research():
 def methods():
     return render_template('methods.html')
 
+@app.route('/<lang_code>/research/reports')
+def reports():
+    return render_template('reports.html',\
+           reports=read_txt_data('technical_reports.txt'))
+
 @app.route('/<lang_code>/research/publications')
 def publications():
     return render_template('publications.html',\

@@ -13,7 +13,7 @@ CONTACT = {
 MENUS = [
     'datamining',
     'members',
-    ('research', ['methods', 'publications']),
+    ('research', ['methods', 'reports', 'publications']),
     ('development', ['sponsors', 'FAQ']),
     'education',
     'courses',
