@@ -66,7 +66,7 @@
     {
      "year": "2000",
      "name": "장민",
-     "job": "한글과컴퓨터 기획조정본부"
+     "job": "한글과 컴퓨터"
     }
 ],
 "ms_alumni" : [
@@ -234,7 +234,7 @@
     {
      "year": "2008",
      "name": "편도훈",
-     "job": "한국은행 조사총괄팀 거시모형반",
+     "job": "한국은행",
      "dissertation": "벡터 자기회귀와 지지 벡터 회귀에 기반한 시계열 예측 복합 모형",
      "diss_address": "http://library.snu.ac.kr/search/DetailView.ax?sid=12&cid=3101943"
     },
@@ -323,7 +323,7 @@
     {
      "year": "2002",
      "name": "백진우",
-     "job": "신한 BNP파리바 자산운용",
+     "job": "한국투자증권",
      "dissertation": "KOSPI 200 선물에서의 자기연상학습 신경망을 이용한 상승 추세 탐지",
      "diss_address": "http://library.snu.ac.kr/search/DetailView.ax?sid=12&cid=1079860"
     },
@@ -411,7 +411,7 @@
     {
      "year": "1997",
      "name": "한대희",
-     "job": "Tedium"
+     "job": "달리웍스 주식회사"
     },
     {
      "year": "1997",
@@ -441,11 +441,11 @@
     {
      "year": "1995",
      "name": "정태일",
-     "job": "삼성 네트웍스 네트워크 컨설팅(공공사업부문), Mobile Network"
+     "job": "HRF, Inc."
     },
     {
      "year": "1995",
      "name": "장민",
-     "job": "박사과정"
+     "job": "한글과 컴퓨터"
     }
 ]}
