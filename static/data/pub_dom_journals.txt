@@ -1,4 +1,4 @@
-﻿Review and Analysis of Recommender Systems, 손지은, 김성범, 김현중, 조성준, 대한산업공학회지, Accepted.
+﻿"추천 시스템 기법 연구동향 분석", 손지은, 김성범, 김현중, 조성준, 대한산업공학회지, Apr 2015, Vol.41, No.2, pp.185-208.
 KR-WordRank: A Korean word extraction method based on WordRank and unsupervised learning, Hyunjoong Kim, Sungzoon Cho and Pilsung Kang, 대한산업공학회지, 2014, Vol. 40(1): 18-33.
 Stratified Sampling Design Based on Data Mining, Yeonkook J. Kim, Yoonhwan Oh, Sunghoon Park, Sungzoon Cho, Hayoung Park, Healthcare Informatics Research. Vol 19, No. 3, 186-195, 2013.
 부분궤적의 유사성을 통한 이동객체의 시점 추정 방법, 정원열, 조성준, 한국국방경영분석학회지, 제 37권, 제 4호, p 95~105, 2012.
