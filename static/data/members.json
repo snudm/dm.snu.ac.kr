@@ -104,13 +104,6 @@
     "highschool": "Banpo, 2007" 
     },
     {
-    "image": "jwsim",
-    "name": "심 재 웅 (Jaewoong Shim)",
-    "email": "shimjw at dm.snu.ac.kr",
-    "B.S.": "Industrial Engineering, Seoul Nat'l Univ., 2014",
-    "highschool": "Dukwon, 2008"        
-    },
-    {
     "image": "jwahn",
     "name": "안 진 원 (Jinwon An)",
     "email": "jinwon at dm.snu.ac.kr",
@@ -143,6 +136,13 @@
     }
 ],
 "ms_students": [
+    {
+    "image": "jwsim",
+    "name": "심 재 웅 (Jaewoong Shim)",
+    "email": "shimjw at dm.snu.ac.kr",
+    "B.S.": "Industrial Engineering, Seoul Nat'l Univ., 2014",
+    "highschool": "Dukwon, 2008"        
+    },
     {
     "image": "hkkim",
     "name": "김 한 결 (Han Kyul Kim)",
