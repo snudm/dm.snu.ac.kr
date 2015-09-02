@@ -16,26 +16,6 @@
     "highschool": "Gwacheon, 2004"      
     },
     {
-    "image": "shkang",
-    "name": "강 석 호 (Seokho Kang)",
-    "email": "skang at dm.snu.ac.kr",
-    "homepage": "http://dm.snu.ac.kr/~skang",
-    "research area": "Kernel-based Learning Algorithms, Multiple Classifier Systems, Dimensionality Reduction",
-    "B.S.": "Industrial Engineering, Seoul Nat'l Univ., 2011",
-    "highschool": "Chonnam Science, 2008"       
-    },
-    {
-      "image": "mssun",
-      "name": "선 미 선 (Meesun Sun)",      
-      "email": "misunny at kida.re.kr",
-      "job": "Korea Institute for Defense Analyses, 2004-present",
-      "M.S.": "Dept. of Industrial Engineering, POSTECH, 2004",
-      "B.S.": "Dept. of Industrial Engineering, Pusan Nat'l Univ., 2002",
-      "highschool": "Namsung Girls', 1997"
-    }
-],
-"phd_abd" : [
-   {
     "image": "ejpark",
     "name": "박 은 정 (Eunjeong Park)",
     "email": "epark at dm.snu.ac.kr",
@@ -51,7 +31,9 @@
     "M.S.": "Industrial Engineering, Seoul Nat'l Univ., 2011",
     "B.S.": "Industrial Engineering, KAIST, 2009",
     "highschool": "Seoul Science, 2004" 
-    },
+    }
+],
+"phd_abd" : [
     {
     "image": "jwyang",
     "name": "양 지 원 (Jiwon Yang)",
@@ -133,7 +115,14 @@
     "email": "hunsik at dm.snu.ac.kr",
     "B.S.": "Industrial & Management Engineering, POSTECH, 2015",
     "highschool": "Chungbuk Science, 2010"       
-    }
+    },
+    {
+    "image": "twkim",
+    "name": "김 태 욱 (Taewook Kim)",
+    "email": "taewook at dm.snu.ac.kr",
+    "B.S.":  "Industrial Engineering, Seoul Nat'l Univ., 2015",
+    "highschool": "Dongin, 2009"       
+    }    
 ],
 "ms_students": [
     {

@@ -1,6 +1,20 @@
 {"phd_alumni": [
     {
      "year": "2015",
+     "name": "강석호",
+     "job": "삼성전자 종합기술원",
+     "dissertation": "Heterogeneous Ensemble Learning for Multi-class Classification",
+     "diss_address": ""
+    },
+    {
+     "year": "2015",
+     "name": "선미선",
+     "job": "한국 국방연구원",
+     "dissertation": "Estimating Minority Class Proportion for class Imbalance and Class Overlap:Algorithms and Prediction Maladjusted Soldiers",
+     "diss_address": ""
+    },
+    {
+     "year": "2015",
      "name": "허민회",
      "job": "현대자동차 빅데이터실",
      "dissertation": "Demand Forecasting, Keyword Selecting, and Ad Placing in Digital Marketing with Text Mining",
