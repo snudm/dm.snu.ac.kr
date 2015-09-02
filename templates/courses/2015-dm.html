@@ -414,11 +414,23 @@ Data Mining for Business Intelligence : Concepts, Techniques, and Applications i
 <br><br>
         
         <li>Board</li>
+			
             <div id="board">
-                <iframe src="http://dmlab.snu.ac.kr/bbs/xe/dm2014" width="800px" height="700px" frameborder="0"></iframe>
+                <iframe id="forum_embed"
+				src="javascript:void(0)"
+				scrolling="no"
+				frameborder="0"
+				width="900"
+				height="700">
+				</iframe>
+
+				<script type="text/javascript">
+				document.getElementById("forum_embed").src ="https://groups.google.com/forum/embed/?place=forum/datamining_2015" +
+				"&showsearch=true&showpopout=true&parenturl=" +
+				encodeURIComponent(window.location.href);
+				</script>
             </div>
     </ol>
 </body>
  
 </html>
-
