@@ -119,6 +119,15 @@ def publications():
            pub_int_journals=read_txt_data('pub_int_journals.txt'),
            pub_patent =read_txt_data('pub_patent.txt'))
 
+
+
+@app.route('/<lang_code>/map')
+def map():
+    return render_template('map.html')
+
+
+
+
 @app.route('/<lang_code>/seminar')
 def seminar():
     return render_template('seminar.html')
