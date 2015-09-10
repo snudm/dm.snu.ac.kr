@@ -3,7 +3,7 @@
 {% block contents %}
 <h2>Contact</h2>
 <br />
-
+<script type="text/javascript" src="http://openapi.map.naver.com/openapi/naverMap.naver?ver=2.0&key=77d09b2d93d68b74ceaf1f42a2e00bff"></script>
 
 <table class="table table-condensed contact">
     <tr>
@@ -38,7 +38,58 @@
         </td>
     </tr>
 </table>
+ 
+<div class="map"  id="testMap" style="border: none; width:720px; height:400px; display:block; margin-left:15px;"></div>
+<script type="text/javascript">
+    var oCenterPoint = new nhn.api.map.LatLng(37.4554444, 126.9542921) <------지도 위치값
+﻿ nhn.api.map.setDefaultPoint('LatLng');
+    oMap = new nhn.api.map.Map('testMap', {
+                point : oCenterPoint,
+                zoom : 11,  <------------ 초기 줌 레벨은 10으로 둔다. 이거 또한 상황에 따라서..ㅋ
+                enableWheelZoom : false,
+                enableDragPan : true,
+                enableDblClickZoom : false,
+                mapMode : 0,
+                activateTrafficMap : false,
+                activateBicycleMap : false,
+                minMaxLevel : [ 1, 14 ],
+                size : new nhn.api.map.Size(650, 400) <------------지도크기를 설정
+    });
+    
+     var mapZoom = new nhn.api.map.ZoomControl();  <------------ - 줌 컨트롤 선언
+                    mapZoom.setPosition({left:30, bottom:180});  <------------ 줌 컨트롤 위치 지정
+                    oMap.addControl(mapZoom);  <------------ 줌 컨트롤 추가.
+                    
+    var oSize = new nhn.api.map.Size(28, 37);
+    var oOffset = new nhn.api.map.Size(14, 37);
+    var oIcon = new nhn.api.map.Icon('http://static.naver.com/maps2/icons/pin_spot2.png', oSize, oOffset);
+    
+    /*
+     * 초기 중심좌표 사용
+     */
+    var marker = new nhn.api.map.Marker(oIcon);
+    marker.setPoint(oCenterPoint);
+    oMap.addOverlay(marker);
+    
+    /*
+     * infowindow 사용 시
+     */    
+    var mapInfoTestWindow = new nhn.api.map.InfoWindow(); // - info window 생성
+    // - InfoWindow 에 들어갈 내용은 setContent 로 자유롭게 넣을 수 있습니다. 외부 css를 이용할 수 있으며, 
+    // - 외부 css에 선언된 class를 이용하면 해당 class의 스타일을 바로 적용할 수 있습니다.
+    // - 단, DIV 의 position style 은 absolute 가 되면 안되며, 
+    // - absolute 의 경우 autoPosition 이 동작하지 않습니다.
+    mapInfoTestWindow.setContent('<div style="border-top:1px solid #666; border-bottom:2px groove black; border-left:1px solid; border-right:2px groove black;margin-bottom:1px;color:black;background-color:white; width:auto; height:auto;">'+
+    '<span style="color: #666; !important;display: inline-block;font-size: 12px !important;font-weight: bold !important;letter-spacing:-1px !important;white-space: nowrap !important; padding: 3px 3px 3px 3px !important; ">' + 
+    '데이터마이닝 센터' + ' <br /> <span></div>');
+    mapInfoTestWindow.setPoint(oCenterPoint);
+    mapInfoTestWindow.setVisible(true);
+    mapInfoTestWindow.setPosition({right : 15, top : 30});
+    mapInfoTestWindow.autoPosition();
+    oMap.addOverlay(mapInfoTestWindow); // - 지도에 추가. 
 
-<iframe src="//maps.google.com/?ll=37.454972%2C126.951348&amp;spn=0.001516%2C0.002784&amp;ie=UTF8&amp;z=18&amp;t=roadmap&amp;sll=37.454972%2C126.951348&amp;sspn=0.001516%2C0.002784&amp;q=37.455029%2C126.951447%20(%EC%A0%9C%EB%AA%A9%20%EC%97%86%EB%8A%94%20%EC%9C%84%EC%B9%98)&amp;output=embed" width="100%" height="400" frameborder="0" class="map_embed" scrolling="no"></iframe>
+    
+    </script>
 
+<!--<iframe width="640" height="480" src="http://openapi.naver.com/map/getStaticMap?version=1.0&crs=EPSG:4326&center=126.9270749,37.4874265&amp;level=12&w=640&h=480&maptype=default&key=77d09b2d93d68b74ceaf1f42a2e00bff&uri=dm.snu.ac.kr/ko/contact"></iframe>-->
 {% endblock %}
