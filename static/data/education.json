@@ -40,25 +40,40 @@
     "title_en": "Short-term Education & Seminar",
     "companies": [
     {
+        "id": "samsung electronics"
+    },
+    {
         "id": "hyundai-kia motors"
     },
     {
-        "id": "samsung advanced institute of technology"
+        "id": "sktelecom"
     },
     {
         "id": "hyundai mobis"
     },
     {
+        "id": "sk innovation"
+    },
+    {
+        "id": "samsungfire"
+    },
+    {
+        "id": "samsung sds"
+    },
+    {
+        "id": "samsung advanced institute of technology"
+    },
+    {
         "id": "doosan"
+    },
+    {
+        "id": "lotte"
     },
     {
         "id": "mando"
     },
     {
-        "id": "sk innovation"
-    },
-    {
-        "id": "halla"
+        "id": "sk-planet-logo"
     },
     {
         "id": "bok"
@@ -74,6 +89,18 @@
     },
     {
         "id": "lig"
+    },
+    {
+        "id": "khnp"
+    },
+    {
+        "id": "jonggeun"
+    },
+    {
+        "id": "maeil"
+    },
+    {
+        "id": "halla"
     },
     {
         "id": "accenture"
@@ -92,24 +119,6 @@
     },
     {
         "id": "spss"
-    },
-    {
-        "id": "sktelecom"
-    },
-    {
-        "id": "nexon"
-    },
-    {
-        "id": "jonggeun"
-    },
-    {
-        "id": "lotte"
-    },
-    {
-        "id": "khnp"
-    },
-    {
-        "id": "maeil"
     },
     {
         "id": "nia"

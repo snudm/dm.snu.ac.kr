@@ -5,6 +5,8 @@
      "answer": "본 센터에서의 주요 연구 분야에 대한 상세 내용은 <a href='research'>Research</a>에 있으며, 수행한 분석 프로젝트의 구체적인 주제는 <a href='projects'>Project</a>에 있습니다. 최근에는 텍스트마이닝연구도 활발하게 하고 있습니다."},
     {"question": "데이터마이닝 전공을 하고 싶은데, 프로그래밍 실력은 어느 정도이어야 하나요?",
      "answer": "자신이 개발한 알고리즘을 직접 컴퓨터에 구현해야 하므로, 최소한 R이나 Matlab을 할 줄 알아야 하고, Python이나 Java, C를 할 줄 안다면 더욱 유리합니다. 준비가 안 된 학생은 프로그래밍을 공부해와야 합니다.  아래 링크는 R 프로그래밍을 배울 수 있는 코세라(Coursera) 사이트 입니다.  <br>&nbsp&nbsp&nbsp<a href = 'https://www.coursera.org/specialization/jhudatascience/1/courses' target='_blank'>Coursera </a>"},
+    {"question": "데이터마이닝센터에 입학하려면 어느 학과에 지원해야 하나요?",
+     "answer": "서울대학교 <a href=http://ie.snu.ac.kr target=_blank>공과대학 산업공학과 대학원</a> 또는 <a href = http://temep.snu.ac.kr/ko/main/index.asp target=_blank>기술경영정책</a> 에 석사, 박사, 석박통합과정으로 지원할 수 있습니다."},
     {"question": "데이터마이닝 전공을 하려면, 학부에서 산업공학을 전공해야만 하나요?",
      "answer": "그렇지 않습니다. 산업공학 이외에도 수학, 통계학, 컴퓨터공학, 그리고 데이터를 다루는 모든 종류의 실험과학을 전공한 사람은 공부하기에 유리합니다. 현재 전공하고 있는 대학원생들의 학부 전공을 보면, 산업공학 이외에도 컴퓨터공학, 수학, 경제학이 있습니다. 다른 전공을 한 사람은 기초 과목들을 스스로 준비해야 합니다.  아래 링크에 가면 Data Science 관련 무료 인터넷 강좌가 있습니다.<br>&nbsp&nbsp&nbsp(1) <a href = 'https://www.coursera.org/specialization/jhudatascience/1/courses' target='_blank'>Data Science, Johns Hopkins University , Caffo/Leek/Peng </a><br>&nbsp&nbsp&nbsp(2) <a href = 'https://www.coursera.org/course/db' target='_blank'> Database Systems, Stanford, Widom </a> "},
     {"question": "산업공학과 대학원 입시는 어떻게 진행되나요?",
