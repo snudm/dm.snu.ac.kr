@@ -1,0 +1,6 @@
+"Box-office Forecasting Using Independent Subspace Method Based on Sentiment of Movie Reviews", Minhoe Hur, Pilsung Kang, Sungzoon Cho, submitted
+"Accelerating a genetic algorithm with decision trees for feature selection and parameter optimization of support vector machines", Seokho Kang, Sungzoon Cho*, submitted
+"Reliable prediction of anti-diabetic drug failure with a reject option", Seokho Kang, Sungzoon Cho, S. Rhee, Kyungsang Yu, submitted
+"Obtaining calibrated probability by ROC Binning", Meesun Sun, Sungzoon Cho, submitted
+"Prevalence estimation using Similarity-based Adjusted Count", Meesun Sun, Sungzoon Cho, submitted
+"Label uncertainty-considered semi-supervised support vector regression and its application to virtual metrology in semiconductor manufacturing", Dongil Kim, Pilsung Kang, Sungzoon Cho, submitted

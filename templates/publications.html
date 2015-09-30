@@ -3,6 +3,14 @@
 {% block contents %}
 <h2>Publications</h2>
 
+<h3>Submitted</h3>
+<ol reversed>
+    {% for pub in pub_submitted %}
+    <li>{{ pub }}</li>
+    {% endfor %}
+</ol>
+
+
 <h3>International Journals</h3>
 <ol reversed>
 {% for pub in pub_int_journals %}
