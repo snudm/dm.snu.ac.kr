@@ -72,3 +72,16 @@
 "Web based Keystroke Dynamics Identity Verification using Neural Network", Sungzoon Cho, Chigeun Han, Dae Hee Han and Hyung-Il Kim, Journal of Organizational Computing and Electronic Commerce,  Vol.10, No.4, pp. 295-307, December, 2000. (SCIE) 
 "Multiple permeability predictions using observational learning algorithm", Patrick Wong, Min Jang, and Sungzoon Cho, and Tom Gedeon, Computers & Geosciences, Vol.26, Issue 8, pp. 907-913, Oct. 2000. (SCI)
 "Constructing Belief Networks from Realistic Data", Yun Peng, Z. Zhou and Sungzoon Cho, International Journal of Intelligent Systems, Vol.14, pp. 671-695, 1999. (SCI)
+"A Neural Network Method for Diagnosing Beam Position Monitors in Storage Ring", Jaewoo Lee, Sungzoon Cho and Muhyun Yoon, The Nuclear Instruments and Methods in Physics Research A, Vol. 402, No. 1, pp. 14-20, Jan. 1998
+"Belt Speed Control in Sintering Plant using Neural Networks", Min Jang, Sungzoon Cho, Shinjae Lee and Yuhwa Kwon, Steel Research, Vol. 69, No. 10 & 11, pp 398--405, Oct & Nov. 1998. 
+"Spatial Interpolation using Artificial Neural Network", Sunyoung Lee, Sungzoon Cho, ad Patrick Wong, Journal of Geographic Information and Decision Analysis, Vol. 2, No. 2, pp. 253-264, 1998. , http://www.geog.uwa.ca/gimda/journal/journal.htm
+"Reliable Roll Force Prediction in Cold Mill using Multiple Neural Networks", Sungzoon Cho, Yongjung Cho and Sungcheol Yoon, IEEE Transaction on Neural Networks, Vol. 8, No. 4, pp. 874-882, Jul. 1997.
+"Virtual Sample Generation using a Population of Networks", Sungzoon Cho, Min Jang and Sungjune Chang, Neural Processing Letters, Vol. 5, No. 2, pp. 83-89, Apr. 1997.
+"Does Rotation of Neuronal Population Vectors Equal Mental Rotation?" Carol Whitney, James A. Reggia, and Sungzoon Cho, Connection Science, Vol. 9, pp. 253-268, 1997.
+"Hybrid Neural-Network/Mathematical Prediction Model for Tandem Cold Mill", Sungzoon Cho, Min Jang, Seongcheol Yoon, Yongjoong Cho, and Hyungsuk Cho, Computers and Industrial Engineering, Vol. 33, No. 3-4, pp. 453-456, 1997.
+"Design Guidelines for Character Rejection and Substitution for Off-line Document Processing Systems", Seongho Han, Sungzoon Cho, Jiyoung Kwahk, Mijeong Kim, and Kaprae Cho, International Journal of Industrial Ergonomics, Vol. 18, No. 2, pp. 161--171, 1996.
+"Effects of varying parameters on properties of self-organizing maps", Sungzoon Cho, Min Jang, and James Reggia, Neural Processing Letters, Vol. 4, No. 1, pp. 53-59, Sep. 1996.
+"Map Formation in Proprioceptive Cortex", Sungzoon Cho and James Reggia, The International Journal of Neural Systems, Vol. 5, No. 2, pp. 87-101, 1994.
+"Multiple Disorder Diagnosis with Adaptive Competitive Neural Networks", Sungzoon Cho and James Reggia, Artificial Intelligence in Medicine, Vol. 5, No. 6, pp. 469--487, 1993.
+"Learning Competition and Cooperation", Sungzoon Cho and James Reggia, Neural Computation, Vol. 5, No. 2, pp. 242--259, 1993. 
+"Improvement of Kittler and Illingworth's Minimum Error Thresholding", Sungzoon Cho, Robert Haralick, and Seungku Yi, Pattern Recognition, Vol. 22, No. 5, pp. 609--617, 1989.  
