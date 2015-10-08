@@ -4,6 +4,11 @@
     "title_en": "Quality Control",
     "projects": [
     {
+        "id": "samsunggtc",
+        "description_ko": "AS 데이터와 제조 검사 데이터 분석",
+        "description_en": "Analyzing After Service Data and Manufacturing Inspection Data"
+    },
+    {
         "id": "samsungds",
         "description_ko": "FDC 센서 값을 활용한 수율 예측 및 관리",
         "description_en": "Yield Prediction and Management based on FDC sensor values"
@@ -97,6 +102,11 @@
         "id": "cj",
         "description_ko": "셋트제품 판매 패턴 분류",
         "description_en": "Identifying Sales Patterns of Holiday Gift Sets"
+    },
+    {
+        "id": "showbox",
+        "description_ko": "관객 수 예측",
+        "description_en": "Predicting First Weekend Box Office Sales"
     },
     {
         "id": "duzon",
