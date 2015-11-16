@@ -74,15 +74,13 @@ def sponsors():
 
 @app.route('/<lang_code>/education')
 def education():
-#    return render_template('education.html',\
-#          educations=read_json_data('education.json'))
-    return redirect('http://dm.snu.ac.kr/~zoon/education.html')
+    return render_template('education.html',\
+          educations=read_json_data('education.json'))
+#    return redirect('http://dm.snu.ac.kr/~zoon/education.html')
 
-@app.route('/<lang_code>/members')
+@app.route('/<lang_code>/people')
 def members():
-    return render_template('members.html',\
-           members=read_json_data('members.json'),
-           alumni=read_json_data('alumni.json'))
+    return render_template('members.html', members=read_json_data('members.json'), alumni=read_json_data('alumni.json'))
 
 @app.route('/<lang_code>/notices/')
 def notices():

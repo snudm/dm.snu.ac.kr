@@ -176,7 +176,7 @@
     {
         "id": "etri",
         "description_ko": "통계분석 기반 건물 에너지 고장진단 시스템 개발",
-        "description_en": "Understanding Building Energy Consumption by Mining Machine Units"
+        "description_en": "Anomaly detection for HVAC system in Office Buildings"
     }]
 },
 {

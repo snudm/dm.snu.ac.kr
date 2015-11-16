@@ -7,9 +7,18 @@
 <!-- longterm edu -->
 <div>
     <h3>{{ educations[0]['title_%s' % locale] }}</h3>
+    {% if locale=='ko' %}
+    <p>&nbsp 조성준 교수와 데이터마이닝 센터는 1~4주 기간에 기업체 내 분석가를 대상으로 분석 고도화를 위한 데이터 애널리틱스 및 데이터마이닝 교육을 수행하고 있다.
+    주 내용은 빅데이터 분석 방법론, 분석 툴 및 실제 데이터 기반의 실습 및 현업 비즈니스 문제 도출 및 실제 데이터 포뮬레이션 등이다.
+    </p><br>
+    {% else %}
+    <p>&nbsp 조성준 교수와 데이터마이닝 센터는 1~4주 기간에 기업체 내 분석가를 대상으로 분석 고도화를 위한 데이터 애널리틱스 및 데이터마이닝 교육을 수행하고 있다.
+    주 내용은 빅데이터 분석 방법론, 분석 툴 및 실제 데이터 기반의 실습 및 현업 비즈니스 문제 도출 및 실제 데이터 포뮬레이션 등이다.
+    </p><br>
+    {% endif %}
     <ul>
     {% for company in educations[0]['companies'] %}
-        <div class="project border">
+        <div class="project_semi border">
             <img src="{{ url_for('static', filename='images/educations/%s.png' % company['id']) }}">
             <p>{{ company['description_%s' % locale] }}</p>
         </div>
@@ -19,8 +28,15 @@
 
 
 <!-- short-term edu and seminar -->
+<br>
 <div>
     <h3>{{ educations[1]['title_%s' % locale] }}</h3>
+    {% if locale=='ko' %}
+    <p> &nbsp 또한 1~5일 기간에 의사결정자를 대상으로 데이터 애널리틱스 및 데이터마이닝의 개요, 응용 사례 및 분석 방법 소개 등의 교육을 수행하고 있다.</p><br>
+    {% else %}
+    <p> &nbsp 또한 1~5일 기간에 의사결정자를 대상으로 데이터 애널리틱스 및 데이터마이닝의 개요, 응용 사례 및 분석 방법 소개 등의 교육을 수행하고 있다.</p><br>
+    {% endif %}
+
     <ul>
     {% for company in educations[1]['companies'] %}
         <div class="project_semi border">
