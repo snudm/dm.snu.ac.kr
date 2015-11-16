@@ -79,7 +79,7 @@ def education():
 #    return redirect('http://dm.snu.ac.kr/~zoon/education.html')
 
 @app.route('/<lang_code>/people')
-def members():
+def people():
     return render_template('members.html', members=read_json_data('members.json'), alumni=read_json_data('alumni.json'))
 
 @app.route('/<lang_code>/notices/')
