@@ -6,7 +6,8 @@
     {
         "id": "samsunggtc",
         "description_ko": "AS 데이터와 제조 검사 데이터 분석",
-        "description_en": "Analyzing After Service Data and Manufacturing Inspection Data"
+        "description_en": "Mining relation between after-sales service and manufacturing inspection of home appliances" 
+        
     },
     {
         "id": "samsungds",
@@ -16,7 +17,8 @@
     {
         "id": "samsungjejo",
         "description_ko": "모바일 기기 필드 failure와 검사항목 관계 이해",
-        "description_en": "Understanding Relation between Field Failures"
+        "description_en": "Mining relation between after-sales service and manufacturing inspection of mobile appliances"
+        
     },
     {
         "id": "samsungsaengsan",
@@ -46,12 +48,14 @@
     {
         "id": "hyundai",
         "description_ko": "자동차 주행 패턴에 따른 배터리 상태 변화 분석",
-        "description_en": "Understanding Relation between Battery Status Change and Driving Behavior"
+        "description_en": "Mining relation between driving behavior and battery"
+        
     },
     {
         "id": "hyundai",
         "description_ko": "자동차 센서 데이터의 분석 방향 및 가용 알고리즘 탐색",
-        "description_en": "Surveying Algorithms and Methods to analyze Vehicle Field Data"
+        "description_en": "Mining algorithms for telematics data"
+        
     },
     {
         "id": "skhynix",
@@ -61,12 +65,14 @@
     {
         "id": "doosaninfra",
         "description_ko": "필드 클레임 및 공정 데이터를 활용한 이상 엔진 탐지",
-        "description_en": "Understanding Relation between Field Failures and Test Items"
+        "description_en": "Mining relation between after-sales service and manufacturing inspection of engines"
+        
     },
     {
         "id": "doosaninfra",
         "description_ko": "Text Mining을 이용한 엔진 검사 이력 및 필드클레임 분석",
-        "description_en": "Understanding Relation between Field Failure Texts and Test Item Texts"
+        "description_en": "Mining relation between after-sales service text and manufacturing inspection of engines"
+        
     },
     {
         "id": "doosanelectronics",
@@ -186,7 +192,7 @@
     {
         "id": "etri",
         "description_ko": "통계분석 기반 건물 에너지 고장진단 시스템 개발",
-        "description_en": "Understanding Building Energy Consumption by Mining Machine Units"
+        "description_en": "Anomaly detection for HVAC system in Office Buildings"
     }]
 },
 {

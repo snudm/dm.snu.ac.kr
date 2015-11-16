@@ -4,34 +4,22 @@
     "title_en": "Long-term Education",
     "companies": [
     {
-        "id": "samsungsemi",
-        "description_ko": "제조 / 마케팅 애널리틱스",
-        "description_en": "Manufacturing / Marketing Analytics"
+        "id": "samsungsemi"
     },
     {
-        "id": "posco",
-        "description_ko": "제조 애널리틱스",
-        "description_en": "Manufacturing Analytics"
+        "id": "posco"
     },
     {
-        "id": "cj",
-        "description_ko": "마케팅 애널리틱스",
-        "description_en": "Marketing Analytics"
+        "id": "cj"
     },
     {
-        "id": "doosaninfra",
-        "description_ko": "제조 애널리틱스 / 텍스트 마이닝",
-        "description_en": "Manufacturing Analytics / Text Mining"
+        "id": "doosaninfra"
     },
     {
-        "id": "skhynix",
-        "description_ko": "제조 애널리틱스",
-        "description_en": "Manufacturing Analytics"
+        "id": "skhynix"
     },
     {
-        "id": "samsung sds",
-        "description_ko": "빅데이터 비즈니스 모델 개발",
-        "description_en": "Big Data Business Model Development"
+        "id": "samsung sds"
     }
     ]
 },
