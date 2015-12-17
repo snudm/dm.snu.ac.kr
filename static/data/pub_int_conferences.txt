@@ -1,7 +1,7 @@
 "Hand Motion Identification from Electroencephalography Recordings Using Recurrent Neural Network", Jin Won An, Sungzoon Cho, INFORMS, Nov. 2015, Philadelphia, USA
 "Assessing kernel-based anomaly detection algorithms", Hyun-Chang Cho, Sungzoon Cho, INFORMS, Nov. 2015, Philadelphia, USA
-"Automatic sentiment words extraction from online reviews for product comparison", Eunji Kim, Sungzoon Cho, INFORMS, Nov. 2015, Philadelphia, USA
-"Virtual Metrology for Copper Clad Laminate Manufacturing", Misuk Kim, Sungzoon Cho, INFORMS, Nov. 2015, Philadelphia, USA
+"Automatic sentiment words extraction from online reviews for product comparison", Eunji Kim, Hyun-Chang Cho, Sungzoon Cho, INFORMS, Nov. 2015, Philadelphia, USA
+"Virtual Metrology for Copper Clad Laminate Manufacturing", Misuk Kim, Seokho Kang, Jehyuk Lee, Hyun-Chang Cho, Sungzoon Cho, INFORMS, Nov. 2015, Philadelphia, USA
 "Predicting final yield in semiconductor manufacturing using wafer test data", Seokho Kang, Sungzoon Cho, Daewoong An, Jaeyoung Rim, Woonghee Kim, 2015 INFORMS Conference on Business Analytics & Operations Research, April 2015, Huntington Beach, CA, USA.
 "Knowledge Discovery in Pre-assembly Design Review Database", Minhoe Hur, Jiwon Yang, Eunji Kim, Sungzoon Cho,  March 2015, The 7th International Conferences on Pervasive Patterns and Applications, Nice, France.
 "Sales Patterns Clustering Analysis on Seasonal Product Sales Data", Soojin Kim, Jiwon Yang, Sungzoon Cho, Jan 2015, International Conference on Neural Networks and Learning Networks, Singapore, SG.
