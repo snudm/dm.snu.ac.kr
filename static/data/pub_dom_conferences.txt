@@ -1,4 +1,12 @@
-﻿소수 범주 데이터 영역의 확장: 데이터 불균형 해결을 위한 oversampling 기법, 심재웅, 조성준, 한국BI데이터마이닝학회 2015 춘계학술대회.
+﻿AS 서비스 데이터를 활용한 제품 불량 원인 도출, 강석호, 김은지, 심재웅, 조성준, 한국BI데이터마이닝학회 2015 추계학술대회.
+온라인/오프라인 시장조사 데이터를 이용한 영화 개봉 주말 관객수 예측, 안용대, 박성훈, 안진원, 한국BI데이터마이닝학회 2015 추계학술대회.
+Distributed Representation of Documents with Explicit Explanatory Features, 김한결, 김현중, 한국BI데이터마이닝학회 2015 추계학술대회.
+Embedding categorical and numerical mixed data into continuous space for measuring distance, 김미숙, 김현중, 김한결, 한국BI데이터마이닝학회 2015 추계학술대회.
+Mapping words and documents into same topic space with neural encoder, 김현중, 김한결, 한국BI데이터마이닝학회 2015 추계학술대회.
+Finding topically relevant terms from learning distributed representation, 김현중, 김한결, 한국BI데이터마이닝학회 2015 추계학술대회.
+Visualization of topological structure, 김현중, 김한결, 한국BI데이터마이닝학회 2015 추계학술대회.
+Brand2Vec : Distributed representation of brands and applications, 양호성,한국BI데이터마이닝학회 2015 추계학술대회.
+소수 범주 데이터 영역의 확장: 데이터 불균형 해결을 위한 oversampling 기법, 심재웅, 조성준, 한국BI데이터마이닝학회 2015 춘계학술대회.
 소비자가 원하는 주요 기능 및 특징 파악을 위한 온라인 리뷰내 등장단어의 제품군별 정서 분석, 김은지, 조현창, 조성준, 대한산업공학회 2015 춘계공동학술대회.
 Fast novelty detection algorithm and its use in early fault detection for manufacturing process, 고태훈, 김현중, 강필성, 조성준, 대한산업공학회 2015 춘계공동학술대회.
 고속 문서 군집화를 위한 의사 단어 벡터 표현, 김현중, 박은정, 김미숙, 김한결, 강필성, 조성준, 대한산업공학회 2015 춘계공동학술대회.
