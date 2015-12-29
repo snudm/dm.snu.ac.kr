@@ -7,7 +7,7 @@
 {% for report in reports %}
     <li>
     {% set code, info = report.split(',', 1) %}
-    <a href="{{ url_for('static', filename='docs/%s.pdf' % code) }}">[{{ code }}]</a>
+    <a href="{{ url_for('static', filename='docs/TR/%s.pdf' % code) }}">[{{ code }}]</a>
     {{ info }}
     </li>
 {% endfor %}
