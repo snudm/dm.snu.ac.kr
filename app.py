@@ -112,7 +112,7 @@ def reports():
 @app.route('/<lang_code>/research/publications')
 def publications():
     return render_template('publications.html',\
-            pub_submitted =read_txt_data('pub_submitted.txt'),
+            pub_accepted =read_txt_data('pub_accepted.txt'),
            pub_dom_conferences=read_txt_data('pub_dom_conferences.txt'),
            pub_dom_journals=read_txt_data('pub_dom_journals.txt'),
            pub_int_conferences=read_txt_data('pub_int_conferences.txt'),
