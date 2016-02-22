@@ -1,7 +1,7 @@
 [
 {
-    "title_ko": "품질관리",
-    "title_en": "Quality Control",
+    "title_ko": "스마트 제조",
+    "title_en": "Smart Manufacturing",
     "projects": [
     {
         "id": "samsunggtc",
@@ -34,11 +34,6 @@
         "id": "samsunggajeon",
         "description_ko": "시스템 에어컨 실외기 이상 작동 예지",
         "description_en": "Predicting Outdoor A/C Unit Malfunction"
-    },
-    {
-        "id": "dsme",
-        "description_ko": "해양 플랜트 펀치 텍스트 유형 분석",
-        "description_en": "Mining Inspection Reports from Offshore Platform Construction"
     },
     {
         "id": "hyundai",
@@ -78,6 +73,31 @@
         "id": "doosanelectronics",
         "description_ko": "CCL 공정 최적화 및 불량 예측",
         "description_en": "Understanding Relation between Process Parameters and Product Quality in CCL Process"
+    },
+        {
+        "id": "posco",
+        "description_ko": "소결기 속도 제어",
+        "description_en": "Belt Speed Control in Sinter Plant"
+    },
+    {
+        "id": "posco",
+        "description_ko": "냉간 압연 최적 Roll Force 예측",
+        "description_en": "Prediction of Optimal Roll Force in Cold Mill"
+    },
+    {
+        "id": "dsme",
+        "description_ko": "해양 플랜트 펀치 텍스트 유형 분석",
+        "description_en": "Mining Inspection Reports from Offshore Platform Construction"
+    },
+    {
+        "id": "dsme",
+        "description_ko": "시수 물량 예측",
+        "description_en": "Man Hour Prediction"
+    },
+    {
+        "id": "dsme",
+        "description_ko": "블록 조립 프로세스 최적화",
+        "description_en": "Understanding Block Assembly Process for Optimal Scheduling"
     }]
 },
 {
@@ -123,31 +143,6 @@
         "id": "daumsoft",
         "description_ko": "Twiterrian 영향도 평가",
         "description_en": "Quantifying Twitterians' Influence"
-    }]
-},
-{
-    "title_ko": "생산 & 물류",
-    "title_en": "Manufacturing & Transportation",
-    "projects": [
-    {
-        "id": "posco",
-        "description_ko": "소결기 속도 제어",
-        "description_en": "Belt Speed Control in Sinter Plant"
-    },
-    {
-        "id": "posco",
-        "description_ko": "냉간 압연 최적 Roll Force 예측",
-        "description_en": "Prediction of Optimal Roll Force in Cold Mill"
-    },
-    {
-        "id": "dsme",
-        "description_ko": "시수 물량 예측",
-        "description_en": "Man Hour Prediction"
-    },
-    {
-        "id": "dsme",
-        "description_ko": "블록 조립 프로세스 최적화",
-        "description_en": "Understanding Block Assemly Process for Optimal Scheduling"
     }]
 },
 {

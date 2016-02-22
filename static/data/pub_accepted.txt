@@ -1,1 +1,2 @@
+"Naive Reinforcement Learning and Return Predictability", Sunghoon Park, Sungzoon Cho, Review of Finance
 "Semi-supervised support vector regression based on self-training with label uncertainty: An application to virtual metrology in semiconductor manufacturing", Dongil Kim, Pilsung Kang, Sungzoon Cho, Expert Systems with Applications, accepted for publication

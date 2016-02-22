@@ -17,7 +17,7 @@ MENUS = [
     ('development', ['sponsors', 'FAQ']),
     'education',
     'courses',
-    'admission',
+    'degrees',
     'software',
     'contact'
 ]

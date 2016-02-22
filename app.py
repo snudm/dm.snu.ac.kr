@@ -40,10 +40,10 @@ def home():
     else:
         return abort(404)
 
-@app.route('/<lang_code>/admission')
-def admission():
-    return render_template('admission.html',\
-           admission=read_json_data('admission.json'))
+@app.route('/<lang_code>/degrees')
+def degrees():
+    return render_template('degrees.html',\
+           degrees=read_json_data('degrees.json'))
 
 @app.route('/<lang_code>/contact')
 def contact():
