@@ -40,10 +40,22 @@ def home():
     else:
         return abort(404)
 
-@app.route('/<lang_code>/degrees')
+@app.route('/<lang_code>/degrees/')
 def degrees():
-    return render_template('degrees.html',\
-           degrees=read_json_data('degrees.json'))
+    return redirect(url_for('admission_qna', lang_code=get_locale()))
+
+@app.route('/<lang_code>/degrees/phd')
+def phd():
+    return render_template('degrees_phd.html',
+                           phd = read_json_data('degrees.json'))  
+@app.route('/<lang_code>/degrees/masters')
+def masters():
+    return render_template('degrees_masters.html',
+                           masters = read_json_data('degrees.json'))
+@app.route('/<lang_code>/degrees/admission')
+def admission():
+    return render_template('degrees_qna.html',
+                           admission = read_json_data('degrees.json'))  
 
 @app.route('/<lang_code>/contact')
 def contact():

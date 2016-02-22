@@ -1,0 +1,8 @@
+{% extends "layout.html" %}
+
+{% block contents %}
+<h2>Masters</h2>
+{% for line in masters['Masters'] %}
+<p class="answer"><li>{{ line['answer']|safe }}</li></p>
+{% endfor %}
+{% endblock %}
