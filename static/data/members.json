@@ -1,13 +1,5 @@
 {"phd_candidates": [
     {
-     "image": "sppark",
-     "name": "박 성 훈 (Sunghoon Park)",
-     "email": "shpark82 at snu.ac.kr",
-     "research area": "Incremental Learning, Time Series Analysis, Financial Engineering",
-     "B.S.": "Computer Science, KAIST, 2005",
-     "highschool": "Seoul Science, 2000"
-    },
-    {
     "image": "thko",
     "name": "고 태 훈 (Taehoon Ko)",
     "email": "taehoonko at dm.snu.ac.kr",
@@ -23,14 +15,6 @@
     "M.S.": "Industrial Engineering, Seoul Nat'l Univ., 2011",
     "B.S.": "Industrial Engineering, Seoul Nat'l Univ., 2009",
     "highschool": "Daedeok, 2004"       
-    },
-    {
-    "image": "jspark",
-    "name": "박 주 성 (Jooseoung Park)",
-    "email": "jspark at dm.snu.ac.kr",
-    "M.S.": "Industrial Engineering, Seoul Nat'l Univ., 2011",
-    "B.S.": "Industrial Engineering, KAIST, 2009",
-    "highschool": "Seoul Science, 2004" 
     },
     {
     "image": "jwyang",
@@ -115,21 +99,45 @@
     "highschool": "Chungbuk Science, 2010"       
     },
     {
-    "image": "twkim",
+    "image": "taewook_2",
     "name": "김 태 욱 (Taewook Kim)",
     "email": "taewook at dm.snu.ac.kr",
     "B.S.":  "Industrial Engineering, Seoul Nat'l Univ., 2015",
     "highschool": "Dongin, 2009"       
-    }    
+    },
+    {
+    "image": "jinbae",
+    "name": "임 진 배 (Jinbae Im)",
+    "email": "jinbae at dm.snu.ac.kr",
+    "B.S.":  "Industrial Engineering, Seoul Nat'l Univ., 2016",
+    "highschool": "Munseong, 2012"       
+    },
+    {
+    "image": "sungwhan",
+    "name": "전 성 환 (Seonghwan Jeon)",
+    "email": "sjon at dm.snu.ac.kr",
+    "B.S.":  "Computer Science, Mathematics, Emory Univ. 2014",
+    "highschool": "St. John's, 2009"       
+    },
+    {
+    "image": "hyejin",
+    "name": "이 혜 진(Hyejin Lee)",
+    "email": "hyejinlee at dm.snu.ac.kr",
+    "M.S.": "Economics, Cornell Univ., 2013",
+    "B.S.":  "Economics, Univ. of Chicago, 2008",
+    "highschool": "New Hampton School, 2004"       
+    },
+    {
+    "image": "yhoon",
+    "name": "이 영 훈 (Younghoon Lee)",
+    "email": "yhoon.lee at dm.snu.ac.kr",
+    "job": "LG Electronics, 2009-",
+    "M.S.": "Industrial Engineering, Seoul Nat'l Univ., 2009",
+    "B.S.": "Industrial Engineering, Seoul Nat'l Univ., 2007",
+    "highschool": "Deajin, 2003"
+    }            
 ],
 "ms_students": [
-    {
-    "image": "jwsim",
-    "name": "심 재 웅 (Jaewoong Shim)",
-    "email": "shimjw at dm.snu.ac.kr",
-    "B.S.": "Industrial Engineering, Seoul Nat'l Univ., 2014",
-    "highschool": "Dukwon, 2008"        
-    },
     {
     "image": "hkkim",
     "name": "김 한 결 (Han Kyul Kim)",
@@ -143,5 +151,33 @@
     "email": "hoseong at dm.snu.ac.kr",
     "B.S.":  "Industrial Engineering, Seoul Nat'l Univ., 2015",
     "highschool": "Sungdeok, 2008"       
-    }
+    },
+    {
+    "image": "jihyeong",
+    "name": "문 지 형 (Jihyung Moon)",
+    "email": "jhmoon at dm.snu.ac.kr",
+    "B.S.":  "Chemical and Biological Engineering, Seoul Nat'l Univ., 2016",
+    "highschool": "Ansan Dongsan, 2011"       
+    },
+    {
+    "image": "seokmin",
+    "name": "송 석 민 (Seokmin Song)",
+    "email": "seokmin at dm.snu.ac.kr",
+    "B.S.":  "Industrial Engineering, Seoul Nat'l Univ., 2016",
+    "highschool": "Gwangju Science, 2010"       
+    },
+    {
+    "image": "inbeom",
+    "name": "박 인 범 (Inbeom Park)",
+    "email": "ibpark at dm.snu.ac.kr",
+    "B.S.":  "Industrial & Management Engineering, Korea Univ, 2016",
+    "highschool": "Osan, 2010"       
+    },
+    {
+    "image": "dy-min",
+    "name": "민 동 영 (Dongyoung Min)",
+    "email": "dongyoung.min at dm.snu.ac.kr",
+    "B.S.":  "Mathematical Sciences, Business and Technology Management, Financial Engineering, KAIST, 2016",
+    "highschool": "Busan Science, 2011"       
+    }    
 ]}
