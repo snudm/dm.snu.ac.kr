@@ -41,9 +41,7 @@
     "M.S.": "Industrial Engineering, Seoul Nat'l Univ., 2013",
     "B.S.": "Industrial Engineering, Seoul Nat'l Univ., 2011",
     "highschool": "Kukje, 2005" 
-    }
-],
-"phd_students" : [
+    },
     {
     "image": "jhlee",
     "name": "이 제 혁 (Jehyuk Lee)",
@@ -51,7 +49,9 @@
     "M.S.": "Industrial & Systems Engineering, KAIST, 2014",
     "B.S.": "Industrial & Systems Engineering, and Management Science, KAIST, 2012",
     "highschool": "Jeju Science, 2007"  
-    },
+    }
+],
+"phd_students" : [
     {
     "image": "ejkim",
     "name": "김 은 지 (Eunji Kim)",
@@ -106,18 +106,13 @@
     "highschool": "Dongin, 2009"       
     },
     {
-    "image": "jinbae",
-    "name": "임 진 배 (Jinbae Im)",
-    "email": "jinbae at dm.snu.ac.kr",
-    "B.S.":  "Industrial Engineering, Seoul Nat'l Univ., 2016",
-    "highschool": "Munseong, 2012"       
-    },
-    {
-    "image": "sungwhan",
-    "name": "전 성 환 (Seonghwan Jeon)",
-    "email": "sjon at dm.snu.ac.kr",
-    "B.S.":  "Computer Science, Mathematics, Emory Univ. 2014",
-    "highschool": "St. John's, 2009"       
+    "image": "yhoon",
+    "name": "이 영 훈 (Younghoon Lee)",
+    "email": "yhoon.lee at dm.snu.ac.kr",
+    "job": "LG Electronics, 2009-",
+    "M.S.": "Industrial Engineering, Seoul Nat'l Univ., 2009",
+    "B.S.": "Industrial Engineering, Seoul Nat'l Univ., 2007",
+    "highschool": "Deajin, 2003" 
     },
     {
     "image": "hyejin",
@@ -128,14 +123,19 @@
     "highschool": "New Hampton School, 2004"       
     },
     {
-    "image": "yhoon",
-    "name": "이 영 훈 (Younghoon Lee)",
-    "email": "yhoon.lee at dm.snu.ac.kr",
-    "job": "LG Electronics, 2009-",
-    "M.S.": "Industrial Engineering, Seoul Nat'l Univ., 2009",
-    "B.S.": "Industrial Engineering, Seoul Nat'l Univ., 2007",
-    "highschool": "Deajin, 2003" 
-    }            
+    "image": "sungwhan",
+    "name": "전 성 환 (Seonghwan Jeon)",
+    "email": "sjon at dm.snu.ac.kr",
+    "B.S.":  "Computer Science, Mathematics, Emory Univ. 2014",
+    "highschool": "St. John's, 2009"       
+    },
+    {
+    "image": "jinbae",
+    "name": "임 진 배 (Jinbae Im)",
+    "email": "jinbae at dm.snu.ac.kr",
+    "B.S.":  "Industrial Engineering, Seoul Nat'l Univ., 2016",
+    "highschool": "Munseong, 2012"       
+    }
 ],
 "ms_students": [
     {
