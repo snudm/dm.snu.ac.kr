@@ -89,7 +89,7 @@
         "description_ko": "해양 플랜트 펀치 텍스트 유형 분석",
         "description_en": "Mining Inspection Reports from Offshore Platform Construction"
     },
-    {
+    { 
         "id": "dsme",
         "description_ko": "시수 물량 예측",
         "description_en": "Man Hour Prediction"
@@ -98,6 +98,11 @@
         "id": "dsme",
         "description_ko": "블록 조립 프로세스 최적화",
         "description_en": "Understanding Block Assembly Process for Optimal Scheduling"
+    },
+    {
+    	"id": "nationalresearchfoundationofkorea",
+        "description_ko": "데이터과학과 지식창출",
+        "description_en": "Data Science and Knowledge Creation"
     }]
 },
 {
