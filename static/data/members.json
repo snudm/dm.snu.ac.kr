@@ -3,7 +3,7 @@
     "image": "thko",
     "name": "고 태 훈 (Taehoon Ko)",
     "email": "taehoonko at dm.snu.ac.kr",
-    "research area": "Clustering, Time Series Analysis",
+    "areas of interest": "Clustering, Time Series Analysis",
     "B.S.": "Industrial Engineering, Seoul Nat'l Univ., 2008",
     "highschool": "Gwacheon, 2004"      
     },
@@ -20,7 +20,7 @@
     "image": "jwyang",
     "name": "양 지 원 (Jiwon Yang)",
     "email": "yang at dm.snu.ac.kr",
-    "research area": "Learning Algorithms, Mining for Manufacturing Systems",
+    "areas of interest": "Learning Algorithms, Mining for Manufacturing Systems",
     "B.S.": "Industrial Engineering, and Computer Science and Engineering, Seoul Nat'l Univ., 2010",
     "highschool": "Sangdong, 2005"      
     },
@@ -28,7 +28,7 @@
     "image": "ykkim",
     "name": "김 연 국 (Yeonkook Kim)",
     "email": "yjkim at dm.snu.ac.kr",
-    "job": "D&Si, 2010-",
+    "experience": "D&Si, 2010-",
     "M.S.": "Industrial Engineering and Operations Research, Columbia Univ., 2000",
     "B.S.": "Economics, Univ. of Toronto",
     "highschool": "Jarvis Collegiate Institute"
@@ -37,7 +37,7 @@
     "image": "hjkim",
     "name": "김 현 중 (Hyunjoong Kim)",
     "email": "hyunjoong at dm.snu.ac.kr",
-    "research area": "Natural Language Processing, Instance-based Learning, Graph Mining",
+    "areas of interest": "Natural Language Processing, Instance-based Learning, Graph Mining",
     "M.S.": "Industrial Engineering, Seoul Nat'l Univ., 2013",
     "B.S.": "Industrial Engineering, Seoul Nat'l Univ., 2011",
     "highschool": "Kukje, 2005" 
@@ -56,7 +56,7 @@
     "image": "ejkim",
     "name": "김 은 지 (Eunji Kim)",
     "email": "eunjikim at dm.snu.ac.kr",
-    "job": "Kyobo Life Insurance, 2011-2013",
+    "experience": "Kyobo Life Insurance, 2011-2013",
     "B.S.": "Mathematical Sciences, Seoul Nat'l Univ., 2012",
     "highschool": "Baekseok, 2006"      
     },
@@ -78,7 +78,7 @@
     "image": "mskim",
     "name": "김 미 숙 (Misuk Kim)",
     "email": "mskim at dm.snu.ac.kr",
-    "research area": "Optimization, Sentiment Analysis",
+    "areas of interest": "Optimization, Sentiment Analysis",
     "M.S.": "Industrial & Management Engineering, POSTECH, 2012",
     "B.S.": "Industrial & Management Engineering, POSTECH, 2009",
     "highschool": "Chonnam Science, 2006"       
@@ -87,7 +87,7 @@
     "image": "ydahn",
     "name": "안 용 대 (Yongdae An)",
     "email": "ydan at dm.snu.ac.kr ",
-    "job": "Hyundai Heavy Industries",
+    "experience": "Hyundai Heavy Industries",
     "B.S.": "Industrial Engineering, KAIST, 2012",
     "highschool": "Korea Science Academy of KAIST, 2004"
     },
@@ -109,7 +109,7 @@
     "image": "yhoon",
     "name": "이 영 훈 (Younghoon Lee)",
     "email": "yhoon.lee at dm.snu.ac.kr",
-    "job": "LG Electronics, 2009-",
+    "experience": "LG Electronics, 2009-",
     "M.S.": "Industrial Engineering, Seoul Nat'l Univ., 2009",
     "B.S.": "Industrial Engineering, Seoul Nat'l Univ., 2007",
     "highschool": "Deajin, 2003" 
