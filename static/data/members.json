@@ -11,6 +11,8 @@
     "image": "ejpark",
     "name": "박 은 정 (Eunjeong Park)",
     "email": "epark at dm.snu.ac.kr",
+    "experience": "Internship at NCSOFT(AI/NLP Team), 2015.01-2015.02\nInternship at Numberworks 2016.01-2016.03",
+    "areas of interest": "Feature representations, Text mining",
     "homepage": "http://dm.snu.ac.kr/~epark",
     "M.S.": "Industrial Engineering, Seoul Nat'l Univ., 2011",
     "B.S.": "Industrial Engineering, Seoul Nat'l Univ., 2009",
@@ -29,6 +31,7 @@
     "name": "김 연 국 (Yeonkook Kim)",
     "email": "yjkim at dm.snu.ac.kr",
     "experience": "D&Si, 2010-",
+    "areas of interest":"Financial Fraud Detection",
     "M.S.": "Industrial Engineering and Operations Research, Columbia Univ., 2000",
     "B.S.": "Economics, Univ. of Toronto",
     "highschool": "Jarvis Collegiate Institute"
@@ -46,6 +49,8 @@
     "image": "jhlee",
     "name": "이 제 혁 (Jehyuk Lee)",
     "email": "jehyuklee at dm.snu.ac.kr",
+    "experience": "Internship at Samsung Electronics, 2010.6~2010.7",
+    "areas of interest": "Time series analysis, anomaly detection",
     "M.S.": "Industrial & Systems Engineering, KAIST, 2014",
     "B.S.": "Industrial & Systems Engineering, and Management Science, KAIST, 2012",
     "highschool": "Jeju Science, 2007"  
@@ -118,6 +123,7 @@
     "image": "hyejin2",
     "name": "이 혜 진(Hyejin Lee)",
     "email": "hyejinlee at dm.snu.ac.kr",
+    "experience": "Wharton School, U Penn, (2008-2011, 2013-2014) <br/> International Food Policy Research Institute, (2012) </br> Federal Reserve Bank of Chicago, (2007)",
     "M.S.": "Economics, Cornell Univ., 2013",
     "B.S.":  "Economics, Univ. of Chicago, 2008",
     "highschool": "New Hampton School, 2004"       
@@ -142,6 +148,8 @@
     "image": "hkkim",
     "name": "김 한 결 (Han Kyul Kim)",
     "email": "hank at dm.snu.ac.kr",
+    "areas of interest":"Text Mining, Representational Learning, Machine Learning",
+    "Experience":"Internship at Goodyear Tire&Rubber Company, Internship at L.E.K.Consulting",
     "B.S.": "Industrial & Systems Engineering, and Business and Technology Management, KAIST, 2014",
     "highschool": "Concordia International School Shanghai, 2007"       
     },
@@ -149,6 +157,8 @@
     "image": "hsyang",
     "name": "양 호 성 (Hoseong Yang)",
     "email": "hoseong at dm.snu.ac.kr",
+    "experience":"Internship at Daum Soft, 2013.12~2014.02 Internship at LG CNS, 2014.07~2014.08 ",
+    "areas of interest":"Test Mining, Business Intelligence",
     "B.S.":  "Industrial Engineering, Seoul Nat'l Univ., 2015",
     "highschool": "Sungdeok, 2008"       
     },
@@ -156,6 +166,8 @@
     "image": "jihyeong",
     "name": "문 지 형 (Jihyung Moon)",
     "email": "jhmoon at dm.snu.ac.kr",
+    "experience": "VAIIM Consulting, 2015",
+	"areas of interest": "Natural Language Processing",
     "B.S.":  "Chemical and Biological Engineering, Seoul Nat'l Univ., 2016",
     "highschool": "Ansan Dongsan, 2011"       
     },
@@ -177,6 +189,8 @@
     "image": "dy-min",
     "name": "민 동 영 (Dongyoung Min)",
     "email": "dongyoung.min at dm.snu.ac.kr",
+    "experience":"Ambrothia LLC",
+    "areas of interest":"Time series anlaysis",
     "B.S.":  "Mathematical Sciences, Business and Technology Management, Financial Engineering, KAIST, 2016",
     "highschool": "Busan Science, 2011"       
     }    
