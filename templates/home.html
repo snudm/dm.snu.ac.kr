@@ -13,7 +13,7 @@
     $('.flexslider').flexslider({
         animation: "slide",
         controlNav: true,
-        itemWidth:  ($(window).width()/3), // calculate slide width based on window, divide by 3 to show 3
+        itemWidth:  ($(window).width()), // calculate slide width based on window, divide by 3 to show 3
         animationLoop: true,
         slideshow: true,
         sync: "#carousel"
@@ -25,27 +25,18 @@
 {% block contents %}
 <!-- To enable notice popups, modify `js/snudm-notice.js` and include it here. -->
 <!-- <script type="text/javascript" src="{{ url_for('static', filename='js/snudm-notice.js') }}"></script> -->
-<div class="flexslider">
-  <ul class="slides width-49">
-    <li >
-	    <img src="{{ url_for('static', filename='images/home_1.JPG') }}">
-	</li>
-    <li>
-		<img src="{{ url_for('static', filename='images/home_2.JPG') }}">
-    </li>
-    <li>
-		<img src="{{ url_for('static', filename='images/home_4.JPG') }}">
-    </li>
-  </ul>
-</div>
- 
+
+<h2>Intro</h2>
 {% if locale=='ko' %}
 <p>
-서울대학교 데이터마이닝센터(센터장: <a href="{{ url_for('member', name='zoon') }}">조성준</a>)는 1993년 설립되어 데이터 전처리, 앙상블, 분류/예측, 이상 탐지와 같은 <a href="{{ url_for('research', lang_code=locale) }}">학술적 연구</a>를 수행하는 연구기관입니다. 
-제품개발, 생산물류, 품질, 마케팅 영업, 파이낸스, 인사, 에너지, 보안 등 다양한 분야의 <a href="{{ url_for('development', lang_code=locale) }}">연구개발 프로젝트</a>와 기업체 의사결정자들에 대한 데이터마이닝 교육 등의 산학협동을 수행하여 왔습니다. 
-이를 통해 국내외 저널 및 학술대회에 160여 편의 논문을 발표하였고, 10여 건 이상의 국내외 특허와 상용소프트웨어를 개발하였습니다. 현재 20여명의 연구원들이 데이터마이닝 연구에 몰두하고 있습니다.
-앞으로 빅데이터 애널리틱스의 핵심인 데이터마이닝 연구와 개발, 그리고 교육을 통해 우리 기업과 공공, 그리고 과학 발전에 공헌하고자 합니다.
+서울대학교 데이터마이닝센터(센터장: <a href="{{ url_for('member', name='zoon') }}">조성준</a>)는 1993년 설립되어 데이터마이닝 관련  <a href="{{ url_for('research', lang_code=locale) }}">학술 및 응용 연구</a>를 수행하는 연구기관입니다.
+ 빅데이터의 IT 적인 정의는 “volume, velocity, variety”이지만, 비즈니스적인 정의는 “데이터 => 인사이트 => 액션을 통한 비즈니스 밸류 창출 프로세스의 원천 재료”입니다.  데이터마이닝은 이 중 첫 단계인 “데이터 => 인사이트” 변환 단계의 핵심입니다.
+ 본 센터에서는 통계학, 머신러닝, 자연어처리 등의 마이닝 알고리즘을 개발하고, 이들을 실제 비즈니스 문제에 적용 함으로써 비즈니스 밸류를 창출합니다.  특히, 문제해결을 위한 알고리즘 개발이 아닌 알고리즘 개발을 통한 문제해결을 추구합니다.  
+ 제품개발, 생산물류, 품질, 마케팅 영업, 파이낸스, 인사, 에너지, 보안 등 다양한 분야의 <a href="{{ url_for('development', lang_code=locale) }}">연구개발 프로젝트</a>와 기업체 의사결정자들에 대한 데이터마이닝 교육 등의 산학협동을 수행하여 왔습니다. 
+ 이를 통해 국내외 저널 및 학술대회에 160여 편의 논문을 발표하였고, 10여 건 이상의 국내외 특허와 상용소프트웨어를 개발하였습니다. 현재 20여명의 연구원들이 데이터마이닝 연구에 몰두하고 있습니다. 
+ 앞으로 빅데이터 애널리틱스의 핵심인 데이터마이닝 연구와 개발, 그리고 교육을 통해 우리 기업과 공공, 그리고 과학 발전에 공헌하고자 합니다.
 </p>
+
 {% else %}
 <p>
 Data Mining is a set of models that facilitates decision making processes by identifying relationships, patterns, and rules among data and building useful models. Due to increasingly competitive business environments, success of a company has become ever-more reliant on acquiring and analyzing data. Moreover, the most frequently asked question regarding data has changed from a retrospective “what has happened” to a prospective “what will happen”. The study of data mining is flourishing as the amount of available data has been exploding along with the fast advancing computing technology to the point where the term “big data analytics” is often used.
@@ -63,6 +54,21 @@ There is a definite shortage of data mining experts around the world, and data m
 Since we started as Neural Network Lab at POSTECH in 1993, our lab has performed research on customer response modeling, keystroke-based security modeling, manufacturing automation and fault detection, financial forecasting, medical assessment, and intelligent sampling. We have published over 160 research papers, received a number of patents and produced commercial software products. As of March, 2013, our lab has a total of 8 graduates with a Ph.D. degree and 55 graduates with a Master’s degree. Currently, we have 12 Ph.D. students and 10 Masters’ students. Our current research is focused on data sampling, anomaly detection, text analysis, and keystroke-based biometrics.
 </p>
 {% endif %}
+
+<h2>People</h2>
+<div class="flexslider">
+  <ul class="slides width-49">
+    <li >
+	    <img class = "width-49" src="{{ url_for('static', filename='images/home_1.JPG') }}">
+	</li>
+    <li>
+		<img class = "width-49" src="{{ url_for('static', filename='images/home_2.JPG') }}">
+    </li>
+    <li>
+		<img class = "width-49" src="{{ url_for('static', filename='images/home_4.JPG') }}">
+    </li>
+  </ul>
+</div>
 
 <h2>Media</h2>
 <p> &nbsp;&nbsp; 1. <a href = 'http://www.newsis.com/ar_detail/view.html?ar_id=NISX20160303_0013934380&cID=10401&pID=10400' target="_blank">조직 관행 뒤집는 빅데이터 결과 수용…리더 '의지'가 중요 </a>,  2016. 3. 뉴시스  </p>
