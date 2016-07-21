@@ -147,7 +147,7 @@
     "name": "양 효 창 (HyoChang Yang)",
     "email": "yhc0253 at naver.com",
     "B.S.": "Industrial Engineering, Seoul Nat'l Univ., 2016",
-    "highschool": "High School Attached to College of Education, Kon-Kuk University"       
+    "highschool": "KONKUK UNIVERSITY HIGH SCHOOL"       
     }
 ],
 "ms_students": [
@@ -182,6 +182,7 @@
     "image": "seokmin",
     "name": "송 석 민 (Seokmin Song)",
     "email": "seokmin at dm.snu.ac.kr",
+    "areas of interest": "Machine Learning, Natural Language Processing",
     "B.S.":  "Industrial Engineering, Seoul Nat'l Univ., 2016",
     "highschool": "Gwangju Science, 2010"       
     },
@@ -189,6 +190,7 @@
     "image": "inbeom",
     "name": "박 인 범 (Inbeom Park)",
     "email": "ibpark at dm.snu.ac.kr",
+    "areas of interest": "Machine Learning , Text Mining",
     "B.S.":  "Industrial & Management Engineering, Korea Univ, 2016",
     "highschool": "Osan, 2010"       
     },
@@ -200,5 +202,31 @@
     "areas of interest":"Time series anlaysis",
     "B.S.":  "Mathematical Sciences, Business and Technology Management, Financial Engineering, KAIST, 2016",
     "highschool": "Busan Science, 2011"       
-    }    
+    },
+    {
+    "image": "dmshin",
+    "name": "신 동 민 (Dongmin Shin)",
+    "email": "dongmin.shin at dm.snu.ac.kr",
+    "areas of interest":"Text Mining",
+    "B.S.":  "Earth Science Education, Science Communication, Seoul Nat’l Univ., 2016",
+    "highschool": "Busan Science, 2012"
+    },
+    {
+    "image": "mkchung",
+    "name": "정 민 기 (Minki Chung)",
+    "email": "heul92 at kaist.ac.kr",
+    "experience":"Internship at Kiswe mobile inc.",
+    "areas of interest":"Game data mining",
+    "B.S.":  "Industrial & Systems Engineering, KAIST, 2016",
+    "highschool": "Haeundae, 2012"
+    },
+    {
+    "image": "dhkim",
+    "name": "김 도 형 (Dohyung Kim)",
+    "email": "chimz_91 at naver.com",
+    "experience":"Internship at Hyundai-autoever",
+    "areas of interest":"Text Mining",
+    "B.S.":  "Industrial & Management Engineering, Korea Univ, 2016",
+    "highschool": "Kyunggi, 2010"
+    }
 ]}
