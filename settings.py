@@ -14,7 +14,7 @@ MENUS = [
     'datamining',
     'people',
     ('research', ['methods', 'reports', 'publications']),
-    ('development', ['sponsors', 'FAQ']),
+    ('projects', ['sponsors', 'FAQ']),
     'education',
     'courses',
     ('degrees',['PhD','Masters','admission']),

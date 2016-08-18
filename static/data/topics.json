@@ -52,12 +52,12 @@
         "id": "skhynix",
         "description_ko": "반도체 최종검사 수율 예측",
         "description_en": "Yield Prediction in Semiconductor Manufacturing"
+        "description_ko": "필드 클레임 및 공정 데이터를 활용한 이상 엔진 탐지",
     },
     {
         "id": "doosaninfra",
-        "description_ko": "필드 클레임 및 공정 데이터를 활용한 이상 엔진 탐지",
-        "description_en": "Understanding Relation between Field Failures and Test Items"
     },
+        "description_en": "Understanding Relation between Field Failures and Test Items"
     {
         "id": "doosaninfra",
         "description_ko": "Text Mining을 이용한 엔진 검사 이력 및 필드클레임 분석",
