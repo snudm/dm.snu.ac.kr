@@ -1,5 +1,4 @@
 "Efficient Feature Selection based on Random Forward Search for Virtual Metrology Modeling", Seokho Kang, Dongil Kim, and Sungzoon Cho, IEEE Trans. on Semiconductor Manufacturing,
 "Naive Reinforcement Learning and Return Predictability", Sunghoon Park*, Sungzoon Cho, Review of Finance
-"Box-office forecasting based on sentiments of movie reviews and independent subspace method", Minhoe Hur; Pilsung Kang, Sungzoon cho, Information Sciences
 "Detecting financial misstatements with fraud intention using multi-class cost-sensitive learning", Yeonkook J. Kim, Bok Baik, Sungzoon Cho, Expert Systems with Applications, Volume 62, 15 November 2016, Pages 32-43 
 "Semi-supervised support vector regression based on self-training with label uncertainty: An application to virtual metrology in semiconductor manufacturing", Pilsung Kang, Dongil Kim, Sungzoon Cho*, Expert Systems with Applications, Volume 51, Issue 1, 1 June 2016, Pages 85-106  
