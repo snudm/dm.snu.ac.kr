@@ -1,13 +1,23 @@
 {"phd_alumni": [
 	{
      "year": "2016",
+     "name": "김연국",
+     "job": "" 
+    },
+	{
+     "year": "2016",
+     "name": "박은정",
+     "job": "네이버랩스" 
+    },
+    {
+     "year": "2016",
      "name": "박성훈",
      "job": "삼성화재 빅데이터팀" 
     },
     {
      "year": "2016",
      "name": "박주성",
-     "job": "삼성전자 DS"
+     "job": "삼성전자"
     },
     {
      "year": "2015",
@@ -96,8 +106,15 @@
 "ms_alumni" : [
 	{
      "year": "2016",
+     "name": "김한결",
+     "dissertation": "Bag-of-Conpets: 단어에 대한 분산표상의 군집화를 통한 해석 가능한 문서 표현법",
+     "job": "딜로이트 컨설팅"
+    },
+    {
+     "year": "2016",
      "name": "심재웅",
      "dissertation": "소수 범주 데이터 영역의 확장",
+     "diss_address": "http://snu-primo.hosted.exlibrisgroup.com/82SNU:ALL:82SNU_INST21544691700002591",
      "job": "삼성전자 DS"
     },
     {
@@ -110,7 +127,7 @@
     {
      "year": "2015",
      "name": "김홍태",
-     "job": "SK Telecom 빅데이터팀",
+     "job": "NCSoft",
      "dissertation": "필드 클레임 데이터를 활용한 시장품질 예측 및 불량감지",
      "diss_address": "http://snu-primo.hosted.exlibrisgroup.com/82SNU:ALL:82SNU_INST21461869510002591"
     },

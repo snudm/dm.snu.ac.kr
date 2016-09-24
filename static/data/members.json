@@ -8,33 +8,12 @@
     "highschool": "Gwacheon, 2004"      
     },
     {
-    "image": "ejpark",
-    "name": "박 은 정 (Eunjeong Park)",
-    "email": "epark at dm.snu.ac.kr",
-    "experience": "Internship at NCSOFT(AI/NLP Team), 2015.01-2015.02\nInternship at Numberworks 2016.01-2016.03",
-    "areas of interest": "Feature representations, Text mining",
-    "homepage": "http://dm.snu.ac.kr/~epark",
-    "M.S.": "Industrial Engineering, Seoul Nat'l Univ., 2011",
-    "B.S.": "Industrial Engineering, Seoul Nat'l Univ., 2009",
-    "highschool": "Daedeok, 2004"       
-    },
-    {
     "image": "jwyang",
     "name": "양 지 원 (Jiwon Yang)",
     "email": "yang at dm.snu.ac.kr",
     "areas of interest": "Learning Algorithms, Mining for Manufacturing Systems",
     "B.S.": "Industrial Engineering, and Computer Science and Engineering, Seoul Nat'l Univ., 2010",
     "highschool": "Sangdong, 2005"      
-    },
-    {
-    "image": "ykkim",
-    "name": "김 연 국 (Yeonkook Kim)",
-    "email": "yjkim at dm.snu.ac.kr",
-    "experience": "D&Si, 2010-",
-    "areas of interest":"Financial Fraud Detection",
-    "M.S.": "Industrial Engineering and Operations Research, Columbia Univ., 2000",
-    "B.S.": "Economics, Univ. of Toronto",
-    "highschool": "Jarvis Collegiate Institute"
     },
     {
     "image": "hjkim",
@@ -54,9 +33,7 @@
     "M.S.": "Industrial & Systems Engineering, KAIST, 2014",
     "B.S.": "Industrial & Systems Engineering, and Management Science, KAIST, 2012",
     "highschool": "Jeju Science, 2007"  
-    }
-],
-"phd_students" : [
+    },
     {
     "image": "ejkim",
     "name": "김 은 지 (Eunji Kim)",
@@ -64,7 +41,9 @@
     "experience": "Kyobo Life Insurance, 2011-2013",
     "B.S.": "Mathematical Sciences, Seoul Nat'l Univ., 2012",
     "highschool": "Baekseok, 2006"      
-    },
+    }
+],
+"phd_students" : [
     {
     "image": "hccho",
     "name": "조 현 창 (Hyunchang Cho)",
@@ -151,15 +130,6 @@
     }
 ],
 "ms_students": [
-    {
-    "image": "hkkim",
-    "name": "김 한 결 (Han Kyul Kim)",
-    "email": "hank at dm.snu.ac.kr",
-    "areas of interest":"Text Mining, Representational Learning, Machine Learning",
-    "Experience":"Internship at Goodyear Tire&Rubber Company, Internship at L.E.K.Consulting",
-    "B.S.": "Industrial & Systems Engineering, and Business and Technology Management, KAIST, 2014",
-    "highschool": "Concordia International School Shanghai, 2007"       
-    },
     {
     "image": "hsyang",
     "name": "양 호 성 (Hoseong Yang)",
