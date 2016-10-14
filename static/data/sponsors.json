@@ -5,6 +5,12 @@
     "title_en": "Smart Manufacturing",
     "projects": [
     {
+        "id": "ls",
+        "description_ko": "스마트 팩토리/빌딩 을 위한 비즈니스 모델 도출 및 데이터 품질 평가",
+        "description_en": "Development of business models and evaluation of data quality for smart factory/buildings" 
+        
+    },
+    {
         "id": "samsunggtc",
         "description_ko": "AS 데이터와 제조 검사 데이터 분석",
         "description_en": "Mining relation between after-sales service and manufacturing inspection of home appliances" 
@@ -111,6 +117,11 @@
     "title_en": "Marketing & Sales",
     "projects": [
     {
+        "id": "hyundaicard",
+        "description_ko": "민원 발생 가능 고객 사전 예측",
+        "description_en": "Claim Customer Prediction"
+    },
+    {
         "id": "samsungcard",
         "description_ko": "카드 고객 마켓 세그멘테이션",
         "description_en": "Market Segmentation of Customers"
@@ -201,6 +212,11 @@
     "title_en": "Human Resource",
     "projects": [
     {
+        "id": "hyundaicard",
+        "description_ko": "상담원 퇴직 징후 조기알림",
+        "description_en": "Prediction of retirement of Customer Service Representative"
+    },
+    {
         "id": "hyundai",
         "description_ko": "인재 선발 모델링 및 조기 퇴사 예측",
         "description_en": "Predicting Employee Performance with Hiring Data"
@@ -210,6 +226,16 @@
     "title_ko": "금융",
     "title_en": "Finance",
     "projects": [
+    {
+        "id": "shinhancard",
+        "description_ko": "딥러닝을 활용한 해외 스코어 모형 고도화",
+        "description_en": "Advancement of Deep Learning based Foreign Score Model"
+    },
+    {
+        "id": "hyundaicard",
+        "description_ko": "고객 중도 상환 예측",
+        "description_en": "Clien Prepayment Prediction"
+    },
     {
         "id": "bok",
         "description_ko": "세계 중앙은행 총재 연설문 분석",

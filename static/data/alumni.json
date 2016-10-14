@@ -2,12 +2,12 @@
 	{
      "year": "2016",
      "name": "김연국",
-     "job": "" 
+     "job": "충북대학교 " 
     },
 	{
      "year": "2016",
      "name": "박은정",
-     "job": "네이버랩스" 
+     "job": "네이버랩스(SNU Ph d)" 
     },
     {
      "year": "2016",
@@ -17,7 +17,7 @@
     {
      "year": "2016",
      "name": "박주성",
-     "job": "삼성전자"
+     "job": "삼성전자(SNU Ph d)"
     },
     {
      "year": "2015",
@@ -211,14 +211,14 @@
     {
      "year": "2011",
      "name": "박은정",
-     "job": "박사과정",
+     "job": "네이버랩스 (SNU Ph d)",
      "dissertation": "군집화 필터에 기반한 중복 최소화 변수선택법",
      "diss_address": "http://snu-primo.hosted.exlibrisgroup.com/82SNU:ALL:82SNU_INST21453353470002591"
     },
     {
      "year": "2011",
      "name": "박주성",
-     "job": "박사과정",
+     "job": "삼성전자 (SNU Ph d) ",
      "dissertation": "임의 장문의 키보드 키스트로크 다이나믹스 기반 사용자 인증을 위한 왼손, 오른손, 스페이스 바 간 입력시간의 다중 Kolmogorov-Smirnov 검정",
      "diss_address": "http://snu-primo.hosted.exlibrisgroup.com/82SNU:ALL:82SNU_INST21453353260002591"
     },
@@ -323,7 +323,7 @@
     {
      "year": "2005",
      "name": "성기석",
-     "job": "Texas A&M University PhD Candidate",
+     "job": "삼성화재  (Texas A&M, Ph d) ",
      "dissertation": "Accuracy와 diversity를 고려한 GA-SVM Wrapper Ensemble",
      "diss_address": "http://snu-primo.hosted.exlibrisgroup.com/82SNU:ALL:82SNU_INST21455971550002591"
     },
@@ -337,7 +337,7 @@
     {
      "year": "2004",
      "name": "하경남",
-     "job": "Business School, University of New Haven, Assistant Professor",
+     "job": "Pacific Lutheran, Professor  (Washington, Ph d)s",
      "dissertation": "배깅 신경망 및 SVM을 이용한 응답모델 구축",
      "diss_address": "http://snu-primo.hosted.exlibrisgroup.com/82SNU:ALL:82SNU_INST21445901160002591"
     },
