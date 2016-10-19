@@ -1,5 +1,5 @@
 SNUDM-TR-2015-07, [Eng]Understanding Brands with Visualization and Keywords from eWOM using Distributed Representation, Hoseong Yang, Sungzoon Cho, 2015-12-27.
-SNUDM-TR-2015-06, [Kor]Visualizing Brands and Extracting Keywords from User-Generated Content using Distributed Representation, 양호성, 조성준, 2015-12-27.
+SNUDM-TR-2015-06, [한글]Visualizing Brands and Extracting Keywords from User-Generated Content using Distributed Representation, 양호성, 조성준, 2015-12-27.
 SNUDM-TR-2015-05, Bag-of-Concepts: Comprehending Document Representation through Clustering Words in Distributed Representation, Han Kyul Kim, Hyunjoong Kim, Sungzoon Cho, 2015-12-28.
 SNUDM-TR-2015-04, 8-K 공시 문서의 분산 표상 기반 감성 분석을 통한 주가 방향 예측, 김미숙, 박은정, 조성준, 2015-12-28.
 SNUDM-TR-2015-03, Variational Autoencoder based Anomaly Detection using Reconstruction Probability, Jinwon An, Sungzoon Cho, 2015-12-27.
