@@ -1,6 +1,70 @@
 {% extends "layout.html" %}
 
+{% block extended_headers %}
+<!-- image slider  -->
+<link rel="stylesheet" href="{{url_for('static', filename = 'css/flexslider.css')}}" type="text/css">
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.6.2/jquery.min.js"></script>
+<script src="{{url_for('static', filename = 'js/jquery.flexslider.js')}}"></script>
+<script type="text/javascript" charset="utf-8">
+(function() {
+
+// store the slider in a local variable
+var $window = $(window),
+	flexslider;
+
+// tiny helper function to add breakpoints
+function getGridSize() {
+	return (window.innerWidth < 900) ? 1 : 1;
+ }
+
+$(function() {
+	SyntaxHighlighter.all();
+});
+	 
+$(window).load(function() {
+	$('.flexslider').flexslider({
+		animation: "slide",
+		controlNav: true,
+		itemWidth:  420, // calculate slide width based on window, divide by 3 to show 3
+		itemMargin: 5,
+		animationLoop: true,
+		slideshow: true,
+		minItems:getGridSize(),
+		maxItems:getGridSize()
+	});
+});
+
+// check grid size on resize event
+$window.resize(function() {
+	var gridSize = getGridSize();
+	
+	flexslider.vars.minItems = gridSize;
+	flexslider.vars.maxItems = gridSize;
+	});
+}());
+</script>
+{% endblock %}
+
+
 {% block contents %}
+<h2>People</h2>
+<div class="flexslider" style="width:100%;margin:auto;">
+  <ul class="slides">
+    <li >
+	    <img src="{{ url_for('static', filename='images/home_1.JPG') }}">
+	</li>
+    <li>
+		<img src="{{ url_for('static', filename='images/home_2.JPG') }}">
+    </li>
+    <li>
+		<img src="{{ url_for('static', filename='images/home_3.JPG') }}">
+    </li>
+    <li>
+		<img src="{{ url_for('static', filename='images/home_4.JPG') }}">
+    </li>
+  </ul>
+</div>
+
 <h2>Director</h2>
 <!--
 <div class="member hover row">

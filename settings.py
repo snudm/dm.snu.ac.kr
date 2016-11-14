@@ -10,15 +10,15 @@ CONTACT = {
     'phone': '+82-(0)2-880-7025',
 }
 
+#2016/11/10  교수님 지시로 datamining 탭 삭제
 MENUS = [
-    'datamining',
+    'home',
     'people',
-    ('research', ['methods', 'reports', 'publications']),
+    ('research', ['activities', 'publications', 'reports', 'software']),
     ('projects', ['sponsors', 'FAQ']),
     'education',
     'courses',
     ('degrees',['PhD','Masters','admission']),
-    'software',
     'contact'
 ]
 

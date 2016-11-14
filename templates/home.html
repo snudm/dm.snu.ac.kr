@@ -4,48 +4,6 @@
 <link href="{{ url_for('static', filename='css/animate.css') }}" rel="stylesheet">
 <script type="text/javascript" src="{{ url_for('static', filename='js/jquery.noty.packaged.min.js') }}"></script>
 <script type="text/javascript" src="{{ url_for('static', filename='js/relax.js') }}"></script>
-<!-- image slider  -->
-<link rel="stylesheet" href="{{url_for('static', filename = 'css/flexslider.css')}}" type="text/css">
-<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.6.2/jquery.min.js"></script>
-<script src="{{url_for('static', filename = 'js/jquery.flexslider.js')}}"></script>
-<script type="text/javascript" charset="utf-8">
-(function() {
-
-// store the slider in a local variable
-var $window = $(window),
-	flexslider;
-
-// tiny helper function to add breakpoints
-function getGridSize() {
-	return (window.innerWidth < 900) ? 1 : 1;
- }
-
-$(function() {
-	SyntaxHighlighter.all();
-});
-	 
-$(window).load(function() {
-	$('.flexslider').flexslider({
-		animation: "slide",
-		controlNav: true,
-		itemWidth:  420, // calculate slide width based on window, divide by 3 to show 3
-		itemMargin: 5,
-		animationLoop: true,
-		slideshow: true,
-		minItems:getGridSize(),
-		maxItems:getGridSize()
-	});
-});
-
-// check grid size on resize event
-$window.resize(function() {
-	var gridSize = getGridSize();
-	
-	flexslider.vars.minItems = gridSize;
-	flexslider.vars.maxItems = gridSize;
-	});
-}());
-</script>
 {% endblock %}
 
 {% block contents %}
@@ -81,33 +39,27 @@ Since we started as Neural Network Lab at POSTECH in 1993, our lab has performed
 </p>
 {% endif %}
 
-<h2>People</h2>
-<div class="flexslider" style="width:100%;margin:auto;">
-  <ul class="slides">
-    <li >
-	    <img src="{{ url_for('static', filename='images/home_1.JPG') }}">
-	</li>
-    <li>
-		<img src="{{ url_for('static', filename='images/home_2.JPG') }}">
-    </li>
-    <li>
-		<img src="{{ url_for('static', filename='images/home_3.JPG') }}">
-    </li>
-    <li>
-		<img src="{{ url_for('static', filename='images/home_4.JPG') }}">
-    </li>
-  </ul>
-</div>
-
+<!-- 메인 화면에 있던 사진 슬라이더는 교수님 요청으로 11/10에 people로 옮김. -->
 <h2>Media</h2>
 <p> &nbsp;&nbsp; 1. <a href = 'http://www.newsis.com/ar_detail/view.html?ar_id=NISX20160303_0013934380&cID=10401&pID=10400' target="_blank">조직 관행 뒤집는 빅데이터 결과 수용…리더 '의지'가 중요 </a>,  2016. 3. 뉴시스  </p>
 <p> &nbsp;&nbsp; 2. <a href = 'http://news.mk.co.kr/newsRead.php?sc=30000001&year=2015&no=1169051&sID=501' target="_blank">정부3.0 빅데이터 정책토론회 </a>,  2015. 12. 매일경제  </p>
 <p> &nbsp;&nbsp; 3. <a href = 'http://www.comworld.co.kr/news/articleView.html?idxno=48873' target="_blank"> 데이터사이언티스트를 찾아서</a>, 2015.10, 컴퓨터월드</p>
 <p> &nbsp;&nbsp; 4. <a href = 'http://srchdb1.chosun.com/pdf/i_service/pdf_ReadBody.jsp?Y=2015&M=09&D=23&ID=2015092300121' target="_blank">公共 데이터 더 개방해야 국민이 편해진다</a>,  2015. 9. 조선일보  </p>
 
+<!-- 2016/11/10 교수님 지시에 따라 새로 만듦 -->
+<h2>Data Mining FAQ</h2>
+{% for content in datamining['datamining'] %}
+<h3 class="question"><li>{{ content['question'] }}</li></h3>
+<p class="answer">{{ content['answer'] }}</p>
+{% endfor %}
+
+<!-- 2016/11/10 교수님 지시에 따라서 없앴음.
+
 <h2>Research</h2>
 <img class="width-100" src="{{ url_for('static', filename='images/home3.png') }}">
 
 <h2>Projects</h2>
 <img class="width-100" src="{{ url_for('static', filename='images/home4.png') }}">
+ -->
+ 
 {% endblock %}

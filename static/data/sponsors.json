@@ -6,7 +6,7 @@
     "projects": [
     {
         "id": "ls",
-        "description_ko": "스마트 팩토리/빌딩 을 위한 비즈니스 모델 도출 및 데이터 품질 평가",
+        "description_ko": "스마트 팩토리를 위한 비즈니스 모델 도출 및 데이터 품질 평가",
         "description_en": "Development of business models and evaluation of data quality for smart factory/buildings" 
         
     },
@@ -118,6 +118,11 @@
     "projects": [
     {
         "id": "hyundaicard",
+        "description_ko": "고객 중도 상환 예측",
+        "description_en": "Clien Prepayment Prediction"
+    },
+    {
+        "id": "hyundaicard",
         "description_ko": "민원 발생 가능 고객 사전 예측",
         "description_en": "Claim Customer Prediction"
     },
@@ -167,6 +172,12 @@
     "title_en": "Product Design",
     "projects": [
     {
+        "id": "ls",
+        "description_ko": "스마트 팩토리, 스마트 에너지 관리 비즈니스 모델 개발",
+        "description_en": "Development of business models for smart factory & smart energy" 
+        
+    },
+    {
         "id": "samsungdmc",
         "description_ko": "가전기기 별 컨텍스트 탐색을 통한 스마트 홈 시나리오 설계",
         "description_en": "Identifying Customer Needs for Smart Home Appliances from Social Media"
@@ -192,6 +203,12 @@
     "title_en": "Energy",
     "projects": [
     {
+        "id": "ls",
+        "description_ko": "빌딩, 공장 에너지 관리 BEMS/FEMS",
+        "description_en": "BEMS/FEMS for building/factory energy management system" 
+        
+    },
+    {
         "id": "hyundaih",
         "description_ko": "스마트그리드 데이터 분석",
         "description_en": "Understanding Energy Consumption by Mining Smart Grid"
@@ -208,8 +225,8 @@
     }]
 },
 {
-    "title_ko": "인사관리",
-    "title_en": "Human Resource",
+    "title_ko": "Human Resources",
+    "title_en": "Human Resources",
     "projects": [
     {
         "id": "hyundaicard",
@@ -220,26 +237,6 @@
         "id": "hyundai",
         "description_ko": "인재 선발 모델링 및 조기 퇴사 예측",
         "description_en": "Predicting Employee Performance with Hiring Data"
-    }]
-},
-{
-    "title_ko": "금융",
-    "title_en": "Finance",
-    "projects": [
-    {
-        "id": "shinhancard",
-        "description_ko": "딥러닝을 활용한 해외 스코어 모형 고도화",
-        "description_en": "Advancement of Deep Learning based Foreign Score Model"
-    },
-    {
-        "id": "hyundaicard",
-        "description_ko": "고객 중도 상환 예측",
-        "description_en": "Clien Prepayment Prediction"
-    },
-    {
-        "id": "bok",
-        "description_ko": "세계 중앙은행 총재 연설문 분석",
-        "description_en": "Text Mining Central Bankers' Speeches"
     }]
 },
 {
@@ -261,4 +258,21 @@
         "description_ko": "키스트로크 다이나믹스 기반 사용자 인증",
         "description_en": "Authenticating users with Keystroke Dynamics"
     }]
-}]
+},
+{
+    "title_ko": "리스크 관리",
+    "title_en": "Risk Management",
+    "projects": [
+    {
+        "id": "shinhancard",
+        "description_ko": "딥러닝을 활용한 해외 스코어 모형 고도화",
+        "description_en": "Advancement of Deep Learning based Foreign Score Model"
+    },
+    {
+        "id": "bok",
+        "description_ko": "세계 중앙은행 총재 연설문 분석",
+        "description_en": "Text Mining Central Bankers' Speeches"
+    }]
+}
+
+]

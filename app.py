@@ -31,12 +31,13 @@ def get_locale():
 
 @app.route('/')
 def root():
-    return redirect(url_for('home', lang_code=BABEL['default_locale']))
+    return redirect(url_for('home', lang_code=BABEL['default_locale'], ))
 
 @app.route('/<lang_code>/')
 def home():
     if g.current_lang in LOCALES:
-        return render_template('home.html')
+        return render_template('home.html',\
+                                datamining=read_json_data('datamining.json'))
     else:
         return abort(404)
 
@@ -70,10 +71,13 @@ def courses():
 def course(id):
     return render_template('courses/%s.html' % id)
 
+"""
+2016/11/10 교수님 지시로 삭제
 @app.route('/<lang_code>/datamining')
 def datamining():
     return render_template('datamining.html',\
            datamining=read_json_data('datamining.json'))
+"""
 
 @app.route('/<lang_code>/development/')
 def development():
@@ -112,9 +116,10 @@ def faq():
 def research():
     return redirect(url_for('publications', lang_code=get_locale()))
 
-@app.route('/<lang_code>/research/methods')
-def methods():
-    return render_template('methods.html')
+@app.route('/<lang_code>/research/activities')
+def activities():
+    return redirect("https://sites.google.com/a/dm.snu.ac.kr/snudm_seminar/")
+    #return render_template('activities.html')
 
 @app.route('/<lang_code>/research/reports')
 def reports():

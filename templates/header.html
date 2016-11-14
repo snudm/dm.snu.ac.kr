@@ -30,13 +30,14 @@
         <span id="title">
             <span class="visible-xs">SNUDM</span>
             <span class="hidden-xs">SNU Data Mining Center</span>
-        </span>
+        </span>	
       </a>
     </div>
 
     <!-- Collect the nav links, forms, and other content for toggling -->
-    <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
-      <ul class="nav navbar-nav">
+    <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1" >
+      <!-- 교수님 요청으로 Nav bar 수정하면서 padding-left 붙임 -->
+      <ul class="nav navbar-nav" style = "padding-left:15px;">
         {% for menu in menus %}
             {% if isinstance(menu, str) %}
             <li{% if active_page==menu %} class="active"{% endif %}><a href="{{ url_for(menu.lower(), lang_code=locale) }}">{% if menu=='datamining' %} Data Mining {% else %} {{ menu }} {% endif %} </a></li>
