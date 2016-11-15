@@ -220,6 +220,10 @@ table.alumni td:nth-child(2) {
     width: 49%;
 }
 
+.width-90 {
+	width: 90%;
+}
+
 .width-100 {
     width: 100%;
 }
