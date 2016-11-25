@@ -130,10 +130,8 @@ def reports():
 def publications():
     return render_template('publications.html',\
             pub_accepted =read_txt_data('pub_accepted.txt'),
-           pub_dom_conferences=read_txt_data('pub_dom_conferences.txt'),
-           pub_dom_journals=read_txt_data('pub_dom_journals.txt'),
-           pub_int_conferences=read_txt_data('pub_int_conferences.txt'),
-           pub_int_journals=read_txt_data('pub_int_journals.txt'),
+           pub_journals=read_txt_data('pub_journals.txt'),
+           pub_conferences=read_txt_data('pub_conferences.txt'),
            pub_patent =read_txt_data('pub_patent.txt'))
 
 

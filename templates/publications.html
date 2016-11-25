@@ -11,9 +11,9 @@
 </ol>
 
 
-<h3>International Journals</h3>
+<h3>Journals</h3>
 <ol reversed>
-{% for pub in pub_int_journals %}
+{% for pub in pub_journals %}
     <li>
     {% if 'http' in pub %}
     {% set title, url = pub.rsplit(',', 1) %}<a href="{{ url }}">{{ title }}</a>
@@ -24,23 +24,9 @@
 {% endfor %}
 </ol>
 
-<h3>International Conferences</h3>
+<h3>Conferences</h3>
 <ol reversed>
-    {% for pub in pub_int_conferences %}
-    <li>{{ pub }}</li>
-    {% endfor %}
-</ol>
-
-<h3>Domestic Journals</h3>
-<ol reversed>
-    {% for pub in pub_dom_journals %}
-    <li>{{ pub }}</li>
-    {% endfor %}
-</ol>
-
-<h3>Domestic Conferences</h3>
-<ol reversed>
-    {% for pub in pub_dom_conferences %}
+    {% for pub in pub_conferences %}
     <li>{{ pub }}</li>
     {% endfor %}
 </ol>
