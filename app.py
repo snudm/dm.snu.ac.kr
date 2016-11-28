@@ -126,21 +126,33 @@ def reports():
     return render_template('reports.html',\
            reports=read_txt_data('technical_reports.txt'))
 
-@app.route('/<lang_code>/research/publications')
+"""
+@app.route('/<lang_code>/research/journalpublications')
 def publications():
     return render_template('publications.html',\
             pub_accepted =read_txt_data('pub_accepted.txt'),
            pub_journals=read_txt_data('pub_journals.txt'),
            pub_conferences=read_txt_data('pub_conferences.txt'),
            pub_patent =read_txt_data('pub_patent.txt'))
+"""
 
+@app.route('/<lang_code>/research/journal')
+def journal():
+    return render_template('journals.html',\
+           pub_journals=read_txt_data('pub_journals.txt') )
 
+@app.route('/<lang_code>/research/conference')
+def conference():
+    return render_template('conference.html',\
+           pub_conferences=read_txt_data('pub_conferences.txt'))
+
+@app.route('/<lang_code>/research/patent')
+def patent():
+    return render_template('patents.html', pub_patent=read_txt_data('pub_patent.txt'))
 
 @app.route('/<lang_code>/map')
 def map():
     return render_template('map.html')
-
-
 
 
 @app.route('/<lang_code>/seminar')

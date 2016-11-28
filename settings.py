@@ -14,7 +14,7 @@ CONTACT = {
 MENUS = [
     'home',
     'people',
-    ('research', ['activities', 'publications', 'reports', 'software']),
+    ('research', ['activities', 'journal','conference', 'reports', 'software','patent']),
     ('projects', ['sponsors', 'FAQ']),
     'education',
     'courses',

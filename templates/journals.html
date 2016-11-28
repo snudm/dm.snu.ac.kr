@@ -1,0 +1,17 @@
+{% extends "layout.html" %}
+
+{% block contents %}
+<h2>Journal Publications</h2>
+<ol reversed>
+{% for pub in pub_journals %}
+    <li>
+    {% if 'http' in pub %}
+    {% set title, url = pub.rsplit(',', 1) %}<a href="{{ url }}">{{ title }}</a>
+    {% else %}
+    {{ pub }}
+    {% endif %}
+    </li>
+{% endfor %}
+</ol>
+
+{% endblock %}
