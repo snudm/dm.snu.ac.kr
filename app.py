@@ -1,20 +1,23 @@
 #! /usr/bin/python2.7
 # -*- coding: utf-8 -*-
-
-from flask import abort, Flask, g, redirect, render_template, request, url_for
+import os
+from flask import abort, Flask, g, redirect, render_template, request, url_for, send_from_directory
 from flask.ext.babel import Babel, get_locale
 
-from settings import APP_URL, BABEL, CONTACT, LOCALES, MENUS, SERVER
-from utils import get_notice, read_csv_data, read_json_data, read_txt_data
+from settings import APP_URL, BABEL, CONTACT, LOCALES, MENUS, SERVER, APP_STATIC_SEMINAR
+from utils import get_notice, read_csv_data, read_json_data, read_txt_data, read_seminar_data, allowed_file
+from flask.helpers import flash
+from werkzeug import secure_filename
+from datetime import datetime
 
 
 app = Flask(__name__)
 app.config['BABEL_DEFAULT_LOCALE'] = BABEL['default_locale']
+app.config['SEMINAR_FORDER'] = APP_STATIC_SEMINAR
 app.debug = SERVER['debug']
 app.jinja_env.globals.update(isinstance=isinstance, str=str)
 
 babel = Babel(app, **BABEL)
-
 
 @app.before_request
 def before():
@@ -116,10 +119,28 @@ def faq():
 def research():
     return redirect(url_for('publications', lang_code=get_locale()))
 
-@app.route('/<lang_code>/research/activities')
+@app.route('/<lang_code>/research/activities', methods = ['GET','POST'])
 def activities():
-    return redirect("https://sites.google.com/a/dm.snu.ac.kr/snudm_seminar/")
-    #return render_template('activities.html')
+    #return redirect("https://sites.google.com/a/dm.snu.ac.kr/snudm_seminar/")
+    if request.method =='POST':
+        if 'file' not in request.files:
+            flash('파일이 없습니다.')
+            return redirect(request.url)
+        file = request.files['file']
+        
+        if file.filename =='':
+            flash('선택된 파일이 없습니다.')
+            return redirect(request.url)
+        if file and allowed_file(file.filename):
+            filename = secure_filename(file.filename)
+            filename = datetime.today().strftime('%Y%m%d')+'-'+filename
+            file.save(os.path.join(app.config['SEMINAR_FORDER'],filename))
+    
+    return render_template('activities.html', seminar_data = read_seminar_data())
+
+@app.route('/download/<filename>')
+def download(filename):
+    return send_from_directory(app.config['SEMINAR_FORDER'], filename=filename)
 
 @app.route('/<lang_code>/research/reports')
 def reports():
@@ -149,6 +170,7 @@ def conference():
 @app.route('/<lang_code>/research/patent')
 def patent():
     return render_template('patents.html', pub_patent=read_txt_data('pub_patent.txt'))
+
 
 @app.route('/<lang_code>/map')
 def map():

@@ -10,6 +10,8 @@ import markdown
 
 from settings import APP_STATIC, APP_TEMPLATES
 
+ALLOWED_EXTENSIONS=set(['pptx','ppt','pdf'])
+
 
 get_data_path = lambda f: os.path.join(APP_STATIC, 'data', f)
 
@@ -35,3 +37,12 @@ def read_json_data(filename):
 def read_txt_data(filename):
     with open(get_data_path(filename), 'r') as f:
         return f.read().decode('utf-8').splitlines()
+
+def read_seminar_data():
+    files = glob(os.path.join(APP_STATIC,'seminar', '*'))
+    files = [os.path.basename(file) for file in files]
+    files = [file.decode('euc-kr') for file in files]
+    return files
+
+def allowed_file(filename):
+    return '.'in filename and filename.rsplit('.',1)[1] in ALLOWED_EXTENSIONS

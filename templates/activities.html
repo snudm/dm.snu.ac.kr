@@ -5,7 +5,19 @@
 <h2>Research methods</h2>
 <img src="{{ url_for('static', filename='images/research_topics.png')}}" class="width-100">
  -->
-<h2>Seminar Presentation</h2> 
- 
- 
+<h2>Seminar Presentation</h2>
+<ol reversed>
+ {% for file in seminar_data  %}
+ 	<li><a href = {{url_for('download', filename = file)}}>{{file}}</li>
+ {% endfor%}
+</ol>
+
+<!-- 
+<form action="" method=post enctype=multipart/form-data>
+	
+	<p><input type=file name = file>
+	<p><input type=submit value=Upload>	
+	
+</form>
+ -->
 {% endblock %}

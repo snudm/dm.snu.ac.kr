@@ -1,7 +1,8 @@
 # -*- coding: utf-8 -*-
 
 import os
-
+USER_ID="datamining"
+USER_PW="eldpa!"
 
 CONTACT = {
     'address_ko': '서울시 관악구 관악로 1 서울대학교 39동 339호',
@@ -37,4 +38,5 @@ SERVER = {
 APP_URL = 'http://dm.snu.ac.kr'
 APP_ROOT = os.path.dirname(os.path.abspath(__file__))
 APP_STATIC = os.path.join(APP_ROOT, 'static')
+APP_STATIC_SEMINAR = os.path.join(APP_STATIC,'seminar')
 APP_TEMPLATES = os.path.join(APP_ROOT, 'templates')
