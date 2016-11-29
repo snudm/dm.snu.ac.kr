@@ -121,7 +121,7 @@ def research():
 
 @app.route('/<lang_code>/research/activities', methods = ['GET','POST'])
 def activities():
-    #return redirect("https://sites.google.com/a/dm.snu.ac.kr/snudm_seminar/")
+    return redirect("https://sites.google.com/a/dm.snu.ac.kr/snudm_seminar/")
     """
     if request.method =='POST':
         if 'file' not in request.files:
@@ -136,9 +136,9 @@ def activities():
             filename = secure_filename(file.filename)
             filename = datetime.today().strftime('%Y%m%d')+'-'+filename
             file.save(os.path.join(app.config['SEMINAR_FORDER'],filename))
-    """
     return render_template('activities.html', seminar_data = read_seminar_data())
-
+    """
+    
 @app.route('/download/<filename>')
 def download(filename):
     return send_from_directory(app.config['SEMINAR_FORDER'], filename=filename)
