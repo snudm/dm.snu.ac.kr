@@ -1,0 +1,114 @@
+{% extends "layout.html" %}
+
+{% block extended_headers %}
+<link href="{{ url_for('static', filename='css/animate.css') }}" rel="stylesheet">
+<script type="text/javascript" src="{{ url_for('static', filename='js/jquery.noty.packaged.min.js') }}"></script>
+<script type="text/javascript" src="{{ url_for('static', filename='js/relax.js') }}"></script>
+<!-- image slider  -->
+<link rel="stylesheet" href="{{url_for('static', filename = 'css/flexslider.css')}}" type="text/css">
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.6.2/jquery.min.js"></script>
+<script src="{{url_for('static', filename = 'js/jquery.flexslider.js')}}"></script>
+<script type="text/javascript" charset="utf-8">
+(function() {
+
+// store the slider in a local variable
+var $window = $(window),
+	flexslider;
+
+// tiny helper function to add breakpoints
+function getGridSize() {
+	return (window.innerWidth < 900) ? 1 : 1;
+ }
+
+$(function() {
+	SyntaxHighlighter.all();
+});
+	 
+$(window).load(function() {
+	$('.flexslider').flexslider({
+		animation: "slide",
+		controlNav: true,
+		itemWidth:  420, // calculate slide width based on window, divide by 3 to show 3
+		itemMargin: 5,
+		animationLoop: true,
+		slideshow: true,
+		minItems:getGridSize(),
+		maxItems:getGridSize()
+	});
+});
+
+// check grid size on resize event
+$window.resize(function() {
+	var gridSize = getGridSize();
+	
+	flexslider.vars.minItems = gridSize;
+	flexslider.vars.maxItems = gridSize;
+	});
+}());
+</script>
+{% endblock %}
+
+{% block contents %}
+<!-- To enable notice popups, modify `js/snudm-notice.js` and include it here. -->
+<!-- <script type="text/javascript" src="{{ url_for('static', filename='js/snudm-notice.js') }}"></script> -->
+<div class="flexslider" style="width:100%;margin:auto;">
+  <ul class="slides">
+    <li >
+	    <img src="{{ url_for('static', filename='images/home_1.JPG') }}">
+	</li>
+    <li>
+		<img src="{{ url_for('static', filename='images/home_2.JPG') }}">
+    </li>
+    <li>
+		<img src="{{ url_for('static', filename='images/home_3.JPG') }}">
+    </li>
+    <li>
+		<img src="{{ url_for('static', filename='images/home_4.JPG') }}">
+    </li>
+  </ul>
+</div>
+
+<h2>Intro</h2>
+{% if locale=='ko' %}
+<p>
+ 서울대학교 데이터마이닝센터(센터장: <a href="{{ url_for('member', name='zoon') }}">조성준</a>)는 1993년 설립되어 데이터마이닝 관련  <a href="{{ url_for('research', lang_code=locale) }}">학술 및 응용 연구</a>를 수행하는 연구기관입니다.
+ 빅데이터의 IT 적인 정의는 <strong>"volume, velocity, variety"</strong>이지만, 비즈니스적인 정의는 <strong>"데이터 ➔ 인사이트 ➔ 액션을 통한 비즈니스 밸류 창출 프로세스의 원천 재료"</strong>입니다.  데이터마이닝은 이 중 첫 단계인 “데이터 ➔ 인사이트” 변환 단계의 핵심입니다.
+</br> 본 센터에서는 통계학, 머신러닝, 자연어처리 등의 마이닝 알고리즘을 개발하고, 이들을 실제 비즈니스 문제에 적용 함으로써 비즈니스 밸류를 창출합니다.  특히, 문제해결을 위한 알고리즘 개발이 아닌 알고리즘 개발을 통한 문제해결을 추구합니다.  
+ 제품개발, 생산물류, 품질, 마케팅 영업, 파이낸스, 인사, 에너지, 보안 등 다양한 분야의 <a href="{{ url_for('development', lang_code=locale) }}">연구개발 프로젝트</a>와 기업체 의사결정자들에 대한 데이터마이닝 교육 등의 산학협동을 수행하여 왔습니다. 
+ 이를 통해 국내외 저널 및 학술대회에 160여 편의 논문을 발표하였고, 10여 건 이상의 국내외 특허와 상용소프트웨어를 개발하였습니다. 현재 20여명의 연구원들이 데이터마이닝 연구에 몰두하고 있습니다. 
+ 앞으로 빅데이터 애널리틱스의 핵심인 데이터마이닝 연구와 개발, 그리고 교육을 통해 우리 기업과 공공, 그리고 과학 발전에 공헌하고자 합니다.
+</p>
+
+{% else %}
+<p>
+Data Mining is a set of models that facilitates decision making processes by identifying relationships, patterns, and rules among data and building useful models. Due to increasingly competitive business environments, success of a company has become ever-more reliant on acquiring and analyzing data. Moreover, the most frequently asked question regarding data has changed from a retrospective “what has happened” to a prospective “what will happen”. The study of data mining is flourishing as the amount of available data has been exploding along with the fast advancing computing technology to the point where the term “big data analytics” is often used.
+</p>
+<p>
+There are two kinds of Data mining: descriptive and predictive. The former focuses on gaining insight through finding relational patterns and clusters in the data. The latter focuses on forecasting through classification and prediction from pre-designed models. The numerical data are usually structured while text, image, and video data are unstructured.
+</p>
+<p>
+Data mining is used in various fields such as finance, marketing, communications, medicine, energy, and manufacturing. A few points of interest among many others in finance are credit assessment, credit card fraud detection, stock price forecasting, and portfolio evaluation. In marketing, it is used to analyze customer expenditure patterns or trends and to target customers with right campaigns. In medical fields, data mining techniques are used to improve diagnosis process and extensively used in the study of genetics. It also helps provide insight into energy consumption detection and resource exploration of energy conservation field. Moreover, it is used in new product development, defect detection, automation, and supply chain management in manufacturing.
+</p>
+<p>
+There is a definite shortage of data mining experts around the world, and data mining technology is consequently not being utilized to its full potential. The New York Times reported in February 2012 that in the US alone needs 140,000 to 190,000 data analysts.
+</p>
+<p>
+Since we started as Neural Network Lab at POSTECH in 1993, our lab has performed research on customer response modeling, keystroke-based security modeling, manufacturing automation and fault detection, financial forecasting, medical assessment, and intelligent sampling. We have published over 160 research papers, received a number of patents and produced commercial software products. As of March, 2013, our lab has a total of 8 graduates with a Ph.D. degree and 55 graduates with a Master’s degree. Currently, we have 12 Ph.D. students and 10 Masters’ students. Our current research is focused on data sampling, anomaly detection, text analysis, and keystroke-based biometrics.
+</p>
+{% endif %}
+
+<!-- 메인 화면에 있던 사진 슬라이더는 교수님 요청으로 11/10에 people로 옮김. -->
+<h2>Media</h2>
+<p> &nbsp;&nbsp; 1. <a href = 'http://www.newsis.com/ar_detail/view.html?ar_id=NISX20160303_0013934380&cID=10401&pID=10400' target="_blank">조직 관행 뒤집는 빅데이터 결과 수용…리더 '의지'가 중요 </a>,  2016. 3. 뉴시스  </p>
+<p> &nbsp;&nbsp; 2. <a href = 'http://news.mk.co.kr/newsRead.php?sc=30000001&year=2015&no=1169051&sID=501' target="_blank">정부3.0 빅데이터 정책토론회 </a>,  2015. 12. 매일경제  </p>
+<p> &nbsp;&nbsp; 3. <a href = 'http://www.comworld.co.kr/news/articleView.html?idxno=48873' target="_blank"> 데이터사이언티스트를 찾아서</a>, 2015.10, 컴퓨터월드</p>
+<p> &nbsp;&nbsp; 4. <a href = 'http://srchdb1.chosun.com/pdf/i_service/pdf_ReadBody.jsp?Y=2015&M=09&D=23&ID=2015092300121' target="_blank">公共 데이터 더 개방해야 국민이 편해진다</a>,  2015. 9. 조선일보  </p>
+
+<h2>Research</h2>
+<img class="width-100" src="{{ url_for('static', filename='images/home3.png') }}">
+
+<h2>Projects</h2>
+<img class="width-100" src="{{ url_for('static', filename='images/home4.png') }}">
+
+ 
+{% endblock %}
