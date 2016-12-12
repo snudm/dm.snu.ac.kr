@@ -1,11 +1,13 @@
 #! /usr/bin/python2.7
 # -*- coding: utf-8 -*-
 import os
+import json
+import operator
 from flask import abort, Flask, g, redirect, render_template, request, url_for, send_from_directory
 from flask.ext.babel import Babel, get_locale
 
-from settings import APP_URL, BABEL, CONTACT, LOCALES, MENUS, SERVER, APP_STATIC_SEMINAR
-from utils import get_notice, read_csv_data, read_json_data, read_txt_data, read_seminar_data, allowed_file
+from settings import APP_URL, BABEL, CONTACT, LOCALES, MENUS, SERVER, APP_STATIC_SEMINAR, APP_STATIC
+from utils import get_notice, read_csv_data, read_json_data, read_txt_data, read_seminar_data, allowed_file, byteify
 from flask.helpers import flash
 from werkzeug import secure_filename
 from datetime import datetime
@@ -138,8 +140,29 @@ def activities():
             file.save(os.path.join(app.config['SEMINAR_FORDER'],filename))
     return render_template('activities.html', seminar_data = read_seminar_data())
     """
-    return render_template('activities.html')
+    return render_template('activities.html',\
+           activities=read_json_data('activities.json'))
     
+@app.route('/<lang_code>/activity_form', methods = ['GET','POST'])
+def activity_form():
+    return render_template('activity_form.html')
+
+@app.route('/activity_create', methods = ['GET','POST'])
+def activity_create():
+    data = request.form
+    seminar = {u"date": data['date'], u"name": data['name'], u"speaker": data['speaker'], u"paper": data['paper'], u"paper_url": data['paper_url']}
+
+    with open(os.path.join(APP_STATIC, 'data', 'activities.json'), 'r') as f:
+        seminar_list = json.load(f, encoding='utf-8')
+        seminar_list["activities"].insert(0, seminar)
+        seminar_list["activities"].sort(key=lambda x: x['date'], reverse=True)
+	seminar_list = byteify(seminar_list)
+    #print seminar_list
+
+    with open(os.path.join(APP_STATIC, 'data', 'activities.json'), 'w') as f:
+        json.dump(seminar_list, f, ensure_ascii=False, encoding='utf-8')
+    return redirect(url_for('activities', lang_code=get_locale()))
+
 @app.route('/download/<filename>')
 def download(filename):
     return send_from_directory(app.config['SEMINAR_FORDER'], filename=filename)

@@ -1,0 +1,177 @@
+{
+  "columns_ko": 
+  {"date": "일시", "name": "제목", "speaker": "발제자", "paper": "관련 논문"}, 
+  "columns_en": 
+  {"date": "Date", "name": "Title", "speaker": "Speaker", "paper": "Related Paper"}, 
+  "activities": 
+  [
+    {
+      "date": "2016-03-11",
+      "name": "Introduction to Spark",
+      "speaker": "양호성",
+      "paper": "",
+      "paper_url": ""
+    },
+    {
+      "date": "2016-05-04",
+      "name": "Convolutional Neural Networks for NLP",
+      "speaker": "양호성",
+      "paper": "",
+      "paper_url": ""
+    },
+    {
+      "date": "2016-05-26",
+      "name": "Improving the Way Neural Network Learns",
+      "speaker": "김태욱",
+      "paper": "",
+      "paper_url": ""
+    },
+    {
+      "date": "2016-05-26",
+      "name": "Kernal Principal Component Analysis",
+      "speaker": "신훈식",
+      "paper": "",
+      "paper_url": ""
+    },
+    {
+      "date": "2016-07-04",
+      "name": "Continuous Experience-aware Language Model",
+      "speaker": "양호성",
+      "paper": "",
+      "paper_url": ""
+    },
+    {
+      "date": "2016-07-08",
+      "name": "Infinite Ensemble for Image Clustering",
+      "speaker": "안용대",
+      "paper": "",
+      "paper_url": ""
+    },
+    {
+      "date": "2016-07-27",
+      "name": "Spectral Clustering",
+      "speaker": "안용대",
+      "paper": "",
+      "paper_url": ""
+    },
+    {
+      "date": "2016-07-27",
+      "name": "Memory Networks",
+      "speaker": "전성환",
+      "paper": "",
+      "paper_url": ""
+    },
+    {
+      "date": "2016-08-09",
+      "name": "Speech Recognition by CNN",
+      "speaker": "이제혁",
+      "paper": "",
+      "paper_url": ""
+    },
+    {
+      "date": "2016-08-17",
+      "name": "Something-2-Vec",
+      "speaker": "양호성",
+      "paper": "",
+      "paper_url": ""
+    },
+    {
+      "date": "2016-08-31",
+      "name": "Density-based Clustering",
+      "speaker": "안용대",
+      "paper": "",
+      "paper_url": ""
+    },
+    {
+      "date": "2016-05-26",
+      "name": "Automatic Classification of Securities using Hierarchical Clustering of 10-Ks",
+      "speaker": "이혜진",
+      "paper": "",
+      "paper_url": ""
+    },
+    {
+      "date": "2016-09-22",
+      "name": "Understanding the Concept of LDA (1) From Probabilistic Graphical Model to Model Inference",
+      "speaker": "문지형",
+      "paper": "",
+      "paper_url": ""
+    },
+    {
+      "date": "2016-09-29",
+      "name": "Understanding the concept of LDA (2) Sampling Based Inference",
+      "speaker": "문지형",
+      "paper": "",
+      "paper_url": ""
+    },
+    {
+      "date": "2016-10-06",
+      "name": "Topic Models with Word Embeddings",
+      "speaker": "양호성",
+      "paper": "",
+      "paper_url": ""
+    },
+    {
+      "date": "2016-10-06",
+      "name": "Context-based Music Recommendation : Graph-embedding-based Approach",
+      "speaker": "이제혁",
+      "paper": "",
+      "paper_url": ""
+    },
+    {
+      "date": "2016-10-07",
+      "name": "Embedding & Loss functions",
+      "speaker": "조현창",
+      "paper": "",
+      "paper_url": ""
+    },
+    {
+      "date": "2016-10-13",
+      "name": "One-class Support Tensor Machine",
+      "speaker": "김은지",
+      "paper": "",
+      "paper_url": ""
+    },
+    {
+      "date": "2016-10-13",
+      "name": "Variational Autoencoder",
+      "speaker": "안진원",
+      "paper": "",
+      "paper_url": ""
+    },
+    {
+      "date": "2016-10-20",
+      "name": "Class Imbalance Problem",
+      "speaker": "신훈식",
+      "paper": "",
+      "paper_url": ""
+    },
+    {
+      "date": "2016-10-27",
+      "name": "Why Should I Trust You Explaining the Predictions of Any Classifier",
+      "speaker": "김태욱",
+      "paper": "",
+      "paper_url": ""
+    },
+    {
+      "date": "2016-11-03",
+      "name": "Predicting Volatilities of Sectors In Thomson Reuters Business Classification Using Financial News Sentiment Analysis and Literature Survey of Sentiment Analysis",
+      "speaker": "전성환",
+      "paper": "",
+      "paper_url": ""
+    },
+    {
+      "date": "2016-12-01",
+      "name": "Building Retrieval-based Chatbot",
+      "speaker": "김현중",
+      "paper": "",
+      "paper_url": ""
+    },
+    {
+      "date": "2016-12-01",
+      "name": "Deep Content-based Music Recommendation",
+      "speaker": "이제혁",
+      "paper": "",
+      "paper_url": ""
+    }
+  ]
+}

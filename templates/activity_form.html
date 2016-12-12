@@ -1,0 +1,34 @@
+{% extends "layout.html" %}
+
+{% block contents %}
+<h2> Seminar Information Form</h2>
+<br>
+<form action="{{ url_for('activity_create') }}" method="post">
+  <div class="input-group col-md-6">
+    <label for="date"> 일시 </label>
+    <input type="date" name="date" class="form-control" /> 
+  </div>
+<br>
+  <div class="input-group col-md-6">
+    <label for="name"> 제목 </label>
+    <input type="text" name="name"  class="form-control" />
+  </div>
+<br>
+  <div class="input-group col-md-6">
+    <label for="speaker"> 발제자 </label>
+    <input type="text" name="speaker"  class="form-control" />
+  </div>
+<br>
+  <div class="input-group col-md-6">
+    <label for="관련 논문"> 관련 논문</label>
+    <input type="text" name="paper"  class="form-control" />
+  </div>
+<br>
+    <label for="paper_url"> 논문 링크</label>
+  <div class="input-group col-md-6">
+    <input type="text" name="paper_url"  class="form-control" />
+  </div>
+  <br>
+  <button type="submit" class="btn btn-lg btn-primary" > 등록하기 </button>
+</form>
+{% endblock %}

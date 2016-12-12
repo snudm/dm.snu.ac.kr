@@ -1,3 +1,8 @@
+"Detection of emerging hot topics by using keyword extraction", 신훈식, 조성준, 한국BI데이터마이닝학회 2016 추계학술대회.
+"Music Recommendation Using Distributed Representation of Lyric and User Interpretation", 박인범, 조성준, 한국BI데이터마이닝학회 2016 추계학술대회
+"자소단위의 한국어 영화리뷰에 Convolutional Neural Network를 이용한 감성 분석", 문지형, 조성준, 한국BI데이터마이닝학회 2016 추계학술대회
+"통계 기반 한국어 명사 추출기", 김현중, 조성준, 한국BI데이터마이닝학회 2016 추계학술대회.
+"노이즈 문서를 위한 통계 기반 한국어 띄어쓰기 교정기", 김현중, 황성구, 신윤하, 조한석, 김종윤, 조성준, 한국BI데이터마이닝학회 2016 추계학술대회.
 "Hand Motion Identification from Electroencephalography Recordings Using Recurrent Neural Network", Jin Won An, Sungzoon Cho, INFORMS, Nov. 2015, Philadelphia, USA
 "Assessing kernel-based anomaly detection algorithms", Hyun-Chang Cho, Sungzoon Cho, INFORMS, Nov. 2015, Philadelphia, USA
 "Automatic sentiment words extraction from online reviews for product comparison", Eunji Kim, Hyun-Chang Cho, Sungzoon Cho, INFORMS, Nov. 2015, Philadelphia, USA
