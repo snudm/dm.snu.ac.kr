@@ -1,3 +1,5 @@
+"Automatic Integration of Securities using Hierarchical Clustering of 10-Ks", Hoseong Yang, Hye Jin Lee, Eugene Cho, and Sungzoon Cho, IEEE Big NLP, Dec. 2016, Washington DC, USA
+"Sequential Root Cause Identification in High Dimensional Time-series Sensor Data", Eunji Kim,Hyun-chang Cho, Jinwon An, Sungzoon Cho, Byeongeon Lee, Kyungchun Li, Taehoon Kim, ACML Workshop on Learning on Big Data, Nov. 2016, Hamilton, New Zealand
 "Detection of emerging hot topics by using keyword extraction", 신훈식, 조성준, 한국BI데이터마이닝학회 2016 추계학술대회.
 "Music Recommendation Using Distributed Representation of Lyric and User Interpretation", 박인범, 조성준, 한국BI데이터마이닝학회 2016 추계학술대회
 "자소단위의 한국어 영화리뷰에 Convolutional Neural Network를 이용한 감성 분석", 문지형, 조성준, 한국BI데이터마이닝학회 2016 추계학술대회
