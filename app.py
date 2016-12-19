@@ -42,7 +42,8 @@ def root():
 def home():
     if g.current_lang in LOCALES:
         return render_template('home.html',\
-                                datamining=read_json_data('datamining.json'))
+                                datamining=read_json_data('datamining.json'),
+                                news=read_json_data('news.json') )
     else:
         return abort(404)
 

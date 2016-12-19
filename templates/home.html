@@ -107,10 +107,11 @@ Since we started as Neural Network Lab at POSTECH in 1993, our lab has performed
 
 <!-- 메인 화면에 있던 사진 슬라이더는 교수님 요청으로 11/10에 people로 옮김. -->
 <h2>Media</h2>
-<p> &nbsp;&nbsp; 1. <a href = 'http://www.newsis.com/ar_detail/view.html?ar_id=NISX20160303_0013934380&cID=10401&pID=10400' target="_blank">조직 관행 뒤집는 빅데이터 결과 수용…리더 '의지'가 중요 </a>,  2016. 3. 뉴시스  </p>
-<p> &nbsp;&nbsp; 2. <a href = 'http://news.mk.co.kr/newsRead.php?sc=30000001&year=2015&no=1169051&sID=501' target="_blank">정부3.0 빅데이터 정책토론회 </a>,  2015. 12. 매일경제  </p>
-<p> &nbsp;&nbsp; 3. <a href = 'http://www.comworld.co.kr/news/articleView.html?idxno=48873' target="_blank"> 데이터사이언티스트를 찾아서</a>, 2015.10, 컴퓨터월드</p>
-<p> &nbsp;&nbsp; 4. <a href = 'http://srchdb1.chosun.com/pdf/i_service/pdf_ReadBody.jsp?Y=2015&M=09&D=23&ID=2015092300121' target="_blank">公共 데이터 더 개방해야 국민이 편해진다</a>,  2015. 9. 조선일보  </p>
+<ol reversed>
+  {% for new in news %} 
+  <li><a href="{{ new.url }}" target="_blank">{{ new.title }}</a>, {{ new.date }}, {{ new.press }} </li>
+  {% endfor %}
+</ol>
 
 <!-- 2016/11/10 교수님 지시에 따라 새로 만듦 -->
 <h2>Data Mining FAQ</h2>
