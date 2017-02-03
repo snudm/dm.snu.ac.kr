@@ -1,13 +1,5 @@
 {"phd_candidates": [
     {
-    "image": "thko",
-    "name": "고 태 훈 (Taehoon Ko)",
-    "email": "taehoonko at dm.snu.ac.kr",
-    "areas of interest": "Clustering, Time Series Analysis",
-    "B.S.": "Industrial Engineering, Seoul Nat'l Univ., 2008",
-    "highschool": "Gwacheon, 2004"      
-    },
-    {
     "image": "jwyang",
     "name": "양 지 원 (Jiwon Yang)",
     "email": "yang at dm.snu.ac.kr",
@@ -44,13 +36,6 @@
     }
 ],
 "phd_students" : [
-    {
-    "image": "hccho",
-    "name": "조 현 창 (Hyunchang Cho)",
-    "email": "hccho at dm.snu.ac.kr",
-    "B.S.": "Computer Science and Engineering, Seoul Nat'l Univ., 2014",
-    "highschool": "Banpo, 2007" 
-    },
     {
     "image": "jwahn",
     "name": "안 진 원 (Jinwon An)",
@@ -131,15 +116,6 @@
     }
 ],
 "ms_students": [
-    {
-    "image": "hsyang",
-    "name": "양 호 성 (Hoseong Yang)",
-    "email": "hoseong at dm.snu.ac.kr",
-    "experience":"Internship at Daum Soft, 2013.12~2014.02 Internship at LG CNS, 2014.07~2014.08 ",
-    "areas of interest":"Text Mining, Business Intelligence",
-    "B.S.":  "Industrial Engineering, Seoul Nat'l Univ., 2015",
-    "highschool": "Sungdeok, 2008"       
-    },
     {
     "image": "jihyeong",
     "name": "문 지 형 (Jihyung Moon)",

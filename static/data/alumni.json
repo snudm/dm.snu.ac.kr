@@ -1,5 +1,9 @@
 {"phd_alumni": [
 	{
+     "year": "2017",
+     "name": "고태훈"
+    },
+	{
      "year": "2016",
      "name": "김연국",
      "job": "충북대학교 " 
@@ -105,10 +109,18 @@
 ],
 "ms_alumni" : [
 	{
+     "year": "2017",
+     "name": "양호성"
+    },
+    {
+     "year": "2017",
+     "name": "조현창"
+    },
+	{
      "year": "2016",
      "name": "김한결",
      "dissertation": "Bag-of-Conpets: 단어에 대한 분산표상의 군집화를 통한 해석 가능한 문서 표현법",
-     "job": "딜로이트 컨설팅"
+     "job": "삼성전자 DS"
     },
     {
      "year": "2016",
@@ -127,7 +139,7 @@
     {
      "year": "2015",
      "name": "김홍태",
-     "job": "NCSoft",
+     "job": "NCsoft",
      "dissertation": "필드 클레임 데이터를 활용한 시장품질 예측 및 불량감지",
      "diss_address": "http://snu-primo.hosted.exlibrisgroup.com/82SNU:ALL:82SNU_INST21461869510002591"
     },
@@ -141,7 +153,7 @@
     {
      "year": "2014",
      "name": "구윤성",
-     "job": "NC soft",
+     "job": "NCsoft",
      "dissertation": "사용자들의 공통관람 영화 유사도를 이용한 추천시스템의 성능향상",
      "diss_address": "http://snu-primo.hosted.exlibrisgroup.com/82SNU:ALL:82SNU_INST21413864670002591"
     },
@@ -183,7 +195,7 @@
     {
      "year": "2012",
      "name": "김봉석",
-     "job": "삼성전자",
+     "job": "삼성전자 DS",
      "dissertation": "텍스트 마이닝 기법을 이용한 반도체 생산 시 발생하는 이벤트 데이터와 수율의 연관성 분석",
      "diss_address": "http://snu-primo.hosted.exlibrisgroup.com/82SNU:ALL:82SNU_INST21480524570002591"
     },
@@ -274,7 +286,6 @@
     {
      "year": "2008",
      "name": "정승우",
-     "job": "한국신용평가정보 금융 컨설턴트",
      "dissertation": "k-인접 이웃과 neural gas network를 이용한 under-sampling",
      "diss_address": "http://snu-primo.hosted.exlibrisgroup.com/82SNU:ALL:82SNU_INST21456852840002591"
     },
@@ -295,14 +306,14 @@
     {
      "year": "2007",
      "name": "박상희",
-     "job": "삼성전자",
+     "job": "삼성 SDS",
      "dissertation": "k-인접 이웃 편집을 이용한 효과적인 의사결정나무",
      "diss_address": "http://snu-primo.hosted.exlibrisgroup.com/82SNU:ALL:82SNU_INST21435285780002591"
     },
     {
      "year": "2007",
      "name": "박진우",
-     "job": "삼성전자",
+     "job": "옐로익스체인지",
      "dissertation": "양극 데이터로부터 성장하는 k-인접 이웃 분류의 참조 데이터 셋",
      "diss_address": "http://snu-primo.hosted.exlibrisgroup.com/82SNU:ALL:82SNU_INST21484359870002591"
     },
@@ -330,7 +341,7 @@
     {
      "year": "2005",
      "name": "선지영",
-     "job": "School of Business, University of Michigan MBA Candidate",
+     "job": "우리은행",
      "dissertation": "Support vector regression에서의 학습 패턴 선택",
      "diss_address": "http://snu-primo.hosted.exlibrisgroup.com/82SNU:ALL:82SNU_INST21460971940002591"
     },
@@ -356,7 +367,7 @@
     {
      "year": "2003",
      "name": "정세희",
-     "job": "NC soft",
+     "job": "NCsoft",
      "dissertation": "인공 신경망을 이용한 옵션 가격 결정 모형",
      "diss_address": "http://snu-primo.hosted.exlibrisgroup.com/82SNU:ALL:82SNU_INST21475783750002591"
     },
