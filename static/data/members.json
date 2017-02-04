@@ -33,9 +33,7 @@
     "experience": "Kyobo Life Insurance, 2011-2013",
     "B.S.": "Mathematical Sciences, Seoul Nat'l Univ., 2012",
     "highschool": "Baekseok, 2006"      
-    }
-],
-"phd_students" : [
+    },
     {
     "image": "jwahn",
     "name": "안 진 원 (Jinwon An)",
@@ -52,6 +50,17 @@
     "M.S.": "Industrial & Management Engineering, POSTECH, 2012",
     "B.S.": "Industrial & Management Engineering, POSTECH, 2009",
     "highschool": "Chonnam Science, 2006"       
+    }
+],
+"phd_students" : [
+    {
+    "image": "yhoon",
+    "name": "이 영 훈 (Younghoon Lee)",
+    "email": "yhoon.lee at dm.snu.ac.kr",
+    "experience": "LG Electronics, 2009-",
+    "M.S.": "Industrial Engineering, Seoul Nat'l Univ., 2009",
+    "B.S.": "Industrial Engineering, Seoul Nat'l Univ., 2007",
+    "highschool": "Deajin, 2003" 
     },
     {    
     "image": "ydahn",
@@ -61,6 +70,16 @@
     "B.S.": "Industrial Engineering, KAIST, 2012",
     "highschool": "Korea Science Academy of KAIST, 2004"
     },
+    {
+    "image": "hsyang",
+    "name": "양 호 성 (Hoseong Yang)",
+    "email": "hoseong at dm.snu.ac.kr",
+    "experience": "Internship at Daum Soft, 2013.12~1014.02 Internship at LG CNS, 2014.07~2014.08",
+    "areas of interest": "Text Mining, Business Intelligence",
+    "M.S.": "Industrial Engineering, Seoul Nat'l Univ., 2017",
+    "B.S.": "Industrial Engineering, Seoul Nat'l Univ., 2015",
+    "highschool": "Sungdeok, 2008"       
+    },     
     {
     "image": "hsshin",
     "name": "신 훈 식 (Hunsik Shin)",
@@ -76,17 +95,8 @@
     "highschool": "Dongin, 2009"       
     },
     {
-    "image": "yhoon",
-    "name": "이 영 훈 (Younghoon Lee)",
-    "email": "yhoon.lee at dm.snu.ac.kr",
-    "experience": "LG Electronics, 2009-",
-    "M.S.": "Industrial Engineering, Seoul Nat'l Univ., 2009",
-    "B.S.": "Industrial Engineering, Seoul Nat'l Univ., 2007",
-    "highschool": "Deajin, 2003" 
-    },
-    {
     "image": "hyejin2",
-    "name": "이 혜 진(Hyejin Lee)",
+    "name": "이 혜 진 (Hyejin Lee)",
     "email": "hyejinlee at dm.snu.ac.kr",
     "experience": "Wharton School, U Penn, (2008-2011, 2013-2014) International Food Policy Research Institute,(2012)  Federal Reserve Bank of Chicago, (2007)",
     "M.S.": "Economics, Cornell Univ., 2013",
