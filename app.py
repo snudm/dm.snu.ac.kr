@@ -161,7 +161,7 @@ def activity_create():
     #print seminar_list
 
     with open(os.path.join(APP_STATIC, 'data', 'activities.json'), 'w') as f:
-        json.dump(seminar_list, f, ensure_ascii=False, encoding='utf-8')
+        json.dump(seminar_list, f, ensure_ascii=False, encoding='utf-8', indent=2)
     return redirect(url_for('activities', lang_code=get_locale()))
 
 @app.route('/download/<filename>')
