@@ -114,6 +114,7 @@
     "image": "jinbae",
     "name": "임 진 배 (Jinbae Im)",
     "email": "jinbae at dm.snu.ac.kr",
+    "areas of interest": "Deep Learning, Natural Language Processing",
     "B.S.":  "Industrial Engineering, Seoul Nat'l Univ., 2016",
     "highschool": "Munseong, 2012"       
     },
@@ -172,7 +173,7 @@
     "image": "mkchung",
     "name": "정 민 기 (Minki Chung)",
     "email": "minki.chung at dm.snu.ac.kr",
-    "experience":"Internship at Kiswe mobile inc.",
+    "experience":"Internship at Kiswe mobile Inc.",
     "areas of interest":"Game data mining",
     "B.S.":  "Industrial & Systems Engineering, KAIST, 2016",
     "highschool": "Haeundae, 2012"
@@ -185,5 +186,32 @@
     "areas of interest":"Text Mining",
     "B.S.":  "Industrial & Management Engineering, Korea Univ, 2016",
     "highschool": "Kyunggi, 2010"
+    },
+    {
+    "image": "ykkang",
+    "name": "강 연 국 (Younkook Kang)",
+    "email": "ykkang at dm.snu.ac.kr",
+    "experience":"Samsung Electronics, (2009~)",
+    "areas of interest":"Machine Learning, Manufacturing System",
+    "B.S.":  "Industrial Engineering, Korea Univ, 2008",
+    "highschool": "Bundang, 2000"
+    },
+    {
+    "image": "nohil",
+    "name": "박 노 일 (Nohil Park)",
+    "email": "nohil.park at dm.snu.ac.kr",
+    "experience":"Internship at INIMAX Inc.",
+    "areas of interest":"Machine Learning, Text Mining",
+    "B.S.":  "Industrial & Systems Engineering, KAIST, 2017",
+    "highschool": "Anyang Foreign Language High School, 2010"
+    },
+    {
+    "image": "nariu",
+    "name": "유 나 리 (Nari Ryu)",
+    "email": "nariu at dm.snu.ac.kr",
+    "experience":"Internship at Boston Consulting Group, Internship at Samsung Electronics",
+    "areas of interest":"Speech Recognition, Natural Language Processing",
+    "B.S.":  "Industrial & Systems Engineering, KAIST, 2016",
+    "highschool": "Seohyun High School, 2011"
     }
 ]}
