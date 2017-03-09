@@ -74,29 +74,12 @@ Since we started as Neural Network Lab at POSTECH in 1993, our lab has performed
 </p>
 {% endif %}
 
-<h2>연혁</h2>
 {% if locale=='ko' %}
+<h2>연혁</h2>
 <p> 서울대학교 데이터마이닝센터(센터장: <a href="{{ url_for('member', name='zoon') }}">조성준</a>)는 1993년 설립되어 데이터마이닝 관련  <a href="{{ url_for('research', lang_code=locale) }}">학술 및 응용 연구</a>를 수행하는 연구기관입니다.
 16명의 박사와 62명의 석사를 배출하였고, 대학, 연구소, 기업 및 공공기관의 데이터 관련 분야에서 활약하고 있습니다. 현재 24명의 석박사과정 연구원들이 데이터마이닝 연구에 몰두하고 있습니다. 국내외 저널 및 학술대회에 160여 편의 논문을 발표하였고, 10여 건 이상의 국내외 특허와 상용소프트웨어를 개발하였습니다.
 제품개발, 생산물류, 품질, 마케팅 영업, 파이낸스, 인사, 에너지, 보안 등 다양한 분야의 <a href="{{ url_for('development', lang_code=locale) }}">연구개발 프로젝트</a>와 기업체 의사결정자들에 대한 데이터마이닝 교육 등의 산학협동을 수행하여 왔습니다. 
 </p>
-{% else %}
-<p>
-Data Mining is a set of models that facilitates decision making processes by identifying relationships, patterns, and rules among data and building useful models. Due to increasingly competitive business environments, success of a company has become ever-more reliant on acquiring and analyzing data. Moreover, the most frequently asked question regarding data has changed from a retrospective “what has happened” to a prospective “what will happen”. The study of data mining is flourishing as the amount of available data has been exploding along with the fast advancing computing technology to the point where the term “big data analytics” is often used.
-</p>
-<p>
-There are two kinds of Data mining: descriptive and predictive. The former focuses on gaining insight through finding relational patterns and clusters in the data. The latter focuses on forecasting through classification and prediction from pre-designed models. The numerical data are usually structured while text, image, and video data are unstructured.
-</p>
-<p>
-Data mining is used in various fields such as finance, marketing, communications, medicine, energy, and manufacturing. A few points of interest among many others in finance are credit assessment, credit card fraud detection, stock price forecasting, and portfolio evaluation. In marketing, it is used to analyze customer expenditure patterns or trends and to target customers with right campaigns. In medical fields, data mining techniques are used to improve diagnosis process and extensively used in the study of genetics. It also helps provide insight into energy consumption detection and resource exploration of energy conservation field. Moreover, it is used in new product development, defect detection, automation, and supply chain management in manufacturing.
-</p>
-<p>
-There is a definite shortage of data mining experts around the world, and data mining technology is consequently not being utilized to its full potential. The New York Times reported in February 2012 that in the US alone needs 140,000 to 190,000 data analysts.
-</p>
-<p>
-Since we started as Neural Network Lab at POSTECH in 1993, our lab has performed research on customer response modeling, keystroke-based security modeling, manufacturing automation and fault detection, financial forecasting, medical assessment, and intelligent sampling. We have published over 160 research papers, received a number of patents and produced commercial software products. As of March, 2013, our lab has a total of 8 graduates with a Ph.D. degree and 55 graduates with a Master’s degree. Currently, we have 12 Ph.D. students and 10 Masters’ students. Our current research is focused on data sampling, anomaly detection, text analysis, and keystroke-based biometrics.
-</p>
-{% endif %}
 
 
 <h2>비젼</h2>
@@ -130,5 +113,22 @@ Since we started as Neural Network Lab at POSTECH in 1993, our lab has performed
 <h2>Projects</h2>
 <img class="width-100" src="{{ url_for('static', filename='images/home4.png') }}">
  -->
+{% else %}
+<!--p>
+Data Mining is a set of models that facilitates decision making processes by identifying relationships, patterns, and rules among data and building useful models. Due to increasingly competitive business environments, success of a company has become ever-more reliant on acquiring and analyzing data. Moreover, the most frequently asked question regarding data has changed from a retrospective “what has happened” to a prospective “what will happen”. The study of data mining is flourishing as the amount of available data has been exploding along with the fast advancing computing technology to the point where the term “big data analytics” is often used.
+</p>
+<p>
+There are two kinds of Data mining: descriptive and predictive. The former focuses on gaining insight through finding relational patterns and clusters in the data. The latter focuses on forecasting through classification and prediction from pre-designed models. The numerical data are usually structured while text, image, and video data are unstructured.
+</p>
+<p>
+Data mining is used in various fields such as finance, marketing, communications, medicine, energy, and manufacturing. A few points of interest among many others in finance are credit assessment, credit card fraud detection, stock price forecasting, and portfolio evaluation. In marketing, it is used to analyze customer expenditure patterns or trends and to target customers with right campaigns. In medical fields, data mining techniques are used to improve diagnosis process and extensively used in the study of genetics. It also helps provide insight into energy consumption detection and resource exploration of energy conservation field. Moreover, it is used in new product development, defect detection, automation, and supply chain management in manufacturing.
+</p>
+<p>
+There is a definite shortage of data mining experts around the world, and data mining technology is consequently not being utilized to its full potential. The New York Times reported in February 2012 that in the US alone needs 140,000 to 190,000 data analysts.
+</p>
+<p>
+Since we started as Neural Network Lab at POSTECH in 1993, our lab has performed research on customer response modeling, keystroke-based security modeling, manufacturing automation and fault detection, financial forecasting, medical assessment, and intelligent sampling. We have published over 160 research papers, received a number of patents and produced commercial software products. As of March, 2013, our lab has a total of 8 graduates with a Ph.D. degree and 55 graduates with a Master’s degree. Currently, we have 12 Ph.D. students and 10 Masters’ students. Our current research is focused on data sampling, anomaly detection, text analysis, and keystroke-based biometrics.
+</p-->
+{% endif %}
  
 {% endblock %}

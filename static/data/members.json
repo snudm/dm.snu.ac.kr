@@ -75,7 +75,7 @@
     "image": "hsyang",
     "name": "양 호 성 (Hoseong Yang)",
     "email": "hoseong at dm.snu.ac.kr",
-    "experience": "Internship at Daum Soft, 2013.12~1014.02 Internship at LG CNS, 2014.07~2014.08",
+    "experience": "Internship at Daum Soft, (2013.12-2014.02) Internship at LG CNS, (2014.07-2014.08)",
     "areas of interest": "Text Mining, Business Intelligence",
     "M.S.": "Industrial Engineering, Seoul Nat'l Univ., 2017",
     "B.S.": "Industrial Engineering, Seoul Nat'l Univ., 2015",
@@ -167,8 +167,9 @@
     "image": "dmshin",
     "name": "신 동 민 (Dongmin Shin)",
     "email": "dongmin.shin at dm.snu.ac.kr",
-    "areas of interest":"Text Mining",
-    "B.S.":  "Earth Science Education, Science Communication, Seoul Nat’l Univ., 2016",
+    "experience":"Fellowship at Google News Lab (2017.01-2017.02)",
+    "areas of interest" : "Natural Language Processing, Opinion Mining, Data Journalism",
+    "B.S.":  "Earth Science Education (Science Communication), Seoul Nat’l Univ., 2016",
     "highschool": "Busan Science, 2012"
     },
     {
@@ -215,5 +216,14 @@
     "areas of interest":"Speech Recognition, Natural Language Processing",
     "B.S.":  "Industrial & Systems Engineering, KAIST, 2016",
     "highschool": "Seohyun High School, 2011"
+    },
+    {
+    "image": "",
+    "name": "Benjamin Léger",
+    "email": "benjamin at dm.snu.ac.kr",
+    "experience":"Internship at Inserm Toulouse (French National Institute of Health and Medical Research)",
+    "areas of interest":"Statistical learning, Text Mining",
+    "B.S.":  "Statistical modeling and datascience, INSA de Toulouse",
+    "highschool": "Chevrollier Highscool (France), 2012"
     }
 ]}
