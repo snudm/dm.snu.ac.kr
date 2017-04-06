@@ -1,4 +1,4 @@
-SNUDM-TR-2016-11, Document representation with fuzzy bag-of-concepts in customer-voice classfication, Younghoon Lee, Seokmin Song, Sungzoon Cho, 2016-11-08.
+SNUDM-TR-2016-11, Document representation based on probabilistic word clustering in customer-voice classification, Younghoon Lee, Seokmin Song, Sungzoon Cho, 2016-11-08.
 SNUDM-TR-2015-07, [Eng]Understanding Brands with Visualization and Keywords from eWOM using Distributed Representation, Hoseong Yang, Sungzoon Cho, 2015-12-27.
 SNUDM-TR-2015-06, [Kor]Visualizing Brands and Extracting Keywords from User-Generated Content using Distributed Representation, 양호성, 조성준, 2015-12-27.
 SNUDM-TR-2015-05, Bag-of-Concepts: Comprehending Document Representation through Clustering Words in Distributed Representation, Han Kyul Kim, Hyunjoong Kim, Sungzoon Cho, 2015-12-28.
