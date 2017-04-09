@@ -1,3 +1,10 @@
+"Contextual News Curation Using Distributed Representation of Corporate Disclosures", 이혜진, 전성환, 민동영, 조성준, 한국BI데이터마이닝학회 2017 춘계공동학술대회.
+"Predicting the Energy Consumption of a Building Using Recurrent Neural Network", 박인범, 조성준, 대한산업공학회 2017 춘계공동학술대회.
+"데이터 기반 영화 개봉주 토요일 관객수 예측", 안용대, 안진원, 조성준, 대한산업공학회 2017 춘계공동학술대회.
+"Automatic Classification of Securities using Gaussian Mixture Model of the 10-Ks with Marginalized Stacked De-noising Auto-Encoder", 안용대, 조성준, 대한산업공학회 2017 춘계공동학술대회.
+"Compilation of Financial Word List by Employing Latent Aspect Rating Analysis on Financial News", 이혜진, 조성준, 대한산업공학회 2017 춘계공동학술대회.
+"Representation Learning Based Categorical Data Imputation", 김태욱, 안진원, 조성준, 대한산업공학회 2017 춘계공동학술대회.
+"딥러닝을 이용한 신용카드 사기 탐지", 김은지, 이제혁, 신훈식, 양호성, 조성준 (서울대학교 산업공학과), 남승관, 송영미, 윤정아, 김종일 (코리아크레딧뷰로), 정우호, 라경모, 고강신 (신한카드), 대한산업공학회 2017 춘계공동학술대회.
 "Automatic Integration of Securities using Hierarchical Clustering of 10-Ks", Hoseong Yang, Hye Jin Lee, Eugene Cho, and Sungzoon Cho, IEEE Big NLP, Dec. 2016, Washington DC, USA
 "Sequential Root Cause Identification in High Dimensional Time-series Sensor Data", Eunji Kim,Hyun-chang Cho, Jinwon An, Sungzoon Cho, Byeongeon Lee, Kyungchun Li, Taehoon Kim, ACML Workshop on Learning on Big Data, Nov. 2016, Hamilton, New Zealand
 "Detection of emerging hot topics by using keyword extraction", 신훈식, 조성준, 한국BI데이터마이닝학회 2016 추계학술대회.
