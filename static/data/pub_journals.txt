@@ -1,3 +1,4 @@
+"Bag-of-Concepts: Comprehending Document Representation through Clustering Words in Distributed Representation", Han Kyul Kim, Hyunjoong Kim, Sungzoon Cho, Neurocomputing. 2017. 05 (accepted)
 "Virtual Metrology for Copper-Clad Laminate Manufacturing", Misuk Kim, Seokho Kang, Jehyuk Lee, Hyunchang Cho, Sungzoon Cho*, Jee Su Park, Computers & Industrial Engineering (accepted), http://dx.doi.org/10.1016/j.cie.2017.04.016
 "Mining the relationship between the production and customer service data for failure analysis of industrial products", Seokho Kang, Eunji Kim, Jaewoong Shim, Sungzoon Cho*, Wonsang Chang, Junhwan Kim, Computers & Industrial Engineering (accepted), http://www.sciencedirect.com/science/article/pii/S0360835217300451
 "Obtaining calibrated probability by ROC Binning", Meesun Sun*, Sungzoon Cho, Pattern Analysis and Applications, (accepted)
