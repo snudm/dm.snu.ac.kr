@@ -4,6 +4,21 @@
     "title_ko": "스마트 제조",
     "title_en": "Smart Manufacturing",
     "projects": [
+      {
+        "id": "hyundai",
+        "description_ko": "3D 조립공법서 자동생성",
+        "description_en": "Auto-generating 3D assembly documents" 
+      },
+      {
+        "id": "kl-net",
+        "description_ko": "컨테이너터미널의 모선과 블록의 관계성 분석",
+        "description_en": "Analysis of relationship between a mother ship and blocks in a container terminal" 
+      },
+      {
+        "id": "samsungelec",
+        "description_ko": "Edge Device 向 IIoT data 공정 모델링",
+        "description_en": "Manufacture process modelling of IIoT data using Edge Device" 
+      },
     {
         "id": "ls",
         "description_ko": "스마트 팩토리를 위한 비즈니스 모델 도출 및 데이터 품질 평가",
@@ -117,6 +132,21 @@
     "title_en": "Marketing & Sales",
     "projects": [
     {
+        "id": "shinhancard",
+        "description_ko": "마케팅 효과 예측 및 최적화",
+        "description_en": "Prediction and Optimization for Marketing Effect"
+    },
+    {
+        "id": "samsungelec",
+        "description_ko": "스마트폰 사용자 선호 분석",
+        "description_en": "Preference Analysis of Smartphone Users"
+    },
+    {
+        "id": "hyundai",
+        "description_ko": "차량의 주행로그를 활용한 딥러닝 기반 주행경로 예측",
+        "description_en": "Prediction for Driving Route Based on Deep Learning Using Driving Logs of a Car"
+    },
+    {
         "id": "hyundaicard",
         "description_ko": "고객 중도 상환 예측",
         "description_en": "Clien Prepayment Prediction"
@@ -203,6 +233,12 @@
     "title_en": "Energy",
     "projects": [
     {
+        "id": "etri",
+        "description_ko": "다양한 가변 팩터를 반영하는 인공지능 기반 에너지 수요/공급 예측",
+        "description_en": "Prediction of Energy Supply and Demand Based on AI Reflecting Various Variational Factors" 
+        
+    },
+    {
         "id": "ls",
         "description_ko": "빌딩, 공장 에너지 관리 BEMS/FEMS",
         "description_en": "BEMS/FEMS for building/factory energy management system" 
@@ -240,39 +276,44 @@
     }]
 },
 {
-    "title_ko": "키스트로크 보안",
-    "title_en": "Keystroke Security",
-    "projects": [
-    {
-        "id": "seoulbeone",
-        "description_ko": "키스트로크 다이나믹스 기반 계정 공유 탐지",
-        "description_en": "Account Sharing Detection with Keystroke Dynamics"
-    },
-    {
-        "id": "smbizbeone",
-        "description_ko": "ATM 사용자 화면터치 행동 패턴 사용자 인증",
-        "description_en": "Authenticating ATM users with Screen Touch Dynamics"
-    },
-    {
-        "id": "nrf",
-        "description_ko": "키스트로크 다이나믹스 기반 사용자 인증",
-        "description_en": "Authenticating users with Keystroke Dynamics"
-    }]
-},
-{
     "title_ko": "리스크 관리",
     "title_en": "Risk Management",
     "projects": [
-    {
+      {
+        "id": "kookmincard",
+        "description_ko": "FDS부문 딥러닝 스코어 모형개발",
+        "description_en": "Development of Score Model For FDS Department Using Deep Learning "
+      },
+      {
+        "id": "healthinsurance",
+        "description_ko": "전문심사 선정모형 개발",
+        "description_en": "Development of Selection Model for Insurance Screening "
+      },
+      {
+        "id": "seoulbeone",
+        "description_ko": "키스트로크 다이나믹스 기반 계정 공유 탐지",
+        "description_en": "Account Sharing Detection with Keystroke Dynamics"
+      },
+      {
+        "id": "smbizbeone",
+        "description_ko": "ATM 사용자 화면터치 행동 패턴 사용자 인증",
+        "description_en": "Authenticating ATM users with Screen Touch Dynamics"
+      },
+      {
+        "id": "nrf",
+        "description_ko": "키스트로크 다이나믹스 기반 사용자 인증",
+        "description_en": "Authenticating users with Keystroke Dynamics"
+      },
+      {
         "id": "shinhancard",
         "description_ko": "딥러닝을 활용한 해외 스코어 모형 고도화",
         "description_en": "Advancement of Deep Learning based Foreign Score Model"
-    },
-    {
+      },
+      {
         "id": "bok",
         "description_ko": "세계 중앙은행 총재 연설문 분석",
         "description_en": "Text Mining Central Bankers' Speeches"
-    }]
+      }]
 }
 
 ]
