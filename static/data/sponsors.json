@@ -53,11 +53,6 @@
         "description_en": "Virtual Metrology and Run to Run Control in Semiconductor Manufacturing"
     },
     {
-        "id": "samsunggajeon",
-        "description_ko": "시스템 에어컨 실외기 이상 작동 예지",
-        "description_en": "Predicting Outdoor A/C Unit Malfunction"
-    },
-    {
         "id": "hyundai",
         "description_ko": "자동차 부품 설계 검증 데이터 텍스트 분석",
         "description_en": "Mining Review Texts from Automobile Part Designing"
@@ -128,8 +123,8 @@
     }]
 },
 {
-    "title_ko": "마케팅 & 영업",
-    "title_en": "Marketing & Sales",
+    "title_ko": "마케팅 & 영업 & 제품기획",
+    "title_en": "Marketing & Sales & Product Design",
     "projects": [
     {
         "id": "shinhancard",
@@ -195,17 +190,6 @@
         "id": "daumsoft",
         "description_ko": "Twiterrian 영향도 평가",
         "description_en": "Quantifying Twitterians' Influence"
-    }]
-},
-{
-    "title_ko": "제품 기획",
-    "title_en": "Product Design",
-    "projects": [
-    {
-        "id": "ls",
-        "description_ko": "스마트 팩토리, 스마트 에너지 관리 비즈니스 모델 개발",
-        "description_en": "Development of business models for smart factory & smart energy" 
-        
     },
     {
         "id": "samsungdmc",
@@ -240,6 +224,12 @@
     },
     {
         "id": "ls",
+        "description_ko": "스마트 팩토리, 스마트 에너지 관리 비즈니스 모델 개발",
+        "description_en": "Development of business models for smart factory & smart energy" 
+        
+    },
+    {
+        "id": "ls",
         "description_ko": "빌딩, 공장 에너지 관리 BEMS/FEMS",
         "description_en": "BEMS/FEMS for building/factory energy management system" 
         
@@ -251,6 +241,11 @@
     },
     {
         "id": "samsunggajeon",
+        "description_ko": "시스템 에어컨 실외기 이상 작동 예지",
+        "description_en": "Predicting Outdoor A/C Unit Malfunction"
+    },
+    {
+        "id": "samsunggajeon",
         "description_ko": "시스템 에어컨 실내기 운전패턴 분석",
         "description_en": "Undersatnding Enery Consumption by Mining Indoor A/C units"
     },
@@ -258,21 +253,6 @@
         "id": "etri",
         "description_ko": "통계분석 기반 건물 에너지 고장진단 시스템 개발",
         "description_en": "Anomaly detection for HVAC system in Office Buildings"
-    }]
-},
-{
-    "title_ko": "Human Resources",
-    "title_en": "Human Resources",
-    "projects": [
-    {
-        "id": "hyundaicard",
-        "description_ko": "상담원 퇴직 징후 조기알림",
-        "description_en": "Prediction of retirement of Customer Service Representative"
-    },
-    {
-        "id": "hyundai",
-        "description_ko": "인재 선발 모델링 및 조기 퇴사 예측",
-        "description_en": "Predicting Employee Performance with Hiring Data"
     }]
 },
 {
@@ -308,6 +288,16 @@
         "id": "shinhancard",
         "description_ko": "딥러닝을 활용한 해외 스코어 모형 고도화",
         "description_en": "Advancement of Deep Learning based Foreign Score Model"
+      },
+      {
+        "id": "hyundaicard",
+        "description_ko": "상담원 퇴직 징후 조기알림",
+        "description_en": "Prediction of retirement of Customer Service Representative"
+      },
+      {
+        "id": "hyundai",
+        "description_ko": "인재 선발 모델링 및 조기 퇴사 예측",
+        "description_en": "Predicting Employee Performance with Hiring Data"
       },
       {
         "id": "bok",
