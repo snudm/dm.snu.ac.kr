@@ -89,13 +89,6 @@
     "highschool": "Chungbuk Science, 2010"       
     },
     {
-    "image": "taewook_2",
-    "name": "김 태 욱 (Taewook Kim)",
-    "email": "taewook at dm.snu.ac.kr",
-    "B.S.":  "Industrial Engineering, Seoul Nat'l Univ., 2015",
-    "highschool": "Dongin, 2009"       
-    },
-    {
     "image": "hyejin2",
     "name": "이 혜 진 (Hyejin Lee)",
     "email": "hyejinlee at dm.snu.ac.kr",
@@ -112,14 +105,6 @@
     "highschool": "St. John's, 2009"       
     },
     {
-    "image": "jinbae",
-    "name": "임 진 배 (Jinbae Im)",
-    "email": "jinbae at dm.snu.ac.kr",
-    "areas of interest": "Deep Learning, Natural Language Processing",
-    "B.S.":  "Industrial Engineering, Seoul Nat'l Univ., 2016",
-    "highschool": "Munseong, 2012"       
-    },
-    {
     "image": "hc2",
     "name": "양 효 창 (HyoChang Yang)",
     "email": "hyochang at dm.snu.ac.kr",
@@ -130,6 +115,15 @@
 ],
 "ms_students": [
     {
+    "image": "taewook_2",
+    "name": "김 태 욱 (Taewook Kim)",
+    "email": "taewook at dm.snu.ac.kr",
+    "experience": "Internship at Microsoft Korea (2014.01 - 2014.02)",
+    "areas of interest": "Interpretabillity in Machine Learning, Deep Learning for NLP",
+    "B.S.":  "Industrial Engineering, Seoul Nat'l Univ., 2015",
+    "highschool": "Dongin, 2009"       
+    },
+    {
     "image": "jihyeong",
     "name": "문 지 형 (Jihyung Moon)",
     "email": "jhmoon at dm.snu.ac.kr",
@@ -138,6 +132,14 @@
     "B.S.":  "Chemical and Biological Engineering, Seoul Nat'l Univ., 2016",
     "highschool": "Ansan Dongsan, 2011"       
     },
+    {
+    "image": "jinbae",
+    "name": "임 진 배 (Jinbae Im)",
+    "email": "jinbae at dm.snu.ac.kr",
+    "areas of interest": "Deep Learning, Natural Language Processing, Learning Representations",
+    "B.S.":  "Industrial Engineering, Seoul Nat'l Univ., 2016",
+    "highschool": "Munseong, 2012"       
+    },      
     {
     "image": "seokmin",
     "name": "송 석 민 (Seokmin Song)",
@@ -163,6 +165,9 @@
     "B.S.":  "Mathematical Sciences, Business and Technology Management, Financial Engineering, KAIST, 2016",
     "highschool": "Busan Science, 2011"       
     },
+    
+  
+  
     {
     "image": "dmshin",
     "name": "신 동 민 (Dongmin Shin)",
