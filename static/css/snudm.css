@@ -70,6 +70,29 @@ table.alumni td:nth-child(2) {
   -webkit-align-items: center;
   -WebKitit-box-align: center;
   align-items: center;
+
+  -ms-flex-align: center;
+  -webkit-align-items: center;
+  -WebKitit-box-align: center;
+  align-items: center;
+
+  justify-content: center; 
+}
+
+@media(max-width:800px) {
+  .member {
+    flex-direction: column;
+    -ms-flex-align: stretch;
+    -webkit-align-items: stretch;
+    -WebKitit-box-align: stretch;
+    align-items: stretch;
+  }
+  .member img {
+    width: 200px;
+  }
+  .member > .col-md-10 {
+    padding:30px;
+  }
 }
 
 .member > * {
