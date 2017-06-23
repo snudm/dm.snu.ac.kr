@@ -31,7 +31,7 @@
     "image": "jwahn",
     "name": "안 진 원 (Jinwon An)",
     "email": "jinwon at dm.snu.ac.kr",
-    "areas of interest" : "deep learning, unsupervised learning, variational autoencoder, seq2seq learning",
+    "areas of interest" : "Deep Learning, Unsupervised Learning, Variational Autoencoder, Seq2seq Learning",
     "B.S.": "Industrial Engineering, Seoul Nat'l Univ., 2014",
     "highschool": "Hanil, 2009" 
     },
@@ -100,7 +100,7 @@
     "image": "hc2",
     "name": "양 효 창 (HyoChang Yang)",
     "email": "hyochang at dm.snu.ac.kr",
-    "areas of interest": "Generative model",
+    "areas of interest": "Generative Model",
     "B.S.": "Industrial Engineering, Computer Scinence and Engineering, Seoul Nat'l Univ., 2016",
     "highschool": "Konkuk University High School, 2012"       
     }
@@ -153,7 +153,7 @@
     "name": "민 동 영 (Dongyoung Min)",
     "email": "dongyoung.min at dm.snu.ac.kr",
     "experience":"Ambrothia LLC",
-    "areas of interest":"Time series anlaysis",
+    "areas of interest":"Time Series Anlaysis",
     "B.S.":  "Mathematical Sciences, Business and Technology Management, Financial Engineering, KAIST, 2016",
     "highschool": "Busan Science, 2011"       
     },
@@ -175,7 +175,7 @@
     "name": "정 민 기 (Minki Chung)",
     "email": "minki.chung at dm.snu.ac.kr",
     "experience":"Internship at Kiswe mobile Inc.",
-    "areas of interest":"Game data mining",
+    "areas of interest":"Computer Vision, Reinforcement Learning",
     "B.S.":  "Industrial & Systems Engineering, KAIST, 2016",
     "highschool": "Haeundae, 2012"
     },
@@ -184,7 +184,7 @@
     "name": "김 도 형 (Dohyung Kim)",
     "email": "dohyung.kim at dm.snu.ac.kr",
     "experience":"Internship at Hyundai-autoever",
-    "areas of interest":"Text Mining",
+    "areas of interest":"Generative Model",
     "B.S.":  "Industrial & Management Engineering, Korea Univ, 2016",
     "highschool": "Kyunggi, 2010"
     },
