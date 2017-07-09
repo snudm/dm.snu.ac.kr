@@ -163,7 +163,7 @@
     "email": "dongmin.shin at dm.snu.ac.kr",
     "homepage" : "http://miniddong.me",
     "experience":"Fellowship at Google News Lab, 2017.01-2017.02",
-    "areas of interest" : "Natural Language Processing, Algorithmic Discrimiation, Data Visualization",
+    "areas of interest" : "Natural Language Processing, Algorithmic Discrimination, Data Visualization",
     "B.S.":  "Earth Science Education (Science Communication), Seoul Nat’l Univ., 2016",
     "highschool": "Busan Science, 2012"
     },
@@ -251,7 +251,7 @@
     "image": "hu.lee",
     "name": "이 형 욱 (Hyeonguk Lee)",
     "email": "hyeonguk21 at dm.snu.ac.kr",
-    "areas of interest":"Machine Learning, Deep Learning",
+    "areas of interest":"Statistical Learning, Text Mining",
     "B.S.":  "Statistics, Environmental Economics, UC Berkeley, 2016",
     "highschool": "Clovis, 2011"
     },
@@ -260,8 +260,8 @@
     "name": "김 지 영 (Jeeyung Kim)",
     "email": "jeeyung.kim at dm.snu.ac.kr",
     "experience": "Internship at VUNO, 2016.10-2016.12",
-    "areas of interest":"Machine Learning, Deep Learning",
-    "B.S.":  "Energy Resources engineering, Seoul Nat'l Univ., 2017",
+    "areas of interest":"Deep Learning",
+    "B.S.":  "Energy Resources Engineering, Seoul Nat'l Univ., 2017",
     "highschool": "Incheon Girls', 2012"
     }
 ]}
