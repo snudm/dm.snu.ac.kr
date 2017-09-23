@@ -1,0 +1,429 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>Data Mining 2017</title>
+    <style type="text/css">
+        h1 {color:blue;}
+        body, table {font-size:15px;}
+        ol>li {line-height:130%; font-weight:bold;}
+        table {border-collapse:collapse;}
+        td, th {border:1px solid gray; padding:3px 10px 3px 10px;}
+        img {border:0px;}
+        .idrow {background-color: #b0c4de;}
+        .putthepastbehindyou {background-color: #e0ffff;}
+        .caution {background-color: #F5F6CE;}
+    </style>
+</head>
+ 
+<body>
+    <h1>Data Mining (406.429): Fall 2017</h1>
+    <table>
+        <tr>
+            <td>
+                <b><font color=red>Notice:</font>&nbsp;데이터마이닝 수업 게시판입니다.<br /></b>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <li><b>공지사항은 <a href="http://etl.snu.ac.kr/">ETL</a> 참고</b></li>
+                 
+                <!-- 
+                <li><a href="{{ url_for('static', filename='docs/dm2015/grade.xls')}}">Midterm, Final, Quiz & HW Grade(Updated: 12/11)</a></li>
+                 -->
+                <li>9/6 Quiz: 학번 끝자리 짝수 - 325호 , 학번 끝자리 홀수 - 118호</li>
+                    <!--
+                    
+                    <ul>
+                        <li>Term Project Proposal PPT Submission Due: <b><font color=red>10/21 06:00 AM</b></font></li>
+                        <li>Term Project Team Formation: 10/23 15:30</li>
+                    </ul>
+                 
+                 	-->
+            </td>
+        </tr>
+    </table> 
+    <ol>
+        <li>Instructor</li>
+        Prof. Sungzoon Cho&nbsp;
+        (zoon at snu.ac.kr)&nbsp;
+        <br>
+    <ul>
+        <li>Office: 39-329</li>
+    </ul>
+    <br />
+        <li>Time and Place</li>
+            <ul>
+                <li>Where: 39-325</li>
+                <li>When: Mon/Wed 15:30~16:45</li>
+            </ul>
+        <br />  
+        <li>Texts</li>
+    <ul>
+        <li>
+Data Mining for Business Intelligence : Concepts, Techniques, and Applications in Microsoft Office Excel with XLMiner 3rd edition, Galit Shmueli, Nitin R.Patel and Peter C.Bruce, 2016, Wiley<br />(번역본: 비즈니스인텔리전스를 위한 데이터마이닝, 이엔비플러스, 2017)</li>
+        
+    </ul>
+        
+        <br />  
+        <li>Evaluation</li>
+            <ul>
+                <li>Midterm : 20%, Final : 20%</li>
+                <li>Project : 55%, Quiz 5%</li>
+            </ul>
+        <br />  
+        <li>Teaching Assistant (TA)</li>
+        Hye Jin Lee&nbsp;
+        (hyejinlee at dm.snu.ac.kr)<br>
+        Jeon Sung Whan&nbsp;
+        (sjeon at dm.snu.ac.kr)<br>
+        <ul>
+            <li>Lab: 39-339</li>
+        </ul>
+        
+    <br />
+        <li>Course schedule(Subject to change)  <a href="{{ url_for('static', filename='docs/dm2017/2017_DM_Syllabus.doc')}}"> Syllabus</a></li>
+        <table width=830 cellpadding="0" cellspacing="0">
+            <tr class="idrow">
+                <th width="6%">Week</th>
+            <th width="54%" colspan="2">
+                <p>Topic</p>
+            </th>
+            <th width="33%">
+                <p>Reading Assignment<br>
+(* Quiz)</p>
+            </th>
+            </tr>
+            
+        <tr class>
+                <td rowspan=2 width="49">1</td>
+            <td width="54">
+                <p style="margin-top:0; margin-bottom:0;"><b>9/4</b></p>
+            </td>
+            <td width="370">
+                <p style="margin-top:0; margin-bottom:0;"><a href='http://dm.snu.ac.kr'> Admin, DM 소개 </a></p>
+            </td>
+            <td width="272">            
+                <p style="margin-top:0; margin-bottom:0;">&nbsp;</p>
+            </td>
+        </tr>
+        <tr class>
+            <td width="54">
+                <p style="margin-top:0; margin-bottom:0;"><b>9/6</b></p>
+            </td>
+            <td width="370">
+                <p style="margin-top:0; margin-bottom:0;"> Overview of DM Process(<a href="{{ url_for('static', filename='docs/dm2017/Chapter 01 Introduction.ppt')}}">Ch.01</a>, <a href="{{ url_for('static', filename='docs/dm2017/Chapter 02 Overview.ppt')}}">Ch.02</a>)</p>
+            </td>
+            <td width="272">
+                <p style="margin-top:0; margin-bottom:0;">Quiz 1,2</p>
+            </td>
+        </tr>
+ <!--
+        <tr class>
+                <td rowspan=2 width="49">2</td> 
+            <td width="54">
+                <p style="margin-top:0; margin-bottom:0;"><b>9/9</b></p>
+            </td>
+            <td width="370">
+                <p style="margin-top:0; margin-bottom:0;"><a href="{{ url_for('static', filename='docs/dm2015/Chap3_Visualization.pdf')}}">Data Visualization</a>, <a href="{{ url_for('static', filename='docs/dm2015/Chap4_DimensionReduction.pdf')}}">Dimension Reduction</a></p>
+            </td>
+            <td width="272">
+                <p style="margin-top:0; margin-bottom:0;">자기 소개서, Ch 3, Ch 4, <b><font color="blue">quiz(only covers Ch 4)*</font></b></p>
+            </td>
+        </tr>
+        <tr class>
+            <td width="54">
+                <p style="margin-top:0; margin-bottom:0;"><b>9/14</b></p>
+            </td>
+            <td width="370">
+                <p style="margin-top:0; margin-bottom:0;">Spotfire 실습</p>
+            </td>
+            <td width="272">
+                <p style="margin-top:0; margin-bottom:0;"></p>
+            </td>
+        </tr>
+            
+        <tr class>
+                <td rowspan=2 width="49">3</td>
+            <td width="54">
+                <p style="margin-top:0; margin-bottom:0;"><b>9/16</b></p>
+            </td>
+            <td width="370">
+                <p style="margin-top:0; margin-bottom:0;"><a href="{{ url_for('static', filename='docs/dm2015/Chap5_EvaluatingPerformance.pdf')}}">Evaluating Classification and Predictive Performance</a>, <a href="{{ url_for('static', filename='docs/dm2015/Chap6_MLR.pdf')}}">Multiple Linear Regression</a></p>
+            </td>
+            <td width="272">
+                <p style="margin-top:0; margin-bottom:0;">Ch 5, Ch 6, <b><font color="blue">quiz*</font></b></p>
+            </td>
+        </tr>
+        <tr class>
+            <td width="54">
+                <p style="margin-top:0; margin-bottom:0;"><b>9/21</b></p>
+            </td>
+            <td width="370">
+                <p style="margin-top:0; margin-bottom:0;"><a href="{{ url_for('static', filename='docs/dm2015/Chap10_LogisticRegression.pdf')}}">Logistic Regression</a></p>
+            </td>
+            <td width="272">
+                <p style="margin-top:0; margin-bottom:0;">Ch 10, <b><font color="blue">quiz*</font></b></p>
+            </td>
+        </tr>
+        <tr class>
+                <td rowspan=2 width="49">4</td>
+            <td width="54">
+                <p style="margin-top:0; margin-bottom:0;"><b>9/23</b></p>
+            </td>
+            <td width="370"><a href="{{ url_for('static', filename='docs/dm2015/R.pdf')}}">R 실습</a></td>
+            <td width="272">            
+                <p style="margin-top:0; margin-bottom:0;"><b><font color="blue">HW: 카탈로그구매반응</font></b></p>
+            </td>
+        </tr>
+        <tr class>
+            <td width="54">                             
+                <p style="margin-top:0; margin-bottom:0;"><b>9/28</b></p>
+            </td>
+            <td width="370">추석 공휴일 휴강</td>
+            <td width="272">
+                <p style="margin-top:0; margin-bottom:0;"></p>
+            </td>
+        </tr>
+        <tr class>
+                <td rowspan=2 width="49">5</td>
+            <td width="54">
+                <p style="margin-top:0; margin-bottom:0;"><b>9/30</b></p>
+            </td>
+            <td width="370"><a href="{{ url_for('static', filename='docs/dm2015/Takyo.pdf')}}">반응 모델링 review</a></td>
+            <td width="272">            
+                <p style="margin-top:0; margin-bottom:0;">Ch 18.5 </p>
+            </td>
+
+        </tr>
+        <tr class>
+            <td width="54">
+                <p style="margin-top:0; margin-bottom:0;"><b>10/5</b></p>
+            </td>
+            <td width="370"><a href="{{ url_for('static', filename='docs/dm2015/Chap14_ClusterAnalysis.pdf')}}">Cluster Analysis</a></td>
+            <td width="272">
+                <p style="margin-top:0; margin-bottom:0;">Ch 14, <b><font color="blue">quiz*</font></b></p>
+            </td>
+        </tr>
+        <tr class>
+                <td rowspan=2 width="49">6</td>
+            <td width="54">
+                <p style="margin-top:0; margin-bottom:0;"><b>10/7</b></p>
+            </td>
+            <td width="370"><a href="{{ url_for('static', filename='docs/dm2015/Additional_R.pdf')}}">R 추가자료 및 Weka 소개</a></td>
+            <td width="272">
+                <p style="margin-top:0; margin-bottom:0;"><b><font color="blue">HW: 비누고객 사례</font></b></p>
+            </td>
+
+        </tr>
+        <tr class>
+            <td width="54">
+                <p style="margin-top:0; margin-bottom:0;"><b>10/12</b></p>
+            </td>
+            <td width="370"><a href="{{ url_for('static', filename='docs/dm2015/Problem Solving Steps.pdf')}}">Problem Solving Steps</a></td>
+            <td width="272">            
+                <p style="margin-top:0; margin-bottom:0;"></p>
+            </td>
+        </tr>
+        <tr class>
+                <td rowspan=2 width="49">7</td>
+            <td width="54">
+                <p style="margin-top:0; margin-bottom:0;"><b>10/14</b></p>
+            </td>
+            <td width="370"><a href="{{ url_for('static', filename='docs/dm2015/proposal_examples.pdf')}}">Proposal 예시</a>, Formulation 연습, <a href="{{ url_for('static', filename='docs/dm2015/clustering_review.zip')}}">Market Segmentation Review</a></td>
+            <td width="272">
+                <p style="margin-top:0; margin-bottom:0;"></p>
+            </td>
+
+        </tr>
+        <tr class>
+            <td width="54">
+                <p style="margin-top:0; margin-bottom:0;"><b>10/19</b></p>
+            </td>
+            <td width="370">Formulation 연습</td>
+            <td width="272">            
+                <p style="margin-top:0; margin-bottom:0;"></p>
+            </td>
+        </tr>
+        <tr class>
+                <td rowspan=2 width="49">8</td>
+            <td width="54">
+                <p style="margin-top:0; margin-bottom:0;"><b>10/21</b></p>
+            </td>
+            <td width="370">Term Project Proposal</td>
+            <td width="272">            
+                <p style="margin-top:0; margin-bottom:0;">&nbsp;</p>
+            </td>
+        </tr>
+        <tr class>
+            <td width="54">                             
+                <p style="margin-top:0; margin-bottom:0;"><b>10/26</b></p>
+            </td>
+            <td width="370">자율 학습</td>
+            <td width="272">            
+                <p style="margin-top:0; margin-bottom:0;">&nbsp;</p>
+            </td>
+        </tr>
+        <tr class>
+                <td rowspan=2 width="49">9</td>
+            <td width="54">
+                <p style="margin-top:0; margin-bottom:0;"><b>10/28</b></p>
+            </td>
+            <td width="370">자율 학습</td>
+            <td width="272">
+                <p style="margin-top:0; margin-bottom:0;"></p>
+            </td>
+
+        </tr>
+        <tr class>
+            <td width="54">
+                <p style="margin-top:0; margin-bottom:0;"><b>11/2</b></p>
+            </td>
+            <td width="370"><b><font color="red">Exam 1</font></b></td>
+            <td width="272">            
+                <p style="margin-top:0; margin-bottom:0;"></p>
+            </td>
+        </tr>
+        <tr class>
+                <td rowspan=2 width="49">10</td>
+            <td width="54">
+                <p style="margin-top:0; margin-bottom:0;"><b>11/4</b></p>
+            </td>
+            <td width="370"><a href="{{ url_for('static', filename='docs/dm2015/Chap7_KNN.pdf')}}">K-nearest neighbors</a>, <a href="{{ url_for('static', filename='docs/dm2015/Chap8_Naive Bayes (Han).pdf')}}">Naive Bayes</a></td>
+            <td width="272">            
+                <p style="margin-top:0; margin-bottom:0;">Ch 7, Ch 8, <b><font color="blue">quiz*</font></b></p>
+            </td>
+
+        </tr>
+        <tr class>
+            <td width="54">                                 
+                <p style="margin-top:0; margin-bottom:0;"><b>11/9</b></p>
+            </td>
+            <td width="370"><a href="{{ url_for('static', filename='docs/dm2015/Chap13 Association Rules.pdf')}}">Association Rules, A priori property</a></td>
+            <td width="272">
+                <p style="margin-top:0; margin-bottom:0;">Ch 13, A priori property</p>
+            </td>
+
+        </tr>
+            
+        <tr class>
+                    <td rowspan=2 width="49">11</td>
+            <td width="54">
+                <p style="margin-top:0; margin-bottom:0;"><b>11/11</b></p>
+            </td>
+            <td width="370"><a href="{{ url_for('static', filename='docs/dm2015/Chap9_ 의사결정나무.pdf')}}">Classification and Reg trees</a>
+                <a href="{{ url_for('static', filename='docs/dm2015/progress.zip')}}">Progress Report 예시</a></td>
+            <td width="272">
+                <p style="margin-top:0; margin-bottom:0;">Ch 9, <b><font color="blue">quiz*</font></b></p>
+            </td>
+
+        </tr>
+        <tr class>
+            <td width="54">                                 
+                <p style="margin-top:0; margin-bottom:0;"><b>11/16</b></p>
+            </td>
+            <td width="370">Term Project Progress Report Presentation</td>
+            <td width="272">            
+                <p style="margin-top:0; margin-bottom:0;"></p>
+            </td>
+        </tr>
+        <tr class>
+                <td rowspan=2 width="49">12</td>
+            <td width="54">
+                <p style="margin-top:0; margin-bottom:0;"><b>11/18</b></p>
+            </td>
+            <td width="370">Term Project Progress Report Presentation</td>
+            <td width="272">
+                <p style="margin-top:0; margin-bottom:0;"></p>
+            </td>
+
+        </tr>
+        <tr class>
+            <td width="54">
+                <p style="margin-top:0; margin-bottom:0;"><b>11/23</b></p>
+            </td>
+            <td width="370"><a href="{{ url_for('static', filename='docs/dm2015/Chap11.pdf')}}">Neural Network Part 1</a>
+                <a href="{{ url_for('static', filename='docs/dm2015/Chap11_2.pdf')}}">Neural Network Part 2</a></td>
+            <td width="272">            
+                <p style="margin-top:0; margin-bottom:0;">Ch. 10</p>
+            </td>
+        </tr>
+        <tr class>
+                <td rowspan=2 width="49">13</td>
+            <td width="54">
+                <p style="margin-top:0; margin-bottom:0;"><b>11/25</b></p>
+            </td>
+            <td width="370">Neural Network</td>
+            <td width="272"> 
+                <p style="margin-top:0; margin-bottom:0;">Ch 11, <b><font color="blue">quiz*</font></b></p>
+            </td>
+
+        </tr>
+        <tr class>
+            <td width="54">                                 
+                <p style="margin-top:0; margin-bottom:0;"><b>11/30</b></p>
+            </td>
+            <td width="370">Neural Network</td>
+            <td width="272">            
+                <p style="margin-top:0; margin-bottom:0;"></p>
+            </td>
+        </tr>
+        <tr class>
+                <td rowspan=2 width="49">14</td>
+            <td width="54">
+                <p style="margin-top:0; margin-bottom:0;"><b>12/2</b></p>
+            </td>
+            <td width="370"><a href="{{ url_for('static', filename='docs/dm2015/Chap9_bagging.boosting.Cornell.pdf')}}">Ensemble Learning</a>, <a href="{{ url_for('static', filename='docs/dm2015/Chap9_BiasVariance.pdf')}}">Bias-Variance</a></td>
+            <td width="272">            
+                <p style="margin-top:0; margin-bottom:0;"></p>
+            </td>
+
+        </tr>
+        <tr>
+            <td width="54">                             
+                <p style="margin-top:0; margin-bottom:0;"><b>12/7</b></p>
+            </td>
+            <td width="370"><a href="{{ url_for('static', filename='docs/dm2015/Big Data.pdf')}}">조직 및 역할 & Big Data</a></td>
+            <td width="272">            
+                <p style="margin-top:0; margin-bottom:0;">별도 자료</p>
+            </td>
+        </tr>
+        <tr>
+                <td rowspan=2 width="49">15</td>
+            <td width="54">
+                <p style="margin-top:0; margin-bottom:0;"><b>12/9</b></p>
+            </td>
+            <td width="370"><b><font color = "red">Exam 2</font></b></td>
+            <td width="272">            
+                <p style="margin-top:0; margin-bottom:0;"></p>
+            </td>
+
+        </tr>
+        <tr>
+            <td width="54">                                 
+                <p style="margin-top:0; margin-bottom:0;"><b>12/14</b></p>
+            </td>
+            <td width="370">Term Project Final Presentation</td>
+            <td width="272">            
+                <p style="margin-top:0; margin-bottom:0;"></p>
+            </td>
+        </tr>
+<tr>
+                <td rowspan=2 width="49">16</td>
+            <td width="54">
+                <p style="margin-top:0; margin-bottom:0;"><b>12/16</b></p>
+            </td>
+            <td width="370">Term Project Final Presentation</td>
+            <td width="272">            
+                <p style="margin-top:0; margin-bottom:0;"></p>
+            </td>
+-->
+        </tr>
+        </table>
+        * Quiz는 reading assignment의 범위 내에서 출제됩니다. 문제는 italic &amp; bold-face text, figures 그리고 equations에서 주로 출제.<br>
+        ** Delay penalty: 20% off (same day), 50% (next day) and 100% (after that)<br>
+<br><br>
+    </ol>
+</body>
+ 
+</html>
