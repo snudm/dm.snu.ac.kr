@@ -64,6 +64,10 @@ def admission():
     return render_template('degrees_qna.html',
                            admission = read_json_data('degrees.json'))  
 
+@app.route('/<lang_code>/zoon')
+def zoon():
+    return render_template('zoon.html')
+
 @app.route('/<lang_code>/contact')
 def contact():
     return render_template('contact.html')
@@ -197,6 +201,9 @@ def conference():
 def patent():
     return render_template('patents.html', pub_patent=read_txt_data('pub_patent.txt'))
 
+@app.route('/<lang_code>/research/insight')
+def insight():
+    return redirect('https://snudm.github.io/fintext', code=302)
 
 @app.route('/<lang_code>/map')
 def map():
