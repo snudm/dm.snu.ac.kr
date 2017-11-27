@@ -48,6 +48,8 @@
                     {% for submenu in menu[1] %}
                     {% if submenu=='admission' %}   
                     <li><a href="{{ url_for('admission', lang_code=locale) }}">{{ 'Admission FAQ' }}</a></li>
+                    {% elif submenu=='insight' %}   
+                    <li><a href="{{ url_for('insight', lang_code=locale) }}">{{ 'Inight : Finance Text' }}</a></li>
                     {% else %} 
                     <li><a href="{{ url_for(submenu.lower(), lang_code=locale) }}">{{ submenu }}</a></li> 
                     {% endif %}

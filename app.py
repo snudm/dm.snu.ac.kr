@@ -195,7 +195,7 @@ def journal():
 @app.route('/<lang_code>/research/conference')
 def conference():
     return render_template('conference.html',\
-           pub_conferences=read_txt_data('pub_conferences.txt'))
+            pub_conferences=read_txt_data('pub_conferences.txt'))
 
 @app.route('/<lang_code>/research/patent')
 def patent():
@@ -217,7 +217,7 @@ def seminar():
 @app.route('/<lang_code>/software')
 def software():
     return render_template('software.html',\
-           software=read_json_data('software.json'))
+            software=read_json_data('software.json'))
 
 @app.route('/~<name>')
 def member(name):
