@@ -1,3 +1,12 @@
+"Building Industry Network Based on Business Text: Corporate Disclosures and News”, Sung Whan Jeon, Hye Jin Lee, Sungzoon Cho, Dec. 2017, IEEE BigData 2017, Boston, USA.
+"코스피 상장 기업의 다중 레이블 분류를 위한 산업군 키워드 사전의 구축 : 단어 임베딩 공간 사이의 선형변환 학습을 중심으로", 민동영, 조성준, 대한산업공학회 2017 추계학술대회.
+“다변량 시계열 변수 중요도 추출 및 분류 성능 향상을 위한 컨볼류션 필터”, 김은지, 조성준, 한국BI데이터마이닝학회 2017 추계학술대회.
+“표상학습을 통한 연속형 변수의 다변수적 이산화 방법”, 김태욱, 조성준, 한국BI데이터마이닝학회 2017 추계학술대회.
+"반도체 제조 환경에서 convolutional neural network 기반 반송로봇 주행 정체 예측”, 강연국, 조성준, 한국BI데이터마이닝학회 2017 추계학술대회.
+“태그 정보와 copy mechanism을 활용한 수치 텍스트의 문서 요약”, 송석민, 조성준, 한국BI데이터마이닝학회 2017 추계학술대회.
+“Distance-based self-attention network for natural language inference”, 임진배, 조성준, 한국BI데이터마이닝학회 2017 추계학술대회.
+“Efficient topic modeling for single topic documents with clustering and lasso regression”, 신훈식, 김현중, 조성준, 한국BI데이터마이닝학회 2017 추계학술대회.
+"Conference call script analysis in the scope of stock price prediction: preliminary results from the hand-ming collaboration”, 이혜진, 전성환, 민동영, 류성원, 조성준, 한국BI데이터마이닝학회 2017 추계학술대회.
 "Contextual News Curation Using Distributed Representation of Corporate Disclosures", 이혜진, 전성환, 민동영, 조성준, 한국BI데이터마이닝학회 2017 춘계공동학술대회.
 "Predicting the Energy Consumption of a Building Using Recurrent Neural Network", 박인범, 조성준, 대한산업공학회 2017 춘계공동학술대회.
 "데이터 기반 영화 개봉주 토요일 관객수 예측", 안용대, 안진원, 조성준, 대한산업공학회 2017 춘계공동학술대회.
