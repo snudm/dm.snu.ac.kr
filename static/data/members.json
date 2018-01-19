@@ -11,9 +11,9 @@
     {
     "image": "jhlee",
     "name": "이 제 혁 (Jehyuk Lee)",
-    "email": "jehyuklee at dm.snu.ac.kr",
+    "email": "jehyuk.lee at dm.snu.ac.kr",
     "experience": "Internship at Samsung Electronics, 2010.6-2010.7",
-    "areas of interest": "Time series analysis, anomaly detection",
+    "areas of interest": "Semi-supervised Learning, Generative model, Anomaly detection",
     "M.S.": "Industrial & Systems Engineering, KAIST, 2014",
     "B.S.": "Industrial & Systems Engineering, and Management Science, KAIST, 2012",
     "highschool": "Jeju Science, 2007"  
@@ -163,7 +163,7 @@
     "email": "dongmin.shin at dm.snu.ac.kr",
     "homepage" : "http://miniddong.me",
     "experience":"Internship at Riiid!, 2017.07-2017.08; Fellowship at Google News Lab, 2017.01-2017.02",
-    "areas of interest" : "Natural Language Processing, Algorithmic Discrimination, Data Visualization",
+    "areas of interest" : "Meta-learning, Fairness in Machine Learning, Data Vizualization",
     "B.S.":  "Earth Science Education (Science Communication), Seoul Nat’l Univ., 2016",
     "highschool": "Busan Science, 2012"
     },
