@@ -95,14 +95,6 @@
     "email": "sjeon at dm.snu.ac.kr",
     "B.S.":  "Computer Science, Mathematics, Emory Univ. 2014",
     "highschool": "St. John's, 2009"
-    },
-    {
-    "image": "hc2",
-    "name": "양 효 창 (HyoChang Yang)",
-    "email": "hyochang at dm.snu.ac.kr",
-    "areas of interest": "Generative Model",
-    "B.S.": "Industrial Engineering, Computer Scinence and Engineering, Seoul Nat'l Univ., 2016",
-    "highschool": "Konkuk University High School, 2012"       
     }
 ],
 "ms_students": [
@@ -156,6 +148,14 @@
     "areas of interest":"Time Series Anlaysis",
     "B.S.":  "Mathematical Sciences, Business and Technology Management, Financial Engineering, KAIST, 2016",
     "highschool": "Busan Science, 2011"
+    },
+    {
+    "image": "hc2",
+    "name": "양 효 창 (HyoChang Yang)",
+    "email": "hyochang at dm.snu.ac.kr",
+    "areas of interest": "Generative Model",
+    "B.S.": "Industrial Engineering, Computer Scinence and Engineering, Seoul Nat'l Univ., 2016",
+    "highschool": "Konkuk University High School, 2012"       
     },
     {
     "image": "dmshin",
