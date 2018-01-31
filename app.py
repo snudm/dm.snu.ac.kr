@@ -106,7 +106,29 @@ def education():
 
 @app.route('/<lang_code>/people')
 def people():
-    return render_template('members.html', members=read_json_data('members.json'), alumni=read_json_data('alumni.json'))
+    return redirect(url_for('students'))
+
+@app.route('/<lang_code>/people/professor')
+def professor():
+    return render_template('professor.html')
+
+@app.route('/<lang_code>/people/students')
+def students():
+    headers = ['Ph.D. Candidates', 'Ph.D. Students', 'Master Students']
+    member_keys = ['phd_candidates', 'phd_students', 'ms_students']
+    
+    return render_template('students.html', students=read_json_data('members.json'), member_header_key_pairs=zip(headers, member_keys))
+
+@app.route('/<lang_code>/people/students_on_leave_of_absence')
+def students_on_leave_of_absence():
+    headers = ['Ph.D. Candidates', 'Ph.D. Students', 'Master Students']
+    member_keys = ['phd_candidates', 'phd_students', 'ms_students']
+    
+    return render_template('students_on_leave_of_absence.html', students=read_json_data('students_on_leave_of_absence.json'), member_header_key_pairs=zip(headers, member_keys))
+
+@app.route('/<lang_code>/people/alumni')
+def alumni():
+    return render_template('alumni.html', alumni=read_json_data('alumni.json'))
 
 @app.route('/<lang_code>/notices/')
 def notices():

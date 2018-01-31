@@ -1,0 +1,24 @@
+{"phd_candidates": [
+],
+"phd_students" : [
+	{
+		"image": "hsyang",
+		"name": "양 호 성 (Hoseong Yang)",
+		"email": "hoseong at dm.snu.ac.kr",
+		"experience": "Internship at Daum Soft, 2013.12-2014.02; Internship at LG CNS, 2014.07-2014.08",
+		"areas of interest": "Text Mining, Business Intelligence",
+		"M.S.": "Industrial Engineering, Seoul Nat'l Univ., 2017",
+		"B.S.": "Industrial Engineering, Seoul Nat'l Univ., 2015",
+		"highschool": "Sungdeok, 2008"       
+	}],
+	"ms_students": [
+		{
+			"image": "nariu",
+			"name": "유 나 리 (Nari Ryu)",
+			"email": "nariu at dm.snu.ac.kr",
+			"experience":"Internship at Boston Consulting Group, Internship at Samsung Electronics",
+			"areas of interest":"Speech Recognition, Natural Language Processing",
+			"B.S.":  "Industrial & Systems Engineering, KAIST, 2016",
+			"highschool": "Seohyun, 2011"
+		}]
+}

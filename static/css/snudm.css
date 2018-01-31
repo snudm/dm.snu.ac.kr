@@ -253,6 +253,12 @@ table.alumni td:nth-child(2) {
 .width-25 {
     width: 25%;
 }
+.width-40 {
+    width: 40%;
+}
+.center_margin {
+margin:auto;
+}
 
 .width-49 {
     width: 49%;
@@ -322,4 +328,8 @@ table.alumni td:nth-child(2) {
         right: 0;
         top: 10px;
     }
+}
+
+.expect_graduate {
+	font-size: 1.2rem
 }
