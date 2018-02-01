@@ -73,19 +73,6 @@
     "B.S.": "Industrial Engineering, Seoul Nat'l Univ., 2007",
     "highschool": "Deajin, 2003" 
     },
-<<<<<<< HEAD
-    {
-    "image": "hsyang",
-    "name": "양 호 성 (Hoseong Yang)",
-    "email": "hoseong at dm.snu.ac.kr",
-    "experience": "Internship at Daum Soft, 2013.12-2014.02; Internship at LG CNS, 2014.07-2014.08",
-    "areas of interest": "Text Mining, Business Intelligence",
-    "M.S.": "Industrial Engineering, Seoul Nat'l Univ., 2017",
-    "B.S.": "Industrial Engineering, Seoul Nat'l Univ., 2015",
-    "highschool": "Sungdeok, 2008"       
-    },     
-    {
-=======
     {    
     "image": "ydahn",
     "name": "안 용 대 (Yongdae An)",
@@ -104,7 +91,6 @@
     "highschool": "Chungbuk Science, 2010"       
     },
     {
->>>>>>> b91a2e35fb7a18e6843b79da27359cb9fb3e6ee2
     "image": "hyejin2",
     "name": "이 혜 진 (Hyejin Lee)",
     "exp.gra.": "Feb. 2019",
