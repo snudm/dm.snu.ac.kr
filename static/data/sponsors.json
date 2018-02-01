@@ -125,13 +125,7 @@
         "id": "kl-net",
         "description_ko": "컨테이너터미널의 모선과 블록의 관계성 분석",
         "description_en": "Analysis of relationship between a mother ship and blocks in a container terminal" 
-      }
-    // {
-    // 	"id": "nationalresearchfoundationofkorea",
-    //     "description_ko": "데이터과학과 지식창출",
-    //     "description_en": "Data Science and Knowledge Creation"
-    // }
-    ]
+      }]
 },
 {
     "title_ko": "금융",
@@ -300,27 +294,4 @@
         "description_ko": "스마트그리드 데이터 분석",
         "description_en": "Understanding Energy Consumption by Mining Smart Grid"
     }]
-}
-// ,
-// {
-//     "title_ko": "리스크 관리",
-//     "title_en": "Risk Management",
-//     "projects": [
-//       {
-//         "id": "seoulbeone",
-//         "description_ko": "키스트로크 다이나믹스 기반 계정 공유 탐지",
-//         "description_en": "Account Sharing Detection with Keystroke Dynamics"
-//       },
-//       {
-//         "id": "smbizbeone",
-//         "description_ko": "ATM 사용자 화면터치 행동 패턴 사용자 인증",
-//         "description_en": "Authenticating ATM users with Screen Touch Dynamics"
-//       },
-//       {
-//         "id": "nrf",
-//         "description_ko": "키스트로크 다이나믹스 기반 사용자 인증",
-//         "description_en": "Authenticating users with Keystroke Dynamics"
-//       }]
-// }
-
-]
+}]
