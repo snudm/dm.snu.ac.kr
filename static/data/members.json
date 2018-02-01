@@ -35,15 +35,30 @@
     "B.S.": "Industrial Engineering, Seoul Nat'l Univ., 2014",
     "highschool": "Hanil, 2009" 
     },
+    {    
+    "image": "ydahn",
+    "name": "안 용 대 (Yongdae An)",
+    "email": "ydan at dm.snu.ac.kr ",
+    "experience": "Hyundai Heavy Industries",
+    "B.S.": "Industrial Engineering, KAIST, 2012",
+    "highschool": "Korea Science Academy of KAIST, 2004"
+    },
     {
-    "image": "mskim",
-    "name": "김 미 숙 (Misuk Kim)",
-    "email": "mskim at dm.snu.ac.kr",
-    "areas of interest": "Optimization, Sentiment Analysis",
-    "M.S.": "Industrial & Management Engineering, POSTECH, 2012",
-    "B.S.": "Industrial & Management Engineering, POSTECH, 2009",
-    "highschool": "Chonnam Science, 2006"       
+    "image": "hsshin",
+    "name": "신 훈 식 (Hunsik Shin)",
+    "email": "hunsik at dm.snu.ac.kr",
+    "B.S.": "Industrial & Management Engineering, POSTECH, 2015",
+    "highschool": "Chungbuk Science, 2010"       
     }
+    // {
+    // "image": "mskim",
+    // "name": "김 미 숙 (Misuk Kim)",
+    // "email": "mskim at dm.snu.ac.kr",
+    // "areas of interest": "Optimization, Sentiment Analysis",
+    // "M.S.": "Industrial & Management Engineering, POSTECH, 2012",
+    // "B.S.": "Industrial & Management Engineering, POSTECH, 2009",
+    // "highschool": "Chonnam Science, 2006"       
+    // }
 ],
 "phd_students" : [
     {
@@ -55,14 +70,6 @@
     "B.S.": "Industrial Engineering, Seoul Nat'l Univ., 2007",
     "highschool": "Deajin, 2003" 
     },
-    {    
-    "image": "ydahn",
-    "name": "안 용 대 (Yongdae An)",
-    "email": "ydan at dm.snu.ac.kr ",
-    "experience": "Hyundai Heavy Industries",
-    "B.S.": "Industrial Engineering, KAIST, 2012",
-    "highschool": "Korea Science Academy of KAIST, 2004"
-    },
     {
     "image": "hsyang",
     "name": "양 호 성 (Hoseong Yang)",
@@ -73,13 +80,6 @@
     "B.S.": "Industrial Engineering, Seoul Nat'l Univ., 2015",
     "highschool": "Sungdeok, 2008"       
     },     
-    {
-    "image": "hsshin",
-    "name": "신 훈 식 (Hunsik Shin)",
-    "email": "hunsik at dm.snu.ac.kr",
-    "B.S.": "Industrial & Management Engineering, POSTECH, 2015",
-    "highschool": "Chungbuk Science, 2010"       
-    },
     {
     "image": "hyejin2",
     "name": "이 혜 진 (Hyejin Lee)",
@@ -98,57 +98,57 @@
     }
 ],
 "ms_students": [
-    {
-    "image": "taewook_2",
-    "name": "김 태 욱 (Taewook Kim)",
-    "email": "taewook at dm.snu.ac.kr",
-    "experience": "Internship at Microsoft Korea, 2014.01-2014.02",
-    "areas of interest": "Interpretabillity in Machine Learning, Deep Learning for NLP",
-    "B.S.":  "Industrial Engineering, Seoul Nat'l Univ., 2015",
-    "highschool": "Dongin, 2009"       
-    },
-    {
-    "image": "jihyeong",
-    "name": "문 지 형 (Jihyung Moon)",
-    "email": "jhmoon at dm.snu.ac.kr",
-    "experience": "VAIIM Consulting, 2015",
-	"areas of interest": "Natural Language Processing, Recommender Systems",
-    "B.S.":  "Chemical and Biological Engineering, Seoul Nat'l Univ., 2016",
-    "highschool": "Ansan Dongsan, 2011"       
-    },
-    {
-    "image": "jinbae",
-    "name": "임 진 배 (Jinbae Im)",
-    "email": "jinbae at dm.snu.ac.kr",
-    "areas of interest": "Deep Learning, Natural Language Processing, Learning Representations",
-    "B.S.":  "Industrial Engineering, Seoul Nat'l Univ., 2016",
-    "highschool": "Munseong, 2012"
-    },
-    {
-    "image": "seokmin",
-    "name": "송 석 민 (Seokmin Song)",
-    "email": "seokmin at dm.snu.ac.kr",
-    "areas of interest": "Machine Learning, Natural Language Processing",
-    "B.S.":  "Industrial Engineering, Seoul Nat'l Univ., 2016",
-    "highschool": "Gwangju Science, 2010"
-    },
-    {
-    "image": "inbeom3",
-    "name": "박 인 범 (Inbeom Park)",
-    "email": "ibpark at dm.snu.ac.kr",
-    "areas of interest": "Deep Learning",
-    "B.S.":  "Industrial & Management Engineering, Korea Univ, 2016",
-    "highschool": "Osan, 2010"       
-    },
-    {
-    "image": "dy-min",
-    "name": "민 동 영 (Dongyoung Min)",
-    "email": "dongyoung.min at dm.snu.ac.kr",
-    "experience":"Ambrothia LLC",
-    "areas of interest":"Time Series Anlaysis",
-    "B.S.":  "Mathematical Sciences, Business and Technology Management, Financial Engineering, KAIST, 2016",
-    "highschool": "Busan Science, 2011"
-    },
+ //    {
+ //    "image": "taewook_2",
+ //    "name": "김 태 욱 (Taewook Kim)",
+ //    "email": "taewook at dm.snu.ac.kr",
+ //    "experience": "Internship at Microsoft Korea, 2014.01-2014.02",
+ //    "areas of interest": "Interpretabillity in Machine Learning, Deep Learning for NLP",
+ //    "B.S.":  "Industrial Engineering, Seoul Nat'l Univ., 2015",
+ //    "highschool": "Dongin, 2009"       
+ //    },
+ //    {
+ //    "image": "jihyeong",
+ //    "name": "문 지 형 (Jihyung Moon)",
+ //    "email": "jhmoon at dm.snu.ac.kr",
+ //    "experience": "VAIIM Consulting, 2015",
+	// "areas of interest": "Natural Language Processing, Recommender Systems",
+ //    "B.S.":  "Chemical and Biological Engineering, Seoul Nat'l Univ., 2016",
+ //    "highschool": "Ansan Dongsan, 2011"       
+ //    },
+ //    {
+ //    "image": "jinbae",
+ //    "name": "임 진 배 (Jinbae Im)",
+ //    "email": "jinbae at dm.snu.ac.kr",
+ //    "areas of interest": "Deep Learning, Natural Language Processing, Learning Representations",
+ //    "B.S.":  "Industrial Engineering, Seoul Nat'l Univ., 2016",
+ //    "highschool": "Munseong, 2012"
+ //    },
+ //    {
+ //    "image": "seokmin",
+ //    "name": "송 석 민 (Seokmin Song)",
+ //    "email": "seokmin at dm.snu.ac.kr",
+ //    "areas of interest": "Machine Learning, Natural Language Processing",
+ //    "B.S.":  "Industrial Engineering, Seoul Nat'l Univ., 2016",
+ //    "highschool": "Gwangju Science, 2010"
+ //    },
+ //    {
+ //    "image": "inbeom3",
+ //    "name": "박 인 범 (Inbeom Park)",
+ //    "email": "ibpark at dm.snu.ac.kr",
+ //    "areas of interest": "Deep Learning",
+ //    "B.S.":  "Industrial & Management Engineering, Korea Univ, 2016",
+ //    "highschool": "Osan, 2010"       
+ //    },
+ //    {
+ //    "image": "dy-min",
+ //    "name": "민 동 영 (Dongyoung Min)",
+ //    "email": "dongyoung.min at dm.snu.ac.kr",
+ //    "experience":"Ambrothia LLC",
+ //    "areas of interest":"Time Series Anlaysis",
+ //    "B.S.":  "Mathematical Sciences, Business and Technology Management, Financial Engineering, KAIST, 2016",
+ //    "highschool": "Busan Science, 2011"
+ //    },
     {
     "image": "hc2",
     "name": "양 효 창 (HyoChang Yang)",

@@ -1,8 +1,13 @@
 {"phd_alumni": [
+    {
+    "year": "2018",
+    "name": "김미숙",
+    "job": "월드퀀트"
+    },
 	{
      "year": "2017",
      "name": "고태훈",
-     "job": "서울대병원" 
+     "job": "서울대병원 정보화실 교수" 
     },
 	{
      "year": "2016",
@@ -27,7 +32,7 @@
     {
      "year": "2015",
      "name": "강석호",
-     "job": "삼성전자 종합기술원",
+     "job": "성균관대학교 시스템경영공학과 교수 (2018 미국 NYU 방문교수)",
      "dissertation": "Heterogeneous Ensemble Learning for Multi-class Classification",
      "diss_address": "http://snu-primo.hosted.exlibrisgroup.com/82SNU:ALL:82SNU_INST21511609380002591"
     },
@@ -56,7 +61,7 @@
     {
      "year": "2013",
      "name": "김동일",
-     "job": "한국생산기술연구원",
+     "job": "충남대학교 컴퓨터공학과 교숰",
      "dissertation": "Intelligent data selection and semi-supervised learning for support vector regression",
      "diss_address": "http://snu-primo.hosted.exlibrisgroup.com/82SNU:ALL:82SNU_INST21463531750002591"
     },
@@ -105,10 +110,40 @@
     {
      "year": "2000",
      "name": "장민",
-     "job": "한글과 컴퓨터"
+     "job": "쿠프마케팅"
     }
 ],
 "ms_alumni" : [
+    {
+     "year": "2018",
+     "name": "김태욱",
+     "job": "네이버"
+    },
+    {
+     "year": "2018",
+     "name": "문지형",
+     "job": "네이버"
+    },
+    {
+     "year": "2018",
+     "name": "임진배",
+     "job": "NCsoft"
+    },
+    {
+     "year": "2018",
+     "name": "송석민",
+     "job": "SKT"
+    },
+    {
+     "year": "2018",
+     "name": "박인범",
+     "job": "SKT"
+    },
+    {
+     "year": "2018",
+     "name": "민동영",
+     "job": "티맥스"
+    },
     {
      "year": "2017",
      "name": "조현창",
@@ -144,7 +179,7 @@
     {
      "year": "2014",
      "name": "전영환",
-     "job": "티맥스소프트",
+     "job": "네이버",
      "dissertation": "연설문 텍스트마이닝을 통한 미국 연방공개시장위원회 주요 인사들의 통화정책 성향 분석",
      "diss_address": "http://snu-primo.hosted.exlibrisgroup.com/82SNU:ALL:82SNU_INST21413843260002591"
     },
@@ -179,7 +214,7 @@
     {
      "year": "2013",
      "name": "박용원",
-     "job": "하이닉스",
+     "job": "SK하이닉스",
      "dissertation": "군집화 기법을 이용한 반도체 다이(Die)의 특성 별 내부 전압 조정 및 테스트 공정 최적화",
      "diss_address": "http://snu-primo.hosted.exlibrisgroup.com/82SNU:ALL:82SNU_INST21432869530002591"
     },
@@ -256,7 +291,7 @@
     {
      "year": "2009",
      "name": "홍유나",
-     "job": "삼성카드",
+     "job": "카카오뱅크",
      "dissertation": "의사결정나무를 이용한 One-Support Vector Machine의 이상 탐지 규칙 도출",
      "diss_address": "http://snu-primo.hosted.exlibrisgroup.com/82SNU:ALL:82SNU_INST21458998610002591"
     },
