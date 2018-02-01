@@ -2,6 +2,7 @@
     {
     "image": "hjkim",
     "name": "김 현 중 (Hyunjoong Kim)",
+    "exp.gra.": "Aug. 2018",
     "email": "hyunjoong at dm.snu.ac.kr",
     "areas of interest": "Natural Language Processing, Instance-based Learning, Graph Mining",
     "M.S.": "Industrial Engineering, Seoul Nat'l Univ., 2013",
@@ -11,9 +12,9 @@
     {
     "image": "jhlee",
     "name": "이 제 혁 (Jehyuk Lee)",
-    "email": "jehyuklee at dm.snu.ac.kr",
+    "email": "jehyuk.lee at dm.snu.ac.kr",
     "experience": "Internship at Samsung Electronics, 2010.6-2010.7",
-    "areas of interest": "Time series analysis, anomaly detection",
+    "areas of interest": "Semi-supervised Learning, Generative model, Anomaly detection",
     "M.S.": "Industrial & Systems Engineering, KAIST, 2014",
     "B.S.": "Industrial & Systems Engineering, and Management Science, KAIST, 2012",
     "highschool": "Jeju Science, 2007"  
@@ -21,6 +22,7 @@
     {
     "image": "ejkim",
     "name": "김 은 지 (Eunji Kim)",
+    "exp.gra.": "Feb. 2019",
     "email": "eunjikim at dm.snu.ac.kr",
     "homepage" : "http://ejklike.github.io/",
     "experience": "Kyobo Life Insurance, 2011-2013",
@@ -64,12 +66,14 @@
     {
     "image": "yhoon",
     "name": "이 영 훈 (Younghoon Lee)",
+    "exp.gra.": "Feb. 2019",
     "email": "yhoon.lee at dm.snu.ac.kr",
     "experience": "LG Electronics, 2009-",
     "M.S.": "Industrial Engineering, Seoul Nat'l Univ., 2009",
     "B.S.": "Industrial Engineering, Seoul Nat'l Univ., 2007",
     "highschool": "Deajin, 2003" 
     },
+<<<<<<< HEAD
     {
     "image": "hsyang",
     "name": "양 호 성 (Hoseong Yang)",
@@ -81,8 +85,29 @@
     "highschool": "Sungdeok, 2008"       
     },     
     {
+=======
+    {    
+    "image": "ydahn",
+    "name": "안 용 대 (Yongdae An)",
+    "exp.gra.": "Feb. 2019",
+    "email": "ydan at dm.snu.ac.kr ",
+    "experience": "Hyundai Heavy Industries",
+    "B.S.": "Industrial Engineering, KAIST, 2012",
+    "highschool": "Korea Science Academy of KAIST, 2004"
+    },     
+    {
+    "image": "hsshin",
+    "name": "신 훈 식 (Hunsik Shin)",
+    "exp.gra.": "Feb. 2019",
+    "email": "hunsik at dm.snu.ac.kr",
+    "B.S.": "Industrial & Management Engineering, POSTECH, 2015",
+    "highschool": "Chungbuk Science, 2010"       
+    },
+    {
+>>>>>>> b91a2e35fb7a18e6843b79da27359cb9fb3e6ee2
     "image": "hyejin2",
     "name": "이 혜 진 (Hyejin Lee)",
+    "exp.gra.": "Feb. 2019",
     "email": "hyejinlee at dm.snu.ac.kr",
     "experience": "Wharton School, U Penn, 2008-2011, 2013-2014; International Food Policy Research Institute, 2012; Federal Reserve Bank of Chicago, 2007",
     "M.S.": "Economics, Cornell Univ., 2013",
@@ -92,6 +117,7 @@
     {
     "image": "sungwhan",
     "name": "전 성 환 (Sung Whan Jeon)",
+    "exp.gra.": "Feb. 2019",
     "email": "sjeon at dm.snu.ac.kr",
     "B.S.":  "Computer Science, Mathematics, Emory Univ. 2014",
     "highschool": "St. John's, 2009"
@@ -152,6 +178,7 @@
     {
     "image": "hc2",
     "name": "양 효 창 (HyoChang Yang)",
+    "exp.gra.": "Aug. 2018",
     "email": "hyochang at dm.snu.ac.kr",
     "areas of interest": "Generative Model",
     "B.S.": "Industrial Engineering, Computer Scinence and Engineering, Seoul Nat'l Univ., 2016",
@@ -160,16 +187,18 @@
     {
     "image": "dmshin",
     "name": "신 동 민 (Dongmin Shin)",
+    "exp.gra.": "Aug. 2018",
     "email": "dongmin.shin at dm.snu.ac.kr",
     "homepage" : "http://miniddong.me",
     "experience":"Internship at Riiid!, 2017.07-2017.08; Fellowship at Google News Lab, 2017.01-2017.02",
-    "areas of interest" : "Natural Language Processing, Algorithmic Discrimination, Data Visualization",
+    "areas of interest" : "Meta-learning, Fairness in Machine Learning, Data Vizualization",
     "B.S.":  "Earth Science Education (Science Communication), Seoul Nat’l Univ., 2016",
     "highschool": "Busan Science, 2012"
     },
     {
     "image": "mkchung",
     "name": "정 민 기 (Minki Chung)",
+    "exp.gra.": "Aug. 2018",
     "email": "minki.chung at dm.snu.ac.kr",
     "experience":"Internship at Kiswe mobile Inc.",
     "areas of interest":"Computer Vision, Reinforcement Learning",
@@ -179,6 +208,7 @@
     {
     "image": "dhkim",
     "name": "김 도 형 (Dohyung Kim)",
+    "exp.gra.": "Aug. 2018",
     "email": "dohyung.kim at dm.snu.ac.kr",
     "experience":"Internship at Hyundai-autoever",
     "areas of interest":"Generative Model",
@@ -188,6 +218,7 @@
     {
     "image": "ykkang",
     "name": "강 연 국 (Younkook Kang)",
+    "exp.gra.": "Feb. 2019",
     "email": "ykkang at dm.snu.ac.kr",
     "experience":"Samsung Electronics, 2009-",
     "areas of interest":"Machine Learning, Manufacturing System",
@@ -197,6 +228,7 @@
     {
     "image": "nohil",
     "name": "박 노 일 (Nohil Park)",
+    "exp.gra.": "Feb. 2019",
     "email": "noil.park at dm.snu.ac.kr",
     "experience":"Internship at INIMAX Inc.",
     "areas of interest":"Machine Learning, Text Mining",
@@ -204,17 +236,9 @@
     "highschool": "Anyang Foreign Language, 2010"
     },
     {
-    "image": "nariu",
-    "name": "유 나 리 (Nari Ryu)",
-    "email": "nariu at dm.snu.ac.kr",
-    "experience":"Internship at Boston Consulting Group, Internship at Samsung Electronics",
-    "areas of interest":"Speech Recognition, Natural Language Processing",
-    "B.S.":  "Industrial & Systems Engineering, KAIST, 2016",
-    "highschool": "Seohyun, 2011"
-    },
-    {
     "image": "",
     "name": "Benjamin Léger",
+    "exp.gra.": "Feb. 2019",
     "email": "benjamin at dm.snu.ac.kr",
     "experience":"Internship at Inserm Toulouse (French National Institute of Health and Medical Research)",
     "areas of interest":"Statistical learning, Text Mining",
@@ -224,6 +248,7 @@
     {
     "image": "bj.park",
     "name": "박 봉 준 (Bongjoon Park)",
+    "exp.gra.": "Aug. 2019",
     "email": "bongjoon at dm.snu.ac.kr",
     "experience":"Samsung Display, 2012-",
     "areas of interest":"Machine Learning, Manufacturing System",
@@ -233,6 +258,7 @@
     {
     "image": "sw.lyu",
     "name": "류 성 원 (Sungwon Lyu)",
+    "exp.gra.": "Aug. 2019",
     "email": "lyusungwon at dm.snu.ac.kr",
     "areas of interest":"Statistical Learning, Deep Learning",
     "B.S.":  "Business, Korea Univ, 2017",
@@ -241,6 +267,7 @@
     {
     "image": "sh.shin",
     "name": "신 승 훈 (Seunghoon Shin)",
+    "exp.gra.": "Aug. 2019",
     "email": "seunghun at dm.snu.ac.kr",
     "areas of interest":"Machine Learning, Deep Learning",
     "B.S.":  "Electrical Engineering & Computer Science, GIST, 2017",
@@ -249,6 +276,7 @@
     {
     "image": "hu.lee",
     "name": "이 형 욱 (Hyeonguk Lee)",
+    "exp.gra.": "Aug. 2019",
     "email": "hyeonguk21 at dm.snu.ac.kr",
     "areas of interest":"Statistical Learning, Text Mining",
     "B.S.":  "Statistics, Environmental Economics, UC Berkeley, 2016",
@@ -257,6 +285,7 @@
     {
     "image": "jy.kim",
     "name": "김 지 영 (Jeeyung Kim)",
+    "exp.gra.": "Aug. 2019",
     "email": "jeeyung.kim at dm.snu.ac.kr",
     "experience": "Internship at VUNO, 2016.10-2016.12",
     "areas of interest":"Deep Learning",

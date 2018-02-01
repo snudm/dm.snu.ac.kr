@@ -1,0 +1,227 @@
+{% extends "layout.html" %}
+
+{% block extended_headers %}
+<!-- image slider  -->
+<link rel="stylesheet" href="{{url_for('static', filename = 'css/flexslider.css')}}" type="text/css">
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.6.2/jquery.min.js"></script>
+<script src="{{url_for('static', filename = 'js/jquery.flexslider.js')}}"></script>
+<script type="text/javascript" charset="utf-8">
+(function() {
+
+// store the slider in a local variable
+var $window = $(window),
+	flexslider;
+
+// tiny helper function to add breakpoints
+function getGridSize() {
+	return (window.innerWidth < 900) ? 1 : 1;
+ }
+
+$(function() {
+	SyntaxHighlighter.all();
+});
+	 
+$(window).load(function() {
+	$('.flexslider').flexslider({
+		animation: "slide",
+		controlNav: true,
+		itemWidth:  420, // calculate slide width based on window, divide by 3 to show 3
+		itemMargin: 5,
+		animationLoop: true,
+		slideshow: true,
+		minItems:getGridSize(),
+		maxItems:getGridSize()
+	});
+});
+
+// check grid size on resize event
+$window.resize(function() {
+	var gridSize = getGridSize();
+	
+	flexslider.vars.minItems = gridSize;
+	flexslider.vars.maxItems = gridSize;
+	});
+}());
+</script>
+{% endblock %}
+
+
+{% block contents %}
+<h2>People</h2>
+<div class="flexslider" style="width:100%;margin:auto;">
+  <ul class="slides">
+    <li>
+      <img src="{{ url_for('static', filename='images/home_5.JPG') }}">
+    </li>
+    <li>
+      <img src="{{ url_for('static', filename='images/home_1.JPG') }}">
+    </li>
+    <li>
+      <img src="{{ url_for('static', filename='images/home_2.JPG') }}">
+    </li>
+    <li>
+      <img src="{{ url_for('static', filename='images/home_3.JPG') }}">
+    </li>
+    <li>
+      <img src="{{ url_for('static', filename='images/home_4.JPG') }}">
+    </li>
+  </ul>
+</div>
+
+{% for header, member_key in member_header_key_pairs %}
+<h2> {{ header }} </h2>
+	{% for student in students[member_key] %}
+	<div id="{{ student['image'] }}" class="member hover row">
+		<div class="col-md-2">
+			<img class="width-100 thumbnail" src="{{ url_for('static', filename='images/members/%s.jpg' % student['image']) }}">
+		</div>
+		<div class="col-md-10">
+			<h3>{{ student['name'] }} <span class="expect_graduate"> (Expected to graduate in {{student['exp.gra.']}})</span></h3>
+			<table class="table table-condensed">
+				{% if 'email' in student.keys() %}
+				<tr>
+					<td>Email</td>
+					<td>
+						{{ student.get('email')}}
+					</td>
+				</tr>
+				{% endif %}
+
+				{% if 'homepage' in student.keys() %}
+				<tr>
+					<td>Homepage</td>
+					<td>
+						<a href="{{ student.get('homepage') }}">{{ student.get('homepage') }}</a>
+					</td>
+				</tr>
+				{% endif %}
+
+				{% if 'areas of interest' in student.keys() %}
+				<tr>
+					<td>Areas of Interest</td>
+					<td>
+						{{ student.get('areas of interest') }}
+					</td>
+				</tr>
+				{% endif %}
+
+				{% if 'experience' in student.keys() %}
+				<tr>
+					<td>Experience</td>
+					<td>
+						{{ student.get('experience') }}
+					</td>
+				</tr>
+				{% endif %}
+
+				{% if 'M.S.' in student.keys() %}
+				<tr>
+					<td>M.S.</td>
+					<td>
+						{{ student.get('M.S.') }}
+					</td>
+				</tr>
+				{% endif %}
+
+				{% if 'B.S.' in student.keys() %}
+				<tr>
+					<td>B.S.</td>
+					<td>
+						{{ student.get('B.S.') }}
+					</td>
+				</tr>
+				{% endif %}
+
+				{% if 'highschool' in student.keys() %}
+				<tr>
+					<td>High school</td>
+					<td>
+						{{ student.get('highschool') }}
+					</td>
+				</tr>
+				{% endif %}
+			</table>
+		</div>
+	</div>
+	{% endfor %}
+{% endfor %}
+
+<!--
+<h2>Ph.D. All but Dissertation</h2>
+{% for student in students['phd_abd'] %}
+<div id="{{ student['image'] }}" class="student hover row">
+    <div class="col-md-2">
+        <img class="width-100 thumbnail" src="{{ url_for('static', filename='images/members/%s.jpg' % student['image']) }}">
+    </div>
+    <div class="col-md-10">
+        <h3>{{ student['name'] }}</h3>
+        <table class="table table-condensed">
+            {% if 'email' in student.keys() %}
+            <tr>
+                <td>Email</td>
+                <td>
+                    {{ student.get('email')}}
+                </td>
+            </tr>
+            {% endif %}
+
+            {% if 'homepage' in student.keys() %}
+            <tr>
+                <td>Homepage</td>
+                <td>
+                    <a href="{{ student.get('homepage') }}">{{ student.get('homepage') }}</a>
+                </td>
+            </tr>
+            {% endif %}
+
+            {% if 'areas of interest' in student.keys() %}
+            <tr>
+                <td>areas of interest</td>
+                <td>
+                    {{ student.get('areas of interest') }}
+                </td>
+            </tr>
+            {% endif %}
+
+            {% if 'job' in student.keys() %}
+            <tr>
+                <td>Job</td>
+                <td>
+                    {{ student.get('job') }}
+                </td>
+            </tr>
+            {% endif %}
+
+            {% if 'M.S.' in student.keys() %}
+            <tr>
+                <td>M.S.</td>
+                <td>
+                    {{ student.get('M.S.') }}
+                </td>
+            </tr>
+            {% endif %}
+
+            {% if 'B.S.' in student.keys() %}
+            <tr>
+                <td>B.S.</td>
+                <td>
+                    {{ student.get('B.S.') }}
+                </td>
+            </tr>
+            {% endif %}
+
+            {% if 'highschool' in student.keys() %}
+            <tr>
+                <td>Highschool</td>
+                <td>
+                    {{ student.get('highschool') }}
+                </td>
+            </tr>
+            {% endif %}
+        </table>
+    </div>
+</div>
+{% endfor %}
+-->
+
+{% endblock %}

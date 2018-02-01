@@ -1,57 +1,53 @@
 [
-
 {
     "title_ko": "스마트 제조",
     "title_en": "Smart Manufacturing",
     "projects": [
       {
-        "id": "hyundai",
-        "description_ko": "3D 조립공법서 자동생성",
-        "description_en": "Auto-generating 3D assembly documents" 
-      },
-      {
-        "id": "kl-net",
-        "description_ko": "컨테이너터미널의 모선과 블록의 관계성 분석",
-        "description_en": "Analysis of relationship between a mother ship and blocks in a container terminal" 
-      },
+        "id": "samsungelec",
+        "description_ko": "딥러닝 기반 Edge Device 向 IIoT data 공정 모델링",
+        "description_en": "Deep-learning based manufacture process modelling of IIoT data using Edge Device" 
+      },        
       {
         "id": "samsungelec",
-        "description_ko": "Edge Device 向 IIoT data 공정 모델링",
-        "description_en": "Manufacture process modelling of IIoT data using Edge Device" 
-      },
-    {
-        "id": "ls",
-        "description_ko": "스마트 팩토리를 위한 비즈니스 모델 도출 및 데이터 품질 평가",
-        "description_en": "Development of business models and evaluation of data quality for smart factory/buildings" 
-        
-    },
-    {
+        "description_ko": "머신러닝 기반 Overhead Transport 제어 파라미터 최적화 ",
+        "description_en": "Ask" 
+      },        
+      {
         "id": "samsunggtc",
         "description_ko": "AS 데이터와 제조 검사 데이터 분석",
         "description_en": "Mining relation between after-sales service and manufacturing inspection of home appliances" 
-        
-    },
-    {
+      },
+      {
         "id": "samsungds",
-        "description_ko": "FDC 센서 값을 활용한 수율 예측 및 관리",
-        "description_en": "Yield Prediction and Management based on FDC sensor values"
-    },
-    {
+        "description_ko": "딥러닝 기반 FDC 센서 값을 활용한 수율 예측 및 관리",
+        "description_en": "Deep-learning based Yield Prediction and Management based on FDC sensor values"
+      },
+      {
         "id": "samsungjejo",
         "description_ko": "모바일 기기 필드 failure와 검사항목 관계 이해",
-        "description_en": "Mining relation between after-sales service and manufacturing inspection of mobile appliances"
-        
-    },
-    {
+        "description_en": "Mining relation between after-sales service and manufacturing inspection of mobile appliances"        
+      },
+      {
         "id": "samsungsaengsan",
         "description_ko": "반도체 설비 오류, 혐의 설비 / 센서 탐지",
         "description_en": "Facility/Sensor Malfunction Detection in Semiconductor Manufacturing"
-    },
-    {
+      },
+      {
         "id": "samsungsaengsan",
         "description_ko": "반도체 공정 가상계측 모델링 및 Run to Run Control",
         "description_en": "Virtual Metrology and Run to Run Control in Semiconductor Manufacturing"
-    },
+      },
+      {
+        "id": "samsunggajeon",
+        "description_ko": "시스템 에어컨 실외기 이상 작동 예지",
+        "description_en": "Predicting Outdoor A/C Unit Malfunction"
+      },
+      {
+        "id": "hyundai",
+        "description_ko": "딥러닝 기반 3D 조립공법서 자동생성",
+        "description_en": "Deep-learning based Auto-generating 3D assembly documents" 
+      },
     {
         "id": "hyundai",
         "description_ko": "자동차 부품 설계 검증 데이터 텍스트 분석",
@@ -60,14 +56,12 @@
     {
         "id": "hyundai",
         "description_ko": "자동차 주행 패턴에 따른 배터리 상태 변화 분석",
-        "description_en": "Mining relation between driving behavior and battery"
-        
+        "description_en": "Mining relation between driving behavior and battery" 
     },
     {
         "id": "hyundai",
         "description_ko": "자동차 센서 데이터의 분석 방향 및 가용 알고리즘 탐색",
         "description_en": "Mining algorithms for telematics data"
-        
     },
     {
         "id": "skhynix",
@@ -88,18 +82,23 @@
     },
     {
         "id": "doosanelectronics",
-        "description_ko": "CCL 공정 최적화 및 불량 예측",
-        "description_en": "Understanding Relation between Process Parameters and Product Quality in CCL Process"
-    },
-        {
-        "id": "posco",
-        "description_ko": "소결기 속도 제어",
-        "description_en": "Belt Speed Control in Sinter Plant"
+        "description_ko": "머신러닝 기반 CCL 공정 최적화 및 불량 예측",
+        "description_en": "Machine-learning based Understanding Relation between Process Parameters and Product Quality in CCL Process"
     },
     {
         "id": "posco",
-        "description_ko": "냉간 압연 최적 Roll Force 예측",
-        "description_en": "Prediction of Optimal Roll Force in Cold Mill"
+        "description_ko": "뉴럴네트워크 기반 소결기 속도 제어",
+        "description_en": "Neural-network based Belt Speed Control in Sinter Plant"
+    },
+    {
+        "id": "posco",
+        "description_ko": "뉴럴네트워크 기반 냉간 압연 최적 Roll Force 예측",
+        "description_en": "Neural-network based Prediction of Optimal Roll Force in Cold Mill"
+    },
+    {
+        "id": "lgelectronics",
+        "description_ko": "딥러닝 기반 시스템 에어컨 Load Forecasting 연구",
+        "description_en": "Ask"
     },
     {
         "id": "dsme",
@@ -117,83 +116,85 @@
         "description_en": "Understanding Block Assembly Process for Optimal Scheduling"
     },
     {
-    	"id": "nationalresearchfoundationofkorea",
-        "description_ko": "데이터과학과 지식창출",
-        "description_en": "Data Science and Knowledge Creation"
-    }]
+        "id": "ls",
+        "description_ko": "스마트 팩토리를 위한 비즈니스 모델 도출 및 데이터 품질 평가",
+        "description_en": "Development of business models and evaluation of data quality for smart factory/buildings" 
+        
+    },
+      {
+        "id": "kl-net",
+        "description_ko": "컨테이너터미널의 모선과 블록의 관계성 분석",
+        "description_en": "Analysis of relationship between a mother ship and blocks in a container terminal" 
+      }
+    // {
+    // 	"id": "nationalresearchfoundationofkorea",
+    //     "description_ko": "데이터과학과 지식창출",
+    //     "description_en": "Data Science and Knowledge Creation"
+    // }
+    ]
 },
 {
-    "title_ko": "마케팅 & 영업 & 제품기획",
-    "title_en": "Marketing & Sales & Product Design",
+    "title_ko": "금융",
+    "title_en": "Finance",
     "projects": [
+      {
+        "id": "shinhancard",
+        "description_ko": "딥러닝을 활용한 해외 스코어 모형 고도화",
+        "description_en": "Advancement of Deep Learning based Foreign Score Model"
+      },
     {
         "id": "shinhancard",
-        "description_ko": "마케팅 효과 예측 및 최적화",
-        "description_en": "Prediction and Optimization for Marketing Effect"
-    },
-    {
-        "id": "samsungelec",
-        "description_ko": "스마트폰 사용자 선호 분석",
-        "description_en": "Preference Analysis of Smartphone Users"
-    },
-    {
-        "id": "hyundai",
-        "description_ko": "차량의 주행로그를 활용한 딥러닝 기반 주행경로 예측",
-        "description_en": "Prediction for Driving Route Based on Deep Learning Using Driving Logs of a Car"
+        "description_ko": "머신러닝 기반 마케팅 효과 예측 및 최적화",
+        "description_en": "Machine Learning based Prediction and Optimization for Marketing Effect"
     },
     {
         "id": "hyundaicard",
-        "description_ko": "고객 중도 상환 예측",
-        "description_en": "Clien Prepayment Prediction"
+        "description_ko": "머신러닝 기반 고객 중도 상환 예측",
+        "description_en": "Machine Learning based Clien Prepayment Prediction"
     },
     {
         "id": "hyundaicard",
-        "description_ko": "민원 발생 가능 고객 사전 예측",
-        "description_en": "Claim Customer Prediction"
+        "description_ko": "Text-mining 기반 민원 발생 가능 고객 사전 예측",
+        "description_en": "Text-mining based Claim Customer Prediction"
     },
+      {
+        "id": "hyundaicard",
+        "description_ko": "머신러닝 기반 상담원 퇴직 징후 조기알림",
+        "description_en": "Machine-learning based Prediction of retirement of Customer Service Representative"
+      },
+      {
+        "id": "kookmincard",
+        "description_ko": "FDS부문 딥러닝 스코어 모형개발",
+        "description_en": "Development of Score Model For FDS Department Using Deep Learning "
+      },
     {
         "id": "samsungcard",
         "description_ko": "카드 고객 마켓 세그멘테이션",
         "description_en": "Market Segmentation of Customers"
     },
+      {
+        "id": "bok",
+        "description_ko": "세계 중앙은행 총재 연설문 분석",
+        "description_en": "Text Mining Central Bankers' Speeches"
+      },
+      {
+        "id": "healthinsurance",
+        "description_ko": "전문심사 선정모형 개발",
+        "description_en": "Development of Selection Model for Insurance Screening "
+      }]
+},
+{
+    "title_ko": "서비스",
+    "title_en": "Service",
+    "projects": [
     {
-        "id": "dsme",
-        "description_ko": "선박 생산기간 예측",
-        "description_en": "Prediction of Ship Building Period"
-    },
-    {
-        "id": "lgelectronics",
-        "description_ko": "스마트 TV 자동녹화 방법론 개발",
-        "description_en": "Development of Automatic Recording for Smart TV"
-    },
-    {
-        "id": "cj",
-        "description_ko": "영업 전략의 매출 영향력 분석",
-        "description_en": "Quantifying Sales Effect of Marketing Actions"
-    },
-    {
-        "id": "cj",
-        "description_ko": "셋트제품 판매 패턴 분류",
-        "description_en": "Identifying Sales Patterns of Holiday Gift Sets"
-    },
-    {
-        "id": "showbox",
-        "description_ko": "관객 수 예측",
-        "description_en": "Predicting First Weekend Box Office Sales"
-    },
-    {
-        "id": "duzon",
-        "description_ko": "Cross Sell 및 Up Sell 판매전략",
-        "description_en": "Identifying Cross Sell and Up Sell targets based on Data Mining"
-    },
-    {
-        "id": "daumsoft",
-        "description_ko": "Twiterrian 영향도 평가",
-        "description_en": "Quantifying Twitterians' Influence"
+        "id": "samsungelec",
+        "description_ko": "머신러닝 기반 스마트폰 사용자 선호 분석",
+        "description_en": "Machine-learning based Preference Analysis of Smartphone Users"
     },
     {
         "id": "samsungdmc",
-        "description_ko": "가전기기 별 컨텍스트 탐색을 통한 스마트 홈 시나리오 설계",
+        "description_ko": "소셜미디어 분석을 통한 스마트 홈 시나리오 설계",
         "description_en": "Identifying Customer Needs for Smart Home Appliances from Social Media"
     },
     {
@@ -202,14 +203,74 @@
         "description_en": "Identifying Functions of Smart Home Appliances"
     },
     {
+        "id": "samsunggajeon",
+        "description_ko": "시스템 에어컨 실내기 운전패턴 분석",
+        "description_en": "Undersatnding Enery Consumption by Mining Indoor A/C units"
+    },
+    {
+        "id": "hyundai",
+        "description_ko": "차량의 주행로그를 활용한 딥러닝 기반 주행경로 예측",
+        "description_en": "Prediction for Driving Route Based on Deep Learning Using Driving Logs of a Car"
+    },
+    {
         "id": "lgelectronics",
         "description_ko": "영화 리뷰 및 메타데이터를 이용한 시멘틱 영화 검색 엔진 연구",
         "description_en": "Developing Movie Search Engine based on Viewer Reviews"
     },
     {
         "id": "lgelectronics",
-        "description_ko": "트위터 분석을 통한 새로운 스마트 TV 기능 개발",
+        "description_ko": "트위터 텍스트 분석을 통한 새로운 스마트 TV 기능 개발",
         "description_en": "Identifying new Smart TV functions from Social Media"
+    },
+    {
+        "id": "etri",
+        "description_ko": "건물 에너지 고장진단 시스템 개발",
+        "description_en": "Anomaly detection for HVAC system in Office Buildings"
+    }]
+},
+{
+    "title_ko": "마케팅, 영업, HR",
+    "title_en": "Marketing, Sales, HR",
+    "projects": [
+      {
+        "id": "hyundai",
+        "description_ko": "데이터 기반 인재 선발 모델링 및 조기 퇴사 예측",
+        "description_en": "Predicting Employee Performance with Hiring Data"
+      }
+    {
+        "id": "dsme",
+        "description_ko": "머신러닝 기반 선박 생산기간 예측",
+        "description_en": "Machine-learning based Prediction of Ship Building Period"
+    },
+    {
+        "id": "lgelectronics",
+        "description_ko": "스마트 TV 자동녹화 방법론 개발",
+        "description_en": "Development of Automatic Recording for Smart TV"
+    },
+    {
+        "id": "cj",
+        "description_ko": "머신러닝 기반 영업 전략의 매출 영향력 분석",
+        "description_en": "Machine-learning based Quantifying Sales Effect of Marketing Actions"
+    },
+    {
+        "id": "cj",
+        "description_ko": "셋트제품 판매 데이터 분석을 통한 패턴 분류",
+        "description_en": "Identifying Sales Patterns of Holiday Gift Sets"
+    },
+    {
+        "id": "showbox",
+        "description_ko": "머신러닝 기반 영화 관객 수 예측",
+        "description_en": "Machine-learning based Predicting First Weekend Box Office Sales"
+    },
+    {
+        "id": "duzon",
+        "description_ko": "데이터마이닝 기반 Cross Sell 및 Up Sell 판매전략",
+        "description_en": "Datamining based Identifying Cross Sell and Up Sell targets based on Data Mining"
+    },
+    {
+        "id": "daumsoft",
+        "description_ko": "머신러닝 기반 Twiterrian 영향도 평가",
+        "description_en": "Machine-learning based Quantifying Twitterians' Influence"
     }]
 },
 {
@@ -230,80 +291,36 @@
     },
     {
         "id": "ls",
-        "description_ko": "빌딩, 공장 에너지 관리 BEMS/FEMS",
-        "description_en": "BEMS/FEMS for building/factory energy management system" 
+        "description_ko": "빅데이터 기반 빌딩, 공장 에너지 관리 BEMS/FEMS",
+        "description_en": "Big-data based BEMS/FEMS for building/factory energy management system" 
         
     },
     {
         "id": "hyundaih",
         "description_ko": "스마트그리드 데이터 분석",
         "description_en": "Understanding Energy Consumption by Mining Smart Grid"
-    },
-    {
-        "id": "samsunggajeon",
-        "description_ko": "시스템 에어컨 실외기 이상 작동 예지",
-        "description_en": "Predicting Outdoor A/C Unit Malfunction"
-    },
-    {
-        "id": "samsunggajeon",
-        "description_ko": "시스템 에어컨 실내기 운전패턴 분석",
-        "description_en": "Undersatnding Enery Consumption by Mining Indoor A/C units"
-    },
-    {
-        "id": "etri",
-        "description_ko": "통계분석 기반 건물 에너지 고장진단 시스템 개발",
-        "description_en": "Anomaly detection for HVAC system in Office Buildings"
     }]
-},
-{
-    "title_ko": "리스크 관리",
-    "title_en": "Risk Management",
-    "projects": [
-      {
-        "id": "kookmincard",
-        "description_ko": "FDS부문 딥러닝 스코어 모형개발",
-        "description_en": "Development of Score Model For FDS Department Using Deep Learning "
-      },
-      {
-        "id": "healthinsurance",
-        "description_ko": "전문심사 선정모형 개발",
-        "description_en": "Development of Selection Model for Insurance Screening "
-      },
-      {
-        "id": "seoulbeone",
-        "description_ko": "키스트로크 다이나믹스 기반 계정 공유 탐지",
-        "description_en": "Account Sharing Detection with Keystroke Dynamics"
-      },
-      {
-        "id": "smbizbeone",
-        "description_ko": "ATM 사용자 화면터치 행동 패턴 사용자 인증",
-        "description_en": "Authenticating ATM users with Screen Touch Dynamics"
-      },
-      {
-        "id": "nrf",
-        "description_ko": "키스트로크 다이나믹스 기반 사용자 인증",
-        "description_en": "Authenticating users with Keystroke Dynamics"
-      },
-      {
-        "id": "shinhancard",
-        "description_ko": "딥러닝을 활용한 해외 스코어 모형 고도화",
-        "description_en": "Advancement of Deep Learning based Foreign Score Model"
-      },
-      {
-        "id": "hyundaicard",
-        "description_ko": "상담원 퇴직 징후 조기알림",
-        "description_en": "Prediction of retirement of Customer Service Representative"
-      },
-      {
-        "id": "hyundai",
-        "description_ko": "인재 선발 모델링 및 조기 퇴사 예측",
-        "description_en": "Predicting Employee Performance with Hiring Data"
-      },
-      {
-        "id": "bok",
-        "description_ko": "세계 중앙은행 총재 연설문 분석",
-        "description_en": "Text Mining Central Bankers' Speeches"
-      }]
 }
+// ,
+// {
+//     "title_ko": "리스크 관리",
+//     "title_en": "Risk Management",
+//     "projects": [
+//       {
+//         "id": "seoulbeone",
+//         "description_ko": "키스트로크 다이나믹스 기반 계정 공유 탐지",
+//         "description_en": "Account Sharing Detection with Keystroke Dynamics"
+//       },
+//       {
+//         "id": "smbizbeone",
+//         "description_ko": "ATM 사용자 화면터치 행동 패턴 사용자 인증",
+//         "description_en": "Authenticating ATM users with Screen Touch Dynamics"
+//       },
+//       {
+//         "id": "nrf",
+//         "description_ko": "키스트로크 다이나믹스 기반 사용자 인증",
+//         "description_en": "Authenticating users with Keystroke Dynamics"
+//       }]
+// }
 
 ]

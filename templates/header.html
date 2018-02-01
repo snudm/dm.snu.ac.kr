@@ -50,6 +50,8 @@
                     <li><a href="{{ url_for('admission', lang_code=locale) }}">{{ 'Admission FAQ' }}</a></li>
                     {% elif submenu=='insight' %}   
                     <li><a href="{{ url_for('insight', lang_code=locale) }}">{{ 'Insight : Finance Text' }}</a></li>
+                    {% elif submenu=='students_on_leave_of_absence' %}   
+                    <li><a href="{{ url_for('students_on_leave_of_absence', lang_code=locale) }}">{{ 'Students on leave of absence' }}</a></li>
                     {% else %} 
                     <li><a href="{{ url_for(submenu.lower(), lang_code=locale) }}">{{ submenu }}</a></li> 
                     {% endif %}

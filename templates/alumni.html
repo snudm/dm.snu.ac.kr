@@ -1,0 +1,46 @@
+{% extends "layout.html" %}
+
+{% block extended_headers %}
+<!-- image slider  -->
+<link rel="stylesheet" href="{{url_for('static', filename = 'css/flexslider.css')}}" type="text/css">
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.6.2/jquery.min.js"></script>
+{% endblock %}
+
+
+{% block contents %}
+
+<h2>Alumni</h2>
+<table class="alumni table table-hover">
+{% for member in alumni|sort(attribute='year', reverse=True) %}
+    <tr>
+        <td width="10%">
+            {{ member.get('year') }}
+        </td>
+        <td width="10%">
+		{{ member.get('name') }}<br>
+        </td>
+	<td width="20%">
+		{% if not member['image'] %}
+		<img class="width-49 center_margin thumbnail" src="{{ url_for('static', filename='images/members/ananymous.png')}}">
+		{% else %}
+		<img class="width-49 center_margin thumbnail" src="{{ url_for('static', filename='images/members/%s.jpg' % member['image']) }}">
+		{% endif %}
+	</td>
+        <td>
+    {% if 'job' in member.keys() %}
+            {{ member.get('job') }}
+    {% endif %}
+        <br /><br />
+    {% if 'dissertation' in member.keys() %}
+        {% if member.get('diss_address')==""  %}
+            {{ member.get('dissertation') }}
+        {% else %}
+            <a href="{{ member.get('diss_address') }}">{{ member.get('dissertation') }}</a>
+        {% endif %}
+    {% endif %}
+        </td>
+    </tr>
+{% endfor %}
+</table>
+
+{% endblock %}
