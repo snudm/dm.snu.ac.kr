@@ -1,4 +1,12 @@
 {"phd_candidates": [
+	{
+		"image": "jwyang",
+		"name": "양 지 원 (Jiwon Yang)",
+		"email": "yang at dm.snu.ac.kr",
+		"areas of interest": "Learning Algorithms, Mining for Manufacturing Systems",
+		"B.S.": "Industrial Engineering, and Computer Science and Engineering, Seoul Nat'l Univ., 2010",
+		"highschool": "Sangdong, 2005"
+	}
 ],
 "phd_students" : [
 	{
@@ -11,14 +19,14 @@
 		"B.S.": "Industrial Engineering, Seoul Nat'l Univ., 2015",
 		"highschool": "Sungdeok, 2008"       
 	}],
-	"ms_students": [
-		{
-			"image": "nariu",
-			"name": "유 나 리 (Nari Ryu)",
-			"email": "nariu at dm.snu.ac.kr",
-			"experience":"Internship at Boston Consulting Group, Internship at Samsung Electronics",
-			"areas of interest":"Speech Recognition, Natural Language Processing",
-			"B.S.":  "Industrial & Systems Engineering, KAIST, 2016",
-			"highschool": "Seohyun, 2011"
-		}]
+"ms_students": [
+	{
+		"image": "nariu",
+		"name": "유 나 리 (Nari Ryu)",
+		"email": "nariu at dm.snu.ac.kr",
+		"experience":"Internship at Boston Consulting Group, Internship at Samsung Electronics",
+		"areas of interest":"Speech Recognition, Natural Language Processing",
+		"B.S.":  "Industrial & Systems Engineering, KAIST, 2016",
+		"highschool": "Seohyun, 2011"
+	}]
 }

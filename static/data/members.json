@@ -12,6 +12,7 @@
     {
     "image": "jhlee",
     "name": "이 제 혁 (Jehyuk Lee)",
+    "exp.gra.": "Feb. 2019",
     "email": "jehyuk.lee at dm.snu.ac.kr",
     "experience": "Internship at Samsung Electronics, 2010.6-2010.7",
     "areas of interest": "Semi-supervised Learning, Generative model, Anomaly detection",
@@ -32,6 +33,7 @@
     {
     "image": "jwahn",
     "name": "안 진 원 (Jinwon An)",
+    "exp.gra.": "Aug. 2019",
     "email": "jinwon at dm.snu.ac.kr",
     "areas of interest" : "Deep Learning, Unsupervised Learning, Variational Autoencoder, Seq2seq Learning",
     "B.S.": "Industrial Engineering, Seoul Nat'l Univ., 2014",
@@ -40,6 +42,7 @@
     {    
     "image": "ydahn",
     "name": "안 용 대 (Yongdae An)",
+    "exp.gra.": "Feb. 2020",
     "email": "ydan at dm.snu.ac.kr ",
     "experience": "Hyundai Heavy Industries",
     "B.S.": "Industrial Engineering, KAIST, 2012",
@@ -48,6 +51,7 @@
     {
     "image": "hsshin",
     "name": "신 훈 식 (Hunsik Shin)",
+    "exp.gra.": "Aug. 2020",
     "email": "hunsik at dm.snu.ac.kr",
     "B.S.": "Industrial & Management Engineering, POSTECH, 2015",
     "highschool": "Chungbuk Science, 2010"       
@@ -57,7 +61,7 @@
     {
     "image": "yhoon",
     "name": "이 영 훈 (Younghoon Lee)",
-    "exp.gra.": "Feb. 2019",
+    "exp.gra.": "Feb. 2020",
     "email": "yhoon.lee at dm.snu.ac.kr",
     "experience": "LG Electronics, 2009-",
     "M.S.": "Industrial Engineering, Seoul Nat'l Univ., 2009",
@@ -67,7 +71,7 @@
     {
     "image": "hyejin2",
     "name": "이 혜 진 (Hyejin Lee)",
-    "exp.gra.": "Feb. 2019",
+    "exp.gra.": "Feb. 2021",
     "email": "hyejinlee at dm.snu.ac.kr",
     "experience": "Wharton School, U Penn, 2008-2011, 2013-2014; International Food Policy Research Institute, 2012; Federal Reserve Bank of Chicago, 2007",
     "M.S.": "Economics, Cornell Univ., 2013",
@@ -77,7 +81,7 @@
     {
     "image": "sungwhan",
     "name": "전 성 환 (Sung Whan Jeon)",
-    "exp.gra.": "Feb. 2019",
+    "exp.gra.": "Feb. 2021",
     "email": "sjeon at dm.snu.ac.kr",
     "B.S.":  "Computer Science, Mathematics, Emory Univ. 2014",
     "highschool": "St. John's, 2009"
