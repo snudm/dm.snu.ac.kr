@@ -119,13 +119,6 @@ def students():
     
     return render_template('students.html', students=read_json_data('members.json'), member_header_key_pairs=zip(headers, member_keys))
 
-@app.route('/<lang_code>/people/students_on_leave_of_absence')
-def students_on_leave_of_absence():
-    headers = ['Ph.D. Candidates', 'Ph.D. Students', 'Master Students']
-    member_keys = ['phd_candidates', 'phd_students', 'ms_students']
-    
-    return render_template('students_on_leave_of_absence.html', students=read_json_data('students_on_leave_of_absence.json'), member_header_key_pairs=zip(headers, member_keys))
-
 @app.route('/<lang_code>/people/alumni')
 def alumni():
     return render_template('alumni.html', alumni=read_json_data('alumni.json'))

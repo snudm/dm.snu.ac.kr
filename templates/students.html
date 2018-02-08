@@ -76,7 +76,11 @@ $window.resize(function() {
 			<img class="width-100 thumbnail" src="{{ url_for('static', filename='images/members/%s.jpg' % student['image']) }}">
 		</div>
 		<div class="col-md-10">
-			<h3>{{ student['name'] }} <span class="expect_graduate"> (Expected to graduate in {{student['exp.gra.']}})</span></h3>
+			{% if student['exp.gra.'] != 'On leave' %}
+				<h3>{{ student['name'] }} <span class="expect_graduate"> (졸업예정 {{student['exp.gra.']}})</span></h3>
+			{% else %}
+				<h3>{{ student['name'] }} <span class="expect_graduate"> ({{student['exp.gra.']}})</span></h3>
+			{% endif %}
 			<table class="table table-condensed">
 				{% if 'email' in student.keys() %}
 				<tr>

@@ -13,17 +13,17 @@
 <table class="alumni table table-hover">
 {% for member in alumni|sort(attribute='year', reverse=True) %}
     <tr>
-        <td width="10%">
+        <td width="5%">
             {{ member.get('year') }}
         </td>
         <td width="10%">
-		{{ member.get('name') }}<br>
+		{{ member.get('name') }}, {{ member.get('degree') }}<br>
         </td>
 	<td width="20%">
 		{% if not member['image'] %}
-		<img class="width-49 center_margin thumbnail" src="{{ url_for('static', filename='images/members/ananymous.png')}}">
+		<img class="width-30 center_margin thumbnail" src="{{ url_for('static', filename='images/members/ananymous.png')}}">
 		{% else %}
-		<img class="width-49 center_margin thumbnail" src="{{ url_for('static', filename='images/members/%s.jpg' % member['image']) }}">
+		<img class="width-30 center_margin thumbnail" src="{{ url_for('static', filename='images/members/%s.jpg' % member['image']) }}">
 		{% endif %}
 	</td>
         <td>

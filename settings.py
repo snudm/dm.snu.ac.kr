@@ -14,7 +14,7 @@ CONTACT = {
 #2016/11/10  교수님 지시로 datamining 탭 삭제
 MENUS = [
     'home',
-    ('people', ['professor', 'students', 'students_on_leave_of_absence', 'alumni']),
+    ('people', ['professor', 'students', 'alumni']),
     ('research', ['activities', 'journal','conference', 'reports', 'software','patent', 'insight']),
     ('projects', ['sponsors', 'FAQ']),
     'education',

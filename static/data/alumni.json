@@ -1,44 +1,53 @@
-[
-{
+[{
 	"year": "2018",
-		"name": "김미숙",
-		"job": "월드퀀트"
+	"name": "김미숙",
+	"degree": "박사",
+	"image": "mskim",
+	"job": "월드퀀트"
 },
 {
 	"year": "2017",
 	"name": "고태훈",
+	"degree": "박사",
 	"job": "서울대병원 정보화실 교수" 
 },
 {
 	"year": "2016",
 	"name": "김연국",
+	"degree": "박사",
 	"job": "충북대학교" 
 },
 {
 	"year": "2016",
 	"name": "박은정",
+	"degree": "박사",
 	"job": "네이버랩스" 
 },
 {
 	"year": "2016",
 	"name": "박성훈",
+	"degree": "박사",
 	"job": "삼성화재 빅데이터팀" 
 },
 {
 	"year": "2016",
 	"name": "박주성",
+	"degree": "박사",
 	"job": "삼성전자"
 },
 {
 	"year": "2015",
 	"name": "강석호",
-	"job": "성균관대학교 시스템경영공학과 교수 (2018 미국 NYU 방문교수)",
+	"image": "shkang",
+	"degree": "박사",
+	"job": "성균관대학교 시스템경영공학과 교수",
 	"dissertation": "Heterogeneous Ensemble Learning for Multi-class Classification",
 	"diss_address": "http://snu-primo.hosted.exlibrisgroup.com/82SNU:ALL:82SNU_INST21511609380002591"
 },
 {
 	"year": "2015",
 	"name": "선미선",
+	"degree": "박사",
 	"job": "한국 국방연구원",
 	"dissertation": "Estimating Minority Class Proportion for class Imbalance and Class Overlap:Algorithms and Prediction Maladjusted Soldiers",
 	"diss_address": "http://snu-primo.hosted.exlibrisgroup.com/82SNU:ALL:82SNU_INST21511630890002591"
@@ -46,6 +55,7 @@
 {
 	"year": "2015",
 	"name": "허민회",
+	"degree": "박사",
 	"job": "현대자동차 빅데이터실",
 	"dissertation": "Demand Forecasting, Keyword Selecting, and Ad Placing in Digital Marketing with Text Mining",
 	"diss_address": "http://snu-primo.hosted.exlibrisgroup.com/82SNU:ALL:82SNU_INST21412877860002591"
@@ -54,6 +64,7 @@
 {
 	"year": "2014",
 	"name": "이승경",
+	"degree": "박사",
 	"job": "삼성전자 DS 총괄",
 	"dissertation": "Probabilistic Local Reconstruction for k-Nearest Neighbor Learning",
 	"diss_address": "http://snu-primo.hosted.exlibrisgroup.com/82SNU:ALL:82SNU_INST21433165660002591"
@@ -61,13 +72,15 @@
 {
 	"year": "2013",
 	"name": "김동일",
-	"job": "충남대학교 컴퓨터공학과 교숰",
+	"degree": "박사",
+	"job": "충남대학교 컴퓨터공학과 교수",
 	"dissertation": "Intelligent data selection and semi-supervised learning for support vector regression",
 	"diss_address": "http://snu-primo.hosted.exlibrisgroup.com/82SNU:ALL:82SNU_INST21463531750002591"
 },
 {
 	"year": "2013",
 	"name": "김수진",
+	"degree": "박사",
 	"job": "육군",
 	"dissertation": "Launch point estimation and team performance prediction for military application",
 	"diss_address": "http://snu-primo.hosted.exlibrisgroup.com/82SNU:ALL:82SNU_INST21464091350002591"
@@ -75,13 +88,16 @@
 {
 	"year": "2010",
 	"name": "강필성",
-	"job": "고려대학교 산업경영공학부",
+	"image" : "pskang",
+	"degree": "박사",
+	"job": "고려대학교 산업경영공학부 부교수",
 	"dissertation": "Locally linear reconstruction for prediction, detection, clustering",
 	"diss_address": "http://snu-primo.hosted.exlibrisgroup.com/82SNU:ALL:82SNU_INST21423520140002591"
 },
 {
 	"year": "2009",
 	"name": "황성섭",
+	"degree": "박사",
 	"job": "한국IBM",
 	"dissertation": "Keystroke dynamics analysis for user authentication and account sharing detection",
 	"diss_address": "http://snu-primo.hosted.exlibrisgroup.com/82SNU:ALL:82SNU_INST21471967890002591"
@@ -89,6 +105,7 @@
 {
 	"year": "2007",
 	"name": "이형주",
+	"degree": "박사",
 	"job": "Winton Capital Management",
 	"dissertation": "Novelty detection for class imbalance : LVQ-based algorithm and its applications to security and CRM",
 	"diss_address": "http://snu-primo.hosted.exlibrisgroup.com/82SNU:ALL:82SNU_INST21461066790002591"
@@ -96,6 +113,7 @@
 {
 	"year": "2005",
 	"name": "신현정",
+	"degree": "박사",
 	"job": "아주대학교 공과대학 산업공학과",
 	"dissertation": "Efficient pattern selection for support vector classifiers and its CRM application",
 	"diss_address": "http://snu-primo.hosted.exlibrisgroup.com/82SNU:ALL:82SNU_INST21484439310002591"
@@ -103,6 +121,7 @@
 {
 	"year": "2004",
 	"name": "우은철",
+	"degree": "박사",
 	"job": "삼성 SDS",
 	"dissertation": "Ensemble formation based on GA-SVM wrapper feature subset selection",
 	"diss_address": "http://snu-primo.hosted.exlibrisgroup.com/82SNU:ALL:82SNU_INST21451829760002591"
@@ -110,52 +129,69 @@
 {
 	"year": "2000",
 	"name": "장민",
-	"job": "쿠프마케팅"
+	"image": "mjang",
+	"degree": "박사",
+	"job": "쿠프마케팅 (SNU Ph d)"
 },
 {
 	"year": "2018",
 	"name": "김태욱",
+	"image": "taewook_2",
+	"degree": "석사",
 	"job": "네이버"
 },
 {
 	"year": "2018",
 	"name": "문지형",
+	"image": "jihyeong",
+	"degree": "석사",
 	"job": "네이버"
 },
 {
 	"year": "2018",
 	"name": "임진배",
+	"image": "jinbae",
+	"degree": "석사",
 	"job": "NCsoft"
 },
 {
 	"year": "2018",
 	"name": "송석민",
+	"image": "seokmin",
+	"degree": "석사",
 	"job": "SKT"
 },
 {
 	"year": "2018",
 	"name": "박인범",
+	"image": "inbeom3",
+	"degree": "석사",
 	"job": "SKT"
 },
 {
 	"year": "2018",
 	"name": "민동영",
+	"image": "dy-min",
+	"degree": "석사",
 	"job": "티맥스"
 },
 {
 	"year": "2017",
 	"name": "조현창",
+	"degree": "석사",
 	"job": "네이버랩스"
 },
 {
 	"year": "2016",
 	"name": "김한결",
+	"degree": "석사",
 	"dissertation": "Bag-of-Conpets: 단어에 대한 분산표상의 군집화를 통한 해석 가능한 문서 표현법",
 	"job": "삼성전자 DS"
 },
 {
 	"year": "2016",
 	"name": "심재웅",
+	"degree": "석사",
 	"dissertation": "소수 범주 데이터 영역의 확장",
 	"diss_address": "http://snu-primo.hosted.exlibrisgroup.com/82SNU:ALL:82SNU_INST21544691700002591",
 	"job": "삼성전자 DS"
@@ -163,6 +199,7 @@
 {
 	"year": "2015",
 	"name": "한송원",
+	"degree": "석사",
 	"job": "SK Telecom 빅데이터팀",
 	"dissertation": "협업 태깅 시스템의 문제를 고려한 사용자 인식 기반 음악 지도",
 	"diss_address": "http://snu-primo.hosted.exlibrisgroup.com/82SNU:ALL:82SNU_INST21461870040002591"
@@ -170,6 +207,7 @@
 {
 	"year": "2015",
 	"name": "김홍태",
+	"degree": "석사",
 	"job": "NCsoft",
 	"dissertation": "필드 클레임 데이터를 활용한 시장품질 예측 및 불량감지",
 	"diss_address": "http://snu-primo.hosted.exlibrisgroup.com/82SNU:ALL:82SNU_INST21461869510002591"
@@ -177,6 +215,7 @@
 {
 	"year": "2014",
 	"name": "전영환",
+	"degree": "석사",
 	"job": "네이버",
 	"dissertation": "연설문 텍스트마이닝을 통한 미국 연방공개시장위원회 주요 인사들의 통화정책 성향 분석",
 	"diss_address": "http://snu-primo.hosted.exlibrisgroup.com/82SNU:ALL:82SNU_INST21413843260002591"
@@ -184,6 +223,7 @@
 {
 	"year": "2014",
 	"name": "구윤성",
+	"degree": "석사",
 	"job": "NCsoft",
 	"dissertation": "사용자들의 공통관람 영화 유사도를 이용한 추천시스템의 성능향상",
 	"diss_address": "http://snu-primo.hosted.exlibrisgroup.com/82SNU:ALL:82SNU_INST21413864670002591"
@@ -191,6 +231,7 @@
 {
 	"year": "2014",
 	"name": "민헌기",
+	"degree": "석사",
 	"job": "딜로이트 컨설팅",
 	"dissertation": "트위터 사용자 분류를 위한 반교사 학습 접근 방안",
 	"diss_address": "http://snu-primo.hosted.exlibrisgroup.com/82SNU:ALL:82SNU_INST21431166310002591"
@@ -198,6 +239,7 @@
 {
 	"year": "2013",
 	"name": "강성진",
+	"degree": "석사",
 	"job": "삼성전자",
 	"dissertation": "군집화 기법과 문서 순위를 이용한 한국어 트윗 상의 토픽 추출",
 	"diss_address": "http://snu-primo.hosted.exlibrisgroup.com/82SNU:ALL:82SNU_INST21431317210002591"
@@ -205,6 +247,7 @@
 {
 	"year": "2013",
 	"name": "김현중",
+	"degree": "석사",
 	"job": "박사과정",
 	"dissertation": "단어 추출과 스트링 매치를 이용한 수기 입력 텍스트의 노이즈 처리",
 	"diss_address": "http://snu-primo.hosted.exlibrisgroup.com/82SNU:ALL:82SNU_INST21432869030002591"
@@ -212,6 +255,7 @@
 {
 	"year": "2013",
 	"name": "박용원",
+	"degree": "석사",
 	"job": "SK하이닉스",
 	"dissertation": "군집화 기법을 이용한 반도체 다이(Die)의 특성 별 내부 전압 조정 및 테스트 공정 최적화",
 	"diss_address": "http://snu-primo.hosted.exlibrisgroup.com/82SNU:ALL:82SNU_INST21432869530002591"
@@ -219,6 +263,7 @@
 {
 	"year": "2012",
 	"name": "염정근",
+	"degree": "석사",
 	"job": "한국거래소",
 	"dissertation": "영화평점을 바탕으로 한 최적 스크린 수 결정",
 	"diss_address": "http://snu-primo.hosted.exlibrisgroup.com/82SNU:ALL:82SNU_INST21473822750002591"
@@ -226,6 +271,7 @@
 {
 	"year": "2012",
 	"name": "김봉석",
+	"degree": "석사",
 	"job": "삼성전자 DS",
 	"dissertation": "텍스트 마이닝 기법을 이용한 반도체 생산 시 발생하는 이벤트 데이터와 수율의 연관성 분석",
 	"diss_address": "http://snu-primo.hosted.exlibrisgroup.com/82SNU:ALL:82SNU_INST21480524570002591"
@@ -233,6 +279,7 @@
 {
 	"year": "2012",
 	"name": "정원열",
+	"degree": "석사",
 	"job": "육군",
 	"dissertation": "부분궤적의 유사도를 이용한 포탄의 발사지점 추정",
 	"diss_address": "http://snu-primo.hosted.exlibrisgroup.com/82SNU:ALL:82SNU_INST21473818030002591"
@@ -240,6 +287,7 @@
 {
 	"year": "2012",
 	"name": "이선영",
+	"degree": "석사",
 	"job": "공군",
 	"dissertation": "다년간의 재무제표 값 변화를 활용한 부도 예측",
 	"diss_address": "http://snu-primo.hosted.exlibrisgroup.com/82SNU:ALL:82SNU_INST21473822990002591"
@@ -247,6 +295,7 @@
 {
 	"year": "2011",
 	"name": "강정현",
+	"degree": "석사",
 	"job": "공군",
 	"dissertation": "아웃소싱 데이터마이닝 환경에서 데이터 보안을 위한 무작위 추출 기반 사영 변환",
 	"diss_address": "http://snu-primo.hosted.exlibrisgroup.com/82SNU:ALL:82SNU_INST21453399280002591"
@@ -254,6 +303,7 @@
 {
 	"year": "2011",
 	"name": "박은정",
+	"degree": "석사",
 	"job": "네이버랩스 (SNU Ph d)",
 	"dissertation": "군집화 필터에 기반한 중복 최소화 변수선택법",
 	"diss_address": "http://snu-primo.hosted.exlibrisgroup.com/82SNU:ALL:82SNU_INST21453353470002591"
@@ -261,6 +311,7 @@
 {
 	"year": "2011",
 	"name": "박주성",
+	"degree": "석사",
 	"job": "삼성전자 (SNU Ph d) ",
 	"dissertation": "임의 장문의 키보드 키스트로크 다이나믹스 기반 사용자 인증을 위한 왼손, 오른손, 스페이스 바 간 입력시간의 다중 Kolmogorov-Smirnov 검정",
 	"diss_address": "http://snu-primo.hosted.exlibrisgroup.com/82SNU:ALL:82SNU_INST21453353260002591"
@@ -268,6 +319,7 @@
 {
 	"year": "2010",
 	"name": "윤준하",
+	"degree": "석사",
 	"job": "ENDALGO",
 	"dissertation": "(A) Present and future of data brokerage in Korea",
 	"diss_address": "http://snu-primo.hosted.exlibrisgroup.com/82SNU:ALL:82SNU_INST21418436770002591"
@@ -275,6 +327,7 @@
 {
 	"year": "2010",
 	"name": "김미숙",
+	"degree": "석사",
 	"job": "비씨카드",
 	"dissertation": "데이터 스트림 환경에서 변화하는 컨셉에의 적응을 위한 fuzzy c-means 군집화 기법",
 	"diss_address": "http://snu-primo.hosted.exlibrisgroup.com/82SNU:ALL:82SNU_INST21423292250002591"
@@ -282,6 +335,7 @@
 {
 	"year": "2009",
 	"name": "송준협",
+	"degree": "석사",
 	"job": "공군",
 	"dissertation": "데이터마이닝 기법을 이용한 공군방공무기통제사 작업부하 예측",
 	"diss_address": "http://snu-primo.hosted.exlibrisgroup.com/82SNU:ALL:82SNU_INST21458943750002591"
@@ -289,6 +343,7 @@
 {
 	"year": "2009",
 	"name": "홍유나",
+	"degree": "석사",
 	"job": "카카오뱅크",
 	"dissertation": "의사결정나무를 이용한 One-Support Vector Machine의 이상 탐지 규칙 도출",
 	"diss_address": "http://snu-primo.hosted.exlibrisgroup.com/82SNU:ALL:82SNU_INST21458998610002591"
@@ -296,6 +351,7 @@
 {
 	"year": "2009",
 	"name": "원소윤",
+	"degree": "석사",
 	"job": "삼성카드",
 	"dissertation": "뉴스 키워드 분석을 통한 다우지수의 방향성 예측",
 	"diss_address": "http://snu-primo.hosted.exlibrisgroup.com/82SNU:ALL:82SNU_INST21458997570002591"
@@ -303,6 +359,7 @@
 {
 	"year": "2008",
 	"name": "임동균",
+	"degree": "석사",
 	"job": "LG전자",
 	"dissertation": "다양한 정보 획득 시점에서의 영화 흥행 예측",
 	"diss_address": "http://snu-primo.hosted.exlibrisgroup.com/82SNU:ALL:82SNU_INST21472651470002591"
@@ -310,6 +367,7 @@
 {
 	"year": "2008",
 	"name": "하윤정",
+	"degree": "석사",
 	"job": "KT",
 	"dissertation": "Support vector machine과 의사결정나무를 이용한 규칙 도출 알고리즘",
 	"diss_address": "http://snu-primo.hosted.exlibrisgroup.com/82SNU:ALL:82SNU_INST21456839510002591"
@@ -317,12 +375,14 @@
 {
 	"year": "2008",
 	"name": "정승우",
+	"degree": "석사",
 	"dissertation": "k-인접 이웃과 neural gas network를 이용한 under-sampling",
 	"diss_address": "http://snu-primo.hosted.exlibrisgroup.com/82SNU:ALL:82SNU_INST21456852840002591"
 },
 {
 	"year": "2008",
 	"name": "편도훈",
+	"degree": "석사",
 	"job": "한국은행",
 	"dissertation": "벡터 자기회귀와 지지 벡터 회귀에 기반한 시계열 예측 복합 모형",
 	"diss_address": "http://snu-primo.hosted.exlibrisgroup.com/82SNU:ALL:82SNU_INST21456852730002591"
@@ -330,6 +390,7 @@
 {
 	"year": "2008",
 	"name": "장성진",
+	"degree": "석사",
 	"job": "공군",
 	"dissertation": "Non support vector에 의해 향상된 동적감쇠조정 알고리즘 기반의 radial basis function 분류기",
 	"diss_address": "http://snu-primo.hosted.exlibrisgroup.com/82SNU:ALL:82SNU_INST21456835060002591"
@@ -337,6 +398,7 @@
 {
 	"year": "2007",
 	"name": "박상희",
+	"degree": "석사",
 	"job": "삼성 SDS",
 	"dissertation": "k-인접 이웃 편집을 이용한 효과적인 의사결정나무",
 	"diss_address": "http://snu-primo.hosted.exlibrisgroup.com/82SNU:ALL:82SNU_INST21435285780002591"
@@ -344,13 +406,16 @@
 {
 	"year": "2007",
 	"name": "박진우",
-	"job": "옐로익스체인지",
+	"image" : "jwpark",
+	"degree": "석사",
+	"job": "레코벨",
 	"dissertation": "양극 데이터로부터 성장하는 k-인접 이웃 분류의 참조 데이터 셋",
 	"diss_address": "http://snu-primo.hosted.exlibrisgroup.com/82SNU:ALL:82SNU_INST21484359870002591"
 },
 {
 	"year": "2006",
 	"name": "김승택",
+	"degree": "석사",
 	"job": "제일기획",
 	"dissertation": "K-means 기반 이상치 탐지",
 	"diss_address": "http://snu-primo.hosted.exlibrisgroup.com/82SNU:ALL:82SNU_INST21455406450002591"
@@ -358,6 +423,7 @@
 {
 	"year": "2006",
 	"name": "고선용",
+	"degree": "석사",
 	"job": "육군",
 	"dissertation": "다중 클래스 SVM의 k-NN기반 클래스 레이블링",
 	"diss_address": "http://snu-primo.hosted.exlibrisgroup.com/82SNU:ALL:82SNU_INST21455394570002591"
@@ -365,6 +431,7 @@
 {
 	"year": "2005",
 	"name": "성기석",
+	"degree": "석사",
 	"job": "삼성생명  (Texas A&M, Ph d) ",
 	"dissertation": "Accuracy와 diversity를 고려한 GA-SVM Wrapper Ensemble",
 	"diss_address": "http://snu-primo.hosted.exlibrisgroup.com/82SNU:ALL:82SNU_INST21455971550002591"
@@ -372,6 +439,7 @@
 {
 	"year": "2005",
 	"name": "선지영",
+	"degree": "석사",
 	"job": "우리은행",
 	"dissertation": "Support vector regression에서의 학습 패턴 선택",
 	"diss_address": "http://snu-primo.hosted.exlibrisgroup.com/82SNU:ALL:82SNU_INST21460971940002591"
@@ -379,6 +447,7 @@
 {
 	"year": "2004",
 	"name": "하경남",
+	"degree": "석사",
 	"job": "Pacific Lutheran, Professor  (Washington, Ph d)s",
 	"dissertation": "배깅 신경망 및 SVM을 이용한 응답모델 구축",
 	"diss_address": "http://snu-primo.hosted.exlibrisgroup.com/82SNU:ALL:82SNU_INST21445901160002591"
@@ -386,18 +455,21 @@
 {
 	"year": "2004",
 	"name": "최병권",
+	"degree": "석사",
 	"dissertation": "데이터마이닝 기법을 이용한 제조업 부도예측 주요변수 선택",
 	"diss_address": "http://snu-primo.hosted.exlibrisgroup.com/82SNU:ALL:82SNU_INST21451913650002591"
 },
 {
 	"year": "2003",
 	"name": "김이원",
+	"degree": "석사",
 	"dissertation": "배깅 신경망을 이용한 월별 전력수요 예측",
 	"diss_address": "http://snu-primo.hosted.exlibrisgroup.com/82SNU:ALL:82SNU_INST21482589600002591"
 },
 {
 	"year": "2003",
 	"name": "정세희",
+	"degree": "석사",
 	"job": "NCsoft",
 	"dissertation": "인공 신경망을 이용한 옵션 가격 결정 모형",
 	"diss_address": "http://snu-primo.hosted.exlibrisgroup.com/82SNU:ALL:82SNU_INST21475783750002591"
@@ -405,6 +477,7 @@
 {
 	"year": "2003",
 	"name": "이준명",
+	"degree": "석사",
 	"job": "신영증권",
 	"dissertation": "유전자 알고리즘을 이용한 변수 선택과 기본 학습 모델로서의 Support Vector Machine",
 	"diss_address": "http://snu-primo.hosted.exlibrisgroup.com/82SNU:ALL:82SNU_INST21476990390002591"
@@ -412,6 +485,7 @@
 {
 	"year": "2002",
 	"name": "백진우",
+	"degree": "석사",
 	"job": "한국투자증권",
 	"dissertation": "KOSPI 200 선물에서의 자기연상학습 신경망을 이용한 상승 추세 탐지",
 	"diss_address": "http://snu-primo.hosted.exlibrisgroup.com/82SNU:ALL:82SNU_INST21478481220002591"
@@ -419,6 +493,7 @@
 {
 	"year": "2002",
 	"name": "임용업",
+	"degree": "석사",
 	"job": "SK Telecom",
 	"dissertation": "데이터 마이닝을 이용한 매출액변화 예측모델링",
 	"diss_address": "http://snu-primo.hosted.exlibrisgroup.com/82SNU:ALL:82SNU_INST21477748000002591"
@@ -426,6 +501,7 @@
 {
 	"year": "2001",
 	"name": "김영국",
+	"degree": "석사",
 	"job": "써클원(Circleone) 책임컨설턴트, IT 컨설팅, CRM 컨설팅",
 	"dissertation": "KOSPI200 선물에서의 다이버전스 실시간 자동 탐지 시스템",
 	"diss_address": "http://snu-primo.hosted.exlibrisgroup.com/82SNU:ALL:82SNU_INST21418955220002591"
@@ -433,6 +509,7 @@
 {
 	"year": "2001",
 	"name": "이봉기",
+	"degree": "석사",
 	"job": "SK Planet",
 	"dissertation": "입력 데이터 분포에 따른 가상 샘플 생성",
 	"diss_address": "http://snu-primo.hosted.exlibrisgroup.com/82SNU:ALL:82SNU_INST21418959260002591"
@@ -440,101 +517,123 @@
 {
 	"year": "1999",
 	"name": "최승호",
+	"degree": "석사",
 	"job": "신영증권"
 },
 {
 	"year": "1999",
 	"name": "류진승",
+	"degree": "석사",
 	"job": "한국전자통신연구원(ETRI)"
 },
 {
 	"year": "1999",
 	"name": "황병호",
+	"degree": "석사",
 	"job": "LG 전자"
 },
 {
 	"year": "1999",
 	"name": "이동걸",
+	"degree": "석사",
 	"job": "포항제철"
 },
 {
 	"year": "1998",
 	"name": "장성준",
+	"degree": "석사",
 	"job": "한국전자통신연구원(ETRI)"
 },
 {
 	"year": "1998",
 	"name": "권유화",
+	"degree": "석사",
 	"job": "Lucent Technologies 무선 소프트웨어 개발"
 },
 {
 	"year": "1998",
 	"name": "이신재",
+	"degree": "석사",
 	"job": "삼성전자 UMTS phone 개발"
 },
 {
 	"year": "1998",
 	"name": "최광해",
+	"degree": "석사",
 	"job": "삼성전자 GSM/GPRS/EDGE 단말기 Protocol Stack 연구개발"
 },
 {
 	"year": "1998",
 	"name": "손영창",
+	"degree": "석사",
 	"job": "포항제철"
 },
 {
 	"year": "1997",
 	"name": "이재우",
+	"degree": "석사",
 	"job": "노틸러스 효성 DVR 판매사업 총괄"
 },
 {
 	"year": "1997",
 	"name": "조용중",
+	"degree": "석사",
 	"job": "FIST Global 금융위험 관리 컨설팅 및 프로그램 개발"
 },
 {
 	"year": "1997",
 	"name": "박성진",
+	"degree": "석사",
 	"job": "공군"
 },
 {
 	"year": "1997",
 	"name": "한대희",
+	"degree": "석사",
 	"job": "달리웍스 주식회사"
 },
 {
 	"year": "1997",
 	"name": "윤성철",
+	"degree": "석사",
 	"job": "데이콤 종합연구소 보안취약성관리시스템, DRM System 개발"
 },
 {
 	"year": "1997",
 	"name": "조태호",
+	"degree": "석사",
 	"job": "인하대학교"
 },
 {
 	"year": "1997",
 	"name": "김현숙",
+	"degree": "석사",
 	"job": "삼성전자"
 },
 {
 	"year": "1996",
 	"name": "차건회",
+	"degree": "석사",
 	"job": "University of Southern California, USA"
 },
 {
 	"year": "1996",
 	"name": "김형민",
-	"job": "비원플러스 대표이사, 컴퓨터보안 소프트웨어, 외장형 초고속 메모리 시스템 개발"
+	"image": "hmkim",
+	"degree": "석사",
+	"job": "비원플러스 대표이사, 명지대학교 객원교수"
 },
 {
 	"year": "1995",
 	"name": "정태일",
+	"degree": "석사",
 	"job": "HRF, Inc."
 },
 {
 	"year": "1995",
 	"name": "장민",
-	"job": "한글과 컴퓨터"
+	"image": "mjang",
+	"degree": "석사",
+	"job": "쿠프마케팅 (SNU Ph d)"
 }
 ]

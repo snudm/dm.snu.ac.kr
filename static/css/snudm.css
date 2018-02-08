@@ -253,6 +253,9 @@ table.alumni td:nth-child(2) {
 .width-25 {
     width: 25%;
 }
+.width-30 {
+    width: 30%;
+}
 .width-40 {
     width: 40%;
 }
@@ -316,6 +319,9 @@ margin:auto;
     .navbar #title, .navbar-nav > li > a#title {
         line-height: 50px;
     }
+	.width-30 {
+	    width: 60%;
+	}
 }
 
 @media(min-width:768px) {
