@@ -134,7 +134,7 @@
     "exp.gra.": "2018. 8",
     "email": "minki.chung at dm.snu.ac.kr",
     "experience":"Internship at Kiswe mobile Inc.",
-    "areas of interest":"Computer Vision, Reinforcement Learning",
+    "areas of interest":"Computer Vision",
     "B.S.":  "Industrial & Systems Engineering, KAIST, 2016",
     "highschool": "Haeundae, 2012"
     },
@@ -193,7 +193,8 @@
     "name": "류 성 원 (Sungwon Lyu)",
     "exp.gra.": "2019. 8",
     "email": "lyusungwon at dm.snu.ac.kr",
-    "areas of interest":"Statistical Learning, Deep Learning",
+    "homepage" : "https://lyusungwon.github.io",
+    "areas of interest":"Deep Learning, Reinforcement Learning",
     "B.S.":  "Business, Korea Univ, 2017",
     "highschool": "Daewon foreign language, 2010"
     },
