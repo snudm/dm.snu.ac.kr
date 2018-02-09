@@ -131,6 +131,7 @@
 	"name": "장민",
 	"image": "mjang",
 	"degree": "박사",
+	"dissertation": "Ensemble Learning Algorithm using Virtual Data",
 	"job": "쿠프마케팅"
 },
 {
@@ -617,7 +618,7 @@
 	"job": "University of Southern California, USA"
 },
 {
-	"year": "1996",
+	"year": "1995",
 	"name": "김형민",
 	"image": "hmkim",
 	"degree": "석사",
@@ -634,6 +635,7 @@
 	"name": "장민",
 	"image": "mjang",
 	"degree": "석사",
+	"dissertation": "Modeling Map Formation in Proprioceptive Cortex",
 	"job": "쿠프마케팅 (SNU Ph d)"
 }
 ]
