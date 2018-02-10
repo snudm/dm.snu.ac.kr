@@ -55,15 +55,6 @@
     "email": "hunsik at dm.snu.ac.kr",
     "B.S.": "Industrial & Management Engineering, POSTECH, 2015",
     "highschool": "Chungbuk Science, 2010"       
-    },
-    {
-	    "image": "jwyang",
-	    "name": "양 지 원 (Jiwon Yang)",
-	    "exp.gra.": "On leave",
-	    "email": "yang at dm.snu.ac.kr",
-	    "areas of interest": "Learning Algorithms, Mining for Manufacturing Systems",
-	    "B.S.": "Industrial Engineering, and Computer Science and Engineering, Seoul Nat'l Univ., 2010",
-	    "highschool": "Sangdong, 2005"
     }
 ],
 "phd_students" : [
@@ -94,17 +85,6 @@
     "email": "sjeon at dm.snu.ac.kr",
     "B.S.":  "Computer Science, Mathematics, Emory Univ. 2014",
     "highschool": "St. John's, 2009"
-    },
-    {
-	    "image": "hsyang",
-	    "name": "양 호 성 (Hoseong Yang)",
-	    "exp.gra.": "On leave",
-	    "email": "hoseong at dm.snu.ac.kr",
-	    "experience": "Internship at Daum Soft, 2013.12-2014.02; Internship at LG CNS, 2014.07-2014.08",
-	    "areas of interest": "Text Mining, Business Intelligence",
-	    "M.S.": "Industrial Engineering, Seoul Nat'l Univ., 2017",
-	    "B.S.": "Industrial Engineering, Seoul Nat'l Univ., 2015",
-	    "highschool": "Sungdeok, 2008"       
     }
 ],
 "ms_students": [
@@ -225,17 +205,39 @@
     "areas of interest":"Deep Learning",
     "B.S.":  "Energy Resources Engineering, Seoul Nat'l Univ., 2017",
     "highschool": "Incheon Girls', 2012"
-    },	
-    {
-	    "image": "nariu",
-	    "name": "유 나 리 (Nari Ryu)",
-	    "exp.gra.": "On leave",
-	    "email": "nariu at dm.snu.ac.kr",
-	    "experience":"Internship at Boston Consulting Group, Internship at Samsung Electronics",
-	    "areas of interest":"Speech Recognition, Natural Language Processing",
-	    "B.S.":  "Industrial & Systems Engineering, KAIST, 2016",
-	    "highschool": "Seohyun, 2011"
     }
+],
 
-]
+"on_leave": [
+    {
+        "image": "jwyang",
+        "name": "양 지 원 (Jiwon Yang)",
+        "exp.gra.": "On leave",
+        "email": "yang at dm.snu.ac.kr",
+        "areas of interest": "Learning Algorithms, Mining for Manufacturing Systems",
+        "B.S.": "Industrial Engineering, and Computer Science and Engineering, Seoul Nat'l Univ., 2010",
+        "highschool": "Sangdong, 2005"
+    },
+    {
+        "image": "hsyang",
+        "name": "양 호 성 (Hoseong Yang)",
+        "exp.gra.": "On leave",
+        "email": "hoseong at dm.snu.ac.kr",
+        "experience": "Internship at Daum Soft, 2013.12-2014.02; Internship at LG CNS, 2014.07-2014.08",
+        "areas of interest": "Text Mining, Business Intelligence",
+        "M.S.": "Industrial Engineering, Seoul Nat'l Univ., 2017",
+        "B.S.": "Industrial Engineering, Seoul Nat'l Univ., 2015",
+        "highschool": "Sungdeok, 2008"       
+    },   
+    {
+        "image": "nariu",
+        "name": "유 나 리 (Nari Ryu)",
+        "exp.gra.": "On leave",
+        "email": "nariu at dm.snu.ac.kr",
+        "experience":"Internship at Boston Consulting Group, Internship at Samsung Electronics",
+        "areas of interest":"Speech Recognition, Natural Language Processing",
+        "B.S.":  "Industrial & Systems Engineering, KAIST, 2016",
+        "highschool": "Seohyun, 2011"
+    }    
+]    
 }

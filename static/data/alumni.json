@@ -9,31 +9,41 @@
 	"year": "2017",
 	"name": "고태훈",
 	"degree": "박사",
-	"job": "서울대병원 정보화실 교수" 
+	"job": "서울대병원 정보화실 교수",
+	"dissertation": "Multi-source, unstructured and external data analytics for manufacturing process",
+	"diss_address": "http://snu-primo.hosted.exlibrisgroup.com/82SNU:ALL:82SNU_INST21574549890002591" 
 },
 {
 	"year": "2016",
 	"name": "김연국",
 	"degree": "박사",
-	"job": "충북대학교" 
+	"job": "충북대학교",
+	"dissertation": "Building financial misstatement detection models using multi-class cost-sensitive learning and feature generation from cfo survey",
+	"diss_address": "http://snu-primo.hosted.exlibrisgroup.com/82SNU:ALL:82SNU_INST21557937740002591" 
 },
 {
 	"year": "2016",
 	"name": "박은정",
 	"degree": "박사",
-	"job": "네이버랩스" 
+	"job": "네이버랩스",
+	"dissertation": "Supervised feature representations for document classification",
+	"diss_address": "http://snu-primo.hosted.exlibrisgroup.com/82SNU:ALL:82SNU_INST21557911290002591" 
 },
 {
 	"year": "2016",
 	"name": "박성훈",
 	"degree": "박사",
-	"job": "삼성화재 빅데이터팀" 
+	"job": "삼성화재 빅데이터팀",
+	"dissertation": "Modeling behavioral biases of stock investors",
+	"diss_address": "http://snu-primo.hosted.exlibrisgroup.com/82SNU:ALL:82SNU_INST21544643210002591" 
 },
 {
 	"year": "2016",
 	"name": "박주성",
 	"degree": "박사",
-	"job": "삼성전자"
+	"job": "삼성전자",
+	"dissertation": "시스템 모니터링을 위한 구간 분할, 시각화 및 예측 성능 추정 방법 연구",
+	"diss_address": "http://snu-primo.hosted.exlibrisgroup.com/82SNU:ALL:82SNU_INST21544678520002591"
 },
 {
 	"year": "2015",
@@ -131,7 +141,7 @@
 	"name": "장민",
 	"image": "mjang",
 	"degree": "박사",
-	"job": "쿠프마케팅 (SNU Ph d)"
+	"job": "쿠프마케팅 (SNU Phd)"
 },
 {
 	"year": "2018",
@@ -179,7 +189,9 @@
 	"year": "2017",
 	"name": "조현창",
 	"degree": "석사",
-	"job": "네이버랩스"
+	"job": "네이버랩스",
+	"dissertation": "시계열 데이터 분석을 위한 분산 표상 학습",
+	"diss_address": "http://snu-primo.hosted.exlibrisgroup.com/82SNU:ALL:82SNU_INST21574568390002591"
 },
 {
 	"year": "2016",
