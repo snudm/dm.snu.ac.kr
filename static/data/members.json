@@ -85,6 +85,16 @@
     "email": "sjeon at dm.snu.ac.kr",
     "B.S.":  "Computer Science, Mathematics, Emory Univ. 2014",
     "highschool": "St. John's, 2009"
+    },
+    {
+    "image": "hy.lee",
+    "name": "이 하 연 (Ha yeon Lee)",
+    "exp.gra.": "2023. 2",
+    "email": "hayeon.lee at dm.snu.ac.kr",
+    "experience": "Research Intern at Infosys Limited, Bangalore, 2016 06-08; Research Intern at Openbase, Seoul, 2015 07-08 ",
+    "areas of interest":"Deep learning, Natural Language Processing, Bayesian Statistics",
+    "B.S.":  "Mathematics, Optimisation and Statistics, Imperial College London, 2017",
+    "highschool": "Luckley House School, 2012"
     }
 ],
 "ms_students": [
@@ -93,7 +103,7 @@
     "name": "양 효 창 (HyoChang Yang)",
     "exp.gra.": "2018. 8",
     "email": "hyochang at dm.snu.ac.kr",
-    "areas of interest": "Generative Model",
+    "areas of interest": "Generative Model, Security",
     "B.S.": "Industrial Engineering, Computer Scinence and Engineering, Seoul Nat'l Univ., 2016",
     "highschool": "Konkuk University High School, 2012"       
     },
@@ -174,7 +184,7 @@
     "exp.gra.": "2019. 8",
     "email": "lyusungwon at dm.snu.ac.kr",
     "homepage" : "https://lyusungwon.github.io",
-    "areas of interest":"Deep Learning, Reinforcement Learning",
+    "areas of interest":"Deep Learning",
     "B.S.":  "Business, Korea Univ, 2017",
     "highschool": "Daewon foreign language, 2010"
     },
@@ -192,7 +202,7 @@
     "name": "이 형 욱 (Hyeonguk Lee)",
     "exp.gra.": "2019. 8",
     "email": "hyeonguk21 at dm.snu.ac.kr",
-    "areas of interest":"Statistical Learning, Text Mining",
+    "areas of interest":"Deep Learning, Text Mining",
     "B.S.":  "Statistics, Environmental Economics, UC Berkeley, 2016",
     "highschool": "Clovis, 2011"
     },
@@ -205,6 +215,36 @@
     "areas of interest":"Deep Learning",
     "B.S.":  "Energy Resources Engineering, Seoul Nat'l Univ., 2017",
     "highschool": "Incheon Girls', 2012"
+    },
+    {
+    "image": "nl.kim",
+    "name": "김 누 리 (Noori Kim)",
+    "exp.gra.": "2020. 2",
+    "email": "noori at dm.snu.ac.kr",
+    "experience": "Internship at SEMA TRANSLINK Investment, 2017. 8",
+    "areas of interest":"Machine Learning, Deep Learning",
+    "B.S.":  "Business, Korea Univ, 2018",
+    "highschool": "Chosun University attached, 2010"
+    },
+    {
+    "image": "hy.kim",
+    "name": "김 현 용 (Hyunyong Kim)",
+    "exp.gra.": "2020. 2",
+    "email": "david.kimhy at dm.snu.ac.kr",
+    "experience": "AXA, 2015-2018",
+    "areas of interest":"Machine Learning, Deep Learning",
+    "B.S.":  "B.S. Applied Biology and Chemistry, Statistics, Seoul Nat'l Univ., 2015",
+    "highschool": "High School Seil, 2009"
+    },
+    {
+    "image": "m.choi",
+    "name": "최 민 (Min Choi)",
+    "exp.gra.": "2020. 2",
+    "email": "minchoi at dm.snu.ac.kr",
+    "experience": "Shinhan Investment Corp, 2013-2018",
+    "areas of interest":"Machine learning, Text mining",
+    "B.S.":  "Mathematical Science, KAIST, 2014",
+    "highschool": "Sangsan Highschool, 2009"
     }
 ],
 
