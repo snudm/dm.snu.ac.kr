@@ -32,6 +32,9 @@ $(window).load(function() {
 		minItems:getGridSize(),
 		maxItems:getGridSize()
 	});
+	$('.member-image-wrapper').css({
+		height: $('.flexslider').width()*0.562
+	})
 });
 
 // check grid size on resize event
@@ -51,19 +54,7 @@ $window.resize(function() {
 <div class="flexslider" style="width:100%;margin:auto;">
   <ul class="slides">
     <li>
-      <img src="{{ url_for('static', filename='images/home_5.JPG') }}">
-    </li>
-    <li>
-      <img src="{{ url_for('static', filename='images/home_1.JPG') }}">
-    </li>
-    <li>
-      <img src="{{ url_for('static', filename='images/home_2.JPG') }}">
-    </li>
-    <li>
-      <img src="{{ url_for('static', filename='images/home_3.JPG') }}">
-    </li>
-    <li>
-      <img src="{{ url_for('static', filename='images/home_4.JPG') }}">
+      <div class="member-image-wrapper" style="background-image: url({{ url_for('static', filename='images/home_5.JPG') }})"></div>
     </li>
   </ul>
 </div>

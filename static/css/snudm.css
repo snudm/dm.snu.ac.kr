@@ -339,3 +339,11 @@ margin:auto;
 .expect_graduate {
 	font-size: 1.2rem
 }
+
+.member-image-wrapper {
+    width: 100%;
+    height: 600px;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}
