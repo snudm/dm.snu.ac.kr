@@ -83,6 +83,7 @@
     "name": "전 성 환 (Sung Whan Jeon)",
     "exp.gra.": "2021. 2",
     "email": "sjeon at dm.snu.ac.kr",
+    "areas of interest":"Deep learning, Text-mining, Graph Embedding, Finance, Time Series Analysis",
     "B.S.":  "Computer Science, Mathematics, Emory Univ. 2014",
     "highschool": "St. John's, 2009"
     },
@@ -184,7 +185,7 @@
     "exp.gra.": "2019. 8",
     "email": "lyusungwon at dm.snu.ac.kr",
     "homepage" : "https://lyusungwon.github.io",
-    "areas of interest":"Deep Learning",
+    "areas of interest":"Deep Learning, Representation Learning, Reinforcement Learning",
     "B.S.":  "Business, Korea Univ, 2017",
     "highschool": "Daewon foreign language, 2010"
     },
