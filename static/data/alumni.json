@@ -146,6 +146,34 @@
 },
 {
 	"year": "2018",
+	"name": "양효창",
+	"image": "hc2",
+	"degree": "석사",
+	"job": "티맥스"
+},
+{
+	"year": "2018",
+	"name": "신동민",
+	"image": "dmshin",
+	"degree": "석사",
+	"job": "뤼이드"
+},
+{
+	"year": "2018",
+	"name": "정민기",
+	"image": "mkchung",
+	"degree": "석사",
+	"job": "뷰노"
+},
+{
+	"year": "2018",
+	"name": "김도형",
+	"image": "dhkim",
+	"degree": "석사",
+	"job": "네이버"
+},
+{
+	"year": "2018",
 	"name": "김태욱",
 	"image": "taewook_2",
 	"degree": "석사",

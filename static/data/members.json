@@ -92,53 +92,55 @@
     "name": "이 하 연 (Ha yeon Lee)",
     "exp.gra.": "2023. 2",
     "email": "hayeon.lee at dm.snu.ac.kr",
-    "experience": "Research Intern at Infosys Limited, Bangalore, 2016 06-08; Research Intern at Openbase, Seoul, 2015 07-08 ",
+    "experience": "Research Intern at Infosys Limited, Bangalore, 2016; Research Intern at Openbase, Seoul, 2015",
     "areas of interest":"Deep learning, Natural Language Processing, Bayesian Statistics",
     "B.S.":  "Mathematics, Optimisation and Statistics, Imperial College London, 2017",
     "highschool": "Luckley House School, 2012"
+    },
+    {
+    "image": "sj.kang",
+    "name": "강 성 진(Sungjin Kang)",
+    "exp.gra.": "2022. 8",
+    "email": "jwchoi at dm.snu.ac.kr",
+    "experience": "Samsung Electronics, 2013-2018",
+    "M.S.":  "Industrial Engineering, Seoul Nat'l Univ., 2013",
+    "B.S.":  "Industrial & Systems Engineering, KAIST, 2011",
+    "highschool": "Gwangju Science Academy, 2006"
+    },
+    {
+    "image": "jh.park",
+    "name": "박 지 혜 (Jihye Park)",
+    "exp.gra.": "2023. 8",
+    "email": "minchoi at dm.snu.ac.kr",
+    "experience": "Bankware Global, 2017-2018; Hankook Research, 2016; Internship at Linewalks, 2014",
+    "areas of interest":"Machine Learning",
+    "B.S.":  "Business, Korea Univ., 2016",
+    "highschool": "Yeonmu, 2012"
+    },
+    {
+    "image": "jw.shim",
+    "name": "심 재 웅 (Jaewoong Shim)",
+    "exp.gra.": "2022. 8",
+    "email": "shimjw at dm.snu.ac.kr",
+    "experience": "Samsung Electronics, 2016-2018",
+    "areas of interest":"Manufacturing System, Interpretable Machine Learning",
+    "M.S.":  "Industrial Engineering, Seoul Nat'l Univ., 2016",
+    "B.S.":  "Industrial Engineering, Seoul Nat'l Univ., 2014",
+    "highschool": "Dukwon, 2008"
+    },
+    {
+    "image": "jw.choi",
+    "name": "최 진 우(Jinwoo Choi)",
+    "exp.gra.": "2022. 8",
+    "email": "jwchoi at dm.snu.ac.kr",
+    "experience": "SNUH Biomedical Research Institute, 2018",
+    "areas of interest":"Machine Learning",
+    "M.S.":  "Industrial & Management Engineering, Korea Univ, 2018",
+    "B.S.":  "Industrial & Management Engineering, Korea Univ, 2016",
+    "highschool": "Gyeongnam Science, 2012"
     }
 ],
 "ms_students": [
-    {
-    "image": "hc2",
-    "name": "양 효 창 (HyoChang Yang)",
-    "exp.gra.": "2018. 8",
-    "email": "hyochang at dm.snu.ac.kr",
-    "areas of interest": "Generative Model, Security",
-    "B.S.": "Industrial Engineering, Computer Scinence and Engineering, Seoul Nat'l Univ., 2016",
-    "highschool": "Konkuk University High School, 2012"       
-    },
-    {
-    "image": "dmshin",
-    "name": "신 동 민 (Dongmin Shin)",
-    "exp.gra.": "2018. 8",
-    "email": "dongmin.shin at dm.snu.ac.kr",
-    "homepage" : "http://miniddong.me",
-    "experience":"Internship at Riiid!, 2017.07-2017.08; Fellowship at Google News Lab, 2017.01-2017.02",
-    "areas of interest" : "Meta-learning, Fairness in Machine Learning, Data Vizualization",
-    "B.S.":  "Earth Science Education (Science Communication), Seoul Nat’l Univ., 2016",
-    "highschool": "Busan Science, 2012"
-    },
-    {
-    "image": "mkchung",
-    "name": "정 민 기 (Minki Chung)",
-    "exp.gra.": "2018. 8",
-    "email": "minki.chung at dm.snu.ac.kr",
-    "experience":"Internship at Kiswe mobile Inc.",
-    "areas of interest":"Computer Vision",
-    "B.S.":  "Industrial & Systems Engineering, KAIST, 2016",
-    "highschool": "Haeundae, 2012"
-    },
-    {
-    "image": "dhkim",
-    "name": "김 도 형 (Dohyung Kim)",
-    "exp.gra.": "2018. 8",
-    "email": "dohyung.kim at dm.snu.ac.kr",
-    "experience":"Internship at Hyundai-autoever",
-    "areas of interest":"Generative Model",
-    "B.S.":  "Industrial & Management Engineering, Korea Univ, 2016",
-    "highschool": "Kyunggi, 2010"
-    },
     {
     "image": "ykkang",
     "name": "강 연 국 (Younkook Kang)",
@@ -246,6 +248,26 @@
     "areas of interest":"Machine learning, Text mining",
     "B.S.":  "Mathematical Science, KAIST, 2014",
     "highschool": "Sangsan Highschool, 2009"
+    },
+    {
+    "image": "hs.kim",
+    "name": "김 현 성 (Hyunsung Kim)",
+    "exp.gra.": "2020. 8",
+    "email": "hyunsung.kim at dm.snu.ac.kr",
+    "experience": "Fitogether Inc., 2018-; Football Industry Academy, K League, 2018; Internship at Knowre, 2015",
+    "areas of interest":"Sports Data Analytics, Pattern Recognition, Statistical Learning",
+    "B.S.":  "Mathematics, POSTECH, 2018",
+    "highschool": "Jeonju Hanil, 2012"
+    },
+    {
+    "image": "jm.sun",
+    "name": "선 지 민 (Jimin Sun)",
+    "exp.gra.": "2020. 8",
+    "email": "jiminsun at dm.snu.ac.kr",
+    "homepage" : "https://jiminsun.github.io",
+    "areas of interest":"Deep Learning, Natural Language Processing",
+    "B.S.":  "Psychology, Seoul Nat’l Univ., 2018",
+    "highschool": "Hanyoung foreign language, 2013"
     }
 ],
 
