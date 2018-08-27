@@ -162,6 +162,15 @@
     "highschool": "Anyang Foreign Language, 2010"
     },
     {
+    "image": "sh.shin",
+    "name": "신 승 훈 (Seunghoon Shin)",
+    "exp.gra.": "2019. 2",
+    "email": "seunghun at dm.snu.ac.kr",
+    "areas of interest":"Machine Learning, Deep Learning",
+    "B.S.":  "Electrical Engineering & Computer Science, GIST, 2017",
+    "highschool": "Sehwa, 2011"
+    },    
+    {
     "image": "benjamin",
     "name": "Benjamin Léger",
     "exp.gra.": "2019. 2",
@@ -172,14 +181,14 @@
     "highschool": "Chevrollier (France), 2012"
     },
     {
-    "image": "bj.park",
-    "name": "박 봉 준 (Bongjoon Park)",
+    "image": "jy.kim",
+    "name": "김 지 영 (Jeeyung Kim)",
     "exp.gra.": "2019. 8",
-    "email": "bongjoon at dm.snu.ac.kr",
-    "experience":"Samsung Display, 2012-",
-    "areas of interest":"Machine Learning, Manufacturing System",
-    "B.S.":  "Industrial & Systems Engineering, KAIST, 2010",
-    "highschool": "Chungnam Science, 2003"
+    "email": "jeeyung.kim at dm.snu.ac.kr",
+    "experience": "Internship at VUNO, 2016.10-2016.12",
+    "areas of interest":"Deep Learning",
+    "B.S.":  "Energy Resources Engineering, Seoul Nat'l Univ., 2017",
+    "highschool": "Incheon Girls', 2012"
     },
     {
     "image": "sw.lyu",
@@ -192,13 +201,14 @@
     "highschool": "Daewon foreign language, 2010"
     },
     {
-    "image": "sh.shin",
-    "name": "신 승 훈 (Seunghoon Shin)",
+    "image": "bj.park",
+    "name": "박 봉 준 (Bongjoon Park)",
     "exp.gra.": "2019. 8",
-    "email": "seunghun at dm.snu.ac.kr",
-    "areas of interest":"Machine Learning, Deep Learning",
-    "B.S.":  "Electrical Engineering & Computer Science, GIST, 2017",
-    "highschool": "Sehwa, 2011"
+    "email": "bongjoon at dm.snu.ac.kr",
+    "experience":"Samsung Display, 2012-",
+    "areas of interest":"Machine Learning, Manufacturing System",
+    "B.S.":  "Industrial & Systems Engineering, KAIST, 2010",
+    "highschool": "Chungnam Science, 2003"
     },
     {
     "image": "hu.lee",
@@ -210,14 +220,14 @@
     "highschool": "Clovis, 2011"
     },
     {
-    "image": "jy.kim",
-    "name": "김 지 영 (Jeeyung Kim)",
-    "exp.gra.": "2019. 8",
-    "email": "jeeyung.kim at dm.snu.ac.kr",
-    "experience": "Internship at VUNO, 2016.10-2016.12",
-    "areas of interest":"Deep Learning",
-    "B.S.":  "Energy Resources Engineering, Seoul Nat'l Univ., 2017",
-    "highschool": "Incheon Girls', 2012"
+    "image": "ih.kang",
+    "name": "강 인 혜 (Inhye Kang)",
+    "exp.gra.": "2020. 2",
+    "email": "inhye.kang at dm.snu.ac.kr",
+    "experience": "KT, 2013-",
+    "areas of interest":"Machine Learning, Natural Language Processing, Database Marketing",
+    "B.S.":  "Psychology, Seoul National University, 2013",
+    "highschool": "Hongcheon Girl's, 2004"
     },
     {
     "image": "nl.kim",
