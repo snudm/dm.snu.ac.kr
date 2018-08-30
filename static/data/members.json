@@ -10,6 +10,16 @@
     "highschool": "Kukje, 2005" 
     },
     {
+    "image": "ejkim",
+    "name": "김 은 지 (Eunji Kim)",
+    "exp.gra.": "2019. 2",
+    "email": "eunjikim at dm.snu.ac.kr",
+    "homepage" : "http://ejklike.github.io/",
+    "experience": "Kyobo Life Insurance, 2011-2013",
+    "B.S.": "Mathematical Sciences, Seoul Nat'l Univ., 2012",
+    "highschool": "Baekseok, 2006"      
+    },
+    {
     "image": "jhlee",
     "name": "이 제 혁 (Jehyuk Lee)",
     "exp.gra.": "2019. 2",
@@ -19,16 +29,6 @@
     "M.S.": "Industrial & Systems Engineering, KAIST, 2014",
     "B.S.": "Industrial & Systems Engineering, and Management Science, KAIST, 2012",
     "highschool": "Jeju Science, 2007"  
-    },
-    {
-    "image": "ejkim",
-    "name": "김 은 지 (Eunji Kim)",
-    "exp.gra.": "2019. 2",
-    "email": "eunjikim at dm.snu.ac.kr",
-    "homepage" : "http://ejklike.github.io/",
-    "experience": "Kyobo Life Insurance, 2011-2013",
-    "B.S.": "Mathematical Sciences, Seoul Nat'l Univ., 2012",
-    "highschool": "Baekseok, 2006"      
     },
     {
     "image": "jwahn",
@@ -61,12 +61,21 @@
     {
     "image": "yhoon",
     "name": "이 영 훈 (Younghoon Lee)",
-    "exp.gra.": "2020. 2",
+    "exp.gra.": "2019. 2",
     "email": "yhoon.lee at dm.snu.ac.kr",
     "experience": "LG Electronics, 2009-",
     "M.S.": "Industrial Engineering, Seoul Nat'l Univ., 2009",
     "B.S.": "Industrial Engineering, Seoul Nat'l Univ., 2007",
     "highschool": "Deajin, 2003" 
+    },
+    {
+    "image": "sungwhan",
+    "name": "전 성 환 (Sung Whan Jeon)",
+    "exp.gra.": "2021. 2",
+    "email": "sjeon at dm.snu.ac.kr",
+    "areas of interest":"Deep learning, Text-mining, Graph Embedding, Finance, Time Series Analysis",
+    "B.S.":  "Computer Science, Mathematics, Emory Univ. 2014",
+    "highschool": "St. John's, 2009"
     },
     {
     "image": "hyejin2",
@@ -79,25 +88,6 @@
     "highschool": "New Hampton School, 2004"
     },
     {
-    "image": "sungwhan",
-    "name": "전 성 환 (Sung Whan Jeon)",
-    "exp.gra.": "2021. 2",
-    "email": "sjeon at dm.snu.ac.kr",
-    "areas of interest":"Deep learning, Text-mining, Graph Embedding, Finance, Time Series Analysis",
-    "B.S.":  "Computer Science, Mathematics, Emory Univ. 2014",
-    "highschool": "St. John's, 2009"
-    },
-    {
-    "image": "hy.lee",
-    "name": "이 하 연 (Ha yeon Lee)",
-    "exp.gra.": "2023. 2",
-    "email": "hayeon.lee at dm.snu.ac.kr",
-    "experience": "Research Intern at Infosys Limited, Bangalore, 2016; Research Intern at Openbase, Seoul, 2015",
-    "areas of interest":"Deep learning, Natural Language Processing, Bayesian Statistics",
-    "B.S.":  "Mathematics, Optimisation and Statistics, Imperial College London, 2017",
-    "highschool": "Luckley House School, 2012"
-    },
-    {
     "image": "sj.kang",
     "name": "강 성 진(Sungjin Kang)",
     "exp.gra.": "2022. 8",
@@ -106,16 +96,6 @@
     "M.S.":  "Industrial Engineering, Seoul Nat'l Univ., 2013",
     "B.S.":  "Industrial & Systems Engineering, KAIST, 2011",
     "highschool": "Gwangju Science Academy, 2006"
-    },
-    {
-    "image": "jh.park",
-    "name": "박 지 혜 (Jihye Park)",
-    "exp.gra.": "2023. 8",
-    "email": "jihyeparkk at dm.snu.ac.kr",
-    "experience": "Bankware Global, 2017-2018; Hankook Research, 2016; Internship at Linewalks, 2014",
-    "areas of interest":"Machine Learning",
-    "B.S.":  "Business, Korea Univ., 2016",
-    "highschool": "Yeonmu, 2012"
     },
     {
     "image": "jw.shim",
@@ -138,6 +118,26 @@
     "M.S.":  "Industrial & Management Engineering, Korea Univ, 2018",
     "B.S.":  "Industrial & Management Engineering, Korea Univ, 2016",
     "highschool": "Gyeongnam Science, 2012"
+    },
+    {
+    "image": "jh.park",
+    "name": "박 지 혜 (Jihye Park)",
+    "exp.gra.": "2023. 8",
+    "email": "jihyeparkk at dm.snu.ac.kr",
+    "experience": "Bankware Global, 2017-2018; Hankook Research, 2016; Internship at Linewalks, 2014",
+    "areas of interest":"Machine Learning",
+    "B.S.":  "Business, Korea Univ., 2016",
+    "highschool": "Yeonmu, 2012"
+    },
+    {
+    "image": "hy.lee",
+    "name": "이 하 연 (Ha yeon Lee)",
+    "exp.gra.": "2023. 2",
+    "email": "hayeon.lee at dm.snu.ac.kr",
+    "experience": "Research Intern at Infosys Limited, Bangalore, 2016; Research Intern at Openbase, Seoul, 2015",
+    "areas of interest":"Deep learning, Natural Language Processing, Bayesian Statistics",
+    "B.S.":  "Mathematics, Optimisation and Statistics, Imperial College London, 2017",
+    "highschool": "Luckley House School, 2012"
     }
 ],
 "ms_students": [
