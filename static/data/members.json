@@ -120,16 +120,6 @@
     "highschool": "Gyeongnam Science, 2012"
     },
     {
-    "image": "jh.park",
-    "name": "박 지 혜 (Jihye Park)",
-    "exp.gra.": "2023. 8",
-    "email": "jihyeparkk at dm.snu.ac.kr",
-    "experience": "Bankware Global, 2017-2018; Hankook Research, 2016; Internship at Linewalks, 2014",
-    "areas of interest":"Machine Learning",
-    "B.S.":  "Business, Korea Univ., 2016",
-    "highschool": "Yeonmu, 2012"
-    },
-    {
     "image": "hy.lee",
     "name": "이 하 연 (Ha yeon Lee)",
     "exp.gra.": "2023. 2",
@@ -138,6 +128,16 @@
     "areas of interest":"Deep learning, Natural Language Processing, Bayesian Statistics",
     "B.S.":  "Mathematics, Optimisation and Statistics, Imperial College London, 2017",
     "highschool": "Luckley House School, 2012"
+    },
+    {
+    "image": "jh.park",
+    "name": "박 지 혜 (Jihye Park)",
+    "exp.gra.": "2023. 8",
+    "email": "jihyeparkk at dm.snu.ac.kr",
+    "experience": "Bankware Global, 2017-2018; Hankook Research, 2016; Internship at Linewalks, 2014",
+    "areas of interest":"Machine Learning",
+    "B.S.":  "Business, Korea Univ., 2016",
+    "highschool": "Yeonmu, 2012"
     }
 ],
 "ms_students": [
