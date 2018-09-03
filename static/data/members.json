@@ -1,15 +1,5 @@
 {"phd_candidates": [
     {
-    "image": "hjkim",
-    "name": "김 현 중 (Hyunjoong Kim)",
-    "exp.gra.": "2018. 8",
-    "email": "hyunjoong at dm.snu.ac.kr",
-    "areas of interest": "Natural Language Processing, Instance-based Learning, Graph Mining",
-    "M.S.": "Industrial Engineering, Seoul Nat'l Univ., 2013",
-    "B.S.": "Industrial Engineering, Seoul Nat'l Univ., 2011",
-    "highschool": "Kukje, 2005" 
-    },
-    {
     "image": "ejkim",
     "name": "김 은 지 (Eunji Kim)",
     "exp.gra.": "2019. 2",
@@ -20,15 +10,24 @@
     "highschool": "Baekseok, 2006"      
     },
     {
-    "image": "jhlee",
-    "name": "이 제 혁 (Jehyuk Lee)",
+    "image": "hjkim",
+    "name": "김 현 중 (Hyunjoong Kim)",
     "exp.gra.": "2019. 2",
-    "email": "jehyuk.lee at dm.snu.ac.kr",
-    "experience": "Internship at Samsung Electronics, 2010.6-2010.7",
-    "areas of interest": "Semi-supervised Learning, Generative model, Anomaly detection",
-    "M.S.": "Industrial & Systems Engineering, KAIST, 2014",
-    "B.S.": "Industrial & Systems Engineering, and Management Science, KAIST, 2012",
-    "highschool": "Jeju Science, 2007"  
+    "email": "hyunjoong at dm.snu.ac.kr",
+    "areas of interest": "Natural Language Processing, Instance-based Learning, Graph Mining",
+    "M.S.": "Industrial Engineering, Seoul Nat'l Univ., 2013",
+    "B.S.": "Industrial Engineering, Seoul Nat'l Univ., 2011",
+    "highschool": "Kukje, 2005" 
+    },
+    {
+    "image": "yhoon",
+    "name": "이 영 훈 (Younghoon Lee)",
+    "exp.gra.": "2019. 2",
+    "email": "yhoon.lee at dm.snu.ac.kr",
+    "experience": "LG Electronics, 2009-",
+    "M.S.": "Industrial Engineering, Seoul Nat'l Univ., 2009",
+    "B.S.": "Industrial Engineering, Seoul Nat'l Univ., 2007",
+    "highschool": "Deajin, 2003" 
     },
     {
     "image": "jwahn",
@@ -38,6 +37,17 @@
     "areas of interest" : "Deep Learning, Unsupervised Learning, Variational Autoencoder, Seq2seq Learning",
     "B.S.": "Industrial Engineering, Seoul Nat'l Univ., 2014",
     "highschool": "Hanil, 2009" 
+    },
+    {
+    "image": "jhlee",
+    "name": "이 제 혁 (Jehyuk Lee)",
+    "exp.gra.": "2019. 8",
+    "email": "jehyuk.lee at dm.snu.ac.kr",
+    "experience": "Internship at Samsung Electronics, 2010.6-2010.7",
+    "areas of interest": "Semi-supervised Learning, Generative model, Anomaly detection",
+    "M.S.": "Industrial & Systems Engineering, KAIST, 2014",
+    "B.S.": "Industrial & Systems Engineering, and Management Science, KAIST, 2012",
+    "highschool": "Jeju Science, 2007"  
     },
     {    
     "image": "ydahn",
@@ -58,16 +68,6 @@
     }
 ],
 "phd_students" : [
-    {
-    "image": "yhoon",
-    "name": "이 영 훈 (Younghoon Lee)",
-    "exp.gra.": "2019. 2",
-    "email": "yhoon.lee at dm.snu.ac.kr",
-    "experience": "LG Electronics, 2009-",
-    "M.S.": "Industrial Engineering, Seoul Nat'l Univ., 2009",
-    "B.S.": "Industrial Engineering, Seoul Nat'l Univ., 2007",
-    "highschool": "Deajin, 2003" 
-    },
     {
     "image": "sungwhan",
     "name": "전 성 환 (Sung Whan Jeon)",
@@ -160,16 +160,7 @@
     "areas of interest":"Machine Learning, Text Mining",
     "B.S.":  "Industrial & Systems Engineering, KAIST, 2017",
     "highschool": "Anyang Foreign Language, 2010"
-    },
-    {
-    "image": "sh.shin",
-    "name": "신 승 훈 (Seunghoon Shin)",
-    "exp.gra.": "2019. 2",
-    "email": "seunghun at dm.snu.ac.kr",
-    "areas of interest":"Machine Learning, Deep Learning",
-    "B.S.":  "Electrical Engineering & Computer Science, GIST, 2017",
-    "highschool": "Sehwa, 2011"
-    },    
+    }, 
     {
     "image": "benjamin",
     "name": "Benjamin Léger",
@@ -249,6 +240,15 @@
     "B.S.":  "B.S. Applied Biology and Chemistry, Statistics, Seoul Nat'l Univ., 2015",
     "highschool": "Seil, 2009"
     },
+    {
+    "image": "sh.shin",
+    "name": "신 승 훈 (Seunghoon Shin)",
+    "exp.gra.": "2020. 2",
+    "email": "seunghun at dm.snu.ac.kr",
+    "areas of interest":"Machine Learning, Deep Learning",
+    "B.S.":  "Electrical Engineering & Computer Science, GIST, 2017",
+    "highschool": "Sehwa, 2011"
+    },   
     {
     "image": "m.choi",
     "name": "최 민 (Min Choi)",
