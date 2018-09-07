@@ -230,6 +230,15 @@
 },
 {
 	"year": "2017. 2",
+	"name": "양호성",
+	"image": "hsyang",
+	"degree": "석사",
+	"job": "엘지유플러스",
+	"dissertation": "분산 표상을 활용한 브랜드 시각화 및 키워드 추출",
+	"diss_address": "http://snu-primo.hosted.exlibrisgroup.com/82SNU:ALL:82SNU_INST21574578960002591"
+},
+{
+	"year": "2017. 2",
 	"name": "조현창",
 	"degree": "석사",
 	"job": "네이버랩스",
