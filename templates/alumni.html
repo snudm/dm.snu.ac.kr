@@ -28,18 +28,18 @@
 	</td>
         <td>
     {% if 'job' in member.keys() %}
-        {% if member.get('job_address')==""  %}
-            {{ member.get('job') }}
-        {% else %}
+        {% if 'job_address' in member.keys() %}
             <a href="{{ member.get('job_address') }}">{{ member.get('job') }}</a>
+        {% else %}
+            {{ member.get('job') }}
         {% endif %}
     {% endif %}
         <br /><br />
     {% if 'dissertation' in member.keys() %}
-        {% if member.get('diss_address')==""  %}
-            {{ member.get('dissertation') }}
-        {% else %}
+        {% if 'diss_address' in member.keys() %}
             <a href="{{ member.get('diss_address') }}">{{ member.get('dissertation') }}</a>
+        {% else %}
+            {{ member.get('dissertation') }}
         {% endif %}
     {% endif %}
         </td>
