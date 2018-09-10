@@ -28,7 +28,11 @@
 	</td>
         <td>
     {% if 'job' in member.keys() %}
+        {% if member.get('job_address')==""  %}
             {{ member.get('job') }}
+        {% else %}
+            <a href="{{ member.get('job_address') }}">{{ member.get('job') }}</a>
+        {% endif %}
     {% endif %}
         <br /><br />
     {% if 'dissertation' in member.keys() %}

@@ -3,7 +3,7 @@
 	"name": "김미숙",
 	"degree": "박사",
 	"image": "mskim",
-	"job": "월드퀀트",
+	"job": "삼성전자종합기술원",
 	"dissertation": "Prediction of stock price, base rate, and interest rate spread with text data",
 	"diss_address": "http://snu-primo.hosted.exlibrisgroup.com/82SNU:ALL:82SNU_INST21605742570002591" 
 },
@@ -77,7 +77,7 @@
 	"year": "2014. 2",
 	"name": "이승경",
 	"degree": "박사",
-	"job": "삼성전자 DS 총괄",
+	"job": "삼성전자 DS부문",
 	"dissertation": "Probabilistic Local Reconstruction for k-Nearest Neighbor Learning",
 	"diss_address": "http://snu-primo.hosted.exlibrisgroup.com/82SNU:ALL:82SNU_INST21433165660002591"
 },
@@ -110,7 +110,7 @@
 	"year": "2009. 8",
 	"name": "황성섭",
 	"degree": "박사",
-	"job": "한국IBM",
+	"job": "우리은행",
 	"dissertation": "Keystroke dynamics analysis for user authentication and account sharing detection",
 	"diss_address": "http://snu-primo.hosted.exlibrisgroup.com/82SNU:ALL:82SNU_INST21471967890002591"
 },
@@ -118,7 +118,7 @@
 	"year": "2007",
 	"name": "이형주",
 	"degree": "박사",
-	"job": "Winton Capital Management",
+	"job": "라인플러스",
 	"dissertation": "Novelty detection for class imbalance : LVQ-based algorithm and its applications to security and CRM",
 	"diss_address": "http://snu-primo.hosted.exlibrisgroup.com/82SNU:ALL:82SNU_INST21461066790002591"
 },
@@ -126,7 +126,7 @@
 	"year": "2005",
 	"name": "신현정",
 	"degree": "박사",
-	"job": "아주대학교 공과대학 산업공학과",
+	"job": "아주대학교 산업공학과 교수",
 	"dissertation": "Efficient pattern selection for support vector classifiers and its CRM application",
 	"diss_address": "http://snu-primo.hosted.exlibrisgroup.com/82SNU:ALL:82SNU_INST21484439310002591"
 },
@@ -143,7 +143,8 @@
 	"name": "장민",
 	"image": "mjang",
 	"degree": "박사",
-	"job": "쿠프마케팅",
+	"job": "Chaintob",
+	"job_address": "www.chaintob.com",
 	"dissertation": "Ensemble Learning Algorithm using Virtual Data"
 },
 {
@@ -151,21 +152,25 @@
 	"name": "양효창",
 	"image": "hc2",
 	"degree": "석사",
-	"job": "티맥스"
+	"job": "티맥스",
+	"job_address": "www.tmaxsoft.com"
 },
 {
 	"year": "2018. 8",
 	"name": "신동민",
 	"image": "dmshin",
 	"degree": "석사",
-	"job": "뤼이드"
+	"job": "뤼이드",
+	"job_address": "www.riiid.co"
+
 },
 {
 	"year": "2018. 8",
 	"name": "정민기",
 	"image": "mkchung",
 	"degree": "석사",
-	"job": "뷰노"
+	"job": "뷰노",
+	"job_address": "www.vuno.co"
 },
 {
 	"year": "2018. 8",
@@ -225,6 +230,7 @@
 	"image": "dy-min",
 	"degree": "석사",
 	"job": "티맥스",
+	"job_address": "www.tmaxsoft.com",
 	"dissertation": "단어 임베딩 공간 사이의 선형 변환을 통한 키워드 사전의 구축 : 코스피 상장 기업의 다중 레이블 분류를 중심으로",
 	"diss_address": "http://snu-primo.hosted.exlibrisgroup.com/82SNU:ALL:82SNU_INST21605852610002591"
 },
@@ -250,7 +256,7 @@
 	"name": "김한결",
 	"degree": "석사",
 	"dissertation": "Bag-of-Conpets: 단어에 대한 분산표상의 군집화를 통한 해석 가능한 문서 표현법",
-	"job": "삼성전자 DS"
+	"job": "삼성전자 DS부문"
 },
 {
 	"year": "2016. 2",
@@ -258,7 +264,7 @@
 	"degree": "석사",
 	"dissertation": "소수 범주 데이터 영역의 확장",
 	"diss_address": "http://snu-primo.hosted.exlibrisgroup.com/82SNU:ALL:82SNU_INST21544691700002591",
-	"job": "삼성전자 DS"
+	"job": "서울대학교 박사과정"
 },
 {
 	"year": "2015. 2",
@@ -304,7 +310,7 @@
 	"year": "2013. 8",
 	"name": "강성진",
 	"degree": "석사",
-	"job": "삼성전자",
+	"job": "서울대학교 박사과정",
 	"dissertation": "군집화 기법과 문서 순위를 이용한 한국어 트윗 상의 토픽 추출",
 	"diss_address": "http://snu-primo.hosted.exlibrisgroup.com/82SNU:ALL:82SNU_INST21431317210002591"
 },
@@ -312,7 +318,7 @@
 	"year": "2013. 2",
 	"name": "김현중",
 	"degree": "석사",
-	"job": "박사과정",
+	"job": "서울대학교 박사과정",
 	"dissertation": "단어 추출과 스트링 매치를 이용한 수기 입력 텍스트의 노이즈 처리",
 	"diss_address": "http://snu-primo.hosted.exlibrisgroup.com/82SNU:ALL:82SNU_INST21432869030002591"
 },
@@ -336,7 +342,7 @@
 	"year": "2012. 8",
 	"name": "김봉석",
 	"degree": "석사",
-	"job": "삼성전자 DS",
+	"job": "삼성전자 DS부문",
 	"dissertation": "텍스트 마이닝 기법을 이용한 반도체 생산 시 발생하는 이벤트 데이터와 수율의 연관성 분석",
 	"diss_address": "http://snu-primo.hosted.exlibrisgroup.com/82SNU:ALL:82SNU_INST21480524570002591"
 },
@@ -368,7 +374,7 @@
 	"year": "2011. 2",
 	"name": "박은정",
 	"degree": "석사",
-	"job": "네이버랩스 (SNU Ph d)",
+	"job": "네이버랩스",
 	"dissertation": "군집화 필터에 기반한 중복 최소화 변수선택법",
 	"diss_address": "http://snu-primo.hosted.exlibrisgroup.com/82SNU:ALL:82SNU_INST21453353470002591"
 },
@@ -376,7 +382,7 @@
 	"year": "2011. 2",
 	"name": "박주성",
 	"degree": "석사",
-	"job": "삼성전자 (SNU Ph d) ",
+	"job": "삼성전자",
 	"dissertation": "임의 장문의 키보드 키스트로크 다이나믹스 기반 사용자 인증을 위한 왼손, 오른손, 스페이스 바 간 입력시간의 다중 Kolmogorov-Smirnov 검정",
 	"diss_address": "http://snu-primo.hosted.exlibrisgroup.com/82SNU:ALL:82SNU_INST21453353260002591"
 },
@@ -472,7 +478,8 @@
 	"name": "박진우",
 	"image" : "jwpark",
 	"degree": "석사",
-	"job": "레코벨",
+	"job": "RTM",
+	"job_address": "www.rtm.ai",
 	"dissertation": "양극 데이터로부터 성장하는 k-인접 이웃 분류의 참조 데이터 셋",
 	"diss_address": "http://snu-primo.hosted.exlibrisgroup.com/82SNU:ALL:82SNU_INST21484359870002591"
 },
@@ -496,7 +503,8 @@
 	"year": "2005",
 	"name": "성기석",
 	"degree": "석사",
-	"job": "삼성생명  (Texas A&M, Ph d) ",
+	"job": "RTM",
+	"job_address": "www.rtm.ai",
 	"dissertation": "Accuracy와 diversity를 고려한 GA-SVM Wrapper Ensemble",
 	"diss_address": "http://snu-primo.hosted.exlibrisgroup.com/82SNU:ALL:82SNU_INST21455971550002591"
 },
@@ -512,7 +520,7 @@
 	"year": "2004",
 	"name": "하경남",
 	"degree": "석사",
-	"job": "Pacific Lutheran, Professor  (Washington, Ph d)s",
+	"job": "Pacific Lutheran University 교수",
 	"dissertation": "배깅 신경망 및 SVM을 이용한 응답모델 구축",
 	"diss_address": "http://snu-primo.hosted.exlibrisgroup.com/82SNU:ALL:82SNU_INST21445901160002591"
 },
@@ -550,7 +558,6 @@
 	"year": "2002",
 	"name": "백진우",
 	"degree": "석사",
-	"job": "한국투자증권",
 	"dissertation": "KOSPI 200 선물에서의 자기연상학습 신경망을 이용한 상승 추세 탐지",
 	"diss_address": "http://snu-primo.hosted.exlibrisgroup.com/82SNU:ALL:82SNU_INST21478481220002591"
 },
@@ -654,7 +661,7 @@
 	"year": "1997",
 	"name": "한대희",
 	"degree": "석사",
-	"job": "달리웍스 주식회사"
+	"job": "Pendium Slow Compus 대표"
 },
 {
 	"year": "1997",
@@ -691,7 +698,7 @@
 	"year": "1995",
 	"name": "정태일",
 	"degree": "석사",
-	"job": "HRF, Inc."
+	"job": "모비젠 솔루션 영업실장"
 },
 {
 	"year": "1995",
@@ -699,6 +706,7 @@
 	"image": "mjang",
 	"degree": "석사",
 	"dissertation": "Modeling Map Formation in Proprioceptive Cortex",
-	"job": "쿠프마케팅 (SNU Ph d)"
+	"job": "Chaintob",
+	"job_address": "www.chaintob.com"
 }
 ]
