@@ -1,3 +1,4 @@
+"SARN: Relational Reasoning through Sequential Attention", Jinwon An, Sungwon Lyu, Sungzoon Cho, NIPS Workshop on Relational Representation Learning, Montréal, Canada, 2018
 "Building Industry Network Based on Business Text: Corporate Disclosures and News", Sung Whan Jeon, Hye Jin Lee, Sungzoon Cho, Dec. 2017, IEEE BigData 2017, Boston, USA.
 "코스피 상장 기업의 다중 레이블 분류를 위한 산업군 키워드 사전의 구축 : 단어 임베딩 공간 사이의 선형변환 학습을 중심으로", 민동영, 조성준, 대한산업공학회 2017 추계학술대회.
 “다변량 시계열 변수 중요도 추출 및 분류 성능 향상을 위한 컨볼류션 필터", 김은지, 조성준, 한국BI데이터마이닝학회 2017 추계학술대회.
