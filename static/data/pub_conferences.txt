@@ -1,7 +1,7 @@
 "Dynamic Vehicle Traffic Control Using Deep Reinforcement Learning in Automated Material Handling System", Younkook Kang, Sungwon Lyu, Jeeyung Kim, Bongjoon Park, Sungzoon Cho, AAAI-19 Student Abstract and Poster Program, January 27 – February 1, 2019, Honolulu, Hawaii, USA
 "SARN: Relational Reasoning through Sequential Attention", Jinwon An, Sungwon Lyu, Sungzoon Cho, NIPS Workshop on Relational Representation Learning, December 8, 2018, Montréal, Canada
-"빅데이터 이노베이션" 한국SCM학회 2018 춘계학술대회 기조연설, 2018년 11월 13일, 조성준, 서울 대한상공회의소
-"빅데이터 밸류 창출" 대한산업공학회, 2018 춘계학술대회 기조연설, 2018년 11월 9일, 조성준, 서울 한양대학교
+"빅데이터 이노베이션" 한국SCM학회 2018 춘계학술대회 기조연설, 조성준, 2018년 11월 13일, 서울 대한상공회의소
+"빅데이터 밸류 창출" 대한산업공학회, 2018 춘계학술대회 기조연설, 조성준, 2018년 11월 9일, 서울 한양대학교
 "Vehicle Flow Control Using Reinforcement Learning on Manufacturing Environment"  Younkook Kang, Sungzoon Cho, INFORMS Anual Meeting 2018, November 4 - 7, 2018, Phoenix, USA
 "Big Data Innovation in Korea Manufacturing", Sungzoon Cho, Advances in Production Management Systems, APMS 2018 Keynote Speech, August 26-30, Seoul National University, Seoul, Korea 
 "Building Industry Network Based on Business Text: Corporate Disclosures and News", Sung Whan Jeon, Hye Jin Lee, Sungzoon Cho, Dec. 2017, IEEE BigData 2017, Boston, USA.
