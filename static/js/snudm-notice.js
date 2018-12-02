@@ -1,7 +1,7 @@
 var n = noty({
     layout: 'topRight',
     theme: 'relax',
-    text: '[공지]2015 하계방학 인턴 관련 공고<a href="/ko/notices/20150607" class="pull-right">[바로가기]</a>',
+    text: '[NEWS]김은지, 최민 KDMS 최우수논문상 수상<br/>><img class="width-49" src="/static/images/news/2018_kdms.jpg">',
     animation: {
         open: 'animated bounceInDown',
         close: {height: 'toggle'}, // jQuery animate function property object
