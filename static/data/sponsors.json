@@ -133,6 +133,11 @@
     "title_en": "Finance",
     "projects": [
     {
+        "id": "nationalresearchfoundationofkorea",
+        "description_ko": "뉴스 및 금융 문서를 활용한 산업 네트워크 구축",
+        "description_en": "Building Industry Network Using Financial Documents and News Articles"
+    },
+	{
         "id": "shinhancard",
         "description_ko": "딥러닝을 활용한 해외 스코어 모형 고도화",
         "description_en": "Advancement of Deep Learning based Foreign Score Model"
@@ -183,7 +188,27 @@
     "title_ko": "서비스",
     "title_en": "Service",
     "projects": [
+	{
+        "id": "hyundai",
+        "description_ko": "첨단 운전자 지원 시스템(ADAS)의 사용자 설정 패턴 분석 알고리즘 개발",
+        "description_en": "Pattern recognition of user setup for Advanced Driver Assistance System"
+    },
+	{
+        "id": "healthinsurance",
+        "description_ko": "종합병원 전문심사를 위한 AI기반 기관 선정모형 개발(2018)",
+        "description_en": "Development of AI-based institution selection model for manual examination of general hospital"
+    },
     {
+        "id": "samsunge_research",
+        "description_ko": "소셜 미디어 Buzz 분석 모듈 개발",
+        "description_en": "Social Media Buzz Analysis"
+    },
+	{
+        "id": "samsungelec",
+        "description_ko": "소셜 미디어 분석을 통한 Storage 플랫폼 기획",
+        "description_en": "Storage Platform Planning using Social Media Analysis"
+    },
+	{
         "id": "samsungelec",
         "description_ko": "머신러닝 기반 스마트폰 사용자 선호 분석",
         "description_en": "Machine-learning based Preference Analysis of Smartphone Users"

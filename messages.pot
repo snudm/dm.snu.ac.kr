@@ -1,55 +1,55 @@
 # Translations template for PROJECT.
-# Copyright (C) 2014 ORGANIZATION
+# Copyright (C) 2018 ORGANIZATION
 # This file is distributed under the same license as the PROJECT project.
-# FIRST AUTHOR <EMAIL@ADDRESS>, 2014.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2018.
 #
 #, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2014-10-14 22:53+0900\n"
+"POT-Creation-Date: 2018-12-03 01:32+0900\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Generated-By: Babel 1.3\n"
+"Generated-By: Babel 2.6.0\n"
 
-#: templates/contact.html:10
+#: templates/contact.html:9
 msgid "주소"
 msgstr ""
 
-#: templates/contact.html:14
+#: templates/contact.html:13
 msgid "전화번호"
 msgstr ""
 
-#: templates/contact.html:18
+#: templates/contact.html:17
 msgid "이메일"
 msgstr ""
 
-#: templates/contact.html:22
+#: templates/contact.html:21
 msgid "오시는 길"
 msgstr ""
 
-#: templates/contact.html:26
+#: templates/contact.html:25
 msgid "서울대학교 정문 통과 후, 1.3 km 직진. 좌측에 Gate 5 로 들어온 후 주변에 주차."
 msgstr ""
 
-#: templates/contact.html:28
+#: templates/contact.html:27
 msgid "우측 첫 번째 건물이 38 동이고 여길 지나서 두 번째 건물이 39동"
 msgstr ""
 
-#: templates/contact.html:31
+#: templates/contact.html:30
 msgid "서울대학교 후문 통과 후, 400 미터 직진. T 자 삼거리에서 좌회전 후, 950 미터 직진."
 msgstr ""
 
-#: templates/contact.html:33
+#: templates/contact.html:32
 msgid "삼거리에서 우회전하여 내리막 오른쪽으로 구부러진 길로 150 미터 직진."
 msgstr ""
 
-#: templates/contact.html:35
+#: templates/contact.html:34
 msgid "버스 정거장 옆 우측에 있는 Gate 6 으로 들어온 후, 주변에 주차. 내리막길 아래 좌측에 보이는 건물이 39동"
 msgstr ""
 
@@ -80,5 +80,9 @@ msgstr ""
 
 #: templates/software.html:14
 msgid "소아청소년 정밀주의력 검사프로그램"
+msgstr ""
+
+#: templates/software.html:15
+msgid "회귀모형 에러 추정 지표"
 msgstr ""
 
