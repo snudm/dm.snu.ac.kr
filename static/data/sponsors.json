@@ -190,7 +190,7 @@
     "projects": [
 	{
         "id": "hyundai",
-        "description_ko": "첨단 운전자 지원 시스템(ADAS)의 사용자 설정 패턴 분석 알고리즘 개발",
+        "description_ko": "첨단 운전자 지원 시스템의 사용자 설정 패턴 분석 알고리즘 개발",
         "description_en": "Pattern recognition of user setup for Advanced Driver Assistance System"
     },
 	{
