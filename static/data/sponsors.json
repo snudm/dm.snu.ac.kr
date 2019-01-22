@@ -132,6 +132,16 @@
     "title_ko": "금융",
     "title_en": "Finance",
     "projects": [
+	{
+        "id": "healthinsurance",
+        "description_ko": "종합병원 전문심사를 위한 AI기반 기관 선정모형 개발",
+        "description_en": "Development of AI-based institution selection model for manual examination of general hospital"
+    },
+	{
+        "id": "healthinsurance",
+        "description_ko": "일반병원 전문심사를 위한 AI기반 기관 선정모형 개발",
+        "description_en": "Development of AI-based institution selection model for manual examination of medical clinic"
+    },
     {
         "id": "nationalresearchfoundationofkorea",
         "description_ko": "뉴스 및 금융 문서를 활용한 산업 네트워크 구축",
@@ -176,11 +186,6 @@
         "id": "bok",
         "description_ko": "세계 중앙은행 총재 연설문 분석",
         "description_en": "Text Mining Central Bankers' Speeches"
-    },
-    {
-        "id": "healthinsurance",
-        "description_ko": "전문심사 선정모형 개발",
-        "description_en": "Development of Selection Model for Insurance Screening "
     }
     ]
 },
@@ -192,11 +197,6 @@
         "id": "hyundai",
         "description_ko": "첨단 운전자 지원 시스템의 사용자 설정 패턴 분석 알고리즘 개발",
         "description_en": "Pattern recognition of user setup for Advanced Driver Assistance System"
-    },
-	{
-        "id": "healthinsurance",
-        "description_ko": "종합병원 전문심사를 위한 AI기반 기관 선정모형 개발(2018)",
-        "description_en": "Development of AI-based institution selection model for manual examination of general hospital"
     },
     {
         "id": "samsung_research",
