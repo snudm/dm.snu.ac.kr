@@ -1,4 +1,13 @@
-[{
+[
+{
+	"year": "2019. 2",
+	"name": "이영훈",
+	"degree": "박사",
+	"image": "yhoon",
+	"job": "LG전자",
+	"dissertation": "Data driven user experience analysis"
+},
+{
 	"year": "2018. 2",
 	"name": "김미숙",
 	"degree": "박사",
@@ -146,6 +155,28 @@
 	"job": "Chaintob 대표",
 	"job_address": "http://www.chaintob.com",
 	"dissertation": "Ensemble Learning Algorithm using Virtual Data"
+},
+{
+	"year": "2019. 2",
+	"name": "강연국",
+	"degree": "석사",
+	"image": "ykkang",
+	"job": "삼성전자 DS부문",
+	"dissertation": "강화학습을 이용한 제조 물류자동화 시스템 경로 제어 파라미터 최적화"
+},
+{
+	"year": "2019. 2",
+	"name": "박노일",
+	"degree": "석사",
+	"image": "nohil",
+	"job": "서울대학교 박사과정",
+	"dissertation": "어텐션 메커니즘을 활용한 특허 문서의 다중 레이블 분류"
+},
+{
+	"year": "2019. 2",
+	"name": "Benjamin Léger",
+	"degree": "석사",
+	"image": "benjamin"
 },
 {
 	"year": "2018. 8",

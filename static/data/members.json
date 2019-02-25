@@ -20,16 +20,6 @@
     "highschool": "Kukje, 2005" 
     },
     {
-    "image": "yhoon",
-    "name": "이 영 훈 (Younghoon Lee)",
-    "exp.gra.": "2019. 2",
-    "email": "yhoon.lee at dm.snu.ac.kr",
-    "experience": "LG Electronics, 2009-",
-    "M.S.": "Industrial Engineering, Seoul Nat'l Univ., 2009",
-    "B.S.": "Industrial Engineering, Seoul Nat'l Univ., 2007",
-    "highschool": "Deajin, 2003" 
-    },
-    {
     "image": "jwahn",
     "name": "안 진 원 (Jinwon An)",
     "exp.gra.": "2019. 8",
@@ -65,10 +55,8 @@
     "email": "hunsik at dm.snu.ac.kr",
     "B.S.": "Industrial & Management Engineering, POSTECH, 2015",
     "highschool": "Chungbuk Science, 2010"       
-    }
-],
-"phd_students" : [
-    {
+    },
+	{
     "image": "sungwhan",
     "name": "전 성 환 (Sung Whan Jeon)",
     "exp.gra.": "2021. 2",
@@ -86,7 +74,9 @@
     "M.S.": "Economics, Cornell Univ., 2013",
     "B.S.":  "Economics, Univ. of Chicago, 2008",
     "highschool": "New Hampton School, 2004"
-    },
+    }
+],
+"phd_students" : [
     {
     "image": "sj.kang",
     "name": "강 성 진(Sungjin Kang)",
@@ -119,6 +109,17 @@
     "B.S.":  "Industrial & Management Engineering, Korea Univ, 2016",
     "highschool": "Gyeongnam Science, 2012"
     },
+	{
+    "image": "yongheekim",
+    "name": "김 용 희 (Yong Hee Kim)",
+    "exp.gra.": "2023. 2",
+    "email": "yhk at dm.snu.ac.kr",
+    "experience": "S&P Global, 2016-2019",
+    "areas of interest": "Deep learning, Natural Language Processing",
+    "M.S.":  "Financial Engineering, UCLA, 2015",
+    "B.S.":  "Chemical Engineering, University of Texas at Austin, 2013",
+    "highschool": "Creekview, 2009"
+    },
     {
     "image": "hy.lee",
     "name": "이 하 연 (Ha yeon Lee)",
@@ -134,54 +135,33 @@
     "name": "박 지 혜 (Jihye Park)",
     "exp.gra.": "2023. 8",
     "email": "jihyeparkk at dm.snu.ac.kr",
-	"homepage" : "https://sophia-jihye.github.io/",
     "experience": "Bankware Global, 2017-2018; Hankook Research, 2016; Internship at Linewalks, 2014",
     "areas of interest":"Machine Learning",
     "B.S.":  "Business, Korea Univ., 2016",
     "highschool": "Yeonmu, 2012"
+    },
+    {
+    "image": "sungyeonlim",
+    "name": "임 성 연 (Sung Yeon Lim)",
+    "exp.gra.": "2024. 2",
+    "email": "sylim2357 at dm.snu.ac.kr",
+    "experience": "HSBC, 2016-17; BNP Paribas, 2017-2018; HSBC, 2018-2019",
+    "areas of interest":"Statistical Learning, Reinforcement Learning, Time Series Analysis",
+    "B.S.":  "Mathematics with Statistics for Finance, Imperial College London, 2016",
+    "highschool": "Royal Grammar School Guildford, 2013"
+    },
+    {
+    "image": "hyunsangcho",
+    "name": "조 현 상 (Hyunsang Cho)",
+    "exp.gra.": "2024. 2",
+    "email": "brianhscho at dm.snu.ac.kr",
+    "experience": "Analysis Group, Inc., 2016-2018",
+    "areas of interest":"Machine Learning, Text Mining",
+    "B.S.":  "Statistics, Carnegie Mellon, 2016",
+    "highschool": "Edgewood High, 2009"
     }
 ],
 "ms_students": [
-    {
-    "image": "ykkang",
-    "name": "강 연 국 (Younkook Kang)",
-    "exp.gra.": "2019. 2",
-    "email": "ykkang at dm.snu.ac.kr",
-    "experience":"Samsung Electronics, 2009-",
-    "areas of interest":"Machine Learning, Manufacturing System",
-    "B.S.":  "Industrial Engineering, Korea Univ, 2008",
-    "highschool": "Bundang, 2000"
-    },
-    {
-    "image": "nohil",
-    "name": "박 노 일 (Nohil Park)",
-    "exp.gra.": "2019. 2",
-    "email": "noil.park at dm.snu.ac.kr",
-    "experience":"Internship at INIMAX Inc.",
-    "areas of interest":"Machine Learning, Text Mining",
-    "B.S.":  "Industrial & Systems Engineering, KAIST, 2017",
-    "highschool": "Anyang Foreign Language, 2010"
-    }, 
-    {
-    "image": "benjamin",
-    "name": "Benjamin Léger",
-    "exp.gra.": "2019. 2",
-    "email": "benjamin at dm.snu.ac.kr",
-    "experience":"Internship at Inserm Toulouse (French National Institute of Health and Medical Research)",
-    "areas of interest":"Statistical learning, Text Mining",
-    "B.S.":  "Statistical modeling and datascience, INSA de Toulouse",
-    "highschool": "Chevrollier (France), 2012"
-    },
-    {
-    "image": "jy.kim",
-    "name": "김 지 영 (Jeeyung Kim)",
-    "exp.gra.": "2019. 8",
-    "email": "jeeyung.kim at dm.snu.ac.kr",
-    "experience": "Internship at VUNO, 2016.10-2016.12",
-    "areas of interest":"Deep Learning",
-    "B.S.":  "Energy Resources Engineering, Seoul Nat'l Univ., 2017",
-    "highschool": "Incheon Girls', 2012"
-    },
     {
     "image": "sw.lyu",
     "name": "류 성 원 (Sungwon Lyu)",
@@ -260,16 +240,6 @@
     "highschool": "Sangsan, 2009"
     },
     {
-    "image": "hs.kim",
-    "name": "김 현 성 (Hyunsung Kim)",
-    "exp.gra.": "2020. 8",
-    "email": "hyunsung.kim at dm.snu.ac.kr",
-    "experience": "Fitogether Inc., 2018-; Football Industry Academy, K League, 2018; Internship at Knowre, 2015",
-    "areas of interest":"Sports Data Analytics, Pattern Recognition, Statistical Learning",
-    "B.S.":  "Mathematics, POSTECH, 2018",
-    "highschool": "Jeonju Hanil, 2012"
-    },
-    {
     "image": "jm.sun",
     "name": "선 지 민 (Jimin Sun)",
     "exp.gra.": "2020. 8",
@@ -278,6 +248,35 @@
     "areas of interest":"Deep Learning, Natural Language Processing",
     "B.S.":  "Psychology, Seoul Nat’l Univ., 2018",
     "highschool": "Hanyoung foreign language, 2013"
+    },
+    {
+    "image": "sangyeopkim",
+    "name": "김 상 엽 (Sangyeop Kim)",
+    "exp.gra.": "2021. 2",
+    "email": "pdg01117 at dm.snu.ac.kr",
+    "areas of interest":"Manufacturing System, Machine Learning",
+    "B.S.":  "Industrial Engineering, Seoul Nat'l Univ., 2019",
+    "highschool": "Donga, 2013"
+    },
+    {
+    "image": "sanghonam",
+    "name": "남 상 호 (Sangho Nam)",
+    "exp.gra.": "2021. 2",
+    "email": "sangho.nam at dm.snu.ac.kr",
+    "areas of interest":"Statistical Learning, Time Series Analysis",
+	"experience": "Recobell (Ad-tech Startup) - 2017 ~ 2019; LG Chem - 2015 ~ 2016",
+    "B.S.":  "Economics, Yonsei Univ., 2015",
+    "highschool": "Daesung, 2007"
+    },
+    {
+    "image": "seoyoungpak",
+    "name": "박 서 영 (Seoyoung Pak)",
+    "exp.gra.": "2021. 2",
+    "email": "elainespak at dm.snu.ac.kr",
+    "areas of interest": "Machine Learning",
+	"experience": "Booz Allen Hamilton, 2017-2019",
+    "B.S.":  "Public Policy Studies, Duke University, 2017",
+    "highschool": "Daewon foreign language, 2013"
     }
 ],
 
@@ -300,6 +299,26 @@
         "areas of interest":"Speech Recognition, Natural Language Processing",
         "B.S.":  "Industrial & Systems Engineering, KAIST, 2016",
         "highschool": "Seohyun, 2011"
+    },
+    {
+    "image": "jy.kim",
+    "name": "김 지 영 (Jeeyung Kim)",
+    "exp.gra.": "2019. 8",
+    "email": "jeeyung.kim at dm.snu.ac.kr",
+    "experience": "Internship at VUNO, 2016.10-2016.12",
+    "areas of interest":"Deep Learning",
+    "B.S.":  "Energy Resources Engineering, Seoul Nat'l Univ., 2017",
+    "highschool": "Incheon Girls', 2012"
+    },
+    {
+    "image": "hs.kim",
+    "name": "김 현 성 (Hyunsung Kim)",
+    "exp.gra.": "2020. 8",
+    "email": "hyunsung.kim at dm.snu.ac.kr",
+    "experience": "Fitogether Inc., 2018-; Football Industry Academy, K League, 2018; Internship at Knowre, 2015",
+    "areas of interest":"Sports Data Analytics, Pattern Recognition, Statistical Learning",
+    "B.S.":  "Mathematics, POSTECH, 2018",
+    "highschool": "Jeonju Hanil, 2012"
     }    
 ]    
 }
