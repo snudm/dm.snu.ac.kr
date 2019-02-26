@@ -184,7 +184,9 @@
 	"image": "hc2",
 	"degree": "석사",
 	"job": "티맥스",
-	"job_address": "http://www.tmaxsoft.com"
+	"job_address": "http://www.tmaxsoft.com",
+	"dissertation": "그래프 합성곱 신경망을 이용한 3차원 고해상도 메쉬 객체 재생성",
+	"diss_address": "http://snu-primo.hosted.exlibrisgroup.com/82SNU:ALL:82SNU_INST21628439070002591"
 },
 {
 	"year": "2018. 8",
@@ -192,7 +194,9 @@
 	"image": "dmshin",
 	"degree": "석사",
 	"job": "뤼이드",
-	"job_address": "http://www.riiid.co"
+	"job_address": "http://www.riiid.co",
+	"dissertation": "Context-aware recommendation by aggregating user context",
+	"diss_address": "http://snu-primo.hosted.exlibrisgroup.com/82SNU:ALL:82SNU_INST21459121550002591"
 
 },
 {
@@ -201,14 +205,18 @@
 	"image": "mkchung",
 	"degree": "석사",
 	"job": "뷰노",
-	"job_address": "http://www.vuno.co"
+	"job_address": "http://www.vuno.co",
+	"dissertation": "SRAM : saliency aided recurrent attention model for image classification",
+	"diss_address": "http://snu-primo.hosted.exlibrisgroup.com/82SNU:ALL:82SNU_INST21620845830002591"
 },
 {
 	"year": "2018. 8",
 	"name": "김도형",
 	"image": "dhkim",
 	"degree": "석사",
-	"job": "네이버"
+	"job": "네이버",
+	"dissertation": "Multi-level knowledge distillation using attentive tutor for model compression in edge computing",
+	"diss_address": "http://snu-primo.hosted.exlibrisgroup.com/82SNU:ALL:82SNU_INST21620834480002591"
 },
 {
 	"year": "2018. 2",
