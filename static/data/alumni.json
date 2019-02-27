@@ -1,6 +1,13 @@
 [
 {
 	"year": "2019. 2",
+	"name": "김은지",
+	"degree": "박사 수료",
+	"image": "ejkim",
+	"job": "네이버"
+},
+{
+	"year": "2019. 2",
 	"name": "이영훈",
 	"degree": "박사",
 	"image": "yhoon",
