@@ -1,4 +1,4 @@
-"Naive Reinforcement Learning and Return Predictability", Sunghoon Park*, Sungzoon Cho, Review of Finance
+"The Effect of Naive Reinforcement Learning in the Stock Market", Sunghoon Park and Sungzoon Cho, Review of Finance, Vol. 20, Issue 6, Pages 2015-2037, Aug 2016, http://revwfin.org/pub/article-pdf/20/6/12/37023504/rfy029.pdf
 "Product failure prediction with missing data", Seokho Kang, Eunji Kim, Jaewoong Shim, Wonsang Chang, Sungzoon Cho*, International Journal of Production Research, Online  publication, Nov 2017
 "Stock Price Prediction Through Sentiment Analysis of Corporate Disclosures Using Distributed Representation", Misuk Kim, Eunjeong Lucy Park, and Sungzoon Cho, Intelligent Data Analysis Journal, to appear in Vol. 22(6) December, 2018
 "Applying convolution filter to matrix of word-clustering based document representation", Neurocomputing , Younghoon Lee, Jinbae Im, Sungzoon cho, Jinhae Choi, to appear
