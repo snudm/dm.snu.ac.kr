@@ -49,7 +49,11 @@
                     {% if submenu=='admission' %}   
                     <li><a href="{{ url_for('admission', lang_code=locale) }}">{{ 'Admission FAQ' }}</a></li>
                     {% elif submenu=='insight' %}   
-                    <li><a href="{{ url_for('insight', lang_code=locale) }}">{{ 'Insight : Finance Text' }}</a></li>
+                    <li><a href="{{ url_for('insight', lang_code=locale) }}">{{ 'Insights from 10-Ks and News' }}</a></li>
+					{% elif submenu=='journal' %}   
+                    <li><a href="{{ url_for('journal', lang_code=locale) }}">{{ 'Journal since 2010' }}</a></li>
+					{% elif submenu=='conference' %}   
+                    <li><a href="{{ url_for('conference', lang_code=locale) }}">{{ 'Conference since 2010' }}</a></li>
                     {% elif submenu=='students_on_leave_of_absence' %}   
                     <li><a href="{{ url_for('students_on_leave_of_absence', lang_code=locale) }}">{{ 'Students on leave of absence' }}</a></li>
                     {% else %} 

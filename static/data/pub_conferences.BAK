@@ -1,0 +1,239 @@
+"공공데이터를 활용한 머신러닝 기반 상업용 건물 가격 추정_1. 공공데이터,소스데이터 확보 및 전처리", 김상엽, 전성환, 최진우, 강인혜, 이중건, 조성준, 대한산업공학회 2019 춘계공동학술대회, 광주 김대중컨벤션센터, 2019년 4월.
+"공공데이터를 활용한 머신러닝 기반 상업용 건물 가격 추정_2. 건물 매매가 추정 모델 구축", 최진우, 전성환, 김상엽, 강인혜, 이중건, 조성준, 대한산업공학회 2019 춘계공동학술대회, 광주 김대중컨벤션센터, 2019년 4월.
+"비용 효율적인 웨이퍼맵 패턴 분류를 위한 합성곱 신경망의 능동적 학습 방법", 심재웅, 강석호, 조성준, 대한산업공학회 2019 춘계공동학술대회, 광주 김대중컨벤션센터, 2019년 4월.
+"2차원 합성곱 신경망 적용을 위한 다변량 시계열 데이터 재배열 및 반전", 박봉준, 조성준, 대한산업공학회 2019 춘계공동학술대회, 광주 김대중컨벤션센터, 2019년 4월.
+"가변길이의 센서데이터를 활용한 self-attentive 합성곱 신경망 기반 반도체 불량 탐지 및 진단", 김은지, 조성준, 이병언, 조명수, 대한산업공학회 2019 춘계공동학술대회, 광주 김대중컨벤션센터, 2019년 4월.
+"InfoGan을 이용한 해석 가능한 비지도학습 기반 이상치 탐지 방법", 박지혜, 조성준, 한국데이터마이닝학회 2019 춘계학술대회, 서울 코엑스, 2019년 4월.
+"시청률 예측 모델과 이를 활용한 편성 전략 시뮬레이션 시스템 한국 방송 시장 케이스", 안용대, 최성철, 조성준, 한국데이터마이닝학회 2019 춘계학술대회, 서울 코엑스, 2019년 4월.
+"시계열 데이터 예측을 위한 dual-stage attention 기반 rnn모델", 이형욱, 조성준, 한국데이터마이닝학회 2019 춘계학술대회, 서울 코엑스, 2019년 4월.
+"R-CNN based Pose Estimation using Motion-Context Attention", 신승훈, 조성준, 한국데이터마이닝학회 2019 춘계학술대회, 서울 코엑스, 2019년 4월.
+"Dynamic Vehicle Traffic Control Using Deep Reinforcement Learning in Automated Material Handling System", Younkook Kang, Sungwon Lyu, Jeeyung Kim, Bongjoon Park, Sungzoon Cho, AAAI-19 Student Abstract and Poster Program, January 27 – February 1, 2019, Honolulu, Hawaii, USA
+"SARN: Relational Reasoning through Sequential Attention", Jinwon An, Sungwon Lyu, Sungzoon Cho, NIPS Workshop on Relational Representation Learning, December 8, 2018, Montréal, Canada
+"빅데이터 이노베이션" 한국SCM학회 2018 춘계학술대회 기조연설, 조성준, 2018년 11월 13일, 서울 대한상공회의소
+"빅데이터 밸류 창출" 대한산업공학회, 2018 춘계학술대회 기조연설, 조성준, 2018년 11월 9일, 서울 한양대학교
+"Vehicle Flow Control Using Reinforcement Learning on Manufacturing Environment"  Younkook Kang, Sungzoon Cho, INFORMS Anual Meeting 2018, November 4 - 7, 2018, Phoenix, USA
+"Big Data Innovation in Korea Manufacturing", Sungzoon Cho, Advances in Production Management Systems, APMS 2018 Keynote Speech, August 26-30, Seoul National University, Seoul, Korea 
+"Building Industry Network Based on Business Text: Corporate Disclosures and News", Sung Whan Jeon, Hye Jin Lee, Sungzoon Cho, Dec. 2017, IEEE BigData 2017, Boston, USA.
+"코스피 상장 기업의 다중 레이블 분류를 위한 산업군 키워드 사전의 구축 : 단어 임베딩 공간 사이의 선형변환 학습을 중심으로", 민동영, 조성준, 대한산업공학회 2017 추계학술대회.
+“다변량 시계열 변수 중요도 추출 및 분류 성능 향상을 위한 컨볼류션 필터", 김은지, 조성준, 한국BI데이터마이닝학회 2017 추계학술대회.
+“표상학습을 통한 연속형 변수의 다변수적 이산화 방법", 김태욱, 조성준, 한국BI데이터마이닝학회 2017 추계학술대회.
+"반도체 제조 환경에서 convolutional neural network 기반 반송로봇 주행 정체 예측", 강연국, 조성준, 한국BI데이터마이닝학회 2017 추계학술대회.
+“태그 정보와 copy mechanism을 활용한 수치 텍스트의 문서 요약", 송석민, 조성준, 한국BI데이터마이닝학회 2017 추계학술대회.
+“Distance-based self-attention network for natural language inference", 임진배, 조성준, 한국BI데이터마이닝학회 2017 추계학술대회.
+“Efficient topic modeling for single topic documents with clustering and lasso regression", 신훈식, 김현중, 조성준, 한국BI데이터마이닝학회 2017 추계학술대회.
+"Industry Network Analysis Using News Curation”, 이혜진, 전성환, 조성준, 한국BI데이터마이닝학회 2017 추계학술대회.
+"Contextual News Curation Using Distributed Representation of Corporate Disclosures", 이혜진, 전성환, 민동영, 조성준, 한국BI데이터마이닝학회 2017 춘계공동학술대회.
+"Predicting the Energy Consumption of a Building Using Recurrent Neural Network", 박인범, 조성준, 대한산업공학회 2017 춘계공동학술대회.
+"데이터 기반 영화 개봉주 토요일 관객수 예측", 안용대, 안진원, 조성준, 대한산업공학회 2017 춘계공동학술대회.
+"Automatic Classification of Securities using Gaussian Mixture Model of the 10-Ks with Marginalized Stacked De-noising Auto-Encoder", 안용대, 조성준, 대한산업공학회 2017 춘계공동학술대회.
+"Compilation of Financial Word List by Employing Latent Aspect Rating Analysis on Financial News", 이혜진, 조성준, 대한산업공학회 2017 춘계공동학술대회.
+"Representation Learning Based Categorical Data Imputation", 김태욱, 안진원, 조성준, 대한산업공학회 2017 춘계공동학술대회.
+"딥러닝을 이용한 신용카드 사기 탐지", 김은지, 이제혁, 신훈식, 양호성, 조성준 (서울대학교 산업공학과), 남승관, 송영미, 윤정아, 김종일 (코리아크레딧뷰로), 정우호, 라경모, 고강신 (신한카드), 대한산업공학회 2017 춘계공동학술대회.
+"Automatic Integration of Securities using Hierarchical Clustering of 10-Ks", Hoseong Yang, Hye Jin Lee, Eugene Cho, and Sungzoon Cho, IEEE Big NLP, Dec. 2016, Washington DC, USA
+"Sequential Root Cause Identification in High Dimensional Time-series Sensor Data", Eunji Kim,Hyun-chang Cho, Jinwon An, Sungzoon Cho, Byeongeon Lee, Kyungchun Li, Taehoon Kim, ACML Workshop on Learning on Big Data, Nov. 2016, Hamilton, New Zealand
+"Detection of emerging hot topics by using keyword extraction", 신훈식, 조성준, 한국BI데이터마이닝학회 2016 추계학술대회.
+"Music Recommendation Using Distributed Representation of Lyric and User Interpretation", 박인범, 조성준, 한국BI데이터마이닝학회 2016 추계학술대회
+"자소단위의 한국어 영화리뷰에 Convolutional Neural Network를 이용한 감성 분석", 문지형, 조성준, 한국BI데이터마이닝학회 2016 추계학술대회
+"통계 기반 한국어 명사 추출기", 김현중, 조성준, 한국BI데이터마이닝학회 2016 추계학술대회.
+"노이즈 문서를 위한 통계 기반 한국어 띄어쓰기 교정기", 김현중, 황성구, 신윤하, 조한석, 김종윤, 조성준, 한국BI데이터마이닝학회 2016 추계학술대회.
+"Hand Motion Identification from Electroencephalography Recordings Using Recurrent Neural Network", Jin Won An, Sungzoon Cho, INFORMS, Nov. 2015, Philadelphia, USA
+"Assessing kernel-based anomaly detection algorithms", Hyun-Chang Cho, Sungzoon Cho, INFORMS, Nov. 2015, Philadelphia, USA
+"Automatic sentiment words extraction from online reviews for product comparison", Eunji Kim, Hyun-Chang Cho, Sungzoon Cho, INFORMS, Nov. 2015, Philadelphia, USA
+"Virtual Metrology for Copper Clad Laminate Manufacturing", Misuk Kim, Seokho Kang, Jehyuk Lee, Hyun-Chang Cho, Sungzoon Cho, INFORMS, Nov. 2015, Philadelphia, USA
+AS 서비스 데이터를 활용한 제품 불량 원인 도출, 강석호, 김은지, 심재웅, 조성준, 한국BI데이터마이닝학회 2015 추계학술대회.
+온라인/오프라인 시장조사 데이터를 이용한 영화 개봉 주말 관객수 예측, 안용대, 박성훈, 안진원, 조성준, 한국BI데이터마이닝학회 2015 추계학술대회.
+Distributed Representation of Documents with Explicit Explanatory Features, 김한결, 김현중, 조성준, 한국BI데이터마이닝학회 2015 추계학술대회.
+Embedding categorical and numerical mixed data into continuous space for measuring distance, 김현중, 김미숙, 김한결, 조성준, 한국BI데이터마이닝학회 2015 추계학술대회.
+Mapping words and documents into same topic space with neural encoder, 김현중, 김한결, 조성준, 한국BI데이터마이닝학회 2015 추계학술대회.
+Finding topically relevant terms from learning distributed representation, 김현중, 김한결, 조성준, 한국BI데이터마이닝학회 2015 추계학술대회.
+Visualization of topological structure, 김현중, 김한결, 조성준, 한국BI데이터마이닝학회 2015 추계학술대회.
+Brand2Vec : Distributed representation of brands and applications, 양호성, 조성준, 한국BI데이터마이닝학회 2015 추계학술대회.
+소수 범주 데이터 영역의 확장: 데이터 불균형 해결을 위한 oversampling 기법, 심재웅, 조성준, 한국BI데이터마이닝학회 2015 춘계학술대회.
+소비자가 원하는 주요 기능 및 특징 파악을 위한 온라인 리뷰내 등장단어의 제품군별 정서 분석, 김은지, 조현창, 조성준, 대한산업공학회 2015 춘계공동학술대회.
+Fast novelty detection algorithm and its use in early fault detection for manufacturing process, 고태훈, 김현중, 강필성, 조성준, 대한산업공학회 2015 춘계공동학술대회.
+고속 문서 군집화를 위한 의사 단어 벡터 표현, 김현중, 박은정, 김미숙, 김한결, 강필성, 조성준, 대한산업공학회 2015 춘계공동학술대회.
+고차원 시계열 데이터를 통한 엔진의 고장 엔진 진단, 고태훈, 이제혁, 조현창, 조성준, 2015년 4월, 대한산업공학회 2015 춘계공동학술대회.
+"Predicting final yield in semiconductor manufacturing using wafer test data", Seokho Kang, Sungzoon Cho, Daewoong An, Jaeyoung Rim, Woonghee Kim, 2015 INFORMS Conference on Business Analytics & Operations Research, April 2015, Huntington Beach, CA, USA.
+"Knowledge Discovery in Pre-assembly Design Review Database", Minhoe Hur, Jiwon Yang, Eunji Kim, Sungzoon Cho,  March 2015, The 7th International Conferences on Pervasive Patterns and Applications, Nice, France.
+"Sales Patterns Clustering Analysis on Seasonal Product Sales Data", Soojin Kim, Jiwon Yang, Sungzoon Cho, Jan 2015, International Conference on Neural Networks and Learning Networks, Singapore, SG.
+2형 당뇨병 환자의 진단 및 처방 정보를 이용한 지식 발견 모델 구축, 고태훈, 강석호, 이수진, 조성준, 유경상, 2014년 11월, 대한산업공학회 2014 추계학술대회.
+Machine Learning-based Drug Failure Prediction for Type 2 Diabetes, 강석호, 고태훈, 조성준, 이수진, 유경상, 2014년 11월, 대한산업공학회 2014 추계학술대회.
+데이터마이닝 알고리즘을 위한 효율적 k-NN Graph 계산, 김현중, 강필성, 조성준, 2014년 11월, 대한산업공학회 2014 추계학술대회.
+Hybrid approach with centroid based classification and SVM for multi-class text classification, 심재웅, 김은지, 강석호, 조성준, 2014년 11월, 한국BI데이터마이닝학회 2014 추계학술대회.
+Multiclass Object Categorization using Ensemble methods, 안진원, 조성준, 2014년 11월, 한국BI데이터마이닝학회 2014 추계학술대회.
+Locality Sensitive Hashing for Nearest Neighbor Problem, 김현중, 조성준, 2014년 11월, 한국BI데이터마이닝학회 2014 추계학술대회.
+Tutorial Data Science를 위한 주요 프로그래밍 언어에 대한 평가, 고태훈, 조성준, 2014년 11월, 한국BI데이터마이닝학회 2014 추계학술대회.
+한국어 형태소 분석기의 현황 및 성능 비교, 박은정, 조성준, 이상구, 2014년 11월, 한국BI데이터마이닝학회 2014 추계학술대회.
+웹기반 한국어 워드클라우드 생성기, 박은정, 조성준, 서진욱, 2014년 11월, 한국BI데이터마이닝학회 2014 추계학술대회.
+KoNLPy: 쉽고 간결한 한국어 정보처리 파이썬 패키지, 박은정, 조성준, 2014년 10월, 제26회 한글 및 한국어 정보처리 학술대회.
+연설문 텍스트마이닝을 통한 미국 연방공개시장위원회 인사들의 Dual Mandate 측면의 통화정책 성향 분석, 전영환, 박성훈, 조성준, 2014년 5월, 2014 대한산업공학회/한국경영과학회 춘계공동학술대회.
+User Perception Based Music Map: Resolving issues in collaborative tagging system, 한송원, 조성준, 2014년 5월, 2014 대한산업공학회/한국경영과학회 춘계공동학술대회.
+A density-based validation method for support vector data description, 강석호, 양지원, 조성준, 2014년 5월, 2014 대한산업공학회/한국경영과학회 춘계공동학술대회.
+Kernel PCA 기법을 이용한 Rotation Forest 성능 향상, 심재웅, 강석호, 조성준, 2014년 5월, 2014 대한산업공학회/한국경영과학회 춘계공동학술대회.
+"Generating Ideas from Hidden Customer Needs in Social Media for New Product Development Process", Taehoon Ko, Minhoe Hur, Ilsun Rhiu, Sung Hee Ahn, Sungzoon Cho, Chul Chung, Myung Hwan Yun, Jun 2014, INFORMS Conference on the Business of Big Data, San Jose, CA, USA.
+"Bridging the semantic gap in multimedia retrieval with topic extraction from user reviews search", Eunjeong Park, Hyunjoong Kim, Seokho Kang, Sungzoon Cho, Yongki Lee, Jun 2014, INFORMS Conference on the Business of Big Data, San Jose, CA, USA.
+A New Approach to Recommend Novel Items, 구윤성, 조성준, 2013년 11월, 2013 한국BI데이터마이닝학회 추계학술대회.
+MovieRank: Combining Structural and Feature information Ranking Measure, 김현중, 허민회, 강필성, 조성준, 2013년 11월, 2013 한국BI데이터마이닝학회 추계학술대회.
+트위터에서의 사용 목적에 따른 사용자 분류: 트위터 한국 사용자를 중심으로, 민헌기, 조성준, 2013년 11월, 2013 한국BI데이터마이닝학회 추계학술대회.
+연설문 텍스트마이닝을 통한 미국 공개시장위원회 주요 인사들의 통화정책 성향 분석, 전영환, 박성훈, 조성준, 2013년 11월, 2013 한국BI데이터마이닝학회 추계학술대회.
+계절적 변동을 반영한 키워드 광고 단어 가치평가, 김홍태, 조성준, 2013년 11월, 2013 한국BI데이터마이닝학회 추계학술대회.
+A Hybrid Genetic Algorithm for Accelerating Feature Selection and Parameter Optimization of SVM, 강석호, 조성준, 2013년 11월, 2013 한국BI데이터마이닝학회 추계학술대회.
+"Understanding HVAC usage logs for energy saving decision making", Jooseoung Park, Seung-Kyung Lee, Seokho Kang, Young Soo Kim, Ji Young Kim, Dong Seock Choi and Sungzoon Cho, October 2013, 17th International Conference on Industrial Engineering Theory, Applications and Practice, Pusan National University, Busan, Korea, 
+"SELECTING AN OPTIMAL SET OF KEYWORDS FOR SEARCH ENGINE ADVERTISING", Minhoe Hur, Songwon Han, Hongtae Kim and Sungzoon Cho, October 2013, 17th International Conference on Industrial Engineering Theory, Applications and Practice, Pusan National University, Busan, Korea
+"Improving word segmentation with unlabeled data", Hyun-joong Kim, Sungzoon Cho, and Pilsung Kang, July 2013, The 2nd International Symposium on System Informatics and Engineering (ISSIE2013), Xian, China.
+"A hierarchical Bayesian model to predict Box-office audience of motion pictures", Minhoe Hur, Sungzoon Cho, and Pilsung Kang, July 2013, The 2nd International Symposium on System Informatics and Engineering (ISSIE2013), Xian, China.
+오피니언 마이닝을 이용한 영화 흥행의 예측, 허민회, 강필성, 조성준, 2013년 5월, 2013 대한산업공학회·한국경영과학회 춘계공동학술대회.
+프로그램 리뷰 사이트와 Twitter를 통한 TV 프로그램 인기도 비교, 고태훈, 박은정, 김현중, 강필성, 조성준, 2013년 5월, 2013 대한산업공학회·한국경영과학회 춘계공동학술대회.
+비교사학습을 이용한 한국어 단어 추출, 김현중, 조성준, 2013년 5월, 2013 대한산업공학회·한국경영과학회 춘계공동학술대회.
+단어 추출과 스트링 매치를 이용한 수기 입력 텍스트의 노이즈 처리, 김현중, 조성준, 2013년 4월, 2013 한국BI데이터마이닝학회 춘계학술대회.
+영화 관객의 평가를 이용한 긍정 및 부정 표현 분류 방법, 허민회, 양지원, 강필성, 조성준, 2013년 4월, 2013 한국BI데이터마이닝학회 춘계학술대회.
+회귀분석에 기반한 시스템에어컨 고장예지 방법론 개발, 강석호, 이승경, 박주성, 조성준, 2012년 12월, 2012 한국BI데이터마이닝학회 추계학술대회.
+Touch Devices에서의 사용자 인증 플랫폼 성능평가, 민헌기, 조성준, 2012년 11월, 2012 대한산업공학회 추계학술대회.
+회귀분석에 기반한 시스템에어컨 고장예지 방법론 개발, 강석호, 이승경, 박주성, 조성준, 2012년 11월, 2012 한국경영과학회 추계학술대회.
+Semi-supervised support vector regression을 위한 unlabeled 복원 및 학습 데이터 선택 방법론, 김동일, 강필성, 이승경, 조성준, 2012년 11월, 2012 한국경영과학회 추계학술대회.
+k-인접 이웃 회귀문제의 확률적 지역 재구축, 이승경, 조성준, 강필성, 2012년 11월, 2012 한국경영과학회 추계학술대회.
+Latent Semantic Analysis by CUR matrix decomposition, 허민회, 조성준, 2012년 11월, 2012 한국경영과학회 추계학술대회.
+Touch Devices에서의 사용자 인증 플랫폼 성능평가: iPhone 4 기반의 터치 키보드 입력을 통한 인증방식 이용, 민헌기, 박성훈, 박주성, 조성준, 김형민, 서용혁, 2012년 11월, 2012 한국경영과학회 추계학술대회.
+TV프로그램 정보 기반 자동녹화 방법론 개발, 고태훈, 박은정, 김현중, 조성준, 정철, 윤명환, 2012년 11월, 2012 한국경영과학회 추계학술대회.
+"Hybrid Approach for Recommendation System with Content-based Features from Online Reviews", Minhoe Hur, Sungzoon Cho, October 2012, 2012 INFORMS Annual Meeting, Phoenix, Arizona, USA. 
+"Two-phase KNN algorithm on sub-trajectory similarity search for efficient ballistic launching point estimation", Hyunjoong Kim, Soojin Kim, and Sungzoon Cho, July 2012, 2012 Industrial Conference on Data Mining, Berlin, Germany. 
+"Feature Selection for Identifying High Defect Density Sensors in Semiconductor Manufacturing", Eunjeong Park, Dongil Kim, Taehook Ko, Sungzoon Cho, Young-Hak Lee, June 2012, 2012 INFORMS International, Beijing, China. 
+"Study on Man-hour Prediction System for Shipbuilding", Minhoe Hur, Seung-kyung Lee, Bongseok Kim, Sungzoon Cho, Dongha Lee, Daehyung Lee, June 2012, 2012 INFORMS Annual Meeting, Beijing, China. 
+"클러스터링을 이용한 수기 입력 텍스트의 노이즈 처리", 김현중, 김동일, 정원열, 조성준, 2012년 5월, 2012 대한산업공학회·한국경영과학회 춘계공동학술대회.
+"Semi-supervised support vector regression을 위한 학습 데이터 선택", 김동일, 이승경, 조성준, 2012년 5월, 2012 대한산업공학회·한국경영과학회 춘계공동학술대회.
+"2단계 부분궤적 유사도를 이용한 효율적인 탄도 궤도 및 발사지점 추정", 김수진, 김현중, 조성준, 2012년 5월, 2012 대한산업공학회·한국경영과학회 춘계공동학술대회.
+"Parameter Adaption for Multivariate Statistical Process Control in Semiconductor Manufacturing using Genetic Algorithm", 박은정, 박주성, 양지원, 조성준, 2012년 5월, 2012 대한산업공학회·한국경영과학회 춘계공동학술대회.
+"영화관의 상영 영화 포트폴리오 최적화: 스크린 수를 중심으로", 2012년 5월, 2012 대한산업공학회·한국경영과학회 춘계공동학술대회.
+"관객의 관람평 분석을 통한 영화의 특성 추출", 김현중, 조성준, 2012년 4월, 2012 한국BI데이터마이닝학회 춘계학술대회.
+"관객의 평가를 이용한 개봉 영화의 상영 스크린 수 결정 방법", 허민회, 박성훈, 조성준, 2012년 4월, 2012 한국BI데이터마이닝학회 춘계학술대회.
+"Robust Segmentation for Sensor Data in Semiconductor Manufacturing", 박은정, 박주성, 양지원, 조성준, 2012년 4월, 2012 한국BI데이터마이닝학회 춘계학술대회. 
+"The Estimation Method for the Starting Point of Moving Objects Using the Sub Trajectory Similarity", Weon-Yeol Jeong, Sungzoon Cho, December 2011, 2011 International Conference of Data Mining, Phuket, Thailand. 
+"Semi-supervised Support Vector Regression을 위한 학습 패턴 선택", 김동일, 이승경, 조성준, 2011년 12월, 2011 한국BI데이터마이닝학회 추계학술대회. 
+"조선업의 블록 생산 프로세스 마이닝", 이승경, 김봉석, 허민회, 조성준, 박성규, 이대형, 2011년 12월, 2011 한국BI데이터마이닝학회 추계학술대회. 
+"데이터마이닝 기법을 활용한 전력 사용 관리 서비스 개발, 고태훈, 강석호, 조성준, 2011년 12월, 2011 한국BI데이터마이닝학회 추계학술대회. 
+"부분궤적의 유사성을 이용한 이동객체의 시점 추정방법", 정원열, 조성준, 2011년 12월, 2011 한국BI데이터마이닝학회 추계학술대회. 
+"이상치 탐지기법을 이용한 가상계측 데이터 품질 향상", 김동일, 강필성, 이승경, 강석호, 도승용, 조성준, 2011년 12월, 2011 한국BI데이터마이닝학회 추계학술대회. 
+"선수 능력치를 고려한 축구 경기의 승률 예측: 2010년 월드컵 경기를 중심으로", 허민회, 조은상, 조성준, 2011년 12월, 2011 한국BI데이터마이닝학회 추계학술대회. 
+"SVDD 기반 반도체 bias trimming 데이터 군집화", 박용원, 강석호, 조성준, 2011년 12월, 2011 한국BI데이터마이닝학회 추계학술대회. 
+"Keystroke Dynamics Based User Verification - Who is Typing Now?" Pilsung Kang, Sungzoon Cho, November 2011, INFORMS Annual Meeting 2011, Charlotte, North Carolina, USA. 
+"Understanding Inspection Reports of Marine Structures Using Text Mining" Seungkyung Lee, Bongsuk Kim, Minhoe Hur, Sungzoon Cho, Dongha Lee, Deahyung Lee, November 2011, INFORMS Annual Meeting 2011, Charlotte, North Carolina, USA. 
+"Influence of Organizational Tenure on Military Team Performance" Soojin Kim, Seokho Kang, and Sungzoon Cho, November 2011, International Military Testing Association, Bali, Indonesia. 
+"궤적데이터마이닝을 이용한 이동객체의 시점 추정에 관한 연구", 정원열, 조성준, 2011년 11월, 2011 대한산업공학회 추계학술대회. 
+"Production time prediction using a datamining approach", 김봉석, 이승경, 허민회, 조성준, 전희경, 이대형, 2011년 11월, 2011 대한산업공학회 추계학술대회. 
+"조선업의 블록 이동 transaction log 기반의 process mining", 이승경, 김봉석, 허민회, 조성준, 박성규, 이대형, 2011년 11월, 2011 대한산업공학회 추계학술대회. 
+"데이터마이닝 기법을 활용한 전력 사용 관리 서비스 개발", 고태훈, 강석호, 조성준, 2011년 11월, 2011 대한산업공학회 추계학술대회. 
+"처분효과와 주가의 관계", 박성훈, 조성준, 2011년 11월, 2011 대한산업공학회 추계학술대회. 
+"선박 건조 실투입 시수 능률 예측", 허민회, 이승경, 김봉석, 조성준, 이동하, 이대형, 2011년 11월, 2011 대한산업공학회 추계학술대회. 
+"자유로운 문자열을 이용한 키스트로크 다이나믹스 사용자 인증 : iPhone과 iPad", 박성훈, 박주성, 조성준, 2011년 11월, 2011 대한산업공학회 추계학술대회. 
+"베이지안 모형을 이용한 합격점수 예측 온라인 서비스 : 7급 서울직 국가고시 사례를 중심으로", 허민회, 조성준, 2011년 10월, 2011 한국경영과학회 추계학술대회.
+"소셜미디어 influencer 파악을 위한 모델링", 양지원, 조성준, 2011년 10월, 2011 한국경영과학회 추계학술대회. 
+"영화 평점을 바탕으로 한 최적 스크린 수 결정", 염정근, 조성준, 2011년 10월, 2011 한국경영과학회 추계학술대회. 
+"재무제표의 선형근사를 활용한 기업 부도 예측 정확도 향상", 이선영, 조성준, 2011년 10월, 2011 한국경영과학회 추계학술대회. 
+"텍스트마이닝을 이용한 구조물 검사문서 분류 시스템 개발", 이승경, 김봉석, 허민회, 이동하, 이대형, 조성준, 2011년 5월, 2011 한국경영과학회/대한산업공학회 춘계공동학술대회. 
+"Integration of Novelty Score Algorithm and Control Chart Technique", Tuerhong Gulanbaier, 김성범, 강필성, 조성준, 2011년 4월, 2011 한국BI데이터마이닝학회 춘계학술대회. 
+"대형마트 관련 마케팅 요인이 신선식품 매출에 미치는 영향력 검증", 허민회, 염정근, 조성준, 2011년 4월, 2011 한국BI데이터마이닝학회 춘계학술대회. 
+"Account Sharing Detection in Long, Free Text Typing", 박성훈, 조성준, 2011년 4월, 2011 한국BI데이터마이닝학회 춘계학술대회. 
+"텍스트마이닝을 이용한 해양 구조물 부분 결함 분류 시스템 개발", 이승경, 김봉석, 허민회, 조성준, 2011년 4월, 2011 한국BI데이터마이닝학회 춘계학술대회. 
+"Random Forest 기법을 사용한 저수율 반도체 웨이퍼 검출 및 혐의 설비 탐색", 고태훈, 김동일, 박은정, 조성준, 2010 12월, 2010 한국 BI데이터마이닝학회 추계 학술대회. 
+"선물 세트 매출액 추이 기반 소매점 클러스터링", 김수진, 양지원, 허민회, 염정근, 조성준, 2010 12월, 2010 한국 BI데이터마이닝학회 추계 학술대회. 
+"아웃소싱 데이터마이닝 환경에서 데이터 보안을 위한 무작위 추출 기반 사영 변환", 강정현, 조성준, 2010 12월, 2010 한국 BI데이터마이닝학회 추계 학술대회. 
+"Hybrid Novelty Score-based Control Charts for Multivariate Process Monitoring", Tuerhong Gulanbaier, 강필성, 조성준, 김성범, 2010 한국 BI데이터마이닝학회 추계 학술대회. 
+"mRFS: Minimum Redundancy Feature Selection Based on a Clustering Filter", 박은정, 조성준, 2010 12월, 2010 한국 BI데이터마이닝학회 추계 학술대회. 
+"새로운 특성이 추출된 임의 텍스트의 키보드 키스트로크 다이나믹스 기반 사용자 인증 및 감시를 위한 다중 Kolmogorov-Smirnov 검정", 박주성, 박성훈, 조성준, 2010 12월, 2010 한국 BI데이터마이닝학회 추계 학술대회. 
+"Free-Text Keystroke Dynamics Authentication Using Reduced Features Based on PC Keyboard" Sunghoon Park, Jooseong Park, and Sungzoon Cho, November 2010, Institute for Operations Research and the Management Sciences, Austin, USA. 
+"Online Learning of Domain Drifting Stream by Relevance Vector Machine Regression" Seung-kyung Lee and Sungzoon Cho, November 2010, Institute for Operations Research and the Management Sciences, Austin, USA. 
+"The Impact of the Frequency and Sentiment of News on Stock Price" Sunghoon Park, Jeonggeun Yeom, and Sungzoon Cho, November 2010, Institute for Operations Research and the Management Sciences, Austin, USA. 
+"Score for Response Modeling Using Support Vector Regression with Pattern Selection" Dongil Kim, and Sungzoon Cho, November 2010, Institute for Operations Research and the Management Sciences, Austin, USA. 
+"반복적인 변수 여과 과정을 거치는 전진 변수 선정", 선미선, 조성준, 2010 11월, 2010 대한산업공학회 추계학술대회. 
+"Feature Selection for Detecting Faulty Equipment Parameters in Semiconductor Manufacturing Process", 박은정, 김동일, 고태훈, 조성준, 2010 11월, 2010 대한산업공학회 추계학술대회. 
+"User authentication based on keystroke analysis of long free texts with a reduced number of features" Sunghoon Park, Jooseong Park, and Sungzoon Cho, June 2010, 2010 Second International Conference on Communication Systems, Networks and Applications, Hong Kong. 
+"The Effect of CBT-Based Attention Training with Computer Games for ADHD Children" Min Sup Shin, Mi Young Park, and Sungzoon Cho, June 2010, 19th World Congress of the International Association for Child and Adolescent Psychiatry and Allied Professions, Beijing, China. 
+"Online Relevance Vector Machine Regression using Kalman Filter", 이승경, 조성준, 2010 6월, 2010 대한산업공학회/한국경영과학회 춘계공동학술대회. 
+"Pattern Selection for Support Vector Regression using Expected Margin", 김동일, 조성준, 2010 6월, 2010 대한산업공학회/한국경영과학회 춘계공동학술대회. 
+"임의의 문자열에 대한 Kolmogorov-Smirnov 테스트 기반 키스트로크 다이나믹스 인증: 터치폰 소프트키보드 이용" 박주성, 박성훈, 강필성, 윤준하, 조성준, 2010 6월, 2010 대한산업공학회/한국경영과학회 춘계공동학술대회. 
+"Hybrid Novelty Score-based Control Charts for Multivariate Process Monitoring", Tuerhong Gulanbaier, 강필성, 조성준, 김성범, 2010 4월, 2010 한국BI데이터마이닝학회 춘계학술대회. 
+"Touch Screen based on Keystroke Dynamics Analysis with Long Free Test", 박주성, 강필성, 박성훈, 윤준하, 조성준, 2010 4월, 2010 한국BI데이터마이닝학회 춘계학술대회. 
+"Improving-Response Modeling by Support Vector Regression with Pattern Selection", 김동일, 조성준, 2010 4월, 2010 한국BI데이터마이닝학회 춘계 학술대회. 
+"K-Means Clustering Seeds Initialization based on Centrality, Sparsity, and Isotropy," P Kang and S Cho, IDEAL 2009, Burgos, Spain, Sep 23-26, 2009.
+"Stylus Pen-based Keystroke Dynamics Analysis", 강필성, 박성훈, 고태훈, 김미숙, 윤준하, 박주성, 조성준, 2009 10월, 2009 대한산업공학회 추계학술대회. 
+"ATM 키스트로크 다이나믹스 기반 사용자 인증", 황성섭, 이승경, 조성준, 2009 한국경영과학회 ? 대한산업공학회 춘계공동학술대회, 부산대학교, 부산, 2009년 5월 22일 ~ 23일.
+"반도체 공정에서의 이상치 탐지 기법을 이용한 불량 웨이퍼 탐지", 김동일, 강필성, 조성준, 이형주, 도승용, 2009 한국경영과학회 ? 대한산업공학회 춘계공동학술대회, 부산대학교, 부산, 2009년 5월 22일 ~ 23일.
+"연속된 주가지수 수익률의 상관관계 변화의 분석", 박성훈, 조성준, 2009 한국경영과학회 ? 대한산업공학회 춘계공동학술대회, 부산대학교, 부산, 2009년 5월 22일 ~ 23일.
+"반도체 공정 관리를 위한 이상치 탐지", 강필성, 김동일, 이승경, 조성준, 한국BI데이터마이닝학회 춘계학술대회, 코엑스, 2009년 4월 9일.
+"데이터 스트림 환경에서 변화하는 컨셉에의 적응을 위한 fuzzy c-means 군집화 기법", 김미숙, 조성준, 한국BI데이터마이닝학회 춘계학술대회, 코엑스, 2009년 4월 9일.
+Bootstrap based Pattern Selection for Support Vector Regression, Dongil Kim and Sungzoon Cho, The Pacific-Asia Conference on Knowledge Discovery and Data Mining (PAKDD08) Lecture Notes in Artificial Intelligence, Vol. 5012, pp. 608-615, PAKDD 2008 Osaka, Japan, May 20-23, 2008.
+"Bootstrap based pattern selection for support vector regression", Dongil Kim and Sungzoon Cho, The 12th Pacific-Asia Conference on Knowledge Discovery and Data Mining (PAKDD 2008), Osaka, Japan, May 2008. 
+"군집 기반의 동적 컨셉 학습 기법", 이승경, 조성준, 춘계 산업공학회, 2008.
+"국지적 선형 재구축을 이용한 이상치 탐지", 강필성, 조성준, 춘계 산업공학회, 2008.
+"Multiple Bootstrap을 이용한 Support Vector Regression 학습 패턴 선택", 김동일, 조성준, 춘계 데이터마이닝 학회, 2008.
+"Customer Data Reconstruction Methods for Response Modeling", Pilsung Kang, Sungzoon Cho and Doug MacLachlan, INFORMS Annual Meeting 2007, Seattle, WA, USA.
+"Identifying Account Sharing Through Keystroke Dynamics Analysis", Seong-seob Hwang and Sungzoon Cho, INFORMS Annual Meeting 2007, Seattle, WA, USA.
+"Classification in Kernel Space with 2-SVDD", 강필성, 조성준, 추계 데이터마이닝 학회, 2007.
+"벡터 자기 회귀와 지지 벡터 회귀에 기반한 시계열 예측 복합 모형", 편도훈, 조성준, 대한 산업공학회 추계 학술대회, 2007.
+"Continual Retraining of Keystroke Dynamics based Authenticator", Pilsung Kang, Seong-seob Hwang and Sungzoon Cho, The 2nd International Conference on Biometrics (ICB 2007), Seoul, Korea, August 2007. 
+"Clustering-based Reference Set Reduction for k-Nearest Neighbor", Seong-seob Hwang and Sungzoon Cho, The 4th International Symposium on Neural Networks (ISNN 2007), Nanjing, China, June 2007. 
+"모의 열처리 기법의 도약 속성을 이용한 입자 군집 최적화의 국소 수렴 방지", 편도훈, 정승우, 하윤정, 조성준, 한국 경영과학회/대한 산업공학회 춘계 공동 학술 대회, 2007.
+"키스트로크 다이나믹스 분석을 이용한 모바일 사용자 인증", 황성섭, 박성훈, 조성준, 한국경영과학회, 2006.
+"응답 모델링에서의 샘플링 기법", 강필성, 조성준, 한국데이터마이닝학회, 2006.
+"k-인접 이웃 분류의 수행속도 향상을 위한 참조 데이터 셋 압축", 박진우, 조성준, 한국데이터마이닝학회, 2006.
+"Data imbalance problem and solutions for response modeling", 이형주, 조성준, 한국데이터마이닝학회, 2006.
+"Pattern Selection for Support Vector Regression based on Sparseness and Variability", Jiyoung Sun and Sungzoon Cho, 2006 International Joint Conference on Neural Networks, Vancouver, Canada, July 2006.
+"Prototype based Outlier Detection", Seungtaek Kim and Sungzoon Cho, 2006 International Joint Conference on Neural Networks, Vancouver, Canada, July 2006.
+"데이터 불균형 해결을 위한 Under-Sampling 기반 앙상블 SVMs", 강필성, 조성준, 대한산업공학회 춘계학술대회, 2006.
+"Novelty Detection Methods for Response Modeling", 이형주, 조성준, 대한산업공학회, 2006.
+"Support Vector Regression에서의 e-tube 기반 학습 패턴 선택", 김동일, 조성준, 한국데이터마이닝학회, 2005.
+"Keystroke Dynamics-based Authentication with Pauses and Cues", 황성섭, 이형주, 조성준, 대한산업공학회, 2005.
+"키스트로크 기반 사용자 인증에서의 인공리듬과 템포 큐의 효과", 강필성, 박성훈, 조성준, 황성섭, 이형주, 한국데이터마이닝학회, 2005.
+"Support Vector Regression에서의 e-tube 기반 학습 패턴 선택", 김동일, 조성준, 대한산업공학회, 2005.
+"GA-SVM Ensemble 모델에서의 Accuracy와 Diversity를 고려한 Feature Subset Population 선택", 성기석, 조성준, 대한산업공학회, 2005.
+"자기구성지도 기반 방법을 이용한 이상 탐지", 이형주, 조성준, 대한산업공학회, 2005.
+"고객평생가치 모델의 통신산업 응용에 관한 연구", 황성섭, 조성준, 대한산업공학회, 2005.
+"인공데이터 첨가를 통한 SOM의 Quantization error 감소", 김승택, 조성준, 대한산업공학회, 2005.
+"Ensemble based on GA Wrapper Feature Selection", Enzhe Yu and Sungzoon Cho, 33rd International Conference on Computers and Industrial Engineering, Cheju, Korea, 2004.
+"Committee Approach For Probability Density Estimation", Hyoung-Joo Lee and Sungzoon Cho, 33rd International Conference on Computers and Industrial Engineering, Cheju, Korea, 2004.
+"Preservation of Neighborhood Relation under Input to Feature Space Mapping in SVM Training", Hyunjung Shin and Sungzoon Cho, 33rd International Conference on Computers and Industrial Engineering, Cheju, Korea, 2004.
+"이상 탐지를 위한 Learning Vector Quantization", 이형주, 조성준, 한국데이터마이닝학회, 2004. 
+"데이터 불균형 문제를 위한 앙상블 기법", 강필성, 조성준, 이형주, 한국데이터마이닝학회, 2004. 
+"Support Vector Regression 학습시간 단축을 위한 패턴 선택", 선지영, 조성준, 한국데이터마이닝학회, 2004.
+"데이터 불균형 문제에서의 SVM 앙상블 기법의 적용", 강필성, 이형주, 조성준, 한국정보과학회, 2004. 
+"SVM을 이용한 트레이딩 모델에서의 패턴 선택", 선지영, 신현정, 조성준, 한국데이터마이닝학회, 2004.
+"Constructing Ensemble Model using Diverse High Quality Members based on Evolutionary Wrapper Feature Selection", 우은철, 조성준, 한국데이터마이닝학회, 2004
+"Biometrics-based Password Identity Verification: Some Practical Issues and Solutions", Enzhe Yu and Sungzoon Cho, XVth Triennial Congress of the International Ergonomics Association, Seoul, Korea, 2003.
+"How Many Neighbors To Consider in Pattern Pre-selection for Support Vector Classifiers?", HyunJung Shin and Sungzoon Cho, International Joint Conference on Neural Networks (IJCNN), Portland, Oregon, U.S.A., 2003.
+"GA-SVM Wrapper Approach for Feature Selection in Keystroke Dynamics Identity Verification" Enzhe Yu and Sungzoon Cho, International Joint Conference on Neural Networks (IJCNN), Portland, Oregon, U.S.A., 2003.
+"Response Models based on Bagging Neural Network Ensembles", Kyoungnam Ha , Sungzoon Cho and Douglas MacLachlan, Marketing Science Conference, Washington D.C., U.S.A., 2003.
+"Trend Detection using Auto-Associative Neural Networks: Intraday KOSPI 200 Futures", Joonmyung Lee, Jinwoo Baek and Sungzoon Cho, IEEE International Conference on Computational Intelligence for Financial Engineering (CIFEr), Hong Kong, 2003.
+"Bankruptcy Prediction for Credit Risk using an Auto-Associative Neural Network in Korean firms", Jinwoo Baek and Sungzoon Cho, IEEE International Conference on Computational Intelligence for Financial Engineering (CIFEr), Hong Kong, 2003.
+"Committee of Gaussian Mixture Models", 이형주, 조성준, 한국데이터마이닝학회, 2003. 
+"Time Complexity Analysis of Fast Pattern Selection Algorithm for SVM", 신현정, 조성준, 한국데이터마이닝학회, 2003. 
+"Strengthen Keystroke Dynamics Identity Verification Capability via Ensemble based on Feature Selection", 우은철, 조성준, 한국데이터마이닝학회, 2003.
+"How to Deal with Large Dataset, Class Imbalance and Binary Output in SVM based Response Model", 신현정, 조성준, 한국데이터마이닝학회, 2003. 림";color:#008000;'>(Best Paper Award) 
+"GA-SVM Wrapper Approach for Feature Subset Selection in Keystroke Dynamics Identity Verification", 우은철, 조성준, 한국뇌학회, 2003.
+"Keystroke Dynamics Identity Verification using 4-Layer Autoassociative Multi-Layer Perceptron", 이형주, 조성준, KIIE-KORMS Spring Joint Meeting, 2002.
+"Decision Boundary Pattern Selection for Support Vector Machines", 신현정, 조성준, 한국데이터마이닝학회, 2002. 
+"k-NN based Pattern Selection for Support Vector Classifiers", 신현정, 조성준, 대한산업공학회, 2002. 
+"자기연상 다층퍼셉트론의 이상 탐지 성능에 대한 실험(Experiments on the Novelty Detection Capability of Auto-Associative Multi-Layer Perceptron)", 이형주, 조성준, 한국데이터마이닝학회, 2002.
+"A Hybrid Intelligent System for Improved Petrophysical Predictions", Patrick Wong, Sungzoon Cho and Tom Gedeon, International Conference on Neural Information Processing, Shanghai, China, 2001.
+"Time to Jump in?: Long Rising Pattern Detection in KOSPI 200 Future using an Auto-Associative Neural Network", Jinwoo Baek and Sungzoon Cho, International Conference on Neural Information Processing, Shanghai, China, 2001.
+"Permeability Prediction from Well Logs and Principal Components", P.M. Wong and Sungzoon Cho, EAGE/SEG Research Workshop on Reservoir Rocks, Pau, France, 2001. 
+"SOM을 이용한 KOSPI 200 선물 데이터의 시각적 탐색", 백진우, 조성준, 한국데이터마이닝학회, 2001.
+"Pattern Selection Using the Bias and Variance of Ensemble", 신현정, 조성준, 한국데이터마이닝학회, 2001. 
+"Pattern Selection for 'Regression' using the Bias and Variance of Ensemble Network", 신현정, 조성준, 대한산업공학회, 2001. 
+"Pattern Selection for 'Classification' using the Bias and Variance of Ensemble Neural Network", 신현정, 조성준, 한국정보과학회, 2001. 림";color:#008000;'>(Best Paper Award) 
+"Brain Dysfunction Diagnosis based on Neuro-psychological Tests", and Sungzoon Cho, Minsub Shin and Seungho Choi, 7th International Conference on Neural Information Processing, Taejon, Korea, 2000.
+"Learning of Classifier Ensemble using Virtual Data", Min Jang and Sungzoon Cho, International Conference on Artificial Intelligence, Las Vegas, U.S.A., 2000.
+"Decision Tree Ensemble Learning using Virtual Data", Min Jang and Sungzoon Cho, INFORMS, Seoul, Korea, 2000.
+"입력 데이터의 분포를 고려한 가상 샘플 생성", 이봉기, 임용업, 조성준, 대한산업공학회, 2000.
+"입력 데이터의 분포를 고려한 가상 샘플 생성", 이봉기, 임용업, 조성준, 한국정보과학회, 2000.
+"Ensemble Learning Algorithm of Specialized Networks", 신현정, 이형주, 조성준, 한국정보과학회, 2000. 
+"자기 연상 학습 신경망과 부호 변수를 이용한 종합 주가지수 '왼쪽 어깨' 패턴 검출", 백진우, 조성준, 한국정보과학회, 2000.
+"Ensemble of Specialized Networks based on Input Space Partition", 신현정, 이형주, 조성준, 한국경영과학회, 2000. 
+"자기 연상 학습 신경망과 부호 변수를 이용한 종합 주가지수 '왼쪽 어깨' 패턴 검출", 백진우, 조성준, 한국경영과학회, 2000.
+"앙상블 학습 알고리즘의 일반화 성능(Generalization Abilities of Ensemble Learning Algorithms)", 신현정, 장민, 조성준, 이봉기, 한국뇌학회, 2000. 
+"앙상블 학습 알고리즘의 일반화 성능 비교: OLA, Bagging, Boosting(Generalization Abilities of Ensemble Learning Algorithms: OLA, Bagging, Boosting)", 신현정, 장민, 조성준, 이봉기, 임용업, 한국정보과학회, 2000.
+"Data Selection based on Bayesian Error Bar", and Sungzoon Cho, Seungho Choi and Patrick Wong, International Conference on Neural Information Processing, Perth, Australia, 1999. 
+"Ensemble Learning using Observational Learning Theory", Min Jang and Sungzoon Cho, International Joint Conference on Neural Networks (IJCNN), Washington D.C., U.S.A., 1999.
+"Characteristics of Autoassociative MLP as a Novelty Detector", Byungho Hwang and Sungzoon Cho, International Joint Conference on Neural Networks (IJCNN), Washington D.C., U.S.A., 1999.
+"Automatic Speed Control in Sintering Plants using Neural Nets", Min Jang and Sungzoon Cho, Institute For Operations Research and the Management Sciences (INFORMS), Cincinnati, U.S.A., 1999.
+"관찰 학습을 이용한 앙상블 알고리즘", 장민, 조성준, JCEANF99, 1999.
+"관찰 학습 알고리즘", 장민, 조성준, 한국정보과학회, 1999. 

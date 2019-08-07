@@ -12,10 +12,11 @@ CONTACT = {
 }
 
 #2016/11/10  교수님 지시로 datamining 탭 삭제
+#2019/08/07  교수님 지시로 reports, software, patent 탭 삭제
 MENUS = [
     'home',
     ('people', ['professor', 'students', 'alumni']),
-    ('research', ['activities', 'journal','conference', 'reports', 'software','patent', 'insight']),
+    ('research', ['activities', 'journal','conference', 'insight']),
     ('projects', ['sponsors', 'FAQ']),
     'education',
     'courses',
