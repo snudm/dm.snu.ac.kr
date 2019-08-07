@@ -54,6 +54,8 @@
                     <li><a href="{{ url_for('journal', lang_code=locale) }}">{{ 'Journal since 2010' }}</a></li>
 					{% elif submenu=='conference' %}   
                     <li><a href="{{ url_for('conference', lang_code=locale) }}">{{ 'Conference since 2010' }}</a></li>
+                    {% elif submenu=='education' %}   
+                    <li><a href="{{ url_for('education', lang_code=locale) }}">{{ 'Training' }}</a></li>
                     {% elif submenu=='students_on_leave_of_absence' %}   
                     <li><a href="{{ url_for('students_on_leave_of_absence', lang_code=locale) }}">{{ 'Students on leave of absence' }}</a></li>
                     {% else %} 
