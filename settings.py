@@ -16,11 +16,11 @@ CONTACT = {
 MENUS = [
     'home',
     ('people', ['professor', 'students', 'alumni']),
+    ('degrees',['PhD','Masters','admission']),
+    'courses',
     ('research', ['activities', 'journal','conference', 'insight']),
     ('projects', ['sponsors', 'FAQ']),
     'education',
-    'courses',
-    ('degrees',['PhD','Masters','admission']),
     'contact'
 ]
 
