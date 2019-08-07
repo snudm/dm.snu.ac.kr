@@ -18,7 +18,7 @@ MENUS = [
     ('people', ['professor', 'students', 'alumni']),
     ('research', ['activities', 'journal','conference', 'insight']),
     ('projects', ['sponsors', 'FAQ']),
-    'training',
+    'education',
     'courses',
     ('degrees',['PhD','Masters','admission']),
     'contact'
