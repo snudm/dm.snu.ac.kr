@@ -40,15 +40,11 @@
       <ul class="nav navbar-nav" style = "padding-left:15px;">
         {% for menu in menus %}
             {% if isinstance(menu, str) %}
-            <li{% if active_page==menu %} class="active"{% endif %}><a href="{{ url_for(menu.lower(), lang_code=locale) }}">{% if menu=='datamining' %} Data Mining {% else %} {{ menu }} {% endif %} </a></li>
+            <li{% if active_page==menu %} class="active"{% endif %}><a href="{{ url_for(menu.lower(), lang_code=locale) }}">{% if menu=='datamining' %} Data Mining {% elif menu=='education' %} Training {% else %} {{ menu }} {% endif %} </a></li>
             {% else %}
             <li class="{% if active_page==menu[0] %}active {% endif %}dropdown">
-                {% if menu[0]=='education' %}
-				<a href="#" class="dropdown-toggle" data-toggle="dropdown">Training<span class="caret"></span></a>
-				{% else %}
-				<a href="#" class="dropdown-toggle" data-toggle="dropdown">{{ menu[0] }}<span class="caret"></span></a>
-                {% endif %}
-				<ul class="dropdown-menu" role="menu">
+                <a href="#" class="dropdown-toggle" data-toggle="dropdown">{{ menu[0] }}<span class="caret"></span></a>
+                <ul class="dropdown-menu" role="menu">
                     {% for submenu in menu[1] %}
                     {% if submenu=='admission' %}   
                     <li><a href="{{ url_for('admission', lang_code=locale) }}">{{ 'Admission FAQ' }}</a></li>
