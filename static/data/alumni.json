@@ -1,17 +1,59 @@
-[
+[{
+	"year": "2019.08",
+	"name": "김현중",
+	"degree": "박사",
+	"image": "hjkim",
+	"dissertation": "미등록단어 문제와 데이터 부족 현상을 해결하기 위한 비지도학습 토크나이저와 추출 기반 문서 요약 기법 (Unsupervised Korean Tokenizer and Extractive Document Summarization to Solve Out-of-Vocabulary and Dearth of Data)",
+	"diss_address": "https://github.com/lovit/dissertation/blob/master/dissertation.pdf"},
+  {
+	"year": "2019.08",
+	"name": "류성원",
+	"degree": "석사",
+	"image": "sw.lyu",
+	"dissertation": "Multimodal Self-Attention Network for Visual Reasoning"},
+ {
+	"year": "2019.08",
+	"name": "박봉준",
+	"degree": "석사",
+	"image": "bj.park",
+	"job": "삼성 디스플레이",
+	"job_address": "http://www.samsungdisplay.com",
+	"dissertation": "다변량 시계열 데이터의 시각화를 위한 변수 인덱싱"},
+ {
+	"year": "2019.08",
+	"name": "김지영",
+	"degree": "석사",
+	"image": "jy.kim",
+	"job": "Berkeley Lawrence National Laboratory",
+	"dissertation": "Time-varying Item Feature Conditional Variational Autoencoder for Collaborative filtering"},
+ {
+	"year": "2019.08",
+	"name": "이형욱",
+	"degree": "석사",
+	"image": "hu.lee",
+	"job": "티맥스",
+	"job_address": "http://www.tmaxsoft.com",
+	"dissertation": "듀얼 어텐션 메커니즘 기반 Bidirectional Encoder-Decoder Recurrent Neural Network를 활용한 다변량 시계열 예측"},
+ {
+	"year": "2019.08",
+	"name": "신승훈",
+	"degree": "석사",
+	"image": "sh.shin",
+	"job": "대한민국 육군",
+	"dissertation": "설명 가능한 주제 단위의 감성 분석 기반 추천 시스템"},
 {
 	"year": "2019. 2",
 	"name": "김은지",
-	"degree": "박사 수료",
+	"degree": "박사",
 	"image": "ejkim",
-	"job": "네이버"
+	"dissertation": "Supervised Deep Learning-based Anomaly Detection Models and Their Aplications in Finance, Manufacturing, and Media"
 },
 {
 	"year": "2019. 2",
 	"name": "이영훈",
 	"degree": "박사",
 	"image": "yhoon",
-	"job": "LG전자",
+	"job": "서울과학기술대학교",
 	"dissertation": "Data driven user experience analysis"
 },
 {
