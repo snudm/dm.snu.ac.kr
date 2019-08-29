@@ -16,16 +16,16 @@
         <!-- <td width="5%"> -->
             <!-- {{ member.get('year') }} -->
         <!-- </td> -->
-        <td width="10%">
+        <td style="width:10%">
 		{{ member.get('name') }}, {{ member.get('degree') }}<br>
         </td>
-	<td width="20%">
-		{% if not member['image'] %}
-		<img class="width-30 center_margin thumbnail" src="{{ url_for('static', filename='images/members/ananymous.png')}}">
-		{% else %}
-		<img class="width-30 center_margin thumbnail" src="{{ url_for('static', filename='images/members/%s.jpg' % member['image']) }}">
-		{% endif %}
-	</td>
+		<td style="width:25%">
+			{% if not member['image'] %}
+			<img class="width-30 center_margin thumbnail" src="{{ url_for('static', filename='images/members/ananymous.png')}}">
+			{% else %}
+			<img class="width-30 center_margin thumbnail" src="{{ url_for('static', filename='images/members/%s.jpg' % member['image']) }}">
+			{% endif %}
+		</td>
         <td>
     {% if 'job' in member.keys() %}
         {% if 'job_address' in member.keys() %}
