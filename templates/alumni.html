@@ -13,9 +13,9 @@
 <table class="alumni table table-hover">
 {% for member in alumni|sort(attribute='year', reverse=True) %}
     <tr>
-        <td width="5%">
+        <!-- <td width="5%"> -->
             <!-- {{ member.get('year') }} -->
-        </td>
+        <!-- </td> -->
         <td width="10%">
 		{{ member.get('name') }}, {{ member.get('degree') }}<br>
         </td>

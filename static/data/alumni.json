@@ -3,7 +3,7 @@
 	"name": "김현중",
 	"degree": "박사",
 	"image": "hjkim",
-	"dissertation": "미등록단어 문제와 데이터 부족 현상을 해결하기 위한 비지도학습 토크나이저와 추출 기반 문서 요약 기법 (Unsupervised Korean Tokenizer and Extractive Document Summarization to Solve Out-of-Vocabulary and Dearth of Data)",
+	"dissertation": "미등록단어 문제와 데이터 부족 현상을 해결하기 위한 비지도학습 토크나이저와 추출 기반 문서 요약 기법",
 	"diss_address": "https://github.com/lovit/dissertation/blob/master/dissertation.pdf"},
   {
 	"year": "2019.08",
@@ -53,7 +53,7 @@
 	"name": "이영훈",
 	"degree": "박사",
 	"image": "yhoon",
-	"job": "서울과학기술대학교",
+	"job": "서울과학기술대학교 교수",
 	"dissertation": "Data driven user experience analysis"
 },
 {
@@ -126,7 +126,7 @@
 	"year": "2015. 2",
 	"name": "허민회",
 	"degree": "박사",
-	"job": "현대자동차 빅데이터실",
+	"job": "현대자동차 AIR Lab",
 	"dissertation": "Demand Forecasting, Keyword Selecting, and Ad Placing in Digital Marketing with Text Mining",
 	"diss_address": "http://snu-primo.hosted.exlibrisgroup.com/82SNU:ALL:82SNU_INST21412877860002591"
 
@@ -160,7 +160,7 @@
 	"name": "강필성",
 	"image" : "pskang",
 	"degree": "박사",
-	"job": "고려대학교 산업경영공학부 부교수",
+	"job": "고려대학교 산업경영공학부 교수",
 	"dissertation": "Locally linear reconstruction for prediction, detection, clustering",
 	"diss_address": "http://snu-primo.hosted.exlibrisgroup.com/82SNU:ALL:82SNU_INST21423520140002591"
 },
@@ -328,7 +328,7 @@
 	"name": "양호성",
 	"image": "hsyang",
 	"degree": "석사",
-	"job": "엘지유플러스",
+	"job": "SKT",
 	"dissertation": "분산 표상을 활용한 브랜드 시각화 및 키워드 추출",
 	"diss_address": "http://snu-primo.hosted.exlibrisgroup.com/82SNU:ALL:82SNU_INST21574578960002591"
 },
@@ -407,7 +407,7 @@
 	"year": "2013. 2",
 	"name": "김현중",
 	"degree": "석사",
-	"job": "서울대학교 박사과정",
+	"image": "hjkim",
 	"dissertation": "단어 추출과 스트링 매치를 이용한 수기 입력 텍스트의 노이즈 처리",
 	"diss_address": "http://snu-primo.hosted.exlibrisgroup.com/82SNU:ALL:82SNU_INST21432869030002591"
 },
@@ -519,7 +519,7 @@
 	"year": "2008. 8",
 	"name": "임동균",
 	"degree": "석사",
-	"job": "LG전자",
+	"job": "SK하이닉스",
 	"dissertation": "다양한 정보 획득 시점에서의 영화 흥행 예측",
 	"diss_address": "http://snu-primo.hosted.exlibrisgroup.com/82SNU:ALL:82SNU_INST21472651470002591"
 },
@@ -558,7 +558,7 @@
 	"year": "2007",
 	"name": "박상희",
 	"degree": "석사",
-	"job": "삼성 SDS",
+	"job": "SK하이닉스",
 	"dissertation": "k-인접 이웃 편집을 이용한 효과적인 의사결정나무",
 	"diss_address": "http://snu-primo.hosted.exlibrisgroup.com/82SNU:ALL:82SNU_INST21435285780002591"
 },
