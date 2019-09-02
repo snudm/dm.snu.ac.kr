@@ -342,7 +342,7 @@ margin:auto;
 
 .member-image-wrapper {
     width: 100%;
-    height: 700px !important;
+    height: 600px;
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
