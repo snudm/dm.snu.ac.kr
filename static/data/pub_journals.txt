@@ -1,3 +1,4 @@
+"Fault Detection and Diagnosis Using Self-Attentive Convolutional Neural Networks for Variable-length Sensor Data in Semiconductor Manufacturing", Kim, E., Cho, S., Lee, B., & Cho, M., IEEE Transactions on Semiconductor Manufacturing, May 2019 [2019 서울대학교-삼성전자 산학협력 최우수논문상 수상]
 "Product failure prediction with missing data", Seokho Kang, Eunji Kim, Jaewoong Shim, Wonsang Chang, Sungzoon Cho*, International Journal of Production Research, Online  publication, Nov 2017
 "Stock Price Prediction Through Sentiment Analysis of Corporate Disclosures Using Distributed Representation", Misuk Kim, Eunjeong Lucy Park, and Sungzoon Cho, Intelligent Data Analysis Journal, to appear in Vol. 22(6) December, 2018
 "Applying convolution filter to matrix of word-clustering based document representation", Neurocomputing , Younghoon Lee, Jinbae Im, Sungzoon cho, Jinhae Choi, to appear
