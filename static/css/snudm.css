@@ -1,3 +1,7 @@
+.noty_message {
+    padding: 5px !important;
+}
+
 body {
     font-family: 'Malgun Gothic', sans-serif;
 }
