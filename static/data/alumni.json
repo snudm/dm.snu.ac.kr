@@ -48,7 +48,8 @@
 	"name": "김은지",
 	"degree": "박사",
 	"image": "ejkim",
-	"dissertation": "Supervised Deep Learning-based Anomaly Detection Models and Their Aplications in Finance, Manufacturing, and Media"
+	"job": "삼성종합기술원",
+	"dissertation": "Supervised Deep Learning-based Anomaly Detection Models and Their Applications in Finance, Manufacturing, and Media"
 },
 {
 	"year": "2019. 2",
@@ -63,7 +64,7 @@
 	"name": "김미숙",
 	"degree": "박사",
 	"image": "mskim",
-	"job": "삼성전자종합기술원",
+	"job": "삼성종합기술원",
 	"dissertation": "Prediction of stock price, base rate, and interest rate spread with text data",
 	"diss_address": "http://snu-primo.hosted.exlibrisgroup.com/82SNU:ALL:82SNU_INST21605742570002591" 
 },
