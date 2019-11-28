@@ -51,12 +51,7 @@ def home():
     else:
         return abort(404)
 		
-@app.after_request
-def add_security_headers(resp):
-    resp.headers['X-XSS-Protection']='1; mode=block'
-    return resp
-		
-		
+
 @app.route('/<lang_code>/degrees/')
 def degrees():
     return redirect(url_for('admission_qna', lang_code=get_locale()))

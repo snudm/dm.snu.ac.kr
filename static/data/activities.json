@@ -1,27 +1,1255 @@
-{"columns_ko": {"date": "일시", "paper": "관련 논문", "speaker": "발제자", "name": "제목"},
- "activities": [
- {"date": "2016-12-01", "paper_url": "http://papers.nips.cc/paper/5004-deep-content-based-music-recommendation", "paper": "Van den Oord, Aaron, Sander Dieleman, and Benjamin Schrauwen. \"Deep content-based music recommendation.\" Advances in Neural Information Processing Systems. 2013.", "speaker": "이제혁", "name": "Deep Content-based Music Recommendation"},
- {"date": "2016-12-01", "paper_url": "", "paper": "", "speaker": "김현중", "name": "Building Retrieval-based Chatbot"},
- {"date": "2016-11-03", "paper_url": "http://dl.acm.org/citation.cfm?id=1462204", "paper": "Schumaker, Robert P., and Hsinchun Chen. \"Textual analysis of stock market prediction using breaking financial news: The AZFin text system.\" ACM Transactions on Information Systems (TOIS) 27.2 (2009): 12.", "speaker": "전성환", "name": "Predicting Volatilities of Sectors In Thomson Reuters Business Classification Using Financial News Sentiment Analysis and Literature Survey of Sentiment Analysis"}, 
- {"date": "2016-10-27", "paper_url": "http://arxiv.org/abs/1602.04938", "paper": "Ribeiro, Marco Tulio, Sameer Singh, and Carlos Guestrin. \"\" Why Should I Trust You?\": Explaining the Predictions of Any Classifier.\" arXiv preprint arXiv:1602.04938 (2016).", "speaker": "김태욱", "name": "Why Should I Trust You Explaining the Predictions of Any Classifier"}, 
- {"date": "2016-10-20", "paper_url": "http://link.springer.com/chapter/10.1007/978-3-642-17534-3_19", "paper": "Jeatrakul, Piyasak, Kok Wai Wong, and Chun Che Fung. \"Classification of imbalanced data by combining the complementary neural network and SMOTE algorithm.\" International Conference on Neural Information Processing. Springer Berlin Heidelberg, 2010.", "speaker": "신훈식", "name": "Class Imbalance Problem"}, 
- {"date": "2016-10-13", "paper_url": "http://www.sciencedirect.com/science/article/pii/S0950705116000174", "paper": "Chen, Yanyan, Kuaini Wang, and Ping Zhong. \"One-Class Support Tensor Machine.\" Knowledge-Based Systems 96 (2016): 14-28.", "speaker": "김은지", "name": "One-class Support Tensor Machine"}, 
- {"date": "2016-10-13", "paper_url": "http://arxiv.org/abs/1312.6114", "paper": "Kingma, Diederik P., and Max Welling. \"Auto-encoding variational bayes.\" arXiv preprint arXiv:1312.6114 (2013).", "speaker": "안진원", "name": "Variational Autoencoder"}, 
- {"date": "2016-10-07", "paper_url": "http://www.cv-foundation.org/openaccess/content_cvpr_2015/html/Schroff_FaceNet_A_Unified_2015_CVPR_paper.html", "paper": "Schroff, Florian, Dmitry Kalenichenko, and James Philbin. \"Facenet: A unified embedding for face recognition and clustering.\" Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition. 2015.", "speaker": "조현창", "name": "Embedding & Loss functions"}, 
- {"date": "2016-10-06", "paper_url": "http://www.aaai.org/ocs/index.php/AAAI/AAAI15/paper/download/9303/9544/", "paper": "Cao, Ziqiang, et al. \"A Novel Neural Topic Model and Its Supervised Extension.\" AAAI. 2015.", "speaker": "양호성", "name": "Topic Models with Word Embeddings"}, 
- {"date": "2016-10-06", "paper_url": "https://wp.nyu.edu/ismir2016/wp-content/uploads/sites/2294/2016/07/110_Paper.pdf", "paper": "Chung, Chia-Hao, Jing-Kai Lou, and Homer Chen. \"A LATENT REPRESENTATION OF USERS, SESSIONS, AND SONGS FOR LISTENING BEHAVIOR ANALYSIS.\", ISMIR 2016.", "speaker": "이제혁", "name": "Context-based Music Recommendation : Graph-embedding-based Approach"}, 
- {"date": "2016-09-29", "paper_url": " ", "paper": "", "speaker": "문지형", "name": "Understanding the concept of LDA (2) Sampling Based Inference"}, 
- {"date": "2016-09-22", "paper_url": "http://dl.acm.org/citation.cfm?id=2133826", "paper": "Blei, David M. \"Probabilistic topic models.\" Communications of the ACM 55.4 (2012): 77-84.", "speaker": "문지형", "name": "Understanding the Concept of LDA (1) From Probabilistic Graphical Model to Model Inference"}, 
- {"date": "2016-08-31", "paper_url": "http://link.springer.com/chapter/10.1007/978-3-642-37456-2_14", "paper": "Campello, Ricardo JGB, Davoud Moulavi, and Jörg Sander. \"Density-based clustering based on hierarchical density estimates.\" Pacific-Asia Conference on Knowledge Discovery and Data Mining. Springer Berlin Heidelberg, 2013.", "speaker": "안용대", "name": "Density-based Clustering"}, 
- {"date": "2016-08-17", "paper_url": "https://arxiv.org/abs/1301.3781", "paper": "Mikolov, Tomas, et al. \"Efficient estimation of word representations in vector space.\" arXiv preprint arXiv:1301.3781 (2013).", "speaker": "양호성", "name": "Something-2-Vec"}, 
- {"date": "2016-08-09", "paper_url": "http://ieeexplore.ieee.org/xpls/abs_all.jsp?arnumber=6857341", "paper": "Abdel-Hamid, Ossama, et al. \"Convolutional neural networks for speech recognition.\" IEEE/ACM Transactions on audio, speech, and language processing 22.10 (2014): 1533-1545.", "speaker": "이제혁", "name": "Speech Recognition by CNN"}, 
- {"date": "2016-07-27", "paper_url": "http://link.springer.com/article/10.1007/s11222-007-9033-z", "paper": "Von Luxburg, Ulrike. \"A tutorial on spectral clustering.\" Statistics and computing 17.4 (2007): 395-416.", "speaker": "안용대", "name": "Spectral Clustering"}, 
- {"date": "2016-07-27", "paper_url": "http://arxiv.org/abs/1410.3916", "paper": "Weston, Jason, Sumit Chopra, and Antoine Bordes. \"Memory networks.\" arXiv preprint arXiv:1410.3916 (2014).", "speaker": "전성환", "name": "Memory Networks"}, 
- {"date": "2016-07-08", "paper_url": "http://www.kdd.org/kdd2016/papers/files/rpp0093-liuA.pdf", "paper": "Liu, Hongfu, et al. \"Infinite Ensemble for Image Clustering.\", KDD 2016", "speaker": "안용대", "name": "Infinite Ensemble for Image Clustering"}, 
- {"date": "2016-07-04", "paper_url": "http://people.mpi-inf.mpg.de/~smukherjee/cont-exp-lm-kdd16.pdf", "paper": "Mukherjee, Subhabrata, Stephan Günnemann, and Gerhard Weikum. \"Continuous Experience-aware Language Model.\", KDD 2016", "speaker": "양호성", "name": "Continuous Experience-aware Language Model"}, 
- {"date": "2016-05-26", "paper_url": "http://link.springer.com/chapter/10.1007/978-3-642-35289-8_26", "paper": "Bengio, Yoshua. \"Practical recommendations for gradient-based training of deep architectures.\" Neural Networks: Tricks of the Trade. Springer Berlin Heidelberg, 2012. 437-478.", "speaker": "김태욱", "name": "Improving the Way Neural Network Learns"}, 
- {"date": "2016-05-26", "paper_url": "http://link.springer.com/chapter/10.1007/BFb0020217", "paper": "Schölkopf, Bernhard, Alexander Smola, and Klaus-Robert Müller. \"Kernel principal component analysis.\" International Conference on Artificial Neural Networks. Springer Berlin Heidelberg, 1997.", "speaker": "신훈식", "name": "Kernal Principal Component Analysis"}, 
- {"date": "2016-05-26", "paper_url": "", "paper": "", "speaker": "이혜진", "name": "Automatic Classification of Securities using Hierarchical Clustering of 10-Ks"}, 
- {"date": "2016-05-04", "paper_url": "https://arxiv.org/abs/1408.5882", "paper": "Kim, Yoon. \"Convolutional neural networks for sentence classification.\" arXiv preprint arXiv:1408.5882 (2014).", "speaker": "양호성", "name": "Convolutional Neural Networks for NLP"}, 
- {"date": "2016-03-11", "paper_url": "", "paper": "", "speaker": "양호성", "name": "Introduction to Spark"}], 
-  "columns_en": {"date": "Date", "paper": "Related Paper", "speaker": "Speaker", "name": "Title"}}
+{
+  "columns_ko": {
+    "date": "일시", 
+    "paper": "관련 논문", 
+    "speaker": "발제자", 
+    "name": "제목"
+  }, 
+  "activities": [
+    {
+      "date": "2019-05-16", 
+      "paper_url": "https://www.mitpressjournals.org/doi/pdf/10.1162/tacl_a_00080", 
+      "paper": "Hill, F., Cho, K., Korhonen, A., & Bengio, Y. (2016). Learning to Understand Phrases by Embedding the Dictionary. Transactions of the Association for Computational Linguistics, 4, 17-30.", 
+      "speaker": "이혜진", 
+      "name": "Learning to Understand Phrases by embedding the Dictionary"
+    }, 
+    {
+      "date": "2019-05-16", 
+      "paper_url": "You Only Look Once: Unified, Real-Time Object Detection", 
+      "paper": "You Only Look Once: Unified, Real-Time Object Detection", 
+      "speaker": "김누리", 
+      "name": "You Only Look Once series review"
+    }, 
+    {
+      "date": "2019-05-03", 
+      "paper_url": "http://cnnlocalization.csail.mit.edu/Zhou_Learning_Deep_Features_CVPR_2016_paper.pdf", 
+      "paper": "B. Zhou, A. Khosla, L. A., A. Oliva, and A. Torralba. Learning Deep Features for Discriminative Localization. In CVPR, 2016", 
+      "speaker": "강인혜", 
+      "name": "Weakly Supervised Object Detection"
+    }, 
+    {
+      "date": "2019-04-19", 
+      "paper_url": "", 
+      "paper": "", 
+      "speaker": "심재웅", 
+      "name": "Active learning of convolutional neural network for cost-effective wafer map pattern classification"
+    }, 
+    {
+      "date": "2019-04-05", 
+      "paper_url": "https://dl.acm.org/citation.cfm?id=3098052", 
+      "paper": "Anomaly detection with robust deep autoencoders", 
+      "speaker": "이제혁", 
+      "name": "robust anomaly detection with autoencoder"
+    }, 
+    {
+      "date": "2019-04-05", 
+      "paper_url": "http://openaccess.thecvf.com/content_ECCV_2018/html/Ronghang_Hu_Explainable_Neural_Computation_ECCV_2018_paper.html", 
+      "paper": "Hu, Ronghang, et al. \"Explainable neural computation via stack neural module networks.\" Proceedings of the European Conference on Computer Vision (ECCV). 2018.", 
+      "speaker": "안진원", 
+      "name": "Explainable Neural Computation via Stack Neural Module Networks"
+    }, 
+    {
+      "date": "2019-04-05", 
+      "paper_url": "https://www.aclweb.org/anthology/P17-1099", 
+      "paper": "Get To The Point: Summarization with Pointer-Generator Networks (See et al., 2017)", 
+      "speaker": "선지민", 
+      "name": "Get To The Point: Summarization with Pointer-Generator Networks"
+    }, 
+    {
+      "date": "2019-02-18", 
+      "paper_url": "https://arxiv.org/abs/1606.03657", 
+      "paper": "Xi Chen, Yan Duan, Rein Houthooft, John Schulman, Ilya Sutskever, and Pieter Abbeel. Infogan: Interpretable representation learning by information maximizing generative adversarial nets. In Advances in Neural Information Processing Systems (NIPS), pp. 2172–2180, 2016.", 
+      "speaker": "박지혜", 
+      "name": "InfoGAN: Interpretable Representation Learning by Information Maximizing Generative Adversarial Nets"
+    }, 
+    {
+      "date": "2019-02-11", 
+      "paper_url": "http://openaccess.thecvf.com/content_cvpr_2018/papers/Sung_Learning_to_Compare_CVPR_2018_paper.pdf", 
+      "paper": "learning to compare : relation network for few-shot learning", 
+      "speaker": "심재웅", 
+      "name": "learning to compare : relation network for few-shot learning"
+    }, 
+    {
+      "date": "2019-01-21", 
+      "paper_url": "https://static.googleusercontent.com/media/research.google.com/ko//pubs/archive/45530.pdf", 
+      "paper": "", 
+      "speaker": "김누리", 
+      "name": "Deep Neural Networks for YouTube Recommendations"
+    }, 
+    {
+      "date": "2019-01-07", 
+      "paper_url": "https://arxiv.org/pdf/1802.00434.pdf", 
+      "paper": "Alp Güler, R., Neverova, N., & Kokkinos, I. (2018). Densepose: Dense human pose estimation in the wild. In Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition.", 
+      "speaker": "신승훈", 
+      "name": "DensePose: Dense Human Pose Estimation In The Wild"
+    }, 
+    {
+      "date": "2019-01-07", 
+      "paper_url": "https://arxiv.org/abs/1506.02025", 
+      "paper": "Jaderberg, Max, Karen Simonyan, and Andrew Zisserman. 'Spatial transformer networks.' Advances in neural information processing systems. 2015.", 
+      "speaker": "박지혜", 
+      "name": "Spatial Transformer Networks"
+    }, 
+    {
+      "date": "2018-11-09", 
+      "paper_url": "", 
+      "paper": "", 
+      "speaker": "김은지", 
+      "name": "Fake Face Detection using Content Feature Extractor and Trace Feature Extractor"
+    }, 
+    {
+      "date": "2018-10-16", 
+      "paper_url": "https://arxiv.org/abs/1509.02971", 
+      "paper": "", 
+      "speaker": "이형욱", 
+      "name": "Continuous with deep reinforcement learning"
+    }, 
+    {
+      "date": "2018-09-07", 
+      "paper_url": "", 
+      "paper": "", 
+      "speaker": "김은지", 
+      "name": "Deep generative model for multiple face swapping"
+    }, 
+    {
+      "date": "2018-08-13", 
+      "paper_url": "http://www.aclweb.org/anthology/Q15-1016", 
+      "paper": "Levy, O., Goldberg, Y., & Dagan, I. (2015). Improving distributional similarity with lessons learned from word embeddings. Transactions of the Association for Computational Linguistics, 3, 211-225.", 
+      "speaker": "김현중", 
+      "name": "Space oddysey of Word2Vec"
+    }, 
+    {
+      "date": "2018-08-13", 
+      "paper_url": "https://rss.onlinelibrary.wiley.com/doi/abs/10.1111/rssa.12227", 
+      "paper": "Interpretable classification models for recidivism prediction", 
+      "speaker": "박봉준", 
+      "name": "Interpretable classification models for recidivism prediction"
+    }, 
+    {
+      "date": "2018-08-13", 
+      "paper_url": "https://arxiv.org/abs/1505.05770", 
+      "paper": "Variational Inference with Normalizing flows", 
+      "speaker": "안진원", 
+      "name": "Variational Inference with Normalizing flows"
+    }, 
+    {
+      "date": "2018-08-06", 
+      "paper_url": "http://proceedings.mlr.press/v80/alemi18a/alemi18a.pdf", 
+      "paper": "Alexander Alemi, Ben Poole, Ian Fischer, Joshua Dillon, Rif A. Saurous, Kevin Murphy,\"Fixing a Broken ELBO\";Proceedings of the 35th International Conference on Machine Learning, PMLR 80:159-168, 2018.", 
+      "speaker": "김지영", 
+      "name": "Fixing a Broken ELBO"
+    }, 
+    {
+      "date": "2018-08-06", 
+      "paper_url": "http://openaccess.thecvf.com/content_cvpr_2018/CameraReady/0473.pdf", 
+      "paper": "Hadad, Naama, Lior Wolf, and Moni Shahar. \"A Two-Step Disentanglement Method.\" Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition. 2018.", 
+      "speaker": "류성원", 
+      "name": "A Two-Step Disentanglement Method"
+    }, 
+    {
+      "date": "2018-08-06", 
+      "paper_url": "https://arxiv.org/abs/1511.06335", 
+      "paper": "Junyuan Xie, Ross Girshick, and Ali Farhadi. 2016. Unsupervised deep embedding for clustering analysis. In Proceedings of the 33rd International Conference on International Conference on Machine Learning - Volume 48 (ICML'16), Maria Florina Balcan and Kilian Q. Weinberger (Eds.), Vol. 48. JMLR.org 478-487.", 
+      "speaker": "박노일", 
+      "name": "Unsupervised Deep Embedding for Clustering Analysis"
+    }, 
+    {
+      "date": "2018-08-02", 
+      "paper_url": "https://arxiv.org/abs/1703.05921", 
+      "paper": "Unsupervised anomaly detection with generative adversarial networks to guide marker discovery", 
+      "speaker": "신훈식", 
+      "name": "Anomaly detection with GAN(AnoGAN)"
+    }, 
+    {
+      "date": "2018-07-31", 
+      "paper_url": "https://aclanthology.info/papers/W18-3109/w18-3109", 
+      "paper": "Balashankar, Ananth, Sunandan Chakraborty, and Lakshminarayanan Subramanian. \"Unsupervised Word Influencer Networks from News Streams.\" ACL 2018 (2018): 62.", 
+      "speaker": "전성환", 
+      "name": "Unsupervised Word Influencer Networks from News Streams"
+    }, 
+    {
+      "date": "2018-07-31", 
+      "paper_url": "https://arxiv.org/abs/1710.02298", 
+      "paper": "Rainbow: Combining Improvements in Deep Reinforcement Learning", 
+      "speaker": "강연국", 
+      "name": "Rainbow: Combining Improvements in Deep Reinforcement Learning"
+    }, 
+    {
+      "date": "2018-07-26", 
+      "paper_url": "https://arxiv.org/abs/1804.04732", 
+      "paper": "Huang, Xun, et al. \"Multimodal Unsupervised Image-to-Image Translation.\" arXiv preprint arXiv:1804.04732 (2018).", 
+      "speaker": "안진원", 
+      "name": "Variational Inference with Normalizing flows"
+    }, 
+    {
+      "date": "2018-07-26", 
+      "paper_url": "https://arxiv.org/abs/1706.03912", 
+      "paper": "Li, Zhe, et al. \"SEP-Nets: Small and effective pattern networks.\" arXiv preprint arXiv:1706.03912 (2017).", 
+      "speaker": "안용대", 
+      "name": "Model compression"
+    }, 
+    {
+      "date": "2018-07-24", 
+      "paper_url": "", 
+      "paper": "", 
+      "speaker": "김현중", 
+      "name": "Named Entity Recognition using Conditional Random Field"
+    }, 
+    {
+      "date": "2018-07-24", 
+      "paper_url": "https://gdpr-info.eu/", 
+      "paper": "general data protection regulation", 
+      "speaker": "이형욱", 
+      "name": "GDPR"
+    }, 
+    {
+      "date": "2018-06-25", 
+      "paper_url": "https://arxiv.org/abs/1312.4659", 
+      "paper": "DeepPose: Human Pose Estimation via Deep Neural Networks", 
+      "speaker": "신승훈", 
+      "name": "DeepPose: Human Pose Estimation"
+    }, 
+    {
+      "date": "2018-06-18", 
+      "paper_url": "https://arxiv.org/pdf/1606.04080.pdf", 
+      "paper": "Matching Networks for One Shot Learning", 
+      "speaker": "김지영", 
+      "name": "Matching Networks for One Shot Learning"
+    }, 
+    {
+      "date": "2018-06-18", 
+      "paper_url": "http://papers.nips.cc/paper/6784-unsupervised-learning-of-disentangled-latent-representations-from-sequential-data", 
+      "paper": "Hsu, Wei-Ning, Yu Zhang, and James Glass. \"Unsupervised learning of disentangled and interpretable representations from sequential data.\" Advances in neural information processing systems. 2017.", 
+      "speaker": "류성원", 
+      "name": "Disentangling Sequential Data"
+    }, 
+    {
+      "date": "2018-06-01", 
+      "paper_url": "", 
+      "paper": "", 
+      "speaker": "김지영", 
+      "name": "Matching Networks for One Shot Learning"
+    }, 
+    {
+      "date": "2018-06-01", 
+      "paper_url": "https://aclanthology.coli.uni-saarland.de/papers/D17-1292/d17-1292", 
+      "paper": "Kang, Dongyeop, et al. \"Detecting and Explaining Causes From Text For a Time Series Event.\" Proceedings of the 2017 Conference on Empirical Methods in Natural Language Processing. 2017.", 
+      "speaker": "전성환", 
+      "name": "Detecting and Explaining Causes From Text For a Time Series Event"
+    }, 
+    {
+      "date": "2018-05-08", 
+      "paper_url": "https://arxiv.org/abs/1704.04861", 
+      "paper": "Howard, Andrew G., et al. \"Mobilenets: Efficient convolutional neural networks for mobile vision applications.\" arXiv preprint arXiv:1704.04861 (2017).", 
+      "speaker": "안용대", 
+      "name": "Mobilenets: Efficient convolutional neural networks for mobile vision applications"
+    }, 
+    {
+      "date": "2018-05-04", 
+      "paper_url": "https://arxiv.org/abs/1503.02531", 
+      "paper": "Hinton, Geoffrey, Oriol Vinyals, and Jeff Dean. \"Distilling the knowledge in a neural network.\" arXiv preprint arXiv:1503.02531 (2015).", 
+      "speaker": "김도형", 
+      "name": "Knowledge Distillation using Attentive Tutor"
+    }, 
+    {
+      "date": "2018-05-04", 
+      "paper_url": "http://www.dcsc.tudelft.nl/~bdeschutter/pub/rep/10_003.pdf", 
+      "paper": "Multi-agent reinforcement learning: An overview ; Multi-Agent Actor-Critic for Mixed Cooperative-Competitive Environments ", 
+      "speaker": "강연국", 
+      "name": "Multi-Agent Reinforcement Learning : Overview & Cooperative view"
+    }, 
+    {
+      "date": "2018-05-04", 
+      "paper_url": "http://proceedings.mlr.press/v70/yang17d.html", 
+      "paper": "Zichao Yang, Zhiting Hu, Ruslan Salakhutdinov, Taylor Berg-Kirkpatrick: Improved Variational Autoencoders for Text Modeling using Dilated Convolutions. ICML 2017: 3881-3890", 
+      "speaker": "박노일", 
+      "name": "Improved Variational Autoencoders for Text Modeling using Dilated Convolutions"
+    }, 
+    {
+      "date": "2018-04-13", 
+      "paper_url": "https://arxiv.org/abs/1609.02907", 
+      "paper": "Semi-supervised classification with graph convolutional networks.", 
+      "speaker": "양효창", 
+      "name": "3D Mesh"
+    }, 
+    {
+      "date": "2018-04-06", 
+      "paper_url": "https://arxiv.org/abs/1702.01417", 
+      "paper": "Mu, J., Bhat, S., & Viswanath, P. (2017). All-but-the-top: Simple and effective postprocessing for word representations. arXiv preprint arXiv:1702.01417.", 
+      "speaker": "김현중", 
+      "name": "Space oddysey of Word2Vec"
+    }, 
+    {
+      "date": "2018-04-06", 
+      "paper_url": "https://arxiv.org/abs/1703.02291", 
+      "paper": "Triple Generative Adversarial Nets", 
+      "speaker": "이제혁", 
+      "name": "Semi-supervised learning with GANs"
+    }, 
+    {
+      "date": "2018-03-30", 
+      "paper_url": "https://arxiv.org/abs/1406.6247", 
+      "paper": "Volodymyr Mnih, Nicolas Heess, Alex Graves, Koray Kavukcuoglu, 2014, NIPS. \"Recurrent Models of Visual Attention\"", 
+      "speaker": "정민기", 
+      "name": "Paper Reviews in Visual Attention"
+    }, 
+    {
+      "date": "2018-03-30", 
+      "paper_url": "", 
+      "paper": "", 
+      "speaker": "전성환", 
+      "name": "Linux 101"
+    }, 
+    {
+      "date": "2018-03-23", 
+      "paper_url": "https://arxiv.org/abs/1703.10717", 
+      "paper": "BEGAN: Boundary Equilibrium Generative Adversarial Networks", 
+      "speaker": "이제혁", 
+      "name": "BEGAN: Boundary Equilibrium GAN"
+    }, 
+    {
+      "date": "2018-03-23", 
+      "paper_url": "https://arxiv.org/abs/1510.00149", 
+      "paper": "Han, Song, Huizi Mao, and William J. Dally. \"Deep compression: Compressing deep neural networks with pruning, trained quantization and huffman coding.\" arXiv preprint arXiv:1510.00149 (2015).", 
+      "speaker": "안용대", 
+      "name": "Deep compression"
+    }, 
+    {
+      "date": "2018-03-15", 
+      "paper_url": "", 
+      "paper": "", 
+      "speaker": "김현중", 
+      "name": "Discovering minor topics using document clustering"
+    }, 
+    {
+      "date": "2018-03-15", 
+      "paper_url": "http://proceedings.mlr.press/v70/arjovsky17a.html", 
+      "paper": "Arjovsky, Martin, Soumith Chintala, and Léon Bottou. \"Wasserstein generative adversarial networks.\" International Conference on Machine Learning. 2017.", 
+      "speaker": "안진원", 
+      "name": "WGAN applications"
+    }, 
+    {
+      "date": "2018-02-27", 
+      "paper_url": "", 
+      "paper": "Kumar, Ankit, et al. \"Ask me anything: Dynamic memory networks for natural language processing.\" International Conference on Machine Learning. 2016.", 
+      "speaker": "이형욱", 
+      "name": "Dynamic Memory Networks and Dynamic Memory Networks Plus"
+    }, 
+    {
+      "date": "2018-02-27", 
+      "paper_url": "https://arxiv.org/abs/1705.07830", 
+      "paper": "Buck, Christian, et al. \"Ask the right questions: Active question reformulation with reinforcement learning.\" arXiv preprint arXiv:1705.07830 (2017).", 
+      "speaker": "류성원", 
+      "name": "Ask the Right Question: Active Question Reformulation with Reinforcement Learning"
+    }, 
+    {
+      "date": "2018-02-21", 
+      "paper_url": "", 
+      "paper": "Algorithm for Inverse Reinforcement Learning (2000, Ng)Apprenticeship Learning via Inverse Reinforcement Learning (2004, Abbeel & Ng) ", 
+      "speaker": "강연국", 
+      "name": "Inverse Reinforcement Learning (& Imitation Learning) "
+    }, 
+    {
+      "date": "2018-02-21", 
+      "paper_url": "https://arxiv.org/abs/1801.07736", 
+      "paper": "Fedus, William, Ian Goodfellow, and Andrew M. Dai. \"MaskGAN: Better Text Generation via Filling in the _.\" arXiv preprint arXiv:1801.07736 (2018).", 
+      "speaker": "김지영", 
+      "name": "MaskGAN: Better Text Generation via Filling in the ______"
+    }, 
+    {
+      "date": "2018-02-21", 
+      "paper_url": "https://arxiv.org/abs/1610.08136", 
+      "paper": "Bhaskar Mitra, Fernando Diaz, and Nick Craswell. 2017. Learning to Match using Local and Distributed Representations of Text for Web Search. In Proceedings of the 26th International Conference on World Wide Web (WWW '17). International World Wide Web Conferences Steering Committee, Republic and Canton of Geneva, Switzerland, 1291-1299. DOI: https://doi.org/10.1145/3038912.3052579", 
+      "speaker": "박노일", 
+      "name": "A Duet Neural Document Ranking Model"
+    }, 
+    {
+      "date": "2018-02-13", 
+      "paper_url": "https://people.eecs.berkeley.edu/~sgupta/pdfs/hoffman2016learning.pdf", 
+      "paper": "Hoffman, Judy, Saurabh Gupta, and Trevor Darrell. \"Learning with side information through modality hallucination.\" Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition. 2016.", 
+      "speaker": "김도형", 
+      "name": "Learning with Side Information through Modality Hallucination"
+    }, 
+    {
+      "date": "2018-02-13", 
+      "paper_url": "https://arxiv.org/abs/1607.07539", 
+      "paper": "Raymond A, et al. \"Semantic Image Inpainting with Deep Generative Models\", CVPR 2017", 
+      "speaker": "정민기", 
+      "name": "Semantic Image Inpainting"
+    }, 
+    {
+      "date": "2018-02-05", 
+      "paper_url": "https://www.dbpia.co.kr/Journal/ArticleDetail/NODE07424824", 
+      "paper": "Tag to 3D Object Generation with Voxel Representation", 
+      "speaker": "양효창", 
+      "name": "Tag to 3D Object Generation with Voxel Representation"
+    }, 
+    {
+      "date": "2018-02-05", 
+      "paper_url": "https://dl.acm.org/citation.cfm?id=2783307", 
+      "paper": "Tang, Jian, Meng Qu, and Qiaozhu Mei. \"Pte: Predictive text embedding through large-scale heterogeneous text networks.\" Proceedings of the 21th ACM SIGKDD International Conference on Knowledge Discovery and Data Mining. ACM, 2015.", 
+      "speaker": "전성환", 
+      "name": "PTE: Predictive Text Embedding through Large-scale Heterogeneous Text Networks"
+    }, 
+    {
+      "date": "2018-02-05", 
+      "paper_url": "http://papers.nips.cc/paper/6051-disentangling-factors-of-variation-in-deep-representation-using-adversarial-training", 
+      "paper": "Mathieu, Michael F., et al. \"Disentangling factors of variation in deep representation using adversarial training.\" Advances in Neural Information Processing Systems. 2016.", 
+      "speaker": "안진원", 
+      "name": "Disentangling Factors of Variation using Adversarial Training"
+    }, 
+    {
+      "date": "2018-01-29", 
+      "paper_url": "https://arxiv.org/pdf/1508.00021", 
+      "paper": "Artificial Neural Networks Applied to Taxi Destination Prediction", 
+      "speaker": "김은지", 
+      "name": "Personalized deep learning-based driving destination prediction"
+    }, 
+    {
+      "date": "2018-01-15", 
+      "paper_url": "https://deepmind.com/documents/119/agz_unformatted_nature.pdf", 
+      "paper": "Mastering the Game of Go without Human Knowledge (2017 Nature)", 
+      "speaker": "강연국", 
+      "name": "AlphaGo Zero"
+    }, 
+    {
+      "date": "2018-01-08", 
+      "paper_url": "https://nlp.stanford.edu/projects/glove/", 
+      "paper": "Pennington, Jeffrey & Socher, Richard & Manning, Christoper. (2014). Glove: Global Vectors for Word Representation. EMNLP. 14. 1532-1543. 10.3115/v1/D14-1162. ", 
+      "speaker": "박노일", 
+      "name": "GloVe: Global Vectors for Word Representation"
+    }, 
+    {
+      "date": "2018-01-03", 
+      "paper_url": "", 
+      "paper": "", 
+      "speaker": "김현중", 
+      "name": "k-means for document clustering"
+    }, 
+    {
+      "date": "2017-12-04", 
+      "paper_url": "", 
+      "paper": "Squeezed Convolutional Variational AutoEncoder: Unsupervised Anomaly Detection for Edge Computing in Manufacturing Data", 
+      "speaker": "김도형", 
+      "name": "Edge Device 向 Iiot Data 분석 알고리즘 확보 및 공정 모델링"
+    }, 
+    {
+      "date": "2017-12-04", 
+      "paper_url": "https://arxiv.org/abs/1608.05343", 
+      "paper": "Jaderberg, Max, et al. \"Decoupled neural interfaces using synthetic gradients.\" arXiv preprint arXiv:1608.05343 (2016).", 
+      "speaker": "신동민", 
+      "name": "Decoupling Learning Process for Real Time Service : What I have Learned & What I do in Riiid!"
+    }, 
+    {
+      "date": "2017-11-27", 
+      "paper_url": "https://arxiv.org/abs/1709.04696", 
+      "paper": "Shen, Tao, et al. \"Disan: Directional self-attention network for rnn/cnn-free language understanding.\" arXiv preprint arXiv:1709.04696 (2017).", 
+      "speaker": "임진배", 
+      "name": "Distance-based Self-Attention Network for Natural Language Inference"
+    }, 
+    {
+      "date": "2017-11-20", 
+      "paper_url": "https://arxiv.org/abs/1609.03499", 
+      "paper": "Oord, Aaron van den, et al. \"Wavenet: A generative model for raw audio.\" arXiv preprint arXiv:1609.03499 (2016).", 
+      "speaker": "민동영", 
+      "name": "WaveNet : A Generative Model for Raw Audio"
+    }, 
+    {
+      "date": "2017-11-20", 
+      "paper_url": "http://proceedings.mlr.press/v70/kim17b.html", 
+      "paper": "Kim, Juyong, et al. \"SplitNet: Learning to Semantically Split Deep Networks for Parameter Reduction and Model Parallelization.\" International Conference on Machine Learning. 2017.", 
+      "speaker": "박인범", 
+      "name": "SplitNet"
+    }, 
+    {
+      "date": "2017-11-13", 
+      "paper_url": "https://arxiv.org/abs/1710.09829 ", 
+      "paper": "Sara Sabour, Nicholas Frosst, Geoffrey E Hinton, \"Dynamic Routing Between Capsules\", 10, 2017, Arxiv.", 
+      "speaker": "정민기", 
+      "name": "CapsuleNet"
+    }, 
+    {
+      "date": "2017-11-06", 
+      "paper_url": "https://arxiv.org/abs/1511.06279", 
+      "paper": "Neural Programmer-Interpreters", 
+      "speaker": "양효창", 
+      "name": "Neural Programmer-Interpreters"
+    }, 
+    {
+      "date": "2017-10-10", 
+      "paper_url": "https://arxiv.org/abs/1605.07683", 
+      "paper": "Bordes, Antoine, and Jason Weston. \"Learning end-to-end goal-oriented dialog.\" arXiv preprint arXiv:1605.07683 (2016).", 
+      "speaker": "김태욱", 
+      "name": "End-to-end goal oriented dialog model"
+    }, 
+    {
+      "date": "2017-10-10", 
+      "paper_url": "https://arxiv.org/abs/1610.09650", 
+      "paper": "Sau, Bharat Bhusan, and Vineeth N. Balasubramanian. \"Deep Model Compression: Distilling Knowledge from Noisy Teachers.\" arXiv preprint arXiv:1610.09650 (2016).", 
+      "speaker": "안용대", 
+      "name": "Teacher-Student learning"
+    }, 
+    {
+      "date": "2017-09-18", 
+      "paper_url": "https://dl.acm.org/citation.cfm?id=3098017", 
+      "paper": "Yu Chen and Mohammed J. Zaki. 2017. KATE: K-Competitive Autoencoder for Text. In Proceedings of KDD ’17, Halifax, NS, Canada, August 13-17, 2017", 
+      "speaker": "전성환", 
+      "name": "KATE: K-Competitive Autoencoder for Text"
+    }, 
+    {
+      "date": "2017-09-18", 
+      "paper_url": "", 
+      "paper": "", 
+      "speaker": "", 
+      "name": ""
+    }, 
+    {
+      "date": "2017-09-18", 
+      "paper_url": "", 
+      "paper": "", 
+      "speaker": "김은지", 
+      "name": "Group_Regularized_CNN"
+    }, 
+    {
+      "date": "2017-08-16", 
+      "paper_url": "", 
+      "paper": "", 
+      "speaker": "강연국", 
+      "name": "Smart Factory in Semiconductor Manufacturing"
+    }, 
+    {
+      "date": "2017-08-09", 
+      "paper_url": "https://www.researchgate.net/publication/304782562_Long_Short_Term_Memory_Networks_for_Anomaly_Detection_in_Time_Series", 
+      "paper": "Malhotra, Pankaj & Vig, Lovekesh & Shroff, Gautam & Agarwal, Puneet. (2015). Long Short Term Memory Networks for Anomaly Detection in Time Series. . ", 
+      "speaker": "박노일", 
+      "name": "LSTM Networks for Anomaly Detection in Time Series"
+    }, 
+    {
+      "date": "2017-08-07", 
+      "paper_url": "http://www.cv-foundation.org/openaccess/content_cvpr_2016/html/Redmon_You_Only_Look_CVPR_2016_paper.html", 
+      "paper": "Redmon, Joseph, et al. \"You only look once: Unified, real-time object detection.\" Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition. 2016.", 
+      "speaker": "김도형", 
+      "name": "You only look once: Unified, real-time object detection"
+    }, 
+    {
+      "date": "2017-08-02", 
+      "paper_url": "https://arxiv.org/pdf/1611.02200.pdf", 
+      "paper": "Unsupervised Cross-Domain Image Generation", 
+      "speaker": "양효창", 
+      "name": "Domain Transfer Network"
+    }, 
+    {
+      "date": "2017-08-02", 
+      "paper_url": "https://arxiv.org/abs/1703.06870", 
+      "paper": "Kaiming He, Georgia Gkioxari, Piotr Dollár, Ross Girshick. \"Mask R-CNN\",  arXiv preprint arXiv:1703.06870(2017)", 
+      "speaker": "정민기", 
+      "name": "Understanding R-CNN Family"
+    }, 
+    {
+      "date": "2017-07-31", 
+      "paper_url": "https://arxiv.org/abs/1601.06759", 
+      "paper": "Oord, Aaron van den, Nal Kalchbrenner, and Koray Kavukcuoglu. \"Pixel recurrent neural networks.\" arXiv preprint arXiv:1601.06759 (2016).", 
+      "speaker": "민동영", 
+      "name": "Pixel Recurrent Neural Networks"
+    }, 
+    {
+      "date": "2017-07-26", 
+      "paper_url": "https://www.nature.com/nature/journal/v538/n7626/full/nature20101.html", 
+      "paper": "Graves, Alex, et al. \"Hybrid computing using a neural network with dynamic external memory.\" Nature 538.7626 (2016): 471-476.", 
+      "speaker": "문지형", 
+      "name": "Differentiable Neural Computer"
+    }, 
+    {
+      "date": "2017-07-26", 
+      "paper_url": "http://papers.nips.cc/paper/5846-end-to-end-memory-networks", 
+      "paper": "Sukhbaatar, Sainbayar, Jason Weston, and Rob Fergus. \"End-to-end memory networks.\" Advances in neural information processing systems. 2015.", 
+      "speaker": "박인범", 
+      "name": "End to End Memory Networks"
+    }, 
+    {
+      "date": "2017-07-24", 
+      "paper_url": "https://arxiv.org/abs/1706.03762", 
+      "paper": "Vaswani, Ashish, et al. \"Attention Is All You Need.\" arXiv preprint arXiv:1706.03762 (2017).", 
+      "speaker": "임진배", 
+      "name": "Attention Is All You Need"
+    }, 
+    {
+      "date": "2017-07-19", 
+      "paper_url": "https://dl.acm.org/citation.cfm?id=2939753", 
+      "paper": "Wang, Daixin, Peng Cui, and Wenwu Zhu. \"Structural deep network embedding.\" Proceedings of the 22nd ACM SIGKDD international conference on Knowledge discovery and data mining. ACM, 2016.", 
+      "speaker": "전성환", 
+      "name": "Structural Deep Network Embedding"
+    }, 
+    {
+      "date": "2017-07-17", 
+      "paper_url": "https://arxiv.org/abs/1703.09179", 
+      "paper": "Choi, Keunwoo, et al. \"Transfer learning for music classification and regression tasks.\" arXiv preprint arXiv:1703.09179 (2017).", 
+      "speaker": "안용대", 
+      "name": "Transfer learning"
+    }, 
+    {
+      "date": "2017-07-10", 
+      "paper_url": "https://arxiv.org/abs/1706.01427", 
+      "paper": "Santoro, Adam, et al. \"A simple neural network module for relational reasoning.\" arXiv preprint arXiv:1706.01427 (2017).", 
+      "speaker": "안진원", 
+      "name": "A Simple Neural Network Module for Relational Reasoning"
+    }, 
+    {
+      "date": "2017-07-10", 
+      "paper_url": "https://arxiv.org/abs/1508.00021", 
+      "paper": "De Brébisson, Alexandre, et al. \"Artificial neural networks applied to taxi destination prediction.\" arXiv preprint arXiv:1508.00021 (2015).", 
+      "speaker": "김은지", 
+      "name": "Artificial Neural Networks Applied to\u000bTaxi Destination Prediction"
+    }, 
+    {
+      "date": "2017-06-08", 
+      "paper_url": "https://github.com/open-korean-text/open-korean-text", 
+      "paper": "Open Korean Text", 
+      "speaker": "김현중", 
+      "name": "Dictionary based tokenizer"
+    }, 
+    {
+      "date": "2017-06-08", 
+      "paper_url": "http://search.arxiv.org:8081/paper.jsp?r=1704.08424&qid=1513059424862ler_nCnN_658158860&qs=Multimodal+Word+Distributions&in=cs", 
+      "paper": "Athiwaratkun, Ben, and Andrew Gordon Wilson. \"Multimodal Word Distributions.\" arXiv preprint arXiv: 1704.08424 (2017).", 
+      "speaker": "신동민", 
+      "name": "Probabilistic Embeddings"
+    }, 
+    {
+      "date": "2017-06-01", 
+      "paper_url": "https://arxiv.org/abs/1510.00149", 
+      "paper": "Han, Song, Huizi Mao, and William J. Dally. \"Deep compression: Compressing deep neural networks with pruning, trained quantization and huffman coding.\" arXiv preprint arXiv:1510.00149 (2015).", 
+      "speaker": "김도형", 
+      "name": "Deep Compression: Compressing Deep Neural Networks with Pruning, Trained Quantization and Huffman Coding"
+    }, 
+    {
+      "date": "2017-06-01", 
+      "paper_url": "", 
+      "paper": "", 
+      "speaker": "정민기", 
+      "name": "CNN Best Architectures: From LeNet to ResNet"
+    }, 
+    {
+      "date": "2017-05-18", 
+      "paper_url": "https://arxiv.org/abs/1502.04623", 
+      "paper": "Gregor, Karol, et al. \"DRAW: A recurrent neural network for image generation.\" arXiv preprint arXiv:1502.04623 (2015).", 
+      "speaker": "양효창", 
+      "name": "DRAW(Deep Recurrent Attentive Writer)"
+    }, 
+    {
+      "date": "2017-05-18", 
+      "paper_url": "", 
+      "paper": "", 
+      "speaker": "민동영", 
+      "name": "Applications of Matrix Completion in Text Mining"
+    }, 
+    {
+      "date": "2017-05-16", 
+      "paper_url": "http://proceedings.mlr.press/v37/ioffe15.html", 
+      "paper": "Ioffe, Sergey, and Christian Szegedy. \"Batch normalization: Accelerating deep network training by reducing internal covariate shift.\" arXiv preprint arXiv:1502.03167 (2015).", 
+      "speaker": "박인범", 
+      "name": "Optimization for Deep Learning and Batch Normalization"
+    }, 
+    {
+      "date": "2017-05-11", 
+      "paper_url": "http://www.kdd.org/kdd2016/subtopic/view/collaborative-knowledge-base-embedding-for-recommender-systems", 
+      "paper": "Zhang, Fuzheng, et al. \"Collaborative knowledge base embedding for recommender systems.\" Proceedings of the 22nd ACM SIGKDD International Conference on Knowledge Discovery and Data Mining. ACM, 2016.", 
+      "speaker": "문지형", 
+      "name": "Collaborative Filtering using Heterogeneous data"
+    }, 
+    {
+      "date": "2017-05-11", 
+      "paper_url": "https://arxiv.org/abs/1703.03130", 
+      "paper": "Lin, Zhouhan, et al. \"A Structured Self-attentive Sentence Embedding.\" In Proceedings of the 5th International Conference on Learning Representations (ICLR), 2017.", 
+      "speaker": "임진배", 
+      "name": "A Structured Self-Attentive Sentence Embedding"
+    }, 
+    {
+      "date": "2017-05-02", 
+      "paper_url": "https://arxiv.org/abs/0810.1355", 
+      "paper": "Leskovec, Jure, et al. \"Community structure in large networks: Natural cluster sizes and the absence of large well-defined clusters.\" Internet Mathematics 6.1 (2009): 29-123.", 
+      "speaker": "전성환", 
+      "name": "Community Structure in Large Networks Natural Cluster Sizes and the Absence of Large Well Defined Clusters"
+    }, 
+    {
+      "date": "2017-04-20", 
+      "paper_url": "https://pdfs.semanticscholar.org/3a92/04c4c41f46954b17a9c682a18a0924917e8e.pdf", 
+      "paper": "Skianis, Konstantinos, François Rousseau, and Michalis Vazirgiannis. \"Regularizing Text Categorization with Clusters of Words.\" science 79: 691.", 
+      "speaker": "신훈식", 
+      "name": "Regularizing Text Categorization with clusters of words"
+    }, 
+    {
+      "date": "2017-04-20", 
+      "paper_url": "http://dl.acm.org/citation.cfm?id=2939874", 
+      "paper": "Lakkaraju, Himabindu, Stephen H. Bach, and Jure Leskovec. \"Interpretable decision sets: A joint framework for description and prediction.\" Proceedings of the 22nd ACM SIGKDD International Conference on Knowledge Discovery and Data Mining. ACM, 2016.", 
+      "speaker": "김태욱", 
+      "name": "Interpretable Decision Sets: A Joint Framework for Description and Prediction"
+    }, 
+    {
+      "date": "2017-04-18", 
+      "paper_url": "http://dl.acm.org/citation.cfm?id=3061718.3061793", 
+      "paper": "Nishanth, Kancherla Jonah, and Vadlamani Ravi. \"Probabilistic neural network based categorical data imputation.\" Neurocomputing 218 (2016): 17-25.", 
+      "speaker": "안진원, 김태욱", 
+      "name": "Representation Learning Based Categorical Data Imputation"
+    }, 
+    {
+      "date": "2017-04-18", 
+      "paper_url": "http://papers.nips.cc/paper/6254-domain-separation-networks", 
+      "paper": "Bousmalis, Konstantinos, et al. \"Domain separation networks.\" Advances in Neural Information Processing Systems. 2016.", 
+      "speaker": "안용대", 
+      "name": "Transfer learning"
+    }, 
+    {
+      "date": "2017-04-13", 
+      "paper_url": "http://distill.pub/2016/handwriting/", 
+      "paper": "Carter, et al., \"Experiments in Handwriting with a Neural Network\", Distill, 2016. http://doi.org/10.23915/distill.00004", 
+      "speaker": "김은지", 
+      "name": "Online Handwriting Generation"
+    }, 
+    {
+      "date": "2017-04-13", 
+      "paper_url": "https://arxiv.org/abs/1611.03530", 
+      "paper": "Zhang, C., Bengio, S., Hardt, M., Recht, B., & Vinyals, O. (2016). Understanding deep learning requires rethinking generalization. arXiv preprint arXiv:1611.03530.", 
+      "speaker": "이제혁", 
+      "name": "Generalization in deep learning"
+    }, 
+    {
+      "date": "2017-04-11", 
+      "paper_url": "", 
+      "paper": "-", 
+      "speaker": "신동민", 
+      "name": "Google News Lab Fellowship 16/17 - PROJECT_O"
+    }, 
+    {
+      "date": "2017-04-11", 
+      "paper_url": "http://davidanastasiu.net/pdf/papers/2014-AnastasiuK-ICDE-l2ap.pdf", 
+      "paper": "Anastasiu, David C., and George Karypis. \"L2ap: Fast cosine similarity search with prefix l-2 norm bounds.\" Data Engineering (ICDE), 2014 IEEE 30th International Conference on. IEEE, 2014.", 
+      "speaker": "김현중", 
+      "name": "Inverted indexer for query expansion"
+    }, 
+    {
+      "date": "2017-04-04", 
+      "paper_url": "https://arxiv.org/abs/1411.1784", 
+      "paper": "Mirza, Mehdi, and Simon Osindero. \"Conditional generative adversarial nets.\" arXiv preprint arXiv:1411.1784 (2014).", 
+      "speaker": "김도형", 
+      "name": "Conditional Generative Adversarial Nets"
+    }, 
+    {
+      "date": "2017-04-04", 
+      "paper_url": "http://machinelearning.wustl.edu/mlpapers/papers/NIPS2014_5620", 
+      "paper": "Zhen Cui, Hong Chang, Shiguang Shan, Xilin Chen,  Generalized Unsupervised Manifold Alignment, NIPS, 2014", 
+      "speaker": "정민기", 
+      "name": "GUMA(Generalized Unsupervised Manifold Alignment)"
+    }, 
+    {
+      "date": "2017-03-21", 
+      "paper_url": "https://arxiv.org/abs/1701.06547", 
+      "paper": "Li, Jiwei, et al. \"Adversarial Learning for Neural Dialogue Generation.\" arXiv preprint arXiv:1701.06547 (2017).", 
+      "speaker": "문지형", 
+      "name": "Adversarial Learning for Neural Dialogue Generation"
+    }, 
+    {
+      "date": "2017-03-21", 
+      "paper_url": "http://ieeexplore.ieee.org/abstract/document/6866218/", 
+      "paper": "Cabral, Ricardo, et al. \"Matrix completion for weakly-supervised multi-label image classification.\" IEEE transactions on pattern analysis and machine intelligence 37.1 (2015): 121-135.", 
+      "speaker": "민동영", 
+      "name": "Matrix Completion for Weakly-supervised Multi-label Image Classification"
+    }, 
+    {
+      "date": "2017-03-16", 
+      "paper_url": "https://arxiv.org/abs/1506.03340", 
+      "paper": "Hermann, Karl Moritz, et al. \"Teaching machines to read and comprehend.\" Advances in Neural Information Processing Systems. 2015.", 
+      "speaker": "송석민", 
+      "name": "Teaching Machines to Read and Comprehend"
+    }, 
+    {
+      "date": "2017-03-16", 
+      "paper_url": "https://arxiv.org/abs/1605.07912", 
+      "paper": "Yang, Zhilin, et al. \"Review networks for caption generation.\" Advances in Neural Information Processing Systems. 2016.", 
+      "speaker": "임진배", 
+      "name": "Review Networks for Caption Generation"
+    }, 
+    {
+      "date": "2017-03-14", 
+      "paper_url": "https://arxiv.org/abs/1609.05473", 
+      "paper": "SeqGAN: Sequence Generative Adversarial Nets with Policy Gradient", 
+      "speaker": "양효창", 
+      "name": "SeqGAN : Sequence Generative Adversarial Nets with Policy Gradients"
+    }, 
+    {
+      "date": "2017-03-14", 
+      "paper_url": "https://arxiv.org/abs/1409.0473", 
+      "paper": "Bahdanau, Dzmitry, Kyunghyun Cho, and Yoshua Bengio. \"Neural machine translation by jointly learning to align and translate.\" arXiv preprint arXiv:1409.0473 (2014)", 
+      "speaker": "박인범", 
+      "name": "Seq2seq Learning and Attention Mechanism"
+    }, 
+    {
+      "date": "2017-03-09", 
+      "paper_url": "http://dl.acm.org/citation.cfm?id=2783293", 
+      "paper": "Zhang, Hao, Gunhee Kim, and Eric P. Xing. \"Dynamic topic modeling for monitoring market competition from online text and image data.\" Proceedings of the 21th ACM SIGKDD International Conference on Knowledge Discovery and Data Mining. ACM, 2015.", 
+      "speaker": "전성환", 
+      "name": "Dynamic Topic Modeling for Monitoring Market Competition from Online Text and Image Data"
+    }, 
+    {
+      "date": "2017-03-09", 
+      "paper_url": "http://hobergphillips.usc.edu/industryclass.htm", 
+      "paper": "Gerard Hoberg and Gordon Phillips. (2016) \"Text-Based Network Industries and Endogenous Product Differentiation\". Journal of Political Economy 124 (5), 1423–1465.", 
+      "speaker": "이혜진", 
+      "name": "Text-Based Network Industries and Endogenous Product Differentiation"
+    }, 
+    {
+      "date": "2017-02-27", 
+      "paper_url": "https://arxiv.org/abs/1308.0850", 
+      "paper": "Graves, Alex. \"Generating sequences with recurrent neural networks.\" arXiv preprint arXiv:1308.0850 (2013).", 
+      "speaker": "안진원", 
+      "name": "Generating Sequences with Recurrent Neural Networks"
+    }, 
+    {
+      "date": "2017-02-27", 
+      "paper_url": "https://link.springer.com/chapter/10.1007/978-3-319-46487-9_40", 
+      "paper": "MLA\t Zhang, Richard, Phillip Isola, and Alexei A. Efros. \"Colorful image colorization.\" European Conference on Computer Vision. Springer International Publishing, 2016.", 
+      "speaker": "신훈식", 
+      "name": "Image Colorization"
+    }, 
+    {
+      "date": "2017-02-23", 
+      "paper_url": "https://arxiv.org/abs/1606.04155", 
+      "paper": "Lei, Tao, Regina Barzilay, and Tommi Jaakkola. \"Rationalizing neural predictions.\" arXiv preprint arXiv:1606.04155 (2016).", 
+      "speaker": "김태욱", 
+      "name": "Rationalizing Neural Predictions"
+    }, 
+    {
+      "date": "2017-02-23", 
+      "paper_url": "http://www.cv-foundation.org/openaccess/content_iccv_2015/html/Ba_Predicting_Deep_Zero-Shot_ICCV_2015_paper.html", 
+      "paper": "Lei Ba, Jimmy, Kevin Swersky, and Sanja Fidler. \"Predicting deep zero-shot convolutional neural networks using textual descriptions.\" Proceedings of the IEEE International Conference on Computer Vision. 2015.", 
+      "speaker": "안용대", 
+      "name": "Zero-shot learning"
+    }, 
+    {
+      "date": "2017-02-20", 
+      "paper_url": "http://dl.acm.org/citation.cfm?id=2741093", 
+      "paper": "Tang, J., Qu, M., Wang, M., Zhang, M., Yan, J., & Mei, Q. (2015, May). Line: Large-scale information network embedding. In Proceedings of the 24th International Conference on World Wide Web (pp. 1067-1077). ACM.", 
+      "speaker": "이제혁", 
+      "name": "Graph Embedding"
+    }, 
+    {
+      "date": "2017-02-20", 
+      "paper_url": "", 
+      "paper": "-", 
+      "speaker": "김은지", 
+      "name": "Detecting Credit Card Frauds  with Deep Neural Network Models"
+    }, 
+    {
+      "date": "2017-02-16", 
+      "paper_url": "http://davidanastasiu.net/pdf/papers/2014-AnastasiuK-ICDE-l2ap.pdf", 
+      "paper": "Anastasiu, David C., and George Karypis. \"L2ap: Fast cosine similarity search with prefix l-2 norm bounds.\" Data Engineering (ICDE), 2014 IEEE 30th International Conference on. IEEE, 2014.", 
+      "speaker": "김현중", 
+      "name": "Approximated Neighbor Search for Sparse Vector"
+    }, 
+    {
+      "date": "2017-02-16", 
+      "paper_url": "https://arxiv.org/abs/1511.06434", 
+      "paper": "Radford, Alec, Luke Metz, and Soumith Chintala. \"Unsupervised representation learning with deep convolutional generative adversarial networks.\" arXiv preprint arXiv:1511.06434 (2015).", 
+      "speaker": "김도형", 
+      "name": "Deep Convolutional Generative Adversarial Networks"
+    }, 
+    {
+      "date": "2017-02-09", 
+      "paper_url": "http://papers.nips.cc/paper/5423-generative-adversarial-nets", 
+      "paper": "Goodfellow, Ian, et al. \"Generative adversarial nets.\" Advances in neural information processing systems. 2014.", 
+      "speaker": "양효창", 
+      "name": "Generative Adversarial Nets"
+    }, 
+    {
+      "date": "2017-02-09", 
+      "paper_url": "http://www.gamasutra.com/view/feature/3317/smart_move_intelligent?print=1", 
+      "paper": "Bryan Stout, 1997, Game Developer Magazine: Smart Moves: Intelligent Pathfinding", 
+      "speaker": "정민기", 
+      "name": "A* Pathfinding Algorithm"
+    }, 
+    {
+      "date": "2017-02-07", 
+      "paper_url": "http://www.cv-foundation.org/openaccess/content_cvpr_2015/html/Donahue_Long-Term_Recurrent_Convolutional_2015_CVPR_paper.html", 
+      "paper": "Donahue, Jeffrey, et al. \"Long-term recurrent convolutional networks for visual recognition and description.\" Proceedings of the IEEE conference on computer vision and pattern recognition. 2015.", 
+      "speaker": "박인범", 
+      "name": "Convolutional Neural Network & Recurrent Convolutional Neural Network"
+    }, 
+    {
+      "date": "2017-02-07", 
+      "paper_url": "http://acl2016.org/index.php?article_id=68#long_papers", 
+      "paper": "Li, Jiwei, et al. \"A Persona-Based Neural Conversation Model.\" Proceedings of the 54th Annual Meeting of the Association for Computational Linguistics, pages 994–1003, 2016", 
+      "speaker": "문지형", 
+      "name": "A Persona-Based Neural Conversation Model"
+    }, 
+    {
+      "date": "2017-02-02", 
+      "paper_url": "https://arxiv.org/abs/1606.01541", 
+      "paper": "Li, Jiwei, et al. \"Deep reinforcement learning for dialogue generation.\" arXiv preprint arXiv:1606.01541 (2016).", 
+      "speaker": "김태욱", 
+      "name": "Deep Reinforcement Learning for Dialogue Generation"
+    }, 
+    {
+      "date": "2017-02-02", 
+      "paper_url": "http://ieeexplore.ieee.org/abstract/document/6413733/", 
+      "paper": "Yi, Jinfeng, et al. \"Robust ensemble clustering by matrix completion.\" Data Mining (ICDM), 2012 IEEE 12th International Conference on. IEEE, 2012.", 
+      "speaker": "민동영", 
+      "name": "Robust Ensemble Clustering by Matrix Completion"
+    }, 
+    {
+      "date": "2017-01-26", 
+      "paper_url": "http://dl.acm.org/citation.cfm?id=2783258", 
+      "paper": "McAuley, Julian, Rahul Pandey, and Jure Leskovec. \"Inferring networks of substitutable and complementary products.\" Proceedings of the 21th ACM SIGKDD International Conference on Knowledge Discovery and Data Mining. ACM, 2015.", 
+      "speaker": "전성환", 
+      "name": "Inferring Networks of Substitutable and Complementary Products"
+    }, 
+    {
+      "date": "2017-01-26", 
+      "paper_url": "http://cs.stanford.edu/people/jure/pubs/", 
+      "paper": "Hamilton, W., J. Leskovec, and D. Jurafsky. \"Inducing Domain-Specific Sentiment Lexicons from Unlabeled Corpora\". Empirical Methods on Natural Language Processing; EMNLP, (2016)", 
+      "speaker": "이혜진", 
+      "name": "Inducing Domain-Specific Sentiment Lexicons from Unlabeled Corpora"
+    }, 
+    {
+      "date": "2017-01-23", 
+      "paper_url": "http://dl.acm.org/citation.cfm?id=2959171", 
+      "paper": "Teo, Choon Hui, et al. \"Adaptive, Personalized Diversity for Visual Discovery.\" Proceedings of the 10th ACM Conference on Recommender Systems. ACM, 2016", 
+      "speaker": "송석민", 
+      "name": "Adaptive, Personalized Diviersity for Visual Discovery"
+    }, 
+    {
+      "date": "2017-01-23", 
+      "paper_url": "http://www.emnlp2016.net/program/189.html", 
+      "paper": "Yunlun Yang, Yunhai Tong, Shulei Ma, and Zhi-Hong Deng. 2016. A Position Encoding Convolutional Neural Network Based on Dependency Tree for Relation Classification. In Proceedings of the 2016 Conference on Empirical Methods in Natural Language Processing, EMNLP 2016, Austin, Texas, USA, November 1-5, 2016", 
+      "speaker": "임진배", 
+      "name": "A Position Encoding Convolutional Neural Network Based on Dependency Tree for Relation Classification"
+    }, 
+    {
+      "date": "2017-01-19", 
+      "paper_url": "https://sites.google.com/site/acmlworkshoponbigdata/accepted-papers", 
+      "paper": "Eunji Kim, et al., Sequential Root Cause Identification in High Dimensional Time-series Sensor Data, ACML Workshop on Learning on Big Data, 2016", 
+      "speaker": "김은지", 
+      "name": "Sequential Root Cause Identification in High Dimensional Time Series"
+    }, 
+    {
+      "date": "2017-01-19", 
+      "paper_url": "http://dl.acm.org/citation.cfm?id=2939785", 
+      "paper": "Chen, Tianqi, and Carlos Guestrin. \"Xgboost: A scalable tree boosting system.\" Proceedings of the 22Nd ACM SIGKDD International Conference on Knowledge Discovery and Data Mining. ACM, 2016.", 
+      "speaker": "안용대", 
+      "name": "eXtreme Gradient Boosting (XGBoost)"
+    }, 
+    {
+      "date": "2017-01-16", 
+      "paper_url": "http://papers.nips.cc/paper/5653-a-recurrent-latent-variable-model-for-sequential-data", 
+      "paper": "Chung, Junyoung, et al. \"A recurrent latent variable model for sequential data.\" Advances in neural information processing systems. 2015.", 
+      "speaker": "안진원", 
+      "name": "Evolution of Latent Variable Model for Sequential Data"
+    }, 
+    {
+      "date": "2016-12-23", 
+      "paper_url": "https://arxiv.org/abs/1408.5882", 
+      "paper": "Kim, Yoon. \"Convolutional neural networks for sentence classification.\" arXiv preprint arXiv:1408.5882 (2014).", 
+      "speaker": "임진배", 
+      "name": "Deep Learning for Politically-themed Stocks Analysis"
+    }, 
+    {
+      "date": "2016-12-23", 
+      "paper_url": "", 
+      "paper": "", 
+      "speaker": "안용대", 
+      "name": "데이터 기반 영화 개봉 주 토요일 관객수 예측"
+    }, 
+    {
+      "date": "2016-12-23", 
+      "paper_url": "", 
+      "paper": "", 
+      "speaker": "전성환", 
+      "name": "Detecting Topics Affecting Volatilities of Sectors In Standard & Poor's Depositary Receipts Using Financial News Sentiment Analysis"
+    }, 
+    {
+      "date": "2016-12-23", 
+      "paper_url": "https://arxiv.org/abs/1312.6114", 
+      "paper": "Kingma, Diederik P., and Max Welling. \"Auto-encoding variational bayes.\" arXiv preprint arXiv:1312.6114 (2013).", 
+      "speaker": "안진원", 
+      "name": "Latent Feature Learning by Various Autoencoders"
+    }, 
+    {
+      "date": "2016-12-23", 
+      "paper_url": "http://eprints.lse.ac.uk/62548/", 
+      "paper": "Bholat, David M., et al. \"Text mining for central banks.\" (2015).", 
+      "speaker": "김미숙", 
+      "name": "통화정책방향문 분석"
+    }, 
+    {
+      "date": "2016-12-16", 
+      "paper_url": "", 
+      "paper": "", 
+      "speaker": "민동영", 
+      "name": "Fuzzy Concept Clustering of KOSPI Listed Companies"
+    }, 
+    {
+      "date": "2016-12-16", 
+      "paper_url": "http://www.jmlr.org/proceedings/papers/v37/jozefowicz15.html", 
+      "paper": "Zaremba, Wojciech. \"An empirical exploration of recurrent network architectures.\" (2015).", 
+      "speaker": "박인범", 
+      "name": "Predicting Building Energy Consumption Using Recurrent Neural Network"
+    }, 
+    {
+      "date": "2016-12-16", 
+      "paper_url": "https://papers.nips.cc/paper/5782-character-level-convolutional-networks-for-text-classification", 
+      "paper": "Zhang, Xiang, Junbo Zhao, and Yann LeCun. \"Character-level convolutional networks for text classification.\" Advances in Neural Information Processing Systems. 2015.", 
+      "speaker": "문지형", 
+      "name": "Jaso-level Convolutional Neural Networks  for Sentiment Analysis : The Case of Korean Movie Reviews\t"
+    }, 
+    {
+      "date": "2016-12-01", 
+      "paper_url": "http://papers.nips.cc/paper/5004-deep-content-based-music-recommendation", 
+      "paper": "Van den Oord, Aaron, Sander Dieleman, and Benjamin Schrauwen. \"Deep content-based music recommendation.\" Advances in Neural Information Processing Systems. 2013.", 
+      "speaker": "이제혁", 
+      "name": "Deep Content-based Music Recommendation"
+    }, 
+    {
+      "date": "2016-12-01", 
+      "paper_url": "", 
+      "paper": "", 
+      "speaker": "김현중", 
+      "name": "Building Retrieval-based Chatbot"
+    }, 
+    {
+      "date": "2016-11-03", 
+      "paper_url": "https://arxiv.org/abs/1511.06038", 
+      "paper": "Miao, Yishu, Lei Yu, and Phil Blunsom. \"Neural variational inference for text processing.\" Proc. ICML. 2016.", 
+      "speaker": "임진배", 
+      "name": "Neural Variational Document Model"
+    }, 
+    {
+      "date": "2016-11-03", 
+      "paper_url": "http://dl.acm.org/citation.cfm?id=1462204", 
+      "paper": "Schumaker, Robert P., and Hsinchun Chen. \"Textual analysis of stock market prediction using breaking financial news: The AZFin text system.\" ACM Transactions on Information Systems (TOIS) 27.2 (2009): 12.", 
+      "speaker": "전성환", 
+      "name": "Predicting Volatilities of Sectors In Thomson Reuters Business Classification Using Financial News Sentiment Analysis and Literature Survey of Sentiment Analysis"
+    }, 
+    {
+      "date": "2016-10-27", 
+      "paper_url": "http://arxiv.org/abs/1602.04938", 
+      "paper": "Ribeiro, Marco Tulio, Sameer Singh, and Carlos Guestrin. \"\" Why Should I Trust You?\": Explaining the Predictions of Any Classifier.\" arXiv preprint arXiv:1602.04938 (2016).", 
+      "speaker": "김태욱", 
+      "name": "Why Should I Trust You Explaining the Predictions of Any Classifier"
+    }, 
+    {
+      "date": "2016-10-20", 
+      "paper_url": "http://link.springer.com/chapter/10.1007/978-3-642-17534-3_19", 
+      "paper": "Jeatrakul, Piyasak, Kok Wai Wong, and Chun Che Fung. \"Classification of imbalanced data by combining the complementary neural network and SMOTE algorithm.\" International Conference on Neural Information Processing. Springer Berlin Heidelberg, 2010.", 
+      "speaker": "신훈식", 
+      "name": "Class Imbalance Problem"
+    }, 
+    {
+      "date": "2016-10-13", 
+      "paper_url": "http://www.sciencedirect.com/science/article/pii/S0950705116000174", 
+      "paper": "Chen, Yanyan, Kuaini Wang, and Ping Zhong. \"One-Class Support Tensor Machine.\" Knowledge-Based Systems 96 (2016): 14-28.", 
+      "speaker": "김은지", 
+      "name": "One-class Support Tensor Machine"
+    }, 
+    {
+      "date": "2016-10-13", 
+      "paper_url": "http://arxiv.org/abs/1312.6114", 
+      "paper": "Kingma, Diederik P., and Max Welling. \"Auto-encoding variational bayes.\" arXiv preprint arXiv:1312.6114 (2013).", 
+      "speaker": "안진원", 
+      "name": "Variational Autoencoder"
+    }, 
+    {
+      "date": "2016-10-07", 
+      "paper_url": "http://www.cv-foundation.org/openaccess/content_cvpr_2015/html/Schroff_FaceNet_A_Unified_2015_CVPR_paper.html", 
+      "paper": "Schroff, Florian, Dmitry Kalenichenko, and James Philbin. \"Facenet: A unified embedding for face recognition and clustering.\" Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition. 2015.", 
+      "speaker": "조현창", 
+      "name": "Embedding & Loss functions"
+    }, 
+    {
+      "date": "2016-10-06", 
+      "paper_url": "http://www.aaai.org/ocs/index.php/AAAI/AAAI15/paper/download/9303/9544/", 
+      "paper": "Cao, Ziqiang, et al. \"A Novel Neural Topic Model and Its Supervised Extension.\" AAAI. 2015.", 
+      "speaker": "양호성", 
+      "name": "Topic Models with Word Embeddings"
+    }, 
+    {
+      "date": "2016-10-06", 
+      "paper_url": "https://wp.nyu.edu/ismir2016/wp-content/uploads/sites/2294/2016/07/110_Paper.pdf", 
+      "paper": "Chung, Chia-Hao, Jing-Kai Lou, and Homer Chen. \"A LATENT REPRESENTATION OF USERS, SESSIONS, AND SONGS FOR LISTENING BEHAVIOR ANALYSIS.\", ISMIR 2016.", 
+      "speaker": "이제혁", 
+      "name": "Context-based Music Recommendation : Graph-embedding-based Approach"
+    }, 
+    {
+      "date": "2016-09-29", 
+      "paper_url": "http://www.sciencedirect.com/science/article/pii/S0952197614003078", 
+      "paper": "Izakian, Hesam, Witold Pedrycz, and Iqbal Jamal. \"Fuzzy clustering of time series data using dynamic time warping distance.\" Engineering Applications of Artificial Intelligence 39 (2015): 235-244.", 
+      "speaker": "민동영", 
+      "name": "Fuzzy Clustering of Time Series Data Using Dynamic Time Warping Distance"
+    }, 
+    {
+      "date": "2016-09-29", 
+      "paper_url": " ", 
+      "paper": "", 
+      "speaker": "문지형", 
+      "name": "Understanding the concept of LDA (2) Sampling Based Inference"
+    }, 
+    {
+      "date": "2016-09-22", 
+      "paper_url": "https://arxiv.org/abs/1511.06038", 
+      "paper": "Miao, Yishu, Lei Yu, and Phil Blunsom. \"Neural variational inference for text processing.\" Proc. ICML. 2016.", 
+      "speaker": "임진배", 
+      "name": "Neural Variational Inference for Text Processing"
+    }, 
+    {
+      "date": "2016-09-22", 
+      "paper_url": "http://dl.acm.org/citation.cfm?id=2133826", 
+      "paper": "Blei, David M. \"Probabilistic topic models.\" Communications of the ACM 55.4 (2012): 77-84.", 
+      "speaker": "문지형", 
+      "name": "Understanding the Concept of LDA (1) From Probabilistic Graphical Model to Model Inference"
+    }, 
+    {
+      "date": "2016-08-31", 
+      "paper_url": "", 
+      "paper": "", 
+      "speaker": "박인범", 
+      "name": "Analysis of BEMS(Building Energy Management System) Sensor data"
+    }, 
+    {
+      "date": "2016-08-31", 
+      "paper_url": "http://link.springer.com/chapter/10.1007/978-3-642-37456-2_14", 
+      "paper": "Campello, Ricardo JGB, Davoud Moulavi, and Jörg Sander. \"Density-based clustering based on hierarchical density estimates.\" Pacific-Asia Conference on Knowledge Discovery and Data Mining. Springer Berlin Heidelberg, 2013.", 
+      "speaker": "안용대", 
+      "name": "Density-based Clustering"
+    }, 
+    {
+      "date": "2016-08-17", 
+      "paper_url": "https://arxiv.org/abs/1301.3781", 
+      "paper": "Mikolov, Tomas, et al. \"Efficient estimation of word representations in vector space.\" arXiv preprint arXiv:1301.3781 (2013).", 
+      "speaker": "양호성", 
+      "name": "Something-2-Vec"
+    }, 
+    {
+      "date": "2016-08-09", 
+      "paper_url": "http://ieeexplore.ieee.org/xpls/abs_all.jsp?arnumber=6857341", 
+      "paper": "Abdel-Hamid, Ossama, et al. \"Convolutional neural networks for speech recognition.\" IEEE/ACM Transactions on audio, speech, and language processing 22.10 (2014): 1533-1545.", 
+      "speaker": "이제혁", 
+      "name": "Speech Recognition by CNN"
+    }, 
+    {
+      "date": "2016-08-03", 
+      "paper_url": "http://dl.acm.org/citation.cfm?id=1835903", 
+      "paper": "Wang, Hongning, Yue Lu, and Chengxiang Zhai. \"Latent Aspect Rating Analysis on Review Text Data: A Rating Regression Approach\". In Proceedings of the 16th ACM SIGKDD. ACM, (2010)", 
+      "speaker": "이혜진", 
+      "name": "Latent Aspect Rating Analysis on Review Text Data: A Rating Regression Approach"
+    }, 
+    {
+      "date": "2016-07-27", 
+      "paper_url": "http://jmlr.org/proceedings/papers/v37/ding15.html", 
+      "paper": "Ding, Yufei, et al. \"Yinyang k-means: A drop-in replacement of the classic k-means with consistent speedup.\" Proceedings of the 32nd International Conference on Machine Learning (ICML-15). 2015.", 
+      "speaker": "박인범", 
+      "name": "Yinyang K-means"
+    }, 
+    {
+      "date": "2016-07-27", 
+      "paper_url": "http://link.springer.com/article/10.1007/s11222-007-9033-z", 
+      "paper": "Von Luxburg, Ulrike. \"A tutorial on spectral clustering.\" Statistics and computing 17.4 (2007): 395-416.", 
+      "speaker": "안용대", 
+      "name": "Spectral Clustering"
+    }, 
+    {
+      "date": "2016-07-27", 
+      "paper_url": "http://arxiv.org/abs/1410.3916", 
+      "paper": "Weston, Jason, Sumit Chopra, and Antoine Bordes. \"Memory networks.\" arXiv preprint arXiv:1410.3916 (2014).", 
+      "speaker": "송석민", 
+      "name": "Memory Networks"
+    }, 
+    {
+      "date": "2016-07-20", 
+      "paper_url": "https://arxiv.org/abs/1606.06539", 
+      "paper": "Zhang, Xu-Yao, et al. \"Drawing and Recognizing Chinese Characters with Recurrent Neural Network.\" arXiv preprint arXiv:1606.06539 (2016).", 
+      "speaker": "임진배", 
+      "name": "Drawing and Recognizing Chinese Characters with Recurrent Neural Network"
+    }, 
+    {
+      "date": "2016-07-14", 
+      "paper_url": "http://link.springer.com/article/10.1007/s10044-011-0262-6", 
+      "paper": "Nakamura, Tetsuya, et al. \"A shape-based similarity measure for time series data with ensemble learning.\" Pattern Analysis and Applications 16.4 (2013): 535-548.", 
+      "speaker": "민동영", 
+      "name": "Shape Based Similarity Measure for Time Series Data"
+    }, 
+    {
+      "date": "2016-07-08", 
+      "paper_url": "http://www.kdd.org/kdd2016/papers/files/rpp0093-liuA.pdf", 
+      "paper": "Liu, Hongfu, et al. \"Infinite Ensemble for Image Clustering.\", KDD 2016", 
+      "speaker": "안용대", 
+      "name": "Infinite Ensemble for Image Clustering"
+    }, 
+    {
+      "date": "2016-07-04", 
+      "paper_url": "http://people.mpi-inf.mpg.de/~smukherjee/cont-exp-lm-kdd16.pdf", 
+      "paper": "Mukherjee, Subhabrata, Stephan Günnemann, and Gerhard Weikum. \"Continuous Experience-aware Language Model.\", KDD 2016", 
+      "speaker": "양호성", 
+      "name": "Continuous Experience-aware Language Model"
+    }, 
+    {
+      "date": "2016-05-26", 
+      "paper_url": "http://link.springer.com/chapter/10.1007/978-3-642-35289-8_26", 
+      "paper": "Bengio, Yoshua. \"Practical recommendations for gradient-based training of deep architectures.\" Neural Networks: Tricks of the Trade. Springer Berlin Heidelberg, 2012. 437-478.", 
+      "speaker": "김태욱", 
+      "name": "Improving the Way Neural Network Learns"
+    }, 
+    {
+      "date": "2016-05-26", 
+      "paper_url": "http://link.springer.com/chapter/10.1007/BFb0020217", 
+      "paper": "Schölkopf, Bernhard, Alexander Smola, and Klaus-Robert Müller. \"Kernel principal component analysis.\" International Conference on Artificial Neural Networks. Springer Berlin Heidelberg, 1997.", 
+      "speaker": "신훈식", 
+      "name": "Kernal Principal Component Analysis"
+    }, 
+    {
+      "date": "2016-05-26", 
+      "paper_url": "", 
+      "paper": "", 
+      "speaker": "이혜진", 
+      "name": "Automatic Classification of Securities using Hierarchical Clustering of 10-Ks"
+    }, 
+    {
+      "date": "2016-05-04", 
+      "paper_url": "https://arxiv.org/abs/1408.5882", 
+      "paper": "Kim, Yoon. \"Convolutional neural networks for sentence classification.\" arXiv preprint arXiv:1408.5882 (2014).", 
+      "speaker": "양호성", 
+      "name": "Convolutional Neural Networks for NLP"
+    }, 
+    {
+      "date": "2016-03-23", 
+      "paper_url": "http://www.nature.com/nature/journal/v529/n7587/full/nature16961.html", 
+      "paper": "Silver, David, et al. \"Mastering the game of Go with deep neural networks and tree search.\" Nature 529.7587 (2016): 484-489.", 
+      "speaker": "김태욱", 
+      "name": "AlphaGo"
+    }, 
+    {
+      "date": "2016-03-11", 
+      "paper_url": "", 
+      "paper": "", 
+      "speaker": "양호성", 
+      "name": "Introduction to Spark"
+    }, 
+    {
+      "date": "", 
+      "paper_url": "", 
+      "paper": "", 
+      "speaker": "", 
+      "name": ""
+    }, 
+    {
+      "date": "", 
+      "paper_url": "", 
+      "paper": "", 
+      "speaker": "민동영", 
+      "name": ""
+    }
+  ], 
+  "columns_en": {
+    "date": "Date", 
+    "paper": "Related Paper", 
+    "speaker": "Speaker", 
+    "name": "Title"
+  }
+}
