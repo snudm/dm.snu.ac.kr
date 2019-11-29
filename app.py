@@ -173,7 +173,10 @@ def faq():
 
 @app.route('/<lang_code>/research/')
 def research():
-    return redirect(url_for('publications', lang_code=get_locale()))
+    try:
+        return redirect(url_for('publications', lang_code=get_locale()))
+    except:
+        return abort(404)
 
 
 @app.route('/<lang_code>/research/activities', methods=['GET', 'POST'])
