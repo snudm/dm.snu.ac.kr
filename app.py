@@ -33,7 +33,7 @@ def before():
     #response.headers['X-XSS-Protection'] = '1; mode=block'
     #return response
 
-	
+
 @babel.localeselector
 def get_locale():
     try:
@@ -55,8 +55,8 @@ def home():
                                news=read_json_data('news.json'))
     else:
         return abort(404)
-		
-		
+
+
 @app.route('/<lang_code>/degrees/')
 def degrees():
     return redirect(url_for('admission_qna', lang_code=get_locale()))
@@ -98,7 +98,10 @@ def courses():
 
 @app.route('/<lang_code>/courses/<id>')
 def course(id):
-    return render_template('courses/%s.html' % id)
+    if '"id": "' + id + '"' in open(os.path.join(APP_STATIC, 'data', 'courses.json')).read()
+        return render_template('courses/%s.html' % id)
+    else:
+        return abort(404)
 
 
 """
