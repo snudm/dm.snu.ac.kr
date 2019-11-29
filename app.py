@@ -28,10 +28,10 @@ def before():
         g.current_lang = request.view_args['lang_code']
         request.view_args.pop('lang_code')
 
-#@app.after_request
-#def add_header(response):
-    #response.headers['X-XSS-Protection'] = '1; mode=block'
-    #return response
+@app.after_request
+def add_header(response):
+    response.headers['X-XSS-Protection'] = '1; mode=block'
+    return response
 
 
 @babel.localeselector
