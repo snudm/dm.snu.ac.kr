@@ -28,7 +28,12 @@ def before():
         g.current_lang = request.view_args['lang_code']
         request.view_args.pop('lang_code')
 
+#@app.after_request
+#def add_header(response):
+    #response.headers['X-XSS-Protection'] = '1; mode=block'
+    #return response
 
+	
 @babel.localeselector
 def get_locale():
     try:
@@ -50,11 +55,6 @@ def home():
                                news=read_json_data('news.json'))
     else:
         return abort(404)
-		
-@app.after_request
-def add_security_headers(resp):
-    resp.headers['X-XSS-Protection']='1; mode=block'
-    return resp
 		
 		
 @app.route('/<lang_code>/degrees/')
@@ -280,7 +280,13 @@ def software():
 
 @app.route('/~<name>')
 def member(name):
-    return redirect('%s/~%s' % (APP_URL, name))
+    base_dir = os.path.dirname(os.path.abspath(__file__))
+    name_dir = os.path.join(base_dir, 'templates', 'home', name)
+    if not os.path.exists(name_dir):
+        return abort(404)
+    if name == 'zoon':
+        return redirect('http://dm.snu.ac.kr/ko/people/professor', code=302)
+    return render_template('home/%s/public_html/index.html' % name)
 
 
 @app.errorhandler(404)

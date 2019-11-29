@@ -5,3 +5,4 @@
 .pydevproject
 .settings/*
 node_modules/*
+home/
