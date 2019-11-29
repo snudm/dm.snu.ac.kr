@@ -98,7 +98,7 @@ def courses():
 
 @app.route('/<lang_code>/courses/<id>')
 def course(id):
-    if '"id": "' + id + '"' in open(os.path.join(APP_STATIC, 'data', 'courses.json')).read():
+    if '"id": "' + id + '"' in open(os.path.join(APP_STATIC, 'data', 'courses.json')).read().decode('utf-8'):
         return render_template('courses/%s.html' % id)
     else:
         return abort(404)
