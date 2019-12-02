@@ -80,9 +80,10 @@ def admission():
                            admission=read_json_data('degrees.json'))
 
 
-@app.route('/<lang_code>/zoon')
-def zoon():
-    return render_template('zoon.html')
+# @app.route('/<lang_code>/zoon')
+# def zoon():
+#     return render_template('professor.html')
+    # return render_template('zoon.html')
 
 
 @app.route('/<lang_code>/contact')
@@ -283,15 +284,28 @@ def software():
     return render_template('software.html',
                            software=read_json_data('software.json'))
 
+@app.route('/<lang_code>/~<name>')
+def member_lang(name):
+    base_dir = os.path.dirname(os.path.abspath(__file__))
+    name_dir = os.path.join(base_dir, 'templates', 'home', name)
+    if name == 'zoon':
+        return render_template('professor.html')
+    if not os.path.exists(name_dir):
+        return abort(404)
+    return render_template('home/%s/public_html/index.html' % name)
+
+@app.route('/~zoon/index.html')
+def naver_zoon():
+    return render_template('professor.html')
 
 @app.route('/~<name>')
 def member(name):
     base_dir = os.path.dirname(os.path.abspath(__file__))
     name_dir = os.path.join(base_dir, 'templates', 'home', name)
-    if not os.path.exists(name_dir):
+    if name == 'zoon' or name == 'zoon/index.html':
+        return render_template('professor.html')
+    elif not os.path.exists(name_dir):
         return abort(404)
-    if name == 'zoon':
-        return redirect('http://dm.snu.ac.kr/ko/people/professor', code=302)
     return render_template('home/%s/public_html/index.html' % name)
 
 

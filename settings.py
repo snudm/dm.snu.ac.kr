@@ -32,7 +32,7 @@ LOCALES = ['ko', 'en']
 
 SERVER = {
     'host': '0.0.0.0',
-    'port': 8088,
+    'port': 80,
     'debug': True,
 }
 
