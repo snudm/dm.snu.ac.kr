@@ -152,6 +152,16 @@
     "M.S.":  "Industrial Engineering, Seoul Nat'l Univ., 2020",
     "B.S.":  "Mathematical Science, KAIST, 2014",
     "highschool": "Sangsan, 2009"
+    },
+    {
+    "image": "jw_lee",
+    "name": "이 재 원 (Jaewon Lee)",
+    "exp.gra.": "2025. 2",
+    "email": "jaewon.lee at dm.snu.ac.kr",
+    "areas of interest": "Multi-modal Deep Learning, NLP, Text Mining",
+    "experience": "NAVER (Company.AI), 2017-2020; Hana Financial Investment, 2016-2017",
+    "B.S.":  "Applied Maths & Statistics, Computer Science, Johns Hopkins University, 2015",
+    "highschool": "Cheongshim International Academy, 2009"
     }
 ],
 "ms_students": [
@@ -231,7 +241,7 @@
 	"experience": "Samsung Electro-Mechanics, 2015-",
     "B.S.":  "Mechanical & Aerospace Engineering, Seoul Nat'l Univ., 2015",
     "highschool": "Happo, 2009"
-    }
+  }
 ],
 
 "on_leave": [

@@ -4,26 +4,26 @@
 	"degree": "석사",
 	"image": "hy.kim",
 	"job": "서울대학교 박사과정",
-	"dissertation": "",
-	"diss_address": "https://github.com/lovit/dissertation/blob/master/dissertation.pdf"},
-  {
+	"dissertation": "GRU 기반 지역별 교통사고 심도 예측 모형"
+ },
+ {
 	"year": "2020.02",
 	"name": "최민",
 	"degree": "석사",
 	"image": "m.choi",
 	"job": "서울대학교 박사과정",
-	"dissertation": "",
-	"diss_address": "https://github.com/lovit/dissertation/blob/master/dissertation.pdf"},
-  {
+	"dissertation": "소셜미디어 데이터와 기계학습을 활용한 주식투자 전략"
+ },
+ {
 	"year": "2020.02",
 	"name": "김누리",
 	"degree": "석사",
 	"image": "nl.kim",
 	"job": "미래에셋증권",
 	"job_address": "https://www.miraeasset.co.kr",
-	"dissertation": "",
-	"diss_address": "https://github.com/lovit/dissertation/blob/master/dissertation.pdf"},
-  {
+	"dissertation": "머신 러닝 기법을 활용한 한정판 운동화 리셀 여부 예측 및 수익성 평가"
+ },
+ {
 	"year": "2019.08",
 	"name": "김현중",
 	"degree": "박사",
@@ -31,15 +31,18 @@
 	"job": "네이버랩스 파파고팀",
 	"job_address": "https://www.naverlabs.com/",
 	"dissertation": "미등록단어 문제와 데이터 부족 현상을 해결하기 위한 비지도학습 토크나이저와 추출 기반 문서 요약 기법",
-	"diss_address": "https://github.com/lovit/dissertation/blob/master/dissertation.pdf"},
-  {
+	"diss_address": "https://github.com/lovit/dissertation/blob/master/dissertation.pdf"
+ },
+ {
 	"year": "2019.08",
 	"name": "류성원",
 	"degree": "석사",
 	"image": "sw.lyu",
 	"job": "카카오 엔터프라이즈",
 	"job_address": "https://kakao.ai/",
-	"dissertation": "Multimodal Self-Attention Network for Visual Reasoning"},
+	"dissertation": "Multimodal Self-Attention Network for Visual Reasoning",
+	"diss_address": "https://snu-primo.hosted.exlibrisgroup.com/permalink/f/1l6eo7m/82SNU_INST21684269020002591"
+ },
  {
 	"year": "2019.08",
 	"name": "박봉준",
@@ -47,7 +50,9 @@
 	"image": "bj.park",
 	"job": "삼성 디스플레이",
 	"job_address": "http://www.samsungdisplay.com",
-	"dissertation": "다변량 시계열 데이터의 시각화를 위한 변수 인덱싱"},
+	"dissertation": "다변량 시계열 데이터의 시각화를 위한 변수 인덱싱",
+	"dss_address": "https://snu-primo.hosted.exlibrisgroup.com/permalink/f/1l6eo7m/82SNU_INST21684279490002591"
+ },
  {
 	"year": "2019.08",
 	"name": "김지영",
@@ -55,7 +60,9 @@
 	"image": "jy.kim",
 	"job": "Berkeley Lawrence National Laboratory",
 	"job_address": "https://www.lbl.gov",
-	"dissertation": "Time-varying Item Feature Conditional Variational Autoencoder for Collaborative filtering"},
+	"dissertation": "Time-varying Item Feature Conditional Variational Autoencoder for Collaborative filtering",
+	"diss_address": "https://snu-primo.hosted.exlibrisgroup.com/permalink/f/1l6eo7m/82SNU_INST21684269060002591"
+ },
  {
 	"year": "2019.08",
 	"name": "이형욱",
@@ -63,205 +70,64 @@
 	"image": "hu.lee",
 	"job": "티맥스",
 	"job_address": "http://www.tmaxsoft.com",
-	"dissertation": "듀얼 어텐션 메커니즘 기반 Bidirectional Encoder-Decoder Recurrent Neural Network를 활용한 다변량 시계열 예측"},
+	"dissertation": "듀얼 어텐션 메커니즘 기반 Bidirectional Encoder-Decoder Recurrent Neural Network를 활용한 다변량 시계열 예측",
+	"diss_address": "https://snu-primo.hosted.exlibrisgroup.com/permalink/f/1l6eo7m/82SNU_INST21684276660002591"
+ },
  {
 	"year": "2019.08",
 	"name": "신승훈",
 	"degree": "석사",
 	"image": "sh.shin",
 	"job": "대한민국 육군",
-	"dissertation": "설명 가능한 주제 단위의 감성 분석 기반 추천 시스템"},
-{
+	"dissertation": "설명 가능한 주제 단위의 감성 분석 기반 추천 시스템",
+	"diss_address": "https://snu-primo.hosted.exlibrisgroup.com/permalink/f/1l6eo7m/82SNU_INST21684276610002591"
+ },
+ {
 	"year": "2019. 2",
 	"name": "김은지",
 	"degree": "박사",
 	"image": "ejkim",
 	"job": "삼성종합기술원",
-	"dissertation": "Supervised Deep Learning-based Anomaly Detection Models and Their Applications in Finance, Manufacturing, and Media"
-},
-{
+	"dissertation": "Supervised Deep Learning-based Anomaly Detection Models and Their Applications in Finance, Manufacturing, and Media",
+	"diss_address": "https://snu-primo.hosted.exlibrisgroup.com/permalink/f/1l6eo7m/82SNU_INST21684259750002591s"
+ },
+ {
 	"year": "2019. 2",
 	"name": "이영훈",
 	"degree": "박사",
 	"image": "yhoon",
 	"job": "서울과학기술대학교 교수",
-	"dissertation": "Data driven user experience analysis"
-},
-{
-	"year": "2018. 2",
-	"name": "김미숙",
-	"degree": "박사",
-	"image": "mskim",
-	"job": "세종대학교 데이터사이언스 학과 교수",
-	"dissertation": "Prediction of stock price, base rate, and interest rate spread with text data",
-	"diss_address": "http://snu-primo.hosted.exlibrisgroup.com/82SNU:ALL:82SNU_INST21605742570002591"
-},
-{
-	"year": "2017. 2",
-	"name": "고태훈",
-	"degree": "박사",
-	"job": "서울대병원 정보화실 교수",
-	"dissertation": "Multi-source, unstructured and external data analytics for manufacturing process",
-	"diss_address": "http://snu-primo.hosted.exlibrisgroup.com/82SNU:ALL:82SNU_INST21574549890002591"
-},
-{
-	"year": "2016. 8",
-	"name": "김연국",
-	"degree": "박사",
-	"job": "Aetna Korea, a CVS Health Company",
-	"dissertation": "Building financial misstatement detection models using multi-class cost-sensitive learning and feature generation from cfo survey",
-	"diss_address": "http://snu-primo.hosted.exlibrisgroup.com/82SNU:ALL:82SNU_INST21557937740002591"
-},
-{
-	"year": "2016. 8",
-	"name": "박은정",
-	"degree": "박사",
-	"job": "네이버랩스 파파고팀",
-	"job_address": "https://www.naverlabs.com/",
-	"dissertation": "Supervised feature representations for document classification",
-	"diss_address": "http://snu-primo.hosted.exlibrisgroup.com/82SNU:ALL:82SNU_INST21557911290002591"
-},
-{
-	"year": "2016. 2",
-	"name": "박성훈",
-	"degree": "박사",
-	"job": "삼성화재 빅데이터팀",
-	"dissertation": "Modeling behavioral biases of stock investors",
-	"diss_address": "http://snu-primo.hosted.exlibrisgroup.com/82SNU:ALL:82SNU_INST21544643210002591"
-},
-{
-	"year": "2016. 2",
-	"name": "박주성",
-	"degree": "박사",
-	"job": "딜로이트 컨설팅",
-	"dissertation": "시스템 모니터링을 위한 구간 분할, 시각화 및 예측 성능 추정 방법 연구",
-	"diss_address": "http://snu-primo.hosted.exlibrisgroup.com/82SNU:ALL:82SNU_INST21544678520002591"
-},
-{
-	"year": "2015. 8",
-	"name": "강석호",
-	"image": "shkang",
-	"degree": "박사",
-	"job": "성균관대학교 시스템경영공학과 교수",
-	"dissertation": "Heterogeneous Ensemble Learning for Multi-class Classification",
-	"diss_address": "http://snu-primo.hosted.exlibrisgroup.com/82SNU:ALL:82SNU_INST21511609380002591"
-},
-{
-	"year": "2015. 8",
-	"name": "선미선",
-	"degree": "박사",
-	"job": "한국 국방연구원",
-	"dissertation": "Estimating Minority Class Proportion for class Imbalance and Class Overlap:Algorithms and Prediction Maladjusted Soldiers",
-	"diss_address": "http://snu-primo.hosted.exlibrisgroup.com/82SNU:ALL:82SNU_INST21511630890002591"
-},
-{
-	"year": "2015. 2",
-	"name": "허민회",
-	"degree": "박사",
-	"job": "현대자동차 AIR Lab",
-	"dissertation": "Demand Forecasting, Keyword Selecting, and Ad Placing in Digital Marketing with Text Mining",
-	"diss_address": "http://snu-primo.hosted.exlibrisgroup.com/82SNU:ALL:82SNU_INST21412877860002591"
-
-},
-{
-	"year": "2014. 2",
-	"name": "이승경",
-	"degree": "박사",
-	"job": "삼성전자 DS부문",
-	"dissertation": "Probabilistic Local Reconstruction for k-Nearest Neighbor Learning",
-	"diss_address": "http://snu-primo.hosted.exlibrisgroup.com/82SNU:ALL:82SNU_INST21433165660002591"
-},
-{
-	"year": "2013. 2",
-	"name": "김동일",
-	"degree": "박사",
-	"job": "충남대학교 컴퓨터공학과 교수",
-	"dissertation": "Intelligent data selection and semi-supervised learning for support vector regression",
-	"diss_address": "http://snu-primo.hosted.exlibrisgroup.com/82SNU:ALL:82SNU_INST21463531750002591"
-},
-{
-	"year": "2013. 2",
-	"name": "김수진",
-	"degree": "박사",
-	"job": "Capital One Bank, TX, USA",
-	"dissertation": "Launch point estimation and team performance prediction for military application",
-	"diss_address": "http://snu-primo.hosted.exlibrisgroup.com/82SNU:ALL:82SNU_INST21464091350002591"
-},
-{
-	"year": "2010. 2",
-	"name": "강필성",
-	"image" : "pskang",
-	"degree": "박사",
-	"job": "고려대학교 산업경영공학부 교수",
-	"dissertation": "Locally linear reconstruction for prediction, detection, clustering",
-	"diss_address": "http://snu-primo.hosted.exlibrisgroup.com/82SNU:ALL:82SNU_INST21423520140002591"
-},
-{
-	"year": "2009. 8",
-	"name": "황성섭",
-	"degree": "박사",
-	"job": "우리은행",
-	"dissertation": "Keystroke dynamics analysis for user authentication and account sharing detection",
-	"diss_address": "http://snu-primo.hosted.exlibrisgroup.com/82SNU:ALL:82SNU_INST21471967890002591"
-},
-{
-	"year": "2007",
-	"name": "이형주",
-	"degree": "박사",
-	"job": "라인플러스",
-	"dissertation": "Novelty detection for class imbalance : LVQ-based algorithm and its applications to security and CRM",
-	"diss_address": "http://snu-primo.hosted.exlibrisgroup.com/82SNU:ALL:82SNU_INST21461066790002591"
-},
-{
-	"year": "2005",
-	"name": "신현정",
-	"degree": "박사",
-	"job": "아주대학교 산업공학과 교수",
-	"dissertation": "Efficient pattern selection for support vector classifiers and its CRM application",
-	"diss_address": "http://snu-primo.hosted.exlibrisgroup.com/82SNU:ALL:82SNU_INST21484439310002591"
-},
-{
-	"year": "2004",
-	"name": "우은철",
-	"degree": "박사",
-	"job": "삼성 SDS",
-	"dissertation": "Ensemble formation based on GA-SVM wrapper feature subset selection",
-	"diss_address": "http://snu-primo.hosted.exlibrisgroup.com/82SNU:ALL:82SNU_INST21451829760002591"
-},
-{
-	"year": "2000",
-	"name": "장민",
-	"image": "mjang",
-	"degree": "박사",
-	"job": "Chaintob 대표",
-	"job_address": "http://www.chaintob.com",
-	"dissertation": "Ensemble Learning Algorithm using Virtual Data"
-},
-{
+	"dissertation": "Data Driven Approaches in User Experience Analysis : Customer-voice classification, User segmentation and Design elements selection",
+	"diss_address": "https://snu-primo.hosted.exlibrisgroup.com/permalink/f/1l6eo7m/82SNU_INST21655499620002591"
+ },
+ {
 	"year": "2019. 2",
 	"name": "강연국",
 	"degree": "석사",
 	"image": "ykkang",
 	"job": "삼성전자 DS부문",
-	"dissertation": "강화학습을 이용한 제조 물류자동화 시스템 경로 제어 파라미터 최적화"
-},
-{
+	"dissertation": "강화학습을 이용한 제조 물류자동화 시스템 경로 제어 파라미터 최적화",
+	"diss_address": "https://snu-primo.hosted.exlibrisgroup.com/permalink/f/1l6eo7m/82SNU_INST21655513100002591"
+ },
+ {
 	"year": "2019. 2",
 	"name": "박노일",
 	"degree": "석사",
 	"image": "nohil",
 	"job": "서울대학교 박사과정",
-	"dissertation": "어텐션 메커니즘을 활용한 특허 문서의 다중 레이블 분류"
-},
-{
+	"dissertation": "어텐션 메커니즘을 활용한 특허 문서의 다중 레이블 분류",
+	"diss_address": "https://snu-primo.hosted.exlibrisgroup.com/permalink/f/1l6eo7m/82SNU_INST21655512930002591"
+ },
+ {
 	"year": "2019. 2",
 	"name": "Benjamin Léger",
 	"degree": "석사",
 	"image": "benjamin",
 	"job": "Ph.D program, Laval University, Quebec, Canada",
-	"dissertation": "Selective Trajectory Memory Network and its Application in Vehicle Destination Prediction"
-},
-{
+	"dissertation": "Selective Trajectory Memory Network and its Application in Vehicle Destination Prediction",
+	"diss_address": "https://snu-primo.hosted.exlibrisgroup.com/permalink/f/1l6eo7m/82SNU_INST21655512680002591"
+ },
+ {
 	"year": "2018. 8",
 	"name": "양효창",
 	"image": "hc2",
@@ -270,8 +136,8 @@
 	"job_address": "http://www.tmaxsoft.com",
 	"dissertation": "그래프 합성곱 신경망을 이용한 3차원 고해상도 메쉬 객체 재생성",
 	"diss_address": "http://snu-primo.hosted.exlibrisgroup.com/82SNU:ALL:82SNU_INST21628439070002591"
-},
-{
+ },
+ {
 	"year": "2018. 8",
 	"name": "신동민",
 	"image": "dmshin",
@@ -280,9 +146,8 @@
 	"job_address": "http://www.riiid.co",
 	"dissertation": "강화학습 기반 평점 유도 전략 최적화 메타러닝 모델",
 	"diss_address": "http://snu-primo.hosted.exlibrisgroup.com/82SNU:ALL:82SNU_INST21628439510002591"
-
-},
-{
+ },
+ {
 	"year": "2018. 8",
 	"name": "정민기",
 	"image": "mkchung",
@@ -291,8 +156,8 @@
 	"job_address": "http://www.vuno.co",
 	"dissertation": "SRAM : saliency aided recurrent attention model for image classification",
 	"diss_address": "http://snu-primo.hosted.exlibrisgroup.com/82SNU:ALL:82SNU_INST21620845830002591"
-},
-{
+ },
+ {
 	"year": "2018. 8",
 	"name": "김도형",
 	"image": "dhkim",
@@ -301,8 +166,8 @@
 	"job_address": "https://www.navercorp.com/",
 	"dissertation": "Multi-level knowledge distillation using attentive tutor for model compression in edge computing",
 	"diss_address": "http://snu-primo.hosted.exlibrisgroup.com/82SNU:ALL:82SNU_INST21620834480002591"
-},
-{
+ },
+ {
 	"year": "2018. 2",
 	"name": "김태욱",
 	"image": "taewook_2",
@@ -360,6 +225,15 @@
 	"diss_address": "http://snu-primo.hosted.exlibrisgroup.com/82SNU:ALL:82SNU_INST21605852610002591"
 },
 {
+	"year": "2018. 2",
+	"name": "김미숙",
+	"degree": "박사",
+	"image": "mskim",
+	"job": "세종대학교 데이터사이언스 학과 교수",
+	"dissertation": "Prediction of stock price, base rate, and interest rate spread with text data",
+	"diss_address": "http://snu-primo.hosted.exlibrisgroup.com/82SNU:ALL:82SNU_INST21605742570002591"
+},
+{
 	"year": "2017. 2",
 	"name": "양호성",
 	"image": "hsyang",
@@ -371,6 +245,7 @@
 {
 	"year": "2017. 2",
 	"name": "조현창",
+	"image": "hccho",
 	"degree": "석사",
 	"job": "네이버랩스 파파고팀",
 	"job_address": "https://www.naverlabs.com/",
@@ -378,19 +253,82 @@
 	"diss_address": "http://snu-primo.hosted.exlibrisgroup.com/82SNU:ALL:82SNU_INST21574568390002591"
 },
 {
+	"year": "2017. 2",
+	"name": "고태훈",
+	"image": "thko",
+	"degree": "박사",
+	"job": "서울대병원 정보화실 교수",
+	"dissertation": "Multi-source, unstructured and external data analytics for manufacturing process",
+	"diss_address": "http://snu-primo.hosted.exlibrisgroup.com/82SNU:ALL:82SNU_INST21574549890002591"
+},
+{
 	"year": "2016. 8",
 	"name": "김한결",
+	"image": "hkkim",
 	"degree": "석사",
-	"dissertation": "Bag-of-Conpets: 단어에 대한 분산표상의 군집화를 통한 해석 가능한 문서 표현법",
-	"job": "삼성전자 DS부문"
+	"job": "삼성전자 DS부문",
+	"dissertation": "Bag-of-Concepts: 단어에 대한 분산표상의 군집화를 통한 해석 가능한 문서 표현법",
+	"diss_address": "https://snu-primo.hosted.exlibrisgroup.com/permalink/f/1l6eo7m/82SNU_INST21557944590002591"
+},
+{
+	"year": "2016. 8",
+	"name": "김연국",
+	"degree": "박사",
+	"job": "Aetna Korea, a CVS Health Company",
+	"dissertation": "Building financial misstatement detection models using multi-class cost-sensitive learning and feature generation from cfo survey",
+	"diss_address": "http://snu-primo.hosted.exlibrisgroup.com/82SNU:ALL:82SNU_INST21557937740002591"
+},
+{
+	"year": "2016. 8",
+	"name": "박은정",
+	"image": "ejpark",
+	"degree": "박사",
+	"job": "네이버랩스 파파고팀",
+	"job_address": "https://www.naverlabs.com/",
+	"dissertation": "Supervised feature representations for document classification",
+	"diss_address": "http://snu-primo.hosted.exlibrisgroup.com/82SNU:ALL:82SNU_INST21557911290002591"
+},
+{
+	"year": "2016. 2",
+	"name": "박성훈",
+	"degree": "박사",
+	"job": "삼성화재 빅데이터팀",
+	"dissertation": "Modeling behavioral biases of stock investors",
+	"diss_address": "http://snu-primo.hosted.exlibrisgroup.com/82SNU:ALL:82SNU_INST21544643210002591"
+},
+{
+	"year": "2016. 2",
+	"name": "박주성",
+	"degree": "박사",
+	"job": "딜로이트 컨설팅",
+	"dissertation": "시스템 모니터링을 위한 구간 분할, 시각화 및 예측 성능 추정 방법 연구",
+	"diss_address": "http://snu-primo.hosted.exlibrisgroup.com/82SNU:ALL:82SNU_INST21544678520002591"
 },
 {
 	"year": "2016. 2",
 	"name": "심재웅",
+	"image": "jw.shim",
 	"degree": "석사",
 	"dissertation": "소수 범주 데이터 영역의 확장",
 	"diss_address": "http://snu-primo.hosted.exlibrisgroup.com/82SNU:ALL:82SNU_INST21544691700002591",
 	"job": "서울대학교 박사과정"
+},
+{
+	"year": "2015. 8",
+	"name": "강석호",
+	"image": "shkang",
+	"degree": "박사",
+	"job": "성균관대학교 시스템경영공학과 교수",
+	"dissertation": "Heterogeneous Ensemble Learning for Multi-class Classification",
+	"diss_address": "http://snu-primo.hosted.exlibrisgroup.com/82SNU:ALL:82SNU_INST21511609380002591"
+},
+{
+	"year": "2015. 8",
+	"name": "선미선",
+	"degree": "박사",
+	"job": "한국 국방연구원",
+	"dissertation": "Estimating Minority Class Proportion for class Imbalance and Class Overlap:Algorithms and Prediction Maladjusted Soldiers",
+	"diss_address": "http://snu-primo.hosted.exlibrisgroup.com/82SNU:ALL:82SNU_INST21511630890002591"
 },
 {
 	"year": "2015. 2",
@@ -407,6 +345,14 @@
 	"job": "NCsoft",
 	"dissertation": "필드 클레임 데이터를 활용한 시장품질 예측 및 불량감지",
 	"diss_address": "http://snu-primo.hosted.exlibrisgroup.com/82SNU:ALL:82SNU_INST21461869510002591"
+},
+{
+	"year": "2015. 2",
+	"name": "허민회",
+	"degree": "박사",
+	"job": "현대자동차 AIR Lab",
+	"dissertation": "Demand Forecasting, Keyword Selecting, and Ad Placing in Digital Marketing with Text Mining",
+	"diss_address": "http://snu-primo.hosted.exlibrisgroup.com/82SNU:ALL:82SNU_INST21412877860002591"
 },
 {
 	"year": "2014. 8",
@@ -434,6 +380,14 @@
 	"diss_address": "http://snu-primo.hosted.exlibrisgroup.com/82SNU:ALL:82SNU_INST21431166310002591"
 },
 {
+	"year": "2014. 2",
+	"name": "이승경",
+	"degree": "박사",
+	"job": "삼성전자 DS부문",
+	"dissertation": "Probabilistic Local Reconstruction for k-Nearest Neighbor Learning",
+	"diss_address": "http://snu-primo.hosted.exlibrisgroup.com/82SNU:ALL:82SNU_INST21433165660002591"
+},
+{
 	"year": "2013. 8",
 	"name": "강성진",
 	"degree": "석사",
@@ -458,6 +412,22 @@
 	"job": "SK하이닉스",
 	"dissertation": "군집화 기법을 이용한 반도체 다이(Die)의 특성 별 내부 전압 조정 및 테스트 공정 최적화",
 	"diss_address": "http://snu-primo.hosted.exlibrisgroup.com/82SNU:ALL:82SNU_INST21432869530002591"
+},
+{
+	"year": "2013. 2",
+	"name": "김동일",
+	"degree": "박사",
+	"job": "충남대학교 컴퓨터공학과 교수",
+	"dissertation": "Intelligent data selection and semi-supervised learning for support vector regression",
+	"diss_address": "http://snu-primo.hosted.exlibrisgroup.com/82SNU:ALL:82SNU_INST21463531750002591"
+},
+{
+	"year": "2013. 2",
+	"name": "김수진",
+	"degree": "박사",
+	"job": "Capital One Bank, TX, USA",
+	"dissertation": "Launch point estimation and team performance prediction for military application",
+	"diss_address": "http://snu-primo.hosted.exlibrisgroup.com/82SNU:ALL:82SNU_INST21464091350002591"
 },
 {
 	"year": "2012. 2",
@@ -502,6 +472,7 @@
 {
 	"year": "2011. 2",
 	"name": "박은정",
+	"image": "ejpark",
 	"degree": "석사",
 	"job": "네이버랩스 파파고팀",
 	"job_address": "https://www.naverlabs.com/",
@@ -531,6 +502,23 @@
 	"job": "비씨카드",
 	"dissertation": "데이터 스트림 환경에서 변화하는 컨셉에의 적응을 위한 fuzzy c-means 군집화 기법",
 	"diss_address": "http://snu-primo.hosted.exlibrisgroup.com/82SNU:ALL:82SNU_INST21423292250002591"
+},
+{
+	"year": "2010. 2",
+	"name": "강필성",
+	"image" : "pskang",
+	"degree": "박사",
+	"job": "고려대학교 산업경영공학부 교수",
+	"dissertation": "Locally linear reconstruction for prediction, detection, clustering",
+	"diss_address": "http://snu-primo.hosted.exlibrisgroup.com/82SNU:ALL:82SNU_INST21423520140002591"
+},
+{
+	"year": "2009. 8",
+	"name": "황성섭",
+	"degree": "박사",
+	"job": "우리은행",
+	"dissertation": "Keystroke dynamics analysis for user authentication and account sharing detection",
+	"diss_address": "http://snu-primo.hosted.exlibrisgroup.com/82SNU:ALL:82SNU_INST21471967890002591"
 },
 {
 	"year": "2009. 2",
@@ -614,6 +602,14 @@
 	"diss_address": "http://snu-primo.hosted.exlibrisgroup.com/82SNU:ALL:82SNU_INST21484359870002591"
 },
 {
+	"year": "2007",
+	"name": "이형주",
+	"degree": "박사",
+	"job": "라인플러스",
+	"dissertation": "Novelty detection for class imbalance : LVQ-based algorithm and its applications to security and CRM",
+	"diss_address": "http://snu-primo.hosted.exlibrisgroup.com/82SNU:ALL:82SNU_INST21461066790002591"
+},
+{
 	"year": "2006",
 	"name": "김승택",
 	"degree": "석사",
@@ -645,6 +641,22 @@
 	"job": "우리은행",
 	"dissertation": "Support vector regression에서의 학습 패턴 선택",
 	"diss_address": "http://snu-primo.hosted.exlibrisgroup.com/82SNU:ALL:82SNU_INST21460971940002591"
+},
+{
+	"year": "2005",
+	"name": "신현정",
+	"degree": "박사",
+	"job": "아주대학교 산업공학과 교수",
+	"dissertation": "Efficient pattern selection for support vector classifiers and its CRM application",
+	"diss_address": "http://snu-primo.hosted.exlibrisgroup.com/82SNU:ALL:82SNU_INST21484439310002591"
+},
+{
+	"year": "2004",
+	"name": "우은철",
+	"degree": "박사",
+	"job": "삼성 SDS",
+	"dissertation": "Ensemble formation based on GA-SVM wrapper feature subset selection",
+	"diss_address": "http://snu-primo.hosted.exlibrisgroup.com/82SNU:ALL:82SNU_INST21451829760002591"
 },
 {
 	"year": "2004",
@@ -714,6 +726,15 @@
 	"job": "SK Planet",
 	"dissertation": "입력 데이터 분포에 따른 가상 샘플 생성",
 	"diss_address": "http://snu-primo.hosted.exlibrisgroup.com/82SNU:ALL:82SNU_INST21418959260002591"
+},
+{
+	"year": "2000",
+	"name": "장민",
+	"image": "mjang",
+	"degree": "박사",
+	"job": "Chaintob 대표",
+	"job_address": "http://www.chaintob.com",
+	"dissertation": "Ensemble Learning Algorithm using Virtual Data"
 },
 {
 	"year": "1999",
