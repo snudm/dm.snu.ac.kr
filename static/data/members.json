@@ -36,7 +36,7 @@
     "B.S.": "Industrial & Management Engineering, POSTECH, 2015",
     "highschool": "Chungbuk Science, 2010"
     },
-	{
+	  {
     "image": "sungwhan",
     "name": "전 성 환 (Sung Whan Jeon)",
     "exp.gra.": "2021. 2",
@@ -89,7 +89,7 @@
     "B.S.":  "Industrial & Management Engineering, Korea Univ, 2016",
     "highschool": "Gyeongnam Science, 2012"
     },
-	{
+	  {
     "image": "yongheekim",
     "name": "김 용 희 (Yong Hee Kim)",
     "exp.gra.": "2023. 2",
@@ -131,7 +131,7 @@
     "B.S.":  "Statistics, Carnegie Mellon, 2016",
     "highschool": "Edgewood High, 2009"
     },
-	{
+  	{
     "image": "hy.kim",
     "name": "김 현 용 (Hyunyong Kim)",
     "exp.gra.": "2024. 2",
@@ -162,7 +162,17 @@
     "experience": "NAVER (Company.AI), 2017-2020; Hana Financial Investment, 2016-2017",
     "B.S.":  "Applied Maths & Statistics, Computer Science, Johns Hopkins University, 2015",
     "highschool": "Cheongshim International Academy, 2009"
-    }
+  },
+  {
+  "image": "yj_yoo",
+  "name": "유 용 재 (Yongjae Yoo)",
+  "exp.gra.": "2025. 2",
+  "email": "yooy at dm.snu.ac.kr",
+  "homepage" : "http://yooy.mystrikingly.com/",
+  "areas of interest": "Deep Learning, Natural Language Processing, Finance",
+  "B.S.":  "Mathematics, Electrical and Computer Engineering, Seoul Nat'l Univ., 2020",
+  "highschool": "Hana Academy Seoul, 2014"
+  }
 ],
 "ms_students": [
     {
@@ -184,15 +194,15 @@
     "B.S.":  "Mathematics, POSTECH, 2018",
     "highschool": "Jeonju Hanil, 2012"
     },
-	{
-	"image": "jm.sun",
-	"name": "선 지 민 (Jimin Sun)",
-	"exp.gra.": "2021. 2",
-	"email": "jiminsun at dm.snu.ac.kr",
-	"homepage" : "https://jiminsun.github.io",
-	"areas of interest":"Deep Learning, Natural Language Processing",
-	"B.S.":  "Psychology, Seoul Nat’l Univ., 2018",
-	"highschool": "Hanyoung foreign language, 2013"
+  	{
+  	"image": "jm.sun",
+  	"name": "선 지 민 (Jimin Sun)",
+  	"exp.gra.": "2021. 2",
+  	"email": "jiminsun at dm.snu.ac.kr",
+  	"homepage" : "https://jiminsun.github.io",
+  	"areas of interest":"Deep Learning, Natural Language Processing",
+  	"B.S.":  "Psychology, Seoul Nat’l Univ., 2018",
+  	"highschool": "Hanyoung foreign language, 2013"
     },
     {
     "image": "sangyeopkim",
@@ -209,7 +219,7 @@
     "exp.gra.": "2021. 2",
     "email": "sangho.nam at dm.snu.ac.kr",
     "areas of interest":"Statistical Learning, Time Series Analysis",
-	"experience": "Recobell (Ad-tech Startup), 2017-2019; LG Chem, 2015-2016",
+	  "experience": "Recobell (Ad-tech Startup), 2017-2019; LG Chem, 2015-2016",
     "B.S.":  "Economics, Yonsei Univ., 2015",
     "highschool": "Daesung, 2007"
     },
@@ -219,7 +229,7 @@
     "exp.gra.": "2021. 2",
     "email": "elainespak at dm.snu.ac.kr",
     "areas of interest": "Natural Language Processing, Machine Learning",
-	"experience": "Booz Allen Hamilton, 2017-2019",
+	  "experience": "Booz Allen Hamilton, 2017-2019",
     "B.S.":  "Public Policy Studies, Duke University, 2017",
     "highschool": "Daewon foreign language, 2013"
     },
@@ -229,7 +239,7 @@
     "exp.gra.": "2021. 8",
     "email": "gjk287 at dm.snu.ac.kr",
     "areas of interest": "Blockchain, Machine Learning",
-	"experience": "KOVEX(한국가상화폐거래소), 2017-",
+	  "experience": "KOVEX(한국가상화폐거래소), 2017-",
     "B.S.":  "Mathematics, New York University, 2019"
     },
     {
@@ -238,7 +248,7 @@
     "exp.gra.": "2021. 8",
     "email": "gun1097 at dm.snu.ac.kr",
     "areas of interest": "Machine Learning, Deep Learning",
-	"experience": "Samsung Electro-Mechanics, 2015-",
+  	"experience": "Samsung Electro-Mechanics, 2015-",
     "B.S.":  "Mechanical & Aerospace Engineering, Seoul Nat'l Univ., 2015",
     "highschool": "Happo, 2009"
   }
