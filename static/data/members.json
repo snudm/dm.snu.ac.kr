@@ -89,6 +89,28 @@
     "B.S.":  "Industrial & Management Engineering, Korea Univ, 2016",
     "highschool": "Gyeongnam Science, 2012"
     },
+    {
+    "image": "hy.kim",
+    "name": "김 현 용 (Hyunyong Kim)",
+    "exp.gra.": "2024. 2",
+    "email": "david.kimhy at dm.snu.ac.kr",
+    "experience": "AXA, 2015-2018",
+    "areas of interest":"Machine Learning, Deep Learning",
+    "M.S.":  "Industrial Engineering, Seoul Nat'l Univ., 2020",
+    "B.S.":  "B.S. Applied Biology and Chemistry, Statistics, Seoul Nat'l Univ., 2015",
+    "highschool": "Seil, 2009"
+    },
+    {
+    "image": "m.choi",
+    "name": "최 민 (Min Choi)",
+    "exp.gra.": "2024. 2",
+    "email": "minchoi at dm.snu.ac.kr",
+    "experience": "Shinhan Investment Corp, 2013-2018",
+    "areas of interest":"Machine learning, Text mining",
+    "M.S.":  "Industrial Engineering, Seoul Nat'l Univ., 2020",
+    "B.S.":  "Mathematical Science, KAIST, 2014",
+    "highschool": "Sangsan, 2009"
+    },
 	  {
     "image": "yongheekim",
     "name": "김 용 희 (Yong Hee Kim)",
@@ -130,28 +152,6 @@
     "areas of interest":"Machine Learning, Text Mining",
     "B.S.":  "Statistics, Carnegie Mellon, 2016",
     "highschool": "Edgewood High, 2009"
-    },
-  	{
-    "image": "hy.kim",
-    "name": "김 현 용 (Hyunyong Kim)",
-    "exp.gra.": "2024. 2",
-    "email": "david.kimhy at dm.snu.ac.kr",
-    "experience": "AXA, 2015-2018",
-    "areas of interest":"Machine Learning, Deep Learning",
-    "M.S.":  "Industrial Engineering, Seoul Nat'l Univ., 2020",
-    "B.S.":  "B.S. Applied Biology and Chemistry, Statistics, Seoul Nat'l Univ., 2015",
-    "highschool": "Seil, 2009"
-    },
-    {
-    "image": "m.choi",
-    "name": "최 민 (Min Choi)",
-    "exp.gra.": "2024. 2",
-    "email": "minchoi at dm.snu.ac.kr",
-    "experience": "Shinhan Investment Corp, 2013-2018",
-    "areas of interest":"Machine learning, Text mining",
-    "M.S.":  "Industrial Engineering, Seoul Nat'l Univ., 2020",
-    "B.S.":  "Mathematical Science, KAIST, 2014",
-    "highschool": "Sangsan, 2009"
     },
     {
     "image": "jw_lee",
