@@ -41,7 +41,7 @@
     "name": "전 성 환 (Sung Whan Jeon)",
     "exp.gra.": "2021. 2",
     "email": "sjeon at dm.snu.ac.kr",
-    "areas of interest":"Deep learning, Text-mining, Graph Embedding, Finance, Time Series Analysis",
+    "areas of interest":"Deep learning, Text Mining, Graph Embedding, Finance, Time Series Analysis",
     "B.S.":  "Computer Science, Mathematics, Emory Univ. 2014",
     "highschool": "St. John's, 2009"
     },
@@ -90,6 +90,17 @@
     "highschool": "Gyeongnam Science, 2012"
     },
     {
+    "image": "yongheekim",
+    "name": "김 용 희 (Yong Hee Kim)",
+    "exp.gra.": "2023. 2",
+    "email": "yhk at dm.snu.ac.kr",
+    "experience": "S&P Global, 2016-2019",
+    "areas of interest": "Deep Learning, Natural Language Processing",
+    "M.S.":  "Financial Engineering, UCLA, 2015",
+    "B.S.":  "Chemical Engineering, University of Texas at Austin, 2013",
+    "highschool": "Creekview, 2009"
+    },
+    {
     "image": "hy.kim",
     "name": "김 현 용 (Hyunyong Kim)",
     "exp.gra.": "2024. 2",
@@ -110,17 +121,6 @@
     "M.S.":  "Industrial Engineering, Seoul Nat'l Univ., 2020",
     "B.S.":  "Mathematical Science, KAIST, 2014",
     "highschool": "Sangsan, 2009"
-    },
-	  {
-    "image": "yongheekim",
-    "name": "김 용 희 (Yong Hee Kim)",
-    "exp.gra.": "2023. 2",
-    "email": "yhk at dm.snu.ac.kr",
-    "experience": "S&P Global, 2016-2019",
-    "areas of interest": "Deep learning, Natural Language Processing",
-    "M.S.":  "Financial Engineering, UCLA, 2015",
-    "B.S.":  "Chemical Engineering, University of Texas at Austin, 2013",
-    "highschool": "Creekview, 2009"
     },
     {
     "image": "jh.park",
@@ -158,7 +158,7 @@
     "name": "이 재 원 (Jaewon Lee)",
     "exp.gra.": "2025. 2",
     "email": "jaewon.lee at dm.snu.ac.kr",
-    "areas of interest": "Multi-modal Deep Learning, NLP, Text Mining",
+    "areas of interest": "Multi-modal Deep Learning, Natural Language Processing, Text Mining",
     "experience": "NAVER (Company.AI), 2017-2020; Hana Financial Investment, 2016-2017",
     "B.S.":  "Applied Maths & Statistics, Computer Science, Johns Hopkins University, 2015",
     "highschool": "Cheongshim International Academy, 2009"
