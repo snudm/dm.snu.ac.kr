@@ -1,0 +1,22 @@
+{% extends "layout.html" %}
+
+{% block contents %}
+<h3>Data Source</h3>
+<table class="table">
+  <thead style="font-weight: bold;">
+    {% for col in opendata['columns_%s' % locale] %}
+      <td style="width:10%"> {{col }}</td>
+    {% endfor %}
+  </thead>
+  <tbody>
+    {% for data in opendata['opendata'] %}
+      <tr>
+        {% for col in opendata['columns_%s' % locale] %}
+            <td>{% if col == "URL" %}{{ data[col]|urlize }}{% else %}{{ data[col] }}{% endif %}</td>
+        {% endfor %}
+      </tr>
+    {% endfor %}
+  </tbody>
+</table>
+
+{% endblock %}

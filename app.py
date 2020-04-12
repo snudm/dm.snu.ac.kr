@@ -308,6 +308,10 @@ def member(name):
         return abort(404)
     return render_template('home/%s/public_html/index.html' % name)
 
+@app.route('/<lang_code>/opendata')
+def opendata():
+    return render_template('opendata.html',
+                           opendata=read_json_data('opendata.json'))
 
 @app.errorhandler(404)
 def page_not_found(e):

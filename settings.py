@@ -21,6 +21,7 @@ MENUS = [
     ('research', ['activities', 'journal','conference', 'insight']),
     ('projects', ['sponsors', 'FAQ']),
     'education',
+    'opendata',
     'contact'
 ]
 
