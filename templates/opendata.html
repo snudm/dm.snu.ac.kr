@@ -4,19 +4,19 @@
 <h3>Data Source</h3>
 <table class="table">
   <thead style="font-weight: bold;">
-    {% for col in opendata['columns_%s' % locale] %}
-      <td style="width:10%"> {{col }}</td>
+    {% for col in ["domain", "source", "description", "researcher"] %}
+      <td style="width:10%"> {{opendata['columns_%s' % locale][col]}}</td>
     {% endfor %}
   </thead>
   <tbody>
     {% for data in opendata['opendata'] %}
       <tr>
-        {% for col in opendata['columns_%s' % locale] %}
-          <td  {% if col == '소개' %} width='40%' {% else %} width='10%' {% endif %}>
-            {% if col == "소스" %}
-              <a href={{data['URL']}}>{{ data[col] }}</a>
+        {% for col in ["domain", "source", "description", "researcher"] %}
+          <td  {% if col == 'description' %} width='40%' {% else %} width='10%' {% endif %}>
+            {% if col == "source" %}
+              <a href={{data['URL']}}>{{ data[opendata['columns_ko'][col]] }}</a>
             {% else %}
-              {{ data[col] }}
+              {{ data[opendata['columns_ko'][col]] }}
             {% endif %}
           </td>
         {% endfor %}
