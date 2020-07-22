@@ -14,7 +14,7 @@
     "exp.gra.": "2020. 8",
     "email": "jehyuk.lee at dm.snu.ac.kr",
     "experience": "Internship at Samsung Electronics, 2010.6-2010.7",
-    "areas of interest": "Semi-supervised Learning, Generative model, Anomaly detection",
+    "areas of interest": "Semi-supervised Learning, Generative Model, Anomaly Detection",
     "M.S.": "Industrial & Systems Engineering, KAIST, 2014",
     "B.S.": "Industrial & Systems Engineering, and Management Science, KAIST, 2012",
     "highschool": "Jeju Science, 2007"
@@ -41,7 +41,7 @@
     "name": "전 성 환 (Sung Whan Jeon)",
     "exp.gra.": "2021. 2",
     "email": "sjeon at dm.snu.ac.kr",
-    "areas of interest":"Deep learning, Text Mining, Graph Embedding, Finance, Time Series Analysis",
+    "areas of interest":"Deep Learning, Text Mining, Graph Embedding, Finance, Time Series Analysis",
     "B.S.":  "Computer Science, Mathematics, Emory Univ. 2014",
     "highschool": "St. John's, 2009"
     },
@@ -85,8 +85,8 @@
     "email": "jwchoi at dm.snu.ac.kr",
     "experience": "SNUH Biomedical Research Institute, 2018",
     "areas of interest":"Machine Learning",
-    "M.S.":  "Industrial & Management Engineering, Korea Univ, 2018",
-    "B.S.":  "Industrial & Management Engineering, Korea Univ, 2016",
+    "M.S.":  "Industrial & Management Engineering, Korea Univ., 2018",
+    "B.S.":  "Industrial & Management Engineering, Korea Univ., 2016",
     "highschool": "Gyeongnam Science, 2012"
     },
     {
@@ -117,10 +117,20 @@
     "exp.gra.": "2024. 2",
     "email": "minchoi at dm.snu.ac.kr",
     "experience": "Shinhan Investment Corp, 2013-2018",
-    "areas of interest":"Machine learning, Text mining",
+    "areas of interest":"Machine Learning, Text Mining",
     "M.S.":  "Industrial Engineering, Seoul Nat'l Univ., 2020",
     "B.S.":  "Mathematical Science, KAIST, 2014",
     "highschool": "Sangsan, 2009"
+    },
+	{
+    "image": "ykkang2",
+    "name": "강 연 국 (Younkook Kang)",
+    "exp.gra.": "2024. 8",
+    "email": "ykkang at dm.snu.ac.kr",
+    "experience": "Samsung Electronics, 2009-",
+    "areas of interest":"Autonomous Control, Reinforcement Learning, Transport System",
+    "M.S.":  "Industrial Engineering, Seoul Nat'l Univ., 2019",
+    "B.S.":  "Industrial Engineering, Korea Univ., 2008"
     },
     {
     "image": "jh.park",
@@ -128,7 +138,7 @@
     "exp.gra.": "2023. 8",
     "email": "jihyeparkk at dm.snu.ac.kr",
     "experience": "Bankware Global, 2017-2018; Hankook Research, 2016; Internship at Linewalks, 2014",
-    "areas of interest":"Machine Learning, Deep Learning",
+    "areas of interest":"Computational Linguistics, Text Mining",
     "B.S.":  "Business, Korea Univ., 2016",
     "highschool": "Yeonmu, 2012"
     },
@@ -162,17 +172,27 @@
     "experience": "NAVER (Company.AI), 2017-2020; Hana Financial Investment, 2016-2017",
     "B.S.":  "Applied Maths & Statistics, Computer Science, Johns Hopkins University, 2015",
     "highschool": "Cheongshim International Academy, 2009"
-  },
-  {
-  "image": "yj_yoo",
-  "name": "유 용 재 (Yongjae Yoo)",
-  "exp.gra.": "2025. 2",
-  "email": "yooy at dm.snu.ac.kr",
-  "homepage" : "http://yooy.mystrikingly.com/",
-  "areas of interest": "Deep Learning, Natural Language Processing, Finance",
-  "B.S.":  "Mathematics, Electrical and Computer Engineering, Seoul Nat'l Univ., 2020",
-  "highschool": "Hana Academy Seoul, 2014"
-  }
+	},
+	{
+	"image": "yj_yoo",
+	"name": "유 용 재 (Yongjae Yoo)",
+	"exp.gra.": "2025. 2",
+	"email": "yooy at dm.snu.ac.kr",
+	"homepage" : "http://yooy.mystrikingly.com/",
+	"areas of interest": "Deep Learning, Natural Language Processing, Finance",
+	"B.S.":  "Mathematics, Electrical and Computer Engineering, Seoul Nat'l Univ., 2020",
+	"highschool": "Hana Academy Seoul, 2014"
+	},
+    {
+    "image": "jk.ahn7",
+    "name": "안 재 관 (Jaekwan Ahn)",
+    "exp.gra.": "2025. 8",
+    "email": "jk.ahn7 at dm.snu.ac.kr",
+	"areas of interest": "Deep Learning, Reinforcement Learning, Stochastic Process, Econometrics",
+    "M.S.": "Economics, London school of Economics, 2014",
+    "B.S.":  "Economics, Durham University, 2012",
+    "highschool": "Felsted School"
+    }
 ],
 "ms_students": [
     {
@@ -251,7 +271,64 @@
   	"experience": "Samsung Electro-Mechanics, 2015-",
     "B.S.":  "Mechanical & Aerospace Engineering, Seoul Nat'l Univ., 2015",
     "highschool": "Happo, 2009"
-  }
+  },
+    {
+    "image": "joowon.kim",
+    "name": "김 주 원 (Joowon Kim)",
+    "exp.gra.": "2022. 8",
+    "email": "joowon.kim at dm.snu.ac.kr",
+    "experience": "QRAFT(Fin-tech startup) 2017-2020",
+    "areas of interest":"Machine Learning, Finance",
+    "B.S.":  "Computer Engineering, UNIST, 2020",
+    "highschool": "Goyang foreign language, 2013"
+    },
+    {
+    "image": "jihyun.bae",
+    "name": "배 지 현 (Jihyun Bae)",
+    "exp.gra.": "2022. 8",
+    "email": "jihyun.bae at dm.snu.ac.kr",
+    "areas of interest":"Deep Learning",
+    "B.S.":  "Business, System Management Engineering, Sungkyunkwan Univ., 2020",
+    "highschool": "Gwacheon foreign language, 2015"
+    },
+    {
+    "image": "younghoon.ahn",
+    "name": "안 영 훈 (Younghoon Ahn)",
+    "exp.gra.": "2022. 8",
+    "email": "younghoon.ahn at dm.snu.ac.kr",
+    "areas of interest":"Machine Learning",
+    "B.S.":  "Linguistics, Seoul Nat'l Univ., 2020",
+    "highschool": "Bupyeong, 2013"
+    },
+    {
+    "image": "heum",
+    "name": "조 현 흠 (Hyunhum Cho)",
+    "exp.gra.": "2022. 8",
+    "email": "heum at dm.snu.ac.kr",
+    "experience": "Shinhan BNP Paribas Asset Management, 2020; Heungkuk Securities, 2019-2020",
+    "areas of interest":"Finance, Blockchain",
+    "B.S.":  "Business, Yonsei Univ., 2019",
+    "highschool": "Dongbaek, 2015"
+    },
+    {
+    "image": "ywchoi",
+    "name": "최 용 우 (Yongwoo Choi)",
+    "exp.gra.": "2022. 8",
+    "email": "ywchoi at dm.snu.ac.kr",
+    "areas of interest":"Time Series Analysis, Deep Learning",
+    "B.S.":  "Computer Science, University of Minnesota, 2020",
+    "highschool": "Great Plains Lutheran High, 2014"
+    },
+    {
+    "image": "terryhahm",
+    "name": "함 영 석 (Youngseok Hahm)",
+    "exp.gra.": "2022. 8",
+    "email": "terryhahm at dm.snu.ac.kr",
+    "areas of interest":"Machine Learning, Deep Learning, Data Analytics",
+    "B.S.":  "Statistics and Computer Science, Mathematics, University of Illinois at Urbana-Champaign, 2019",
+    "highschool": "Shanghai Community International School, 2013"
+    }
+	
 ],
 
 "on_leave": [
