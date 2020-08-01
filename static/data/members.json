@@ -143,17 +143,6 @@
     "highschool": "Yeonmu, 2012"
     },
     {
-    "image": "sungyeonlim",
-    "name": "임 성 연 (Sung Yeon Lim)",
-    "exp.gra.": "2024. 2",
-    "email": "sylim2357 at dm.snu.ac.kr",
-    "homepage" : "https://sylim2357.github.io",
-    "experience": "BNP Paribas, 2017-2018; HSBC, 2016-2017",
-    "areas of interest":"Statistical Learning, Reinforcement Learning, Time Series Analysis, Finance",
-    "B.S.":  "Mathematics with Statistics for Finance, Imperial College London, 2016",
-    "highschool": "Royal Grammar School Guildford, 2013"
-    },
-    {
     "image": "hyunsangcho",
     "name": "조 현 상 (Hyunsang Cho)",
     "exp.gra.": "2024. 2",
@@ -332,7 +321,28 @@
 ],
 
 "on_leave": [
-    {
+	{
+    "image": "sungyeonlim",
+    "name": "임 성 연 (Sung Yeon Lim)",
+    "exp.gra.": "2024. 2",
+    "email": "sylim2357 at dm.snu.ac.kr",
+    "homepage" : "https://sylim2357.github.io",
+    "experience": "BNP Paribas, 2017-2018; HSBC, 2016-2017",
+    "areas of interest":"Statistical Learning, Reinforcement Learning, Time Series Analysis, Finance",
+    "B.S.":  "Mathematics with Statistics for Finance, Imperial College London, 2016",
+    "highschool": "Royal Grammar School Guildford, 2013"
+    },
+	{
+    "image": "hy.lee",
+    "name": "이 하 연 (Ha yeon Lee)",
+    "exp.gra.": "On leave",
+    "email": "hayeon.lee at dm.snu.ac.kr",
+    "experience": "Research Intern at Infosys Limited, Bangalore, 2016; Research Intern at Openbase, Seoul, 2015",
+    "areas of interest":"Deep learning, Natural Language Processing, Bayesian Statistics",
+    "B.S.":  "Mathematics, Optimisation and Statistics, Imperial College London, 2017",
+    "highschool": "Luckley House School, 2012"
+    },
+	{
 	"image": "jwyang",
 	"name": "양 지 원 (Jiwon Yang)",
 	"exp.gra.": "On leave",
@@ -350,16 +360,6 @@
 	"areas of interest":"Speech Recognition, Natural Language Processing",
 	"B.S.":  "Industrial & Systems Engineering, KAIST, 2016",
 	"highschool": "Seohyun, 2011"
-    },
-	{
-    "image": "hy.lee",
-    "name": "이 하 연 (Ha yeon Lee)",
-    "exp.gra.": "On leave",
-    "email": "hayeon.lee at dm.snu.ac.kr",
-    "experience": "Research Intern at Infosys Limited, Bangalore, 2016; Research Intern at Openbase, Seoul, 2015",
-    "areas of interest":"Deep learning, Natural Language Processing, Bayesian Statistics",
-    "B.S.":  "Mathematics, Optimisation and Statistics, Imperial College London, 2017",
-    "highschool": "Luckley House School, 2012"
     }
 ]
 }
