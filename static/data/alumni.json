@@ -1,4 +1,11 @@
 [{
+	"year": "2020.08",
+	"name": "이제혁",
+	"degree": "박사",
+	"image": "jhlee",
+	"job": "삼성전자",
+	"dissertation": "Deep Learning-based Abuse Detection in Healthcare Insurance with Medical Treatment Data"
+ },{
 	"year": "2020.02",
 	"name": "김현용",
 	"degree": "석사",
