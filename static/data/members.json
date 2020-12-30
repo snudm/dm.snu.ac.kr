@@ -43,15 +43,13 @@
     "M.S.": "Economics, Cornell Univ., 2013",
     "B.S.":  "Economics, Univ. of Chicago, 2008",
     "highschool": "New Hampton School, 2004"
-    }
-],
-"phd_students" : [
+    },
     {
     "image": "sj.kang",
     "name": "강 성 진(Sungjin Kang)",
     "exp.gra.": "2022. 8",
     "email": "sungjin.kang at dm.snu.ac.kr",
-    "experience": "Samsung Electronics, 2013-2018",
+    "experience": "Samsung Electronics, 2013-2019",
     "M.S.":  "Industrial Engineering, Seoul Nat'l Univ., 2013",
     "B.S.":  "Industrial & Systems Engineering, KAIST, 2011",
     "highschool": "Gwangju Science Academy, 2006"
@@ -77,7 +75,9 @@
     "M.S.":  "Industrial & Management Engineering, Korea Univ., 2018",
     "B.S.":  "Industrial & Management Engineering, Korea Univ., 2016",
     "highschool": "Gyeongnam Science, 2012"
-    },
+    }
+],
+"phd_students" : [
     {
     "image": "yongheekim",
     "name": "김 용 희 (Yong Hee Kim)",
@@ -142,6 +142,16 @@
     "highschool": "Edgewood High, 2009"
     },
     {
+    "image": "sangyeopkim",
+    "name": "김 상 엽 (Sangyeop Kim)",
+    "exp.gra.": "2025. 2",
+    "email": "pdg01117 at dm.snu.ac.kr",
+    "areas of interest":"Manufacturing System, Time Series Analysis",
+    "M.S.": "Industrial Engineering, Seoul Nat'l Univ., 2021",
+    "B.S.":  "Industrial Engineering, Seoul Nat'l Univ., 2019",
+    "highschool": "Donga, 2013"
+    },
+    {
     "image": "jw_lee",
     "name": "이 재 원 (Jaewon Lee)",
     "exp.gra.": "2025. 2",
@@ -170,6 +180,24 @@
     "M.S.": "Economics, London school of Economics, 2014",
     "B.S.":  "Economics, Durham University, 2012",
     "highschool": "Felsted School"
+    },
+    {
+    "image": "hyunjongKim",
+    "name": "김 현 종 (Hyunjong Kim)",
+    "exp.gra.": "2026. 2",
+    "email": "hjkim at dm.snu.ac.kr",
+    "areas of interest":"Machine Learning, Deep Learning",
+    "B.S.":  "Industrial and Management Engineering, POSTECH, 2021",
+    "highschool": "Paichai High School, 2017"
+    },
+    {
+    "image": "sohyungPark",
+    "name": "박 소 형 (Sohyung Park)",
+    "exp.gra.": "2026. 2",
+    "email": "sohhyung at dm.snu.ac.kr",
+    "areas of interest":"Machine Learning, Deep Learning, Natural Language Processing",
+    "B.S.":  "Industrial engineering, Seoul Nat'l Univ., 2021",
+    "highschool": "Dongguk Girls' Highschool, 2015"
     }
 ],
 "ms_students": [
@@ -201,15 +229,6 @@
   	"areas of interest":"Deep Learning, Natural Language Processing",
   	"B.S.":  "Psychology, Seoul Nat’l Univ., 2018",
   	"highschool": "Hanyoung foreign language, 2013"
-    },
-    {
-    "image": "sangyeopkim",
-    "name": "김 상 엽 (Sangyeop Kim)",
-    "exp.gra.": "2021. 2",
-    "email": "pdg01117 at dm.snu.ac.kr",
-    "areas of interest":"Manufacturing System, Time Series Analysis",
-    "B.S.":  "Industrial Engineering, Seoul Nat'l Univ., 2019",
-    "highschool": "Donga, 2013"
     },
     {
     "image": "sanghonam",
@@ -305,8 +324,45 @@
     "areas of interest":"Machine Learning, Deep Learning, Data Analytics",
     "B.S.":  "Statistics and Computer Science, Mathematics, University of Illinois at Urbana-Champaign, 2019",
     "highschool": "Shanghai Community International School, 2013"
+    },
+    {
+    "image": "eojinKim",
+    "name": "김 어 진 (Eojin Kim)",
+    "exp.gra.": "2023. 2",
+    "email": "kimuj7017 at dm.snu.ac.kr",
+    "areas of interest":"Machine Learning, Deep Learning, Data Analytics",
+    "B.S.":  "Computer Science and Engineering, POSTECH, 2021",
+    "highschool": "Chungju High School, 2017"
+    },
+    {
+    "image": "suyeonLee",
+    "name": "이 수 연 (Suyeon Lee)",
+    "exp.gra.": "2023. 2",
+    "email": "suyeon.lee at dm.snu.ac.kr",
+    "experience": "Lotte Duty Free, 2017-2020",
+    "areas of interest":"Machine Learning, Text Mining, Deep Learning",
+    "B.S.":  "Business Administration, Seoul Nat'l Univ., 2017",
+    "highschool": "Dongsan High School, 2012"
+    },
+    {
+    "image": "yeonsuLee",
+    "name": "이 연 수 (Yeonsu Lee)",
+    "exp.gra.": "2023. 2",
+    "email": "yslee at dm.snu.ac.kr",
+    "areas of interest":"Deep Learning, Audio Signal Processing",
+    "B.S.":  "Industrial Engineering, Seoul Nat'l Univ., 2021",
+    "highschool": "Yeonsu High School, 2017"
+    },
+    {
+    "image": "nuriHan",
+    "name": "한 누 리 (Nuri Han)",
+    "exp.gra.": "2023. 2",
+    "email": "nrhan0623 at dm.snu.ac.kr",
+    "experience": "Samsung Electronics, 2016-2020",
+    "areas of interest":"Machine Learning, Deep Learning",
+    "B.S.":  "Computer Science and Engineering, Korea Univ, 2016",
+    "highschool": "Youngdongil High School, 2008"
     }
-	
 ],
 
 "on_leave": [
