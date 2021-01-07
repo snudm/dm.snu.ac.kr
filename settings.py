@@ -7,7 +7,7 @@ USER_PW="eldpa!"
 CONTACT = {
     'address_ko': '서울시 관악구 관악로 1 서울대학교 39동 339호',
     'address_en': '39-339, Seoul National University, Gwanak-ro, Gwanak-gu, Seoul, South Korea (Zipcode: 151-742)',
-    'email': 'datamining@snu.ac.kr',
+    'email': 'datamining@dm.snu.ac.kr',
     'phone': '+82-(0)2-880-7025',
 }
 
