@@ -127,7 +127,7 @@
     "exp.gra.": "2023. 8",
     "email": "jihyeparkk at dm.snu.ac.kr",
     "experience": "Bankware Global, 2017-2018; Hankook Research, 2016; Internship at Linewalks, 2014",
-    "areas of interest":"Computational Linguistics, Text Mining",
+    "areas of interest":"Text Mining, Natural Language Processing",
     "B.S.":  "Business, Korea Univ., 2016",
     "highschool": "Yeonmu, 2012"
     },
@@ -150,6 +150,16 @@
     "M.S.": "Industrial Engineering, Seoul Nat'l Univ., 2021",
     "B.S.":  "Industrial Engineering, Seoul Nat'l Univ., 2019",
     "highschool": "Donga, 2013"
+    },
+    {
+    "image": "leegusong",
+    "name": "송 이 구 (Leegu Song)",
+    "exp.gra.": "2025. 2",
+    "email": "song.leegu at dm.snu.ac.kr",
+	"experience": "Quant Lab, 2016-2018",
+    "areas of interest":"Text Mining, Machine learning, Bioinformatics",
+    "M.S.": "Cognitive Science, Seoul Nat'l Univ., 2018",
+    "B.S.":  "Psychology, University of Illinois, 2012"
     },
     {
     "image": "jw_lee",
