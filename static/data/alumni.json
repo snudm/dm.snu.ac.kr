@@ -4,7 +4,7 @@
 	"degree": "박사",
 	"image": "jwahn",
 	"job": "삼성전자 종합기술원",
-	"job_adress": "https://www.samsung-dsrecruit.com/division_intro/generalTechnique/index.php",
+	"job_address": "https://www.samsung-dsrecruit.com/division_intro/generalTechnique/index.php",
 	"dissertation": "Towards mastering complex reasoning with Transformers: applications in visual, conversational and mathematical reasoning"	
 }
 ,{
@@ -13,7 +13,7 @@
 	"degree": "박사",
 	"image": "jw.shim",
 	"job": "mofl",
-	"job_adress": "https://mofl.ai/",
+	"job_address": "https://mofl.ai/",
 	"dissertation": "Intelligent data acquisition for predictive modeling in manufacturing systems"	
 }
 ,{
