@@ -1,14 +1,5 @@
 {"phd_candidates": [
     {
-    "image": "jwahn",
-    "name": "안 진 원 (Jinwon An)",
-    "exp.gra.": "2020. 8",
-    "email": "jinwon at dm.snu.ac.kr",
-    "areas of interest" : "Deep Learning, Unsupervised Learning, Variational Autoencoder, Seq2seq Learning",
-    "B.S.": "Industrial Engineering, Seoul Nat'l Univ., 2014",
-    "highschool": "Hanil, 2009"
-    },
-    {
     "image": "ydahn",
     "name": "안 용 대 (Yongdae An)",
     "exp.gra.": "2020. 8",
@@ -53,17 +44,6 @@
     "M.S.":  "Industrial Engineering, Seoul Nat'l Univ., 2013",
     "B.S.":  "Industrial & Systems Engineering, KAIST, 2011",
     "highschool": "Gwangju Science Academy, 2006"
-    },
-    {
-    "image": "jw.shim",
-    "name": "심 재 웅 (Jaewoong Shim)",
-    "exp.gra.": "2022. 8",
-    "email": "shimjw at dm.snu.ac.kr",
-    "experience": "Samsung Electronics, 2016-2018",
-    "areas of interest":"Manufacturing System, Cost-Sensitive Learning",
-    "M.S.":  "Industrial Engineering, Seoul Nat'l Univ., 2016",
-    "B.S.":  "Industrial Engineering, Seoul Nat'l Univ., 2014",
-    "highschool": "Dukwon, 2008"
     },
     {
     "image": "jw.choi",
@@ -219,46 +199,6 @@
     "areas of interest":"Machine Learning, Natural Language Processing, Database Marketing",
     "experience": "KT, 2013-",
     "B.S.":  "Psychology, Seoul Nat'l Univ., 2013"
-    },
-    {
-    "image": "hs_kim",
-    "name": "김 현 성 (Hyunsung Kim)",
-    "exp.gra.": "2021. 2",
-    "email": "hyunsung.kim at dm.snu.ac.kr",
-    "experience": "Fitogether Inc., 2018-; Football Industry Academy, K League, 2018; Internship at Knowre, 2015",
-    "areas of interest":"Sports Data Analytics, Applied Mathematics",
-    "B.S.":  "Mathematics, POSTECH, 2018",
-    "highschool": "Jeonju Hanil, 2012"
-    },
-  	{
-  	"image": "jm.sun",
-  	"name": "선 지 민 (Jimin Sun)",
-  	"exp.gra.": "2021. 2",
-  	"email": "jiminsun at dm.snu.ac.kr",
-  	"homepage" : "https://jiminsun.github.io",
-  	"areas of interest":"Deep Learning, Natural Language Processing",
-  	"B.S.":  "Psychology, Seoul Nat’l Univ., 2018",
-  	"highschool": "Hanyoung foreign language, 2013"
-    },
-    {
-    "image": "sanghonam",
-    "name": "남 상 호 (Sangho Nam)",
-    "exp.gra.": "2021. 2",
-    "email": "sangho.nam at dm.snu.ac.kr",
-    "areas of interest":"Statistical Learning, Time Series Analysis",
-	  "experience": "Recobell (Ad-tech Startup), 2017-2019; LG Chem, 2015-2016",
-    "B.S.":  "Economics, Yonsei Univ., 2015",
-    "highschool": "Daesung, 2007"
-    },
-    {
-    "image": "seoyoungpak",
-    "name": "박 서 영 (Seoyoung Pak)",
-    "exp.gra.": "2021. 2",
-    "email": "elainespak at dm.snu.ac.kr",
-    "areas of interest": "Text Mining, Natural Language Processing, Business Management",
-	  "experience": "Booz Allen Hamilton, 2017-2019",
-    "B.S.":  "Public Policy Studies, Duke University, 2017",
-    "highschool": "Daewon foreign language, 2013"
     },
 	{
     "image": "gj_kim",

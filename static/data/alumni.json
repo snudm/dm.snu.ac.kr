@@ -1,4 +1,64 @@
 [{
+	"year": "2021.02",
+    "name": "안진원",
+	"degree": "박사",
+	"image": "jwahn",
+	"job": "삼성전자 종합기술원",
+	"job_adress": "https://www.samsung-dsrecruit.com/division_intro/generalTechnique/index.php",
+	"dissertation": "Towards mastering complex reasoning with Transformers: applications in visual, conversational and mathematical reasoning"	
+}
+,{
+	"year": "2021.02",
+    "name": "심재웅",
+	"degree": "박사",
+	"image": "jw.shim",
+	"job": "mofl",
+	"job_adress": "https://mofl.ai/",
+	"dissertation": "Intelligent data acquisition for predictive modeling in manufacturing systems"	
+}
+,{
+	"year": "2021.02",
+    "name": "김현성",
+	"degree": "석사",
+	"image": "hs_kim",
+	"job": "핏투게더",
+	"job_address": "https://www.fitogether.com/",
+	"dissertation": "6MapNet: Characterizing Soccer Players via a Deep Embedding of GPS Data"	
+}
+,{
+	"year": "2021.02",
+	"name": "선지민",
+	"degree": "석사",
+	"image": "jm.sun",
+	"job": "카카오엔터프라이즈",
+	"job_address": "https://www.kakaoenterprise.com/",
+	"dissertation": "Cross-lingual Transfer Learning for Offensive Language Identification in Low-resource Settings"	
+}
+,{
+	"year": "2021.02",
+    "name": "남상호",
+	"degree": "석사",
+    "image": "sanghonam",
+	"job": "카카오모빌리티",
+	"job_address": "https://www.kakaomobility.com/",
+	"dissertation": "거래 대화 텍스트를 이용한 온라인 중고 거래 플랫폼 사기 거래 탐지"	
+}
+,{
+	"year": "2021.02",
+    "name": "박서영",
+	"degree": "석사",
+	"image": "seoyoungpak",
+	"job": "University of Pennsylvania Wharton 박사과정",
+	"dissertation": "Mining Intangible Internal Resources from Employee Voice with Deep Learning"	
+},{
+	"year": "2021.02",
+    "name": "김상엽",
+	"degree": "석사",
+	"image": "sangyeopkim",
+	"job": "서울대학교 박사과정",
+	"dissertation": "반도체 공정에서 이상 탐지 모델을 위한 교차 다중작업 학습 방법"	
+}
+,{
 	"year": "2020.08",
 	"name": "이제혁",
 	"degree": "박사",
