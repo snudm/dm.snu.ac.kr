@@ -5,7 +5,7 @@
 	"image": "jwahn",
 	"job": "삼성전자 종합기술원",
 	"job_address": "https://www.samsung-dsrecruit.com/division_intro/generalTechnique/index.php",
-	"dissertation": "Towards mastering complex reasoning with Transformers: applications in visual, conversational and mathematical reasoning"	
+	"dissertation": "Towards mastering complex reasoning with Transformers: applications in visual, conversational and mathematical reasoning"
 }
 ,{
 	"year": "2021.02",
@@ -14,7 +14,7 @@
 	"image": "jw.shim",
 	"job": "mofl",
 	"job_address": "https://mofl.ai/",
-	"dissertation": "Intelligent data acquisition for predictive modeling in manufacturing systems"	
+	"dissertation": "Intelligent data acquisition for predictive modeling in manufacturing systems"
 }
 ,{
 	"year": "2021.02",
@@ -23,7 +23,7 @@
 	"image": "hs_kim",
 	"job": "핏투게더",
 	"job_address": "https://www.fitogether.com/",
-	"dissertation": "6MapNet: Characterizing Soccer Players via a Deep Embedding of GPS Data"	
+	"dissertation": "6MapNet: Characterizing Soccer Players via a Deep Embedding of GPS Data"
 }
 ,{
 	"year": "2021.02",
@@ -32,7 +32,7 @@
 	"image": "jm.sun",
 	"job": "카카오엔터프라이즈",
 	"job_address": "https://www.kakaoenterprise.com/",
-	"dissertation": "Cross-lingual Transfer Learning for Offensive Language Identification in Low-resource Settings"	
+	"dissertation": "Cross-lingual Transfer Learning for Offensive Language Identification in Low-resource Settings"
 }
 ,{
 	"year": "2021.02",
@@ -41,7 +41,7 @@
     "image": "sanghonam",
 	"job": "카카오모빌리티",
 	"job_address": "https://www.kakaomobility.com/",
-	"dissertation": "거래 대화 텍스트를 이용한 온라인 중고 거래 플랫폼 사기 거래 탐지"	
+	"dissertation": "거래 대화 텍스트를 이용한 온라인 중고 거래 플랫폼 사기 거래 탐지"
 }
 ,{
 	"year": "2021.02",
@@ -49,14 +49,14 @@
 	"degree": "석사",
 	"image": "seoyoungpak",
 	"job": "University of Pennsylvania Wharton 박사과정",
-	"dissertation": "Mining Intangible Internal Resources from Employee Voice with Deep Learning"	
+	"dissertation": "Mining Intangible Internal Resources from Employee Voice with Deep Learning"
 },{
 	"year": "2021.02",
     "name": "김상엽",
 	"degree": "석사",
 	"image": "sangyeopkim",
 	"job": "서울대학교 박사과정",
-	"dissertation": "반도체 공정에서 이상 탐지 모델을 위한 교차 다중작업 학습 방법"	
+	"dissertation": "반도체 공정에서 이상 탐지 모델을 위한 교차 다중작업 학습 방법"
 }
 ,{
 	"year": "2020.08",
@@ -249,7 +249,7 @@
 	"name": "문지형",
 	"image": "jihyeong",
 	"degree": "석사",
-	"job": "네이버랩스 파파고팀",
+	"job": "업스테이지",
 	"job_address": "https://www.naverlabs.com/",
 	"dissertation": "Relation Memory Network: A Simple Neural architecture for Text-based Reasoning",
 	"diss_address": "http://snu-primo.hosted.exlibrisgroup.com/82SNU:ALL:82SNU_INST21605852690002591"
@@ -324,7 +324,7 @@
 	"name": "고태훈",
 	"image": "thko",
 	"degree": "박사",
-	"job": "서울대병원 정보화실 교수",
+	"job": "카톨릭대학교 의과대학 교수",
 	"dissertation": "Multi-source, unstructured and external data analytics for manufacturing process",
 	"diss_address": "http://snu-primo.hosted.exlibrisgroup.com/82SNU:ALL:82SNU_INST21574549890002591"
 },
@@ -333,7 +333,7 @@
 	"name": "김한결",
 	"image": "hkkim",
 	"degree": "석사",
-	"job": "삼성전자 DS부문",
+	"job": "USC IE 박사과정",
 	"dissertation": "Bag-of-Concepts: 단어에 대한 분산표상의 군집화를 통한 해석 가능한 문서 표현법",
 	"diss_address": "https://snu-primo.hosted.exlibrisgroup.com/permalink/f/1l6eo7m/82SNU_INST21557944590002591"
 },
@@ -341,7 +341,7 @@
 	"year": "2016. 8",
 	"name": "김연국",
 	"degree": "박사",
-	"job": "Aetna Korea, a CVS Health Company",
+	"job": "동아대학교 경영대학 교수",
 	"dissertation": "Building financial misstatement detection models using multi-class cost-sensitive learning and feature generation from cfo survey",
 	"diss_address": "http://snu-primo.hosted.exlibrisgroup.com/82SNU:ALL:82SNU_INST21557937740002591"
 },
@@ -350,7 +350,7 @@
 	"name": "박은정",
 	"image": "ejpark",
 	"degree": "박사",
-	"job": "네이버랩스 파파고팀",
+	"job": "업스테이지",
 	"job_address": "https://www.naverlabs.com/",
 	"dissertation": "Supervised feature representations for document classification",
 	"diss_address": "http://snu-primo.hosted.exlibrisgroup.com/82SNU:ALL:82SNU_INST21557911290002591"
@@ -451,7 +451,7 @@
 	"year": "2014. 2",
 	"name": "이승경",
 	"degree": "박사",
-	"job": "삼성전자 DS부문",
+	"job": "LG CNS",
 	"dissertation": "Probabilistic Local Reconstruction for k-Nearest Neighbor Learning",
 	"diss_address": "http://snu-primo.hosted.exlibrisgroup.com/82SNU:ALL:82SNU_INST21433165660002591"
 },
@@ -509,7 +509,7 @@
 	"year": "2012. 8",
 	"name": "김봉석",
 	"degree": "석사",
-	"job": "삼성전자 DS부문",
+	"job": "LG CNS",
 	"dissertation": "텍스트 마이닝 기법을 이용한 반도체 생산 시 발생하는 이벤트 데이터와 수율의 연관성 분석",
 	"diss_address": "http://snu-primo.hosted.exlibrisgroup.com/82SNU:ALL:82SNU_INST21480524570002591"
 },
@@ -542,7 +542,7 @@
 	"name": "박은정",
 	"image": "ejpark",
 	"degree": "석사",
-	"job": "네이버랩스 파파고팀",
+	"job": "업스테이지",
 	"job_address": "https://www.naverlabs.com/",
 	"dissertation": "군집화 필터에 기반한 중복 최소화 변수선택법",
 	"diss_address": "http://snu-primo.hosted.exlibrisgroup.com/82SNU:ALL:82SNU_INST21453353470002591"
