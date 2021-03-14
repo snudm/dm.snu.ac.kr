@@ -20,7 +20,7 @@ function getGridSize() {
 $(function() {
 	SyntaxHighlighter.all();
 });
-	 
+
 $(window).load(function() {
 	$('.flexslider').flexslider({
 		animation: "slide",
@@ -40,7 +40,7 @@ $(window).load(function() {
 // check grid size on resize event
 $window.resize(function() {
 	var gridSize = getGridSize();
-	
+
 	flexslider.vars.minItems = gridSize;
 	flexslider.vars.maxItems = gridSize;
 	});
@@ -76,12 +76,6 @@ $window.resize(function() {
     </li>
     <li>
       <div class="member-image-wrapper" style="background-image: url({{ url_for('static', filename='images/7_home.jpg') }})"></div>
-    </li>
-    <li>
-      <div class="member-image-wrapper" style="background-image: url({{ url_for('static', filename='images/8_home.jpg') }})"></div>
-    </li>
-    <li>
-      <div class="member-image-wrapper" style="background-image: url({{ url_for('static', filename='images/9_home.jpg') }})"></div>
     </li>
   </ul>
 </div>
