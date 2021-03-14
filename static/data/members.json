@@ -191,15 +191,6 @@
     }
 ],
 "ms_students": [
-    {
-    "image": "ih.kang",
-    "name": "강 인 혜 (Inhye Kang)",
-    "exp.gra.": "2021. 8",
-    "email": "inhye.kang at dm.snu.ac.kr",
-    "areas of interest":"Machine Learning, Natural Language Processing, Database Marketing",
-    "experience": "KT, 2013-",
-    "B.S.":  "Psychology, Seoul Nat'l Univ., 2013"
-    },
 	{
     "image": "gj_kim",
     "name": "김 기 정 (Gi Jung Kim)",
@@ -316,6 +307,15 @@
 ],
 
 "on_leave": [
+    {
+    "image": "ih.kang",
+    "name": "강 인 혜 (Inhye Kang)",
+    "exp.gra.": "On leave",
+    "email": "inhye.kang at dm.snu.ac.kr",
+    "experience": "KT, 2013-",
+    "areas of interest":"Machine Learning, Natural Language Processing, Database Marketing",
+    "B.S.":  "Psychology, Seoul Nat'l Univ., 2013"
+    },
 	{
     "image": "sungyeonlim",
     "name": "임 성 연 (Sung Yeon Lim)",
