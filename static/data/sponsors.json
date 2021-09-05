@@ -3,6 +3,32 @@
     "title_ko": "스마트 제조",
     "title_en": "Smart Manufacturing",
     "projects": [
+
+    {
+        "id": "hyundai",
+        "description_ko": "전력변환 제어를 위한 데이터 분석",
+        "description_en": "전력변환 제어를 위한 데이터 분석" 
+    },
+    {
+        "id": "samsungelec",
+        "description_ko": "설비 이상 탐지를 위한 강건한 딥러닝 모델 개발",
+        "description_en": "설비 이상 탐지를 위한 강건한 딥러닝 모델 개발" 
+    },
+    {
+        "id": "hyundai",
+        "description_ko": "차량 계측 데이터의 자동화 분석 TOOL 개발",
+        "description_en": "차량 계측 데이터의 자동화 분석 TOOL 개발" 
+    },
+    {
+        "id": "samsungelec",
+        "description_ko": "특허, 논문, 기사 기술문서 자동 분류",
+        "description_en": "특허, 논문, 기사 기술문서 자동 분류" 
+    },
+    {
+        "id": "lgchem",
+        "description_ko": "기술 트렌드 모니터링을 위한 특허 분석",
+        "description_en": "기술 트렌드 모니터링을 위한 특허 분석" 
+    },
     {
         "id": "samsungelec",
         "description_ko": "딥러닝 기반 Edge Device 向 IIoT data 공정 모델링",
@@ -132,6 +158,21 @@
     "title_ko": "금융",
     "title_en": "Finance",
     "projects": [
+    {
+        "id": "nationalresearchfoundationofkorea",
+        "description_ko": "기업 공지, 뉴스 비정형 데이터 기반 기업의 네트워크 구축 및 분류",
+        "description_en": "기업 공지, 뉴스 비정형 데이터 기반 기업의 네트워크 구축 및 분류"
+    },  
+    {
+        "id": "hyundaicard",
+        "description_ko": "불균형 데이터 학습",
+        "description_en": "불균형 데이터 학습"
+    },  
+    {
+        "id": "nhinvestment",
+        "description_ko": "핫토픽 탐지를 위한 소셜미디어 텍스트 분석",
+        "description_en": "핫토픽 탐지를 위한 소셜미디어 텍스트 분석"
+    },        
 	{
         "id": "healthinsurance",
         "description_ko": "종합병원 전문심사를 위한 AI기반 기관 선정모형 개발",
@@ -193,6 +234,21 @@
     "title_ko": "서비스",
     "title_en": "Service",
     "projects": [
+    {
+        "id": "edubase",
+        "description_ko": "수학 문제 자동 인식 및 토픽 지식네트워크 구축",
+        "description_en": "수학 문제 자동 인식 및 토픽 지식네트워크 구축"
+    },
+	{
+        "id": "nationalresearchfoundationofkorea",
+        "description_ko": "빅데이터 정보 추출, 데이터 레이블링, 데이터셋 변화 적응 알고리즘 개발",
+        "description_en": "빅데이터 정보 추출, 데이터 레이블링, 데이터셋 변화 적응 알고리즘 개발"
+    },
+	{
+        "id": "koreanfilmcouncil",
+        "description_ko": "영화 관련 기관들의 영화 영화인 데이터 통합 방안",
+        "description_en": "영화 관련 기관들의 영화 영화인 데이터 통합 방안"
+    },
 	{
         "id": "hyundai",
         "description_ko": "첨단 운전자 지원 시스템의 사용자 설정 패턴 분석 알고리즘 개발",
