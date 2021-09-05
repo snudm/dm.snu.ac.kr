@@ -12,8 +12,8 @@
     "name": "심재웅",
 	"degree": "박사",
 	"image": "jw.shim",
-	"job": "mofl",
-	"job_address": "https://mofl.ai/",
+	"job": "RTM",
+	"job_address": "http://www.rtmindustrial.com/web/inc/main.asp",
 	"dissertation": "Intelligent data acquisition for predictive modeling in manufacturing systems"
 }
 ,{
@@ -378,8 +378,8 @@
 	"degree": "석사",
 	"dissertation": "소수 범주 데이터 영역의 확장",
 	"diss_address": "http://snu-primo.hosted.exlibrisgroup.com/82SNU:ALL:82SNU_INST21544691700002591",
-	"job": "mofl",
-	"job_address": "https://mofl.ai/"
+	"job": "RTM",
+	"job_address": "http://www.rtmindustrial.com/web/inc/main.asp"
 },
 {
 	"year": "2015. 8",
