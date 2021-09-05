@@ -1,14 +1,5 @@
 {"phd_candidates": [
-    {
-    "image": "ydahn",
-    "name": "안 용 대 (Yongdae An)",
-    "exp.gra.": "2021. 8",
-    "email": "ydan at dm.snu.ac.kr ",
-    "experience": "Hyundai Heavy Industries",
-    "B.S.": "Industrial Engineering, KAIST, 2012",
-    "highschool": "Korea Science Academy of KAIST, 2004"
-    },
-	 {
+	{
     "image": "sungwhan",
     "name": "전 성 환 (Sung Whan Jeon)",
     "exp.gra.": "2021. 8",
@@ -205,10 +196,10 @@
 	{
     "image": "gj_kim",
     "name": "김 기 정 (Gi Jung Kim)",
-    "exp.gra.": "2021. 8",
+    "exp.gra.": "2022. 2",
     "email": "gjk287 at dm.snu.ac.kr",
-    "areas of interest": "Blockchain, Machine Learning",
-	  "experience": "KOVEX(한국가상화폐거래소), 2017-",
+    "areas of interest": "AutoML, Parallel and distributed Deep learning",
+	"experience": "COXWAVE 2021-",
     "B.S.":  "Mathematics, New York University, 2019"
     },
     {
@@ -226,8 +217,8 @@
     "name": "김 주 원 (Joowon Kim)",
     "exp.gra.": "2022. 8",
     "email": "joowon.kim at dm.snu.ac.kr",
-    "experience": "QRAFT(Fin-tech startup) 2017-2020",
-    "areas of interest":"Machine Learning, Finance",
+    "experience": "QRAFT(Fin-tech startup) 2017-2020; COXWAVE 2021-",
+    "areas of interest":"MLOps, Neural Architecture Search",
     "B.S.":  "Computer Engineering, UNIST, 2020",
     "highschool": "Goyang foreign language, 2013"
     },
@@ -245,7 +236,8 @@
     "name": "안 영 훈 (Younghoon Ahn)",
     "exp.gra.": "2022. 8",
     "email": "younghoon.ahn at dm.snu.ac.kr",
-    "areas of interest":"Machine Learning",
+    "experience": "COXWAVE 2021-",
+    "areas of interest":"Natural Language Processing, explainable AI",
     "B.S.":  "Linguistics, Seoul Nat'l Univ., 2020",
     "highschool": "Bupyeong, 2013"
     },
@@ -264,7 +256,7 @@
     "name": "최 용 우 (Yongwoo Choi)",
     "exp.gra.": "2022. 8",
     "email": "ywchoi at dm.snu.ac.kr",
-    "areas of interest":"Time Series Analysis, Deep Learning",
+    "areas of interest":"FashionAI, Recommendation System, Data Analytics",
     "B.S.":  "Computer Science, University of Minnesota, 2020",
     "highschool": "Great Plains Lutheran High, 2014"
     },

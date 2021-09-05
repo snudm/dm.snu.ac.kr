@@ -1,4 +1,14 @@
-[{
+[
+{
+	"year": "2021.08",
+    "name": "안용대",
+	"degree": "박사",
+	"image": "ydahn",
+	"job": "desilo",
+	"job_address": "https://desilo.ai/",
+	"dissertation": "Coming"
+},	
+{
 	"year": "2021.02",
     "name": "안진원",
 	"degree": "박사",
@@ -30,7 +40,7 @@
 	"name": "선지민",
 	"degree": "석사",
 	"image": "jm.sun",
-	"job": "카카오엔터프라이즈",
+	"job": "Ph.D program, Carnegie Mellon University",
 	"job_address": "https://www.kakaoenterprise.com/",
 	"dissertation": "Cross-lingual Transfer Learning for Offensive Language Identification in Low-resource Settings"
 }
@@ -402,7 +412,7 @@
 	"year": "2015. 2",
 	"name": "한송원",
 	"degree": "석사",
-	"job": "SK Telecom 빅데이터팀",
+	"job": "빌리뷰",
 	"dissertation": "협업 태깅 시스템의 문제를 고려한 사용자 인식 기반 음악 지도",
 	"diss_address": "http://snu-primo.hosted.exlibrisgroup.com/82SNU:ALL:82SNU_INST21461870040002591"
 },
@@ -443,7 +453,7 @@
 	"year": "2014. 2",
 	"name": "민헌기",
 	"degree": "석사",
-	"job": "딜로이트 컨설팅",
+	"job": "KPMG 컨설팅",
 	"dissertation": "트위터 사용자 분류를 위한 반교사 학습 접근 방안",
 	"diss_address": "http://snu-primo.hosted.exlibrisgroup.com/82SNU:ALL:82SNU_INST21431166310002591"
 },

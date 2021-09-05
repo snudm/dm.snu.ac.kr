@@ -15,7 +15,7 @@
         "description_en": "설비 이상 탐지를 위한 강건한 딥러닝 모델 개발" 
     },
     {
-        "id": "hyundai",
+        "id": "hyundaiwia",
         "description_ko": "차량 계측 데이터의 자동화 분석 TOOL 개발",
         "description_en": "차량 계측 데이터의 자동화 분석 TOOL 개발" 
     },
