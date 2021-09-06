@@ -193,6 +193,16 @@
     }
 ],
 "ms_students": [
+    {
+    "image": "gh_park",
+    "name": "박 건 휘 (Geonhui Pak)",
+    "exp.gra.": "2022. 2",
+    "email": "gun1097 at dm.snu.ac.kr",
+    "areas of interest": "Machine Learning, Deep Learning",
+  	"experience": "Samsung Electro-Mechanics, 2015-",
+    "B.S.":  "Mechanical & Aerospace Engineering, Seoul Nat'l Univ., 2015",
+    "highschool": "Happo, 2009"
+    },
 	{
     "image": "gj_kim",
     "name": "김 기 정 (Gi Jung Kim)",
@@ -200,18 +210,8 @@
     "email": "gjk287 at dm.snu.ac.kr",
     "homepage" : "https://www.coxwave.com/",
     "areas of interest": "AutoML, Parallel and distributed Deep learning",
-	"experience": "COXWAVE 2021-",
+    "experience": "COXWAVE 2021-",
     "B.S.":  "Mathematics, New York University, 2019"
-    },
-    {
-    "image": "gh_park",
-    "name": "박 건 휘 (Geonhui Pak)",
-    "exp.gra.": "2021. 8",
-    "email": "gun1097 at dm.snu.ac.kr",
-    "areas of interest": "Machine Learning, Deep Learning",
-  	"experience": "Samsung Electro-Mechanics, 2015-",
-    "B.S.":  "Mechanical & Aerospace Engineering, Seoul Nat'l Univ., 2015",
-    "highschool": "Happo, 2009"
     },
     {
     "image": "jihyun.bae",
