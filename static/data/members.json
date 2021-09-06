@@ -72,27 +72,6 @@
     "highschool": "Seil, 2009"
     },
     {
-    "image": "m.choi",
-    "name": "최 민 (Min Choi)",
-    "exp.gra.": "2024. 2",
-    "email": "minchoi at dm.snu.ac.kr",
-    "experience": "Shinhan Investment Corp, 2013-2018",
-    "areas of interest":"Machine Learning, Text Mining",
-    "M.S.":  "Industrial Engineering, Seoul Nat'l Univ., 2020",
-    "B.S.":  "Mathematical Science, KAIST, 2014",
-    "highschool": "Sangsan, 2009"
-    },
-	{
-    "image": "ykkang2",
-    "name": "강 연 국 (Younkook Kang)",
-    "exp.gra.": "2024. 8",
-    "email": "ykkang at dm.snu.ac.kr",
-    "experience": "Samsung Electronics, 2009-",
-    "areas of interest":"Autonomous Control, Reinforcement Learning, Transport System",
-    "M.S.":  "Industrial Engineering, Seoul Nat'l Univ., 2019",
-    "B.S.":  "Industrial Engineering, Korea Univ., 2008"
-    },
-    {
     "image": "jh.park",
     "name": "박 지 혜 (Jihye Park)",
     "exp.gra.": "2023. 8",
@@ -103,6 +82,17 @@
     "highschool": "Yeonmu, 2012"
     },
     {
+    "image": "m.choi",
+    "name": "최 민 (Min Choi)",
+    "exp.gra.": "2024. 2",
+    "email": "minchoi at dm.snu.ac.kr",
+    "experience": "Shinhan Investment Corp, 2013-2018",
+    "areas of interest":"Machine Learning, Text Mining",
+    "M.S.":  "Industrial Engineering, Seoul Nat'l Univ., 2020",
+    "B.S.":  "Mathematical Science, KAIST, 2014",
+    "highschool": "Sangsan, 2009"
+    },
+    {
     "image": "hyunsangcho",
     "name": "조 현 상 (Hyunsang Cho)",
     "exp.gra.": "2024. 2",
@@ -111,6 +101,16 @@
     "areas of interest":"Machine Learning, Text Mining",
     "B.S.":  "Statistics, Carnegie Mellon, 2016",
     "highschool": "Edgewood High, 2009"
+    },    
+	{
+    "image": "ykkang2",
+    "name": "강 연 국 (Younkook Kang)",
+    "exp.gra.": "2024. 8",
+    "email": "ykkang at dm.snu.ac.kr",
+    "experience": "Samsung Electronics, 2009-",
+    "areas of interest":"Autonomous Control, Reinforcement Learning, Transport System",
+    "M.S.":  "Industrial Engineering, Seoul Nat'l Univ., 2019",
+    "B.S.":  "Industrial Engineering, Korea Univ., 2008"
     },
     {
     "image": "sangyeopkim",
@@ -123,6 +123,26 @@
     "highschool": "Donga, 2013"
     },
     {
+    "image": "jw_lee",
+    "name": "이 재 원 (Jaewon Lee)",
+    "exp.gra.": "2025. 2",
+    "email": "jaewon.lee at dm.snu.ac.kr",
+    "areas of interest": "Multi-modal Deep Learning, Natural Language Processing, Text Mining",
+    "experience": "NAVER (Company.AI), 2017-2020; Hana Financial Investment, 2016-2017",
+    "B.S.":  "Applied Maths & Statistics, Computer Science, Johns Hopkins University, 2015",
+    "highschool": "Cheongshim International Academy, 2009"
+    },
+    {
+    "image": "yj_yoo",
+    "name": "유 용 재 (Yongjae Yoo)",
+    "exp.gra.": "2025. 2",
+    "email": "yooy at dm.snu.ac.kr",
+    "homepage" : "http://yooy.mystrikingly.com/",
+    "areas of interest": "Deep Learning, Natural Language Processing, Finance",
+    "B.S.":  "Mathematics, Electrical and Computer Engineering, Seoul Nat'l Univ., 2020",
+    "highschool": "Hana Academy Seoul, 2014"
+    },
+    {
     "image": "leegusong",
     "name": "송 이 구 (Leegu Song)",
     "exp.gra.": "2025. 2",
@@ -132,26 +152,6 @@
     "M.S.": "Cognitive Science, Seoul Nat'l Univ., 2018",
     "B.S.":  "Psychology, University of Illinois, 2012"
     },
-    {
-    "image": "jw_lee",
-    "name": "이 재 원 (Jaewon Lee)",
-    "exp.gra.": "2025. 2",
-    "email": "jaewon.lee at dm.snu.ac.kr",
-    "areas of interest": "Multi-modal Deep Learning, Natural Language Processing, Text Mining",
-    "experience": "NAVER (Company.AI), 2017-2020; Hana Financial Investment, 2016-2017",
-    "B.S.":  "Applied Maths & Statistics, Computer Science, Johns Hopkins University, 2015",
-    "highschool": "Cheongshim International Academy, 2009"
-	},
-	{
-	"image": "yj_yoo",
-	"name": "유 용 재 (Yongjae Yoo)",
-	"exp.gra.": "2025. 2",
-	"email": "yooy at dm.snu.ac.kr",
-	"homepage" : "http://yooy.mystrikingly.com/",
-	"areas of interest": "Deep Learning, Natural Language Processing, Finance",
-	"B.S.":  "Mathematics, Electrical and Computer Engineering, Seoul Nat'l Univ., 2020",
-	"highschool": "Hana Academy Seoul, 2014"
-	},
     {
     "image": "jk.ahn7",
     "name": "안 재 관 (Jaekwan Ahn)",
@@ -212,16 +212,6 @@
   	"experience": "Samsung Electro-Mechanics, 2015-",
     "B.S.":  "Mechanical & Aerospace Engineering, Seoul Nat'l Univ., 2015",
     "highschool": "Happo, 2009"
-  },
-    {
-    "image": "joowon.kim",
-    "name": "김 주 원 (Joowon Kim)",
-    "exp.gra.": "2022. 8",
-    "email": "joowon.kim at dm.snu.ac.kr",
-    "experience": "QRAFT(Fin-tech startup) 2017-2020; COXWAVE 2021-",
-    "areas of interest":"MLOps, Neural Architecture Search",
-    "B.S.":  "Computer Engineering, UNIST, 2020",
-    "highschool": "Goyang foreign language, 2013"
     },
     {
     "image": "jihyun.bae",
@@ -269,6 +259,16 @@
     "areas of interest":"Machine Learning, Deep Learning, Data Analytics",
     "B.S.":  "Statistics and Computer Science, Mathematics, University of Illinois at Urbana-Champaign, 2019",
     "highschool": "Shanghai Community International School, 2013"
+    },
+    {
+    "image": "joowon.kim",
+    "name": "김 주 원 (Joowon Kim)",
+    "exp.gra.": "2023. 2",
+    "email": "joowon.kim at dm.snu.ac.kr",
+    "experience": "QRAFT(Fin-tech startup) 2017-2020; COXWAVE 2021-",
+    "areas of interest":"MLOps, Neural Architecture Search",
+    "B.S.":  "Computer Engineering, UNIST, 2020",
+    "highschool": "Goyang foreign language, 2013"
     },
     {
     "image": "eojinKim",
