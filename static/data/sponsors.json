@@ -7,27 +7,27 @@
     {
         "id": "hyundai",
         "description_ko": "전력변환 제어를 위한 데이터 분석",
-        "description_en": "전력변환 제어를 위한 데이터 분석" 
+        "description_en": "Data analysis for power conversion control" 
     },
     {
         "id": "samsungelec",
         "description_ko": "설비 이상 탐지를 위한 강건한 딥러닝 모델 개발",
-        "description_en": "설비 이상 탐지를 위한 강건한 딥러닝 모델 개발" 
+        "description_en": "Development of robust deep learning models for facility anomaly detection" 
     },
     {
         "id": "hyundaiwia",
         "description_ko": "차량 계측 데이터의 자동화 분석 TOOL 개발",
-        "description_en": "차량 계측 데이터의 자동화 분석 TOOL 개발" 
+        "description_en": "Development of Automatic Analysis Tool for Automobile CAN Data " 
     },
     {
         "id": "samsungelec",
         "description_ko": "특허, 논문, 기사 기술문서 자동 분류",
-        "description_en": "특허, 논문, 기사 기술문서 자동 분류" 
+        "description_en": "Automatic classification of patents, papers, articles and technical documents" 
     },
     {
         "id": "lgchem",
         "description_ko": "기술 트렌드 모니터링을 위한 특허 분석",
-        "description_en": "기술 트렌드 모니터링을 위한 특허 분석" 
+        "description_en": "Solid-state Battery Patent Analysis" 
     },
     {
         "id": "samsungelec",
@@ -161,17 +161,17 @@
     {
         "id": "nationalresearchfoundationofkorea",
         "description_ko": "기업 공지, 뉴스 비정형 데이터 기반 기업의 네트워크 구축 및 분류",
-        "description_en": "기업 공지, 뉴스 비정형 데이터 기반 기업의 네트워크 구축 및 분류"
+        "description_en": "Construction and Classification of Corporate Network Based on Unstructured Data: Corporate Disclosures and News Articles"
     },  
     {
         "id": "hyundaicard",
         "description_ko": "불균형 데이터 학습",
-        "description_en": "불균형 데이터 학습"
+        "description_en": "Learning from imbalanced data"
     },  
     {
         "id": "nhinvestment",
         "description_ko": "핫토픽 탐지를 위한 소셜미디어 텍스트 분석",
-        "description_en": "핫토픽 탐지를 위한 소셜미디어 텍스트 분석"
+        "description_en": "Social media text analysis for hot topic detection"
     },        
 	{
         "id": "healthinsurance",
@@ -237,17 +237,17 @@
     {
         "id": "edubase",
         "description_ko": "수학 문제 자동 인식 및 토픽 지식네트워크 구축",
-        "description_en": "수학 문제 자동 인식 및 토픽 지식네트워크 구축"
+        "description_en": "Automatic recognition of math problems and construction of topic knowledge network"
     },
 	{
         "id": "nationalresearchfoundationofkorea",
         "description_ko": "빅데이터 정보 추출, 데이터 레이블링, 데이터셋 변화 적응 알고리즘 개발",
-        "description_en": "빅데이터 정보 추출, 데이터 레이블링, 데이터셋 변화 적응 알고리즘 개발"
+        "description_en": "Development of Algorithms for Big Data Information Extraction, Data Labeling, and Dataset Shift Adaptation"
     },
 	{
         "id": "koreanfilmcouncil",
         "description_ko": "영화 관련 기관들의 영화 영화인 데이터 통합 방안",
-        "description_en": "영화 관련 기관들의 영화 영화인 데이터 통합 방안"
+        "description_en": "A Study on the Integration of Public Institutions' Film and Film Industry Personnel Database"
     },
 	{
         "id": "hyundai",
