@@ -3,27 +3,7 @@
     "title_ko": "장기교육",
     "title_en": "Long-term Education",
     "companies": [
-    {
-        "id": "nhbank"
-    },
-    {
-        "id": "samsungsemi"
-    },
-    {
-        "id": "posco"
-    },
-    {
-        "id": "cj"
-    },
-    {
-        "id": "doosaninfra"
-    },
-    {
-        "id": "skhynix"
-    },
-    {
-        "id": "samsung sds"
-    }
+
     ]
 },
 {
@@ -31,88 +11,43 @@
     "title_en": "Short-term Education & Seminar",
     "companies": [
     {
+        "id": "hyundai"
+    },
+    {
         "id": "samsung electronics"
     },
     {
-        "id": "hyundai-kia motors"
+        "id": "skhynix"
     },
     {
-        "id": "sktelecom"
+        "id": "hyundaih"
     },
     {
-        "id": "hyundai mobis"
+        "id": "doosaninfra"
     },
     {
-        "id": "sk innovation"
+        "id": "sk"
     },
     {
-        "id": "samsungfire"
+        "id": "lguplus"
     },
     {
         "id": "samsung sds"
     },
     {
-        "id": "samsung advanced institute of technology"
+        "id": "nhinvestment"
     },
     {
-        "id": "doosan"
+        "id": "hana"
     },
     {
-        "id": "lotte"
-    },
-    {
-        "id": "mando"
-    },
-    {
-        "id": "sk-planet-logo"
-    },
-    {
-        "id": "bok"
-    },
-    {
-        "id": "kdb"
-    },
-    {
-        "id": "shinhan bank"
-    },
-    {
-        "id": "wooribank"
-    },
-    {
-        "id": "lig"
-    },
-    {
-        "id": "khnp"
-    },
-    {
-        "id": "jonggeun"
+        "id": "cj"
     },
     {
         "id": "maeil"
     },
     {
-        "id": "halla"
-    },
-    {
-        "id": "accenture"
-    },
-    {
-        "id": "sas korea"
-    },
-    {
-        "id": "kmac"
-    },
-    {
-        "id": "ibm"
-    },
-    {
-        "id": "microsoft"
-    },
-    {
-        "id": "spss"
-    },
-    {
-        "id": "nia"
+        "id": "sunjin"
     }
 
     ]
