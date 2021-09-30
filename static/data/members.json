@@ -332,16 +332,6 @@
     "highschool": "Royal Grammar School Guildford, 2013"
     },
 	{
-    "image": "hy.lee",
-    "name": "이 하 연 (Ha yeon Lee)",
-    "exp.gra.": "On leave",
-    "email": "hayeon.lee at dm.snu.ac.kr",
-    "experience": "Research Intern at Infosys Limited, Bangalore, 2016; Research Intern at Openbase, Seoul, 2015",
-    "areas of interest":"Deep learning, Natural Language Processing, Bayesian Statistics",
-    "B.S.":  "Mathematics, Optimisation and Statistics, Imperial College London, 2017",
-    "highschool": "Luckley House School, 2012"
-    },
-	{
 	"image": "jwyang",
 	"name": "양 지 원 (Jiwon Yang)",
 	"exp.gra.": "On leave",
@@ -349,16 +339,6 @@
 	"areas of interest": "Learning Algorithms, Mining for Manufacturing Systems",
 	"B.S.": "Industrial Engineering, and Computer Science and Engineering, Seoul Nat'l Univ., 2010",
 	"highschool": "Sangdong, 2005"
-    },
-    {
-	"image": "nariu",
-	"name": "유 나 리 (Nari Ryu)",
-	"exp.gra.": "On leave",
-	"email": "nariu at dm.snu.ac.kr",
-	"experience":"Internship at Boston Consulting Group, Internship at Samsung Electronics",
-	"areas of interest":"Speech Recognition, Natural Language Processing",
-	"B.S.":  "Industrial & Systems Engineering, KAIST, 2016",
-	"highschool": "Seohyun, 2011"
     }
 ]
 }
