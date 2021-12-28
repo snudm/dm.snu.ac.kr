@@ -13,12 +13,13 @@ CONTACT = {
 
 #2016/11/10  교수님 지시로 datamining 탭 삭제
 #2019/08/07  교수님 지시로 reports, software, patent 탭 삭제
+#2021/12/29 교수님 지시로 activities 탭 삭제
 MENUS = [
     'home',
     ('people', ['professor', 'students', 'alumni']),
     ('degrees',['PhD','Masters','admission']),
     'courses',
-    ('research', ['activities', 'journal','conference', 'insight']),
+    ('research', ['journal','conference', 'insight']),
     ('projects', ['sponsors', 'FAQ']),
     'education',
     'opendata',
