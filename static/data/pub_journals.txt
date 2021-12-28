@@ -28,19 +28,18 @@
 "Document representation based on probabilistic word clustering in customer-voice classification", Younghoon Lee, Seokmin Song, Sungzoon Cho, Jinhae Choi, Pattern Analysis and Application, Volume 22, Issue 1, pp 221–232, February 2019, 
 "Dynamic Vehicle Traffic Control Using Deep Reinforcement Learning in Automated Material Handling System", Younkook Kang, Sungwon Lyu, Jeeyung Kim, Bongjoon Park, Sungzoon Cho, AAAI-19 Student Abstract and Poster Program, Honolulu, Hawaii, USA, January 27 – February 1, 2019
 "Stock Price Prediction through Sentiment Analysis of Corporate Disclosures Using Distributed Representation", Misuk Kim, Eunjeong Lucy Park, and Sungzoon Cho, Intelligent Data Analysis Journal, Vol. 22(6) pp. 1395-1413, December 2018
-"Applying convolution filter to matrix of word-clustering based document representation", Younghoon Lee, Jinbae Im, Sungzoon cho, Jinhae Choi, Neurocomputing, Volume 315, 13 November 2018, Pages 210-220
-"Knowledge Extraction and Visualization of Digital Design Process", Jiwon Yang, Eunji Kim, Minhoe Hur, Sungzoon Cho, Myungbin Han, Iksang Suh, Expert Systems with Applications, volume 92, Issue C, Pages 206-215, February 2018
-"Product failure prediction with missing data", Seokho Kang, Eunji Kim, Jaewoong Shim, Wonsang Chang, Sungzoon Cho*, International Journal of Production Research, Online  publication, Vol. 56, Issue 14, Nov 2018, Pages 4849-4859
-"Smartphone user segmentation based on app usage sequence with deep neural networks", Younghoon Lee, Inbeom Park, Sungzoon Cho, Jinhae Choi, Telematics and Informatics, Vol. 35, No. 2, Pages 329-339, May 2018
-"SARN: Relational Reasoning through Sequential Attention", Jinwon An, Sungwon Lyu, Sungzoon Cho, NIPS Workshop on Relational Representation Learning, December 8, 2018, Montréal, Canada
+"SARN: Relational Reasoning through Sequential Attention", Jinwon An, Sungwon Lyu, Sungzoon Cho, NIPS Workshop on Relational Representation Learning, Montréal, Canada, December 8 2018
+"Air Conditioning Load Prediction using Recurrent Neural Networks", Ahn, Ahn, Park, Lim, Cho, IEEE Industrial Engineering and Engineering Management 2018, December 16-19, Bangkok, Thailand
+"Applying convolution filter to matrix of word-clustering based document representation", Younghoon Lee, Jinbae Im, Sungzoon cho, Jinhae Choi, Neurocomputing, Volume 315, Pages 210-220, 13 November 2018
+"Product failure prediction with missing data", Seokho Kang, Eunji Kim, Jaewoong Shim, Wonsang Chang, Sungzoon Cho*, International Journal of Production Research, Online  publication, Vol. 56, Issue 14, Pages 4849-4859, Nov 2018
+"Vehicle Flow Control Using Reinforcement Learning on Manufacturing Environment" Younkook Kang, Sungzoon Cho, INFORMS Anual Meeting 2018, Phoenix, USA, November 4 - 7, 2018
 "빅데이터 이노베이션" 한국SCM학회 2018 춘계학술대회 기조연설, 조성준, 2018년 11월 13일, 서울 대한상공회의소
 "빅데이터 밸류 창출" 대한산업공학회, 2018 춘계학술대회 기조연설, 조성준, 2018년 11월 9일, 서울 한양대학교
-"Vehicle Flow Control Using Reinforcement Learning on Manufacturing Environment" Younkook Kang, Sungzoon Cho, INFORMS Anual Meeting 2018, November 4 - 7, 2018, Phoenix, USA
 "Big Data Innovation in Korea Manufacturing", Sungzoon Cho, Advances in Production Management Systems, APMS 2018 Keynote Speech, August 26-30, Seoul National University, Seoul, Korea
-"Air Conditioning Load Prediction using Recurrent Neural Networks", Ahn, Ahn, Park, Lim, Cho, IEEE Industrial Engineering and Engineering Management 2018, December 16-19, Bangkok, Thailand
 "De-noising documents with a novelty detection method utilizing class vectors in customer-voice classification", Younghoon Lee, Sungzoon Cho, and Jinhae Choi, Intelligent Data Analysis, Vol. 22, no. 4, pp. 717-733, June 2018
 "Smartphone user segmentation based on app usage sequence with deep neural networks", Younghoon Lee, Inbeom Park, Sungzoon Cho, Jinhae Choi, Telematics and Informatics, Vol. 35, No. 2, Pages 329-339, May 2018
 "Obtaining calibrated probability using ROC Binning.", Meesun Sun, Sungzoon Cho, Pattern Analysis and Applications 21(2), pp.307-322, May 2018
+"Knowledge Extraction and Visualization of Digital Design Process", Jiwon Yang, Eunji Kim, Minhoe Hur, Sungzoon Cho, Myungbin Han, Iksang Suh, Expert Systems with Applications, volume 92, Issue C, Pages 206-215, February 2018
 "Ranking Process Parameter Association with Low Yield Wafers Using Spec-out Event Network Analysis", Jiwon Yang, Seungkyung Lee, Seokho Kang, Sungzoon Cho, Younghak Lee, and Haesang Park, Computers and Industrial Engineering, Volume 113 Issue C, Pages 419-424, November 2017
 "Bag-of-Concepts: Comprehending Document Representation through Clustering Words in Distributed Representation", Han Kyul Kim, Hyunjoong Kim, Sungzoon Cho, Neurocomputing, Volume 266, Pages 336-352, November 2017
 "Reliable prediction of anti-diabetic drug failure with a reject option", Seokho Kang, Sungzoon Cho, Su-jin Rhee, Kyung-sang Yu, Pattern Analysis and Applications, Vol. 20, Issue 3, pages 883-891, August 2017
