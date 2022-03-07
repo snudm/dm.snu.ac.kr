@@ -9,14 +9,6 @@
     "highschool": "St. John's, 2009"
     },
     {
-    "image": "hsshin",
-    "name": "신 훈 식 (Hunsik Shin)",
-    "exp.gra.": "2022. 2",
-    "email": "hunsik at dm.snu.ac.kr",
-    "B.S.": "Industrial & Management Engineering, POSTECH, 2015",
-    "highschool": "Chungbuk Science, 2010"
-    },
-    {
     "image": "hyejin2",
     "name": "이 혜 진 (Hyejin Lee)",
     "exp.gra.": "2022. 2",
@@ -178,7 +170,7 @@
     "name": "김 현 종 (Hyunjong Kim)",
     "exp.gra.": "2026. 2",
     "email": "hjkim at dm.snu.ac.kr",
-    "areas of interest":"Machine Learning, Deep Learning",
+    "areas of interest":"Machine Learning, Deep Learning, Natural Language Processing",
     "B.S.":  "Industrial and Management Engineering, POSTECH, 2021",
     "highschool": "Paichai High School, 2017"
     },
@@ -193,16 +185,6 @@
     }
 ],
 "ms_students": [
-    {
-    "image": "gh_park",
-    "name": "박 건 휘 (Geonhui Pak)",
-    "exp.gra.": "2022. 2",
-    "email": "gun1097 at dm.snu.ac.kr",
-    "areas of interest": "Machine Learning, Deep Learning",
-  	"experience": "Samsung Electro-Mechanics, 2015-",
-    "B.S.":  "Mechanical & Aerospace Engineering, Seoul Nat'l Univ., 2015",
-    "highschool": "Happo, 2009"
-    },
 	{
     "image": "gj_kim",
     "name": "김 기 정 (Gi Jung Kim)",
@@ -307,6 +289,51 @@
     "areas of interest":"Machine Learning, Deep Learning",
     "B.S.":  "Computer Science and Engineering, Korea Univ, 2016",
     "highschool": "Youngdongil High School, 2008"
+    },
+    {
+    "image": "keonwookim",
+    "name": "김 건 우 (Keonwoo Kim)",
+    "exp.gra.": "2024. 2",
+    "email": "keonwookim at dm.snu.ac.kr",
+    "areas of interest": "Deep Learning, Natural Language Processing",
+    "B.S.": "Industrial Engineering, UNIST, 2022",
+    "highschool": "Gimpo foreign language, 2016"
+    },
+    {
+    "image": "jhkim",
+    "name": "김 재 현 (Jaehyun Kim)",
+    "exp.gra.": "2024. 2",
+    "email": "jhkim at dm.snu.ac.kr",
+    "areas of interest": "Finance, Algorithm, Stochastic Process",
+    "B.S.": "Mathematics, Electronic and Electrical Engineering, POSTECH, 2022",
+    "highschool": "Daejeon Dongsin Science, 2016"
+    },
+    {
+    "image": "hyesokim",
+    "name": "김 혜 소 (Hye So Kim)",
+    "exp.gra.": "2024. 2",
+    "email": "hyesokim at dm.snu.ac.kr",
+    "areas of interest": "Natural Language Processing, Data Analytics",
+    "B.S.": "Operations Research, Cornell Univ., 2021",
+    "highschool": "Emma Willard School, 2017"
+    },
+    {
+    "image": "jhsong",
+    "name": "송 준 호 (Junho Song)",
+    "exp.gra.": "2024. 2",
+    "email": "jhsong at dm.snu.ac.kr",
+    "areas of interest": "Deep Learning, Anomaly Detection, Time Series Analysis",
+    "B.S.": "Naval Architecture and Ocean Engineering, Seoul Nat'l Univ., 2021",
+    "highschool": "Bucheon High School, 2014"
+    },
+    {
+    "image": "jssim",
+    "name": "심 재 승 (Jaeseung Sim)",
+    "exp.gra.": "2024. 2",
+    "email": "jssim at dm.snu.ac.kr",
+    "areas of interest": "Natural Language Processing, Graph Analysis, Knowledge Graph",
+    "B.S.": "Industrial Engineering, Yonsei Univ., 2022",
+    "highschool": "Shinsung High School, 2016"
     }
 ],
 

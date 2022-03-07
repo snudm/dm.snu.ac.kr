@@ -1,11 +1,29 @@
 [
 {
+	"year": "2022.02",
+	"name": "신훈식",
+	"degree": "박사",
+	"image": "hsshin",
+	"job": "삼성전자 종합기술원",
+	"job_address": "https://www.samsung-dsrecruit.com/division_intro/generalTechnique/index.php",
+	"dissertation": "Automatic summarization via classification-based entity-representative feature learning and its applications"
+},	
+{
+	"year": "2022.02",
+	"name": "박건휘",
+	"degree": "석사",
+	"image": "gh_park",
+	"job": "삼성전기",
+	"job_address": "https://www.samsungsem.com/",
+	"dissertation": "Deep Active Learning을 활용한 MLCC SEM 이미지 Segmentation"
+},
+{
 	"year": "2021.08",
     "name": "안용대",
 	"degree": "박사",
 	"image": "ydahn",
 	"job": "Desilo, 세종대학교 교수",
-	"dissertation": "Popularity Prediction and Relation detection of video contents: Movies, TV programs and Youtube channels."
+	"dissertation": "Popularity Prediction and Relation detection of video contents: Movies, TV programs and Youtube channels"
 },	
 {
 	"year": "2021.02",
