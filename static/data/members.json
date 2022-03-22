@@ -38,9 +38,7 @@
     "M.S.":  "Industrial & Management Engineering, Korea Univ., 2018",
     "B.S.":  "Industrial & Management Engineering, Korea Univ., 2016",
     "highschool": "Gyeongnam Science, 2012"
-    }
-],
-"phd_students" : [
+    },
     {
     "image": "yongheekim",
     "name": "김 용 희 (Yong Hee Kim)",
@@ -51,17 +49,6 @@
     "M.S.":  "Financial Engineering, UCLA, 2015",
     "B.S.":  "Chemical Engineering, University of Texas at Austin, 2013",
     "highschool": "Creekview, 2009"
-    },
-    {
-    "image": "hy.kim",
-    "name": "김 현 용 (Hyunyong Kim)",
-    "exp.gra.": "2024. 2",
-    "email": "david.kimhy at dm.snu.ac.kr",
-    "experience": "AXA, 2015-2018",
-    "areas of interest":"Machine Learning, Deep Learning, Finance",
-    "M.S.":  "Industrial Engineering, Seoul Nat'l Univ., 2020",
-    "B.S.":  "Applied Biology and Chemistry, Statistics, Seoul Nat'l Univ., 2015",
-    "highschool": "Seil, 2009"
     },
     {
     "image": "jh.park",
@@ -83,17 +70,9 @@
     "M.S.":  "Industrial Engineering, Seoul Nat'l Univ., 2020",
     "B.S.":  "Mathematical Science, KAIST, 2014",
     "highschool": "Sangsan, 2009"
-    },
-    {
-    "image": "hyunsangcho",
-    "name": "조 현 상 (Hyunsang Cho)",
-    "exp.gra.": "2024. 2",
-    "email": "brianhscho at dm.snu.ac.kr",
-    "experience": "Analysis Group, Inc., 2016-2018",
-    "areas of interest":"Machine Learning, Text Mining",
-    "B.S.":  "Statistics, Carnegie Mellon, 2016",
-    "highschool": "Edgewood High, 2009"
-    },    
+    }
+],
+"phd_students" : [    
 	{
     "image": "ykkang2",
     "name": "강 연 국 (Younkook Kang)",
@@ -186,9 +165,20 @@
 ],
 "ms_students": [
 	{
+    "image": "sungyeonlim",
+    "name": "임 성 연 (Sung Yeon Lim)",
+    "exp.gra.": "2022. 8",
+    "email": "sylim2357 at dm.snu.ac.kr",
+    "homepage" : "https://sylim2357.github.io",
+    "experience": "BNP Paribas, 2017-2018; HSBC, 2016-2017",
+    "areas of interest":"Statistical Learning, Reinforcement Learning, Time Series Analysis, Finance",
+    "B.S.":  "Mathematics with Statistics for Finance, Imperial College London, 2016",
+    "highschool": "Royal Grammar School Guildford, 2013"
+    },	
+    {
     "image": "gj_kim",
     "name": "김 기 정 (Gi Jung Kim)",
-    "exp.gra.": "2022. 2",
+    "exp.gra.": "2022. 8",
     "email": "gjk287 at dm.snu.ac.kr",
     "homepage" : "https://www.coxwave.com/",
     "areas of interest": "AutoML, Parallel and distributed Deep learning",
@@ -348,17 +338,6 @@
     "B.S.":  "Psychology, Seoul Nat'l Univ., 2013"
     },
 	{
-    "image": "sungyeonlim",
-    "name": "임 성 연 (Sung Yeon Lim)",
-    "exp.gra.": "On leave",
-    "email": "sylim2357 at dm.snu.ac.kr",
-    "homepage" : "https://sylim2357.github.io",
-    "experience": "BNP Paribas, 2017-2018; HSBC, 2016-2017",
-    "areas of interest":"Statistical Learning, Reinforcement Learning, Time Series Analysis, Finance",
-    "B.S.":  "Mathematics with Statistics for Finance, Imperial College London, 2016",
-    "highschool": "Royal Grammar School Guildford, 2013"
-    },
-	{
 	"image": "jwyang",
 	"name": "양 지 원 (Jiwon Yang)",
 	"exp.gra.": "On leave",
@@ -366,6 +345,27 @@
 	"areas of interest": "Learning Algorithms, Mining for Manufacturing Systems",
 	"B.S.": "Industrial Engineering, and Computer Science and Engineering, Seoul Nat'l Univ., 2010",
 	"highschool": "Sangdong, 2005"
+    },
+    {
+    "image": "hy.kim",
+    "name": "김 현 용 (Hyunyong Kim)",
+    "exp.gra.": "2024. 2",
+    "email": "david.kimhy at dm.snu.ac.kr",
+    "experience": "AXA, 2015-2018",
+    "areas of interest":"Machine Learning, Deep Learning, Finance",
+    "M.S.":  "Industrial Engineering, Seoul Nat'l Univ., 2020",
+    "B.S.":  "Applied Biology and Chemistry, Statistics, Seoul Nat'l Univ., 2015",
+    "highschool": "Seil, 2009"
+    },
+    {
+    "image": "hyunsangcho",
+    "name": "조 현 상 (Hyunsang Cho)",
+    "exp.gra.": "2024. 2",
+    "email": "brianhscho at dm.snu.ac.kr",
+    "experience": "Analysis Group, Inc., 2016-2018",
+    "areas of interest":"Machine Learning, Text Mining",
+    "B.S.":  "Statistics, Carnegie Mellon, 2016",
+    "highschool": "Edgewood High, 2009"
     }
 ]
 }
