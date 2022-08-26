@@ -1,5 +1,41 @@
 [
 {
+	"year": "2022.08",
+	"name": "김기정",
+	"degree": "석사",
+	"image": "gj_kim",
+	"job": "Coxwave",
+	"job_address": "https://www.coxwave.com/",
+	"dissertation": "Phonetic Similarity Detection on Trademark Name using CNN-Siamese Networks"
+},	
+{
+	"year": "2022.08",
+	"name": "안영훈",
+	"degree": "석사",
+	"image": "younghoon.ahn",
+	"job": "Coxwave",
+	"job_address": "https://www.coxwave.com/",
+	"dissertation": "비엔나 코드 분류를 활용한 효율적인 유사 도형 상표 검색"
+},	
+{
+	"year": "2022.08",
+	"name": "임성연",
+	"degree": "석사",
+	"image": "sungyeonlim",
+	"job": "Prism39",
+	"job_address": "https://www.prism39.com/",
+	"dissertation": "Stock Short Sales Fee Prediction"
+},	
+{
+	"year": "2022.08",
+	"name": "조현흠",
+	"degree": "석사",
+	"image": "heum",
+	"job": "휴먼스케이프",
+	"job_address": "https://humanscape.io/kr/index.html",
+	"dissertation": "머신러닝 모델 유동화와 자동화 거래 시장 설계"
+},	
+{
 	"year": "2022.02",
 	"name": "신훈식",
 	"degree": "박사",
