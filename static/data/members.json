@@ -51,7 +51,7 @@
     "highschool": "Creekview, 2009"
     },
     {
-    "image": "jh.park",
+    "image": "jh_park",
     "name": "박 지 혜 (Jihye Park)",
     "exp.gra.": "2023. 8",
     "email": "jihyeparkk at dm.snu.ac.kr",
@@ -300,7 +300,7 @@
     "exp.gra.": "2025. 2",
     "email": "wjdwodnjs302 at dm.snu.ac.kr",
     "experience": "Bagelcode, 2019-2020",
-    "areas of interest": "Machine learning, Deep learning",
+    "areas of interest": "Machine Learning, Deep Learning",
     "B.S.": "Industrial and Management Engineering, POSTECH, 2023",
     "highschool": "Sangsan High School, 2018"
     },
@@ -328,7 +328,7 @@
     "exp.gra.": "2025. 2",
     "email": "1115ces at dm.snu.ac.kr",
     "experience": "ROK Army, 2016-",
-    "areas of interest": "Weapon system, Machine learning",
+    "areas of interest": "Weapon System, Machine Learning",
     "B.S.": "Military Chemistry, Korea Military Academy, 2016",
     "highschool": "Yongsan High school, 2012"
     },
@@ -337,7 +337,6 @@
     "name": "채 성 원 (Sungwon Chae)",
     "exp.gra.": "2025. 2",
     "email": "chae at dm.snu.ac.kr",
-    "experience": "Samsung Engineering, 2013-",
     "areas of interest": "Deep Learning, Natural Language Processing, Information Retrieval",
     "B.S.": "Industrial Engineering, Seoul Nat'l Univ., 2023",
     "highschool": "Banpo High School, 2018"
