@@ -284,6 +284,63 @@
     "areas of interest": "Machine Learning, Deep Learning, Time Series Analysis",
     "B.S.": "Industrial and Management Engineering, POSTECH, 2015",
     "highschool": "Gyeongnam Girls' High School, 2011"
+    },
+    {
+    "image": "jroh",
+    "name": "오 정 렬 (Jeongryeol Oh)",
+    "exp.gra.": "2025. 2",
+    "email": "jamesoh0813 at dm.snu.ac.kr",
+    "areas of interest": "Natural Language Processing, Anomaly Detection, Time Series Analysis",
+    "B.S.": "Computer Science and Engineering, Sogang Univ., 2023",
+    "highschool": "Dankook University High School, 2018"
+    },
+    {
+    "image": "jwjung",
+    "name": "정 재 원 (Jaewon Jung)",
+    "exp.gra.": "2025. 2",
+    "email": "wjdwodnjs302 at dm.snu.ac.kr",
+    "experience": "Bagelcode, 2019-2020",
+    "areas of interest": "Machine learning, Deep learning",
+    "B.S.": "Industrial and Management Engineering, POSTECH, 2023",
+    "highschool": "Sangsan High School, 2018"
+    },
+    {
+    "image": "chjung",
+    "name": "정 철 환 (Cholhwan Jung)",
+    "exp.gra.": "2025. 2",
+    "email": "happybee2 at dm.snu.ac.kr",
+    "areas of interest": "Machine Learning, Recommendation System",
+    "B.S.": "Industrial Engineering, Seoul Nat'l Univ., 2023",
+    "highschool": "Gyeonggi Science High School, 2017"
+    },
+    {
+    "image": "yjcho",
+    "name": "조 영 재 (Yeongjae Cho)",
+    "exp.gra.": "2025. 2",
+    "email": "yjcho at dm.snu.ac.kr",
+    "areas of interest": "Deep Learning, Machine Learning, Natural Language Processing",
+    "B.S.": "Naval Architecture and Ocean Engineering, Industrial Engineering, Seoul Nat'l Univ., 2023",
+    "highschool": "Juyeop High School"
+    },
+    {
+    "image": "escho",
+    "name": "조 은 상 (Eunsang Cho)",
+    "exp.gra.": "2025. 2",
+    "email": "1115ces at dm.snu.ac.kr",
+    "experience": "ROK Army, 2016-",
+    "areas of interest": "Weapon system, Machine learning",
+    "B.S.": "Military Chemistry, Korea Military Academy, 2016",
+    "highschool": "Yongsan High school, 2012"
+    },
+    {
+    "image": "swchae",
+    "name": "채 성 원 (Sungwon Chae)",
+    "exp.gra.": "2025. 2",
+    "email": "chae at dm.snu.ac.kr",
+    "experience": "Samsung Engineering, 2013-",
+    "areas of interest": "Deep Learning, Natural Language Processing, Information Retrieval",
+    "B.S.": "Industrial Engineering, Seoul Nat'l Univ., 2023",
+    "highschool": "Banpo High School, 2018"
     }
 ],
 
