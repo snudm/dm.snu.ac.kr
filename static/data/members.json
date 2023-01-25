@@ -248,15 +248,6 @@
     "highschool": "Bucheon High School, 2014"
     },
     {
-    "image": "jssim",
-    "name": "심 재 승 (Jaeseung Sim)",
-    "exp.gra.": "2024. 2",
-    "email": "jssim at dm.snu.ac.kr",
-    "areas of interest": "Natural Language Processing, Graph Analysis, Knowledge Graph",
-    "B.S.": "Industrial Engineering, Yonsei Univ., 2022",
-    "highschool": "Shinsung High School, 2016"
-    },
-    {
     "image": "jhkang",
     "name": "강 지 혜 (Jihye Kang)",
     "exp.gra.": "2024. 8",
@@ -345,6 +336,15 @@
     "areas of interest": "Finance, Algorithm, Stochastic Process",
     "B.S.": "Mathematics, Electronic and Electrical Engineering, POSTECH, 2022",
     "highschool": "Daejeon Dongsin Science, 2016"
+    },
+    {
+    "image": "jssim",
+    "name": "심 재 승 (Jaeseung Sim)",
+    "exp.gra.": "2024. 2",
+    "email": "jssim at dm.snu.ac.kr",
+    "areas of interest": "Natural Language Processing, Graph Analysis, Knowledge Graph",
+    "B.S.": "Industrial Engineering, Yonsei Univ., 2022",
+    "highschool": "Shinsung High School, 2016"
     }
 ]
 }
