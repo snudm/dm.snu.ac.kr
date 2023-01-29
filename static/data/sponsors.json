@@ -343,7 +343,7 @@
     {
         "id": "duzon",
         "description_ko": "데이터마이닝 기반 Cross Sell 및 Up Sell 판매전략",
-        "description_en": "Datamining based Identifying Cross Sell and Up Sell targets based on Data Mining"
+        "description_en": "Identifying Cross Sell and Up Sell targets based on Data Mining"
     },
     {
         "id": "daumsoft",
