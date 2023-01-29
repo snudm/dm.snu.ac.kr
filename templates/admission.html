@@ -2,7 +2,7 @@
 
 {% block contents %}
 <h2>Admission FAQ</h2>
-{% for qna in admission_OBSELETE['admission_qna'] %}
+{% for qna in admission['admission_qna'] %}
 <h3 class="question"><li>{{ qna['question'] }}</li></h3>
 <p class="answer">{{ qna['answer']|safe }}</p>
 {% endfor %}
