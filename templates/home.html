@@ -78,8 +78,8 @@ Since we started as Neural Network Lab at POSTECH in 1993, our lab has performed
 {% if locale=='ko' %}
 <h2>연혁</h2>
 <p> 서울대학교 빅데이터 AI 센터(센터장: <a href="{{ url_for('member', name='zoon') }}">조성준</a>)는 1993년 설립되어 빅데이터와 인공지능 관련  <a href="{{ url_for('research', lang_code=locale) }}">학술 및 응용 연구</a>를 수행하는 연구기관입니다.
-16명의 박사와 62명의 석사를 배출하였고, 대학, 연구소, 기업 및 공공기관의 데이터 관련 분야에서 활약하고 있습니다. 현재 35명의 석박사과정 연구원들이 빅데이터 및 인공지능 연구에 몰두하고 있습니다. 국내외 저널 및 학술대회에 160여 편의 논문을 발표하였고, 10여 건 이상의 국내외 특허와 상용소프트웨어를 개발하였습니다.
-제품개발, 생산물류, 품질, 마케팅 영업, 파이낸스, 인사, 에너지, 보안 등 다양한 분야의 <a href="{{ url_for('development', lang_code=locale) }}">연구개발 프로젝트</a>와 기업체 의사결정자들에 대한 데이터마이닝 교육 등의 산학협동을 수행하여 왔습니다.
+2023년 3월 기준 27명의 박사와 100명의 석사를 배출하였고, 대학, 연구소, 기업 및 공공기관의 데이터 관련 분야에서 활약하고 있습니다. 현재 45명의 석박사과정 연구원들이 빅데이터 및 AI 연구에 몰두하고 있습니다. 국내외 저널 및 학술대회에 200여 편의 논문을 발표하였고, 10여 건 이상의 국내외 특허와 상용소프트웨어를 개발하였습니다.
+제품개발, 생산물류, 품질, 마케팅 영업, 파이낸스, 인사, 에너지, 보안 등 다양한 분야의 <a href="{{ url_for('development', lang_code=locale) }}">연구개발 프로젝트</a>와 기업체 실무자 및 C레벨 의사결정자들에 대한 빅데이터 AI 교육, 자문 등의 산학협동을 수행하여 왔습니다.
 </p>
 
 
@@ -102,7 +102,7 @@ Since we started as Neural Network Lab at POSTECH in 1993, our lab has performed
 -->
 
 <!-- 2016/11/10 교수님 지시에 따라 새로 만듦 -->
-<h2>Data Mining FAQ</h2>
+<h2>Big Data AI, FAQ</h2>
 {% for content in datamining['datamining'] %}
 <h3 class="question"><li>{{ content['question'] }}</li></h3>
 <p class="answer">{{ content['answer'] }}</p>
