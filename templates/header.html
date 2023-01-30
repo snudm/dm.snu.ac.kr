@@ -17,9 +17,12 @@
         <span class="icon-bar"></span>
         <span class="icon-bar"></span>
       </button>
-      <label class="btn btn-primary btn-xs {% if locale=='ko' %}active{% endif %} ">
+      <!-- <label class="btn btn-primary btn-xs {% if locale=='ko' %}active{% endif %} ">
         <input type="radio" name="options" id="option1" autocomplete="off" {% if locale=='ko' %}checked {% endif %}> Korean
-      </label>
+      </label> -->
+      <!-- <label class="btn btn-primary btn-xs {% if locale=='en' %}active{% endif %}">
+        <input type="radio" name="options" id="option2" autocomplete="off" {% if locale=='en' %}checked {% endif %}> English
+      </label> -->
     </div>
     <div class="navbar-header">
       <a class="navbar-brand" href="{{ url_for('home', lang_code=locale) }}">
