@@ -71,9 +71,7 @@
     "areas of interest":"Autonomous Control, Reinforcement Learning, Transport System",
     "M.S.":  "Industrial Engineering, Seoul Nat'l Univ., 2019",
     "B.S.":  "Industrial Engineering, Korea Univ., 2008"
-    }
-],
-"phd_students" : [    
+    },
     {
     "image": "sangyeopkim",
     "name": "김 상 엽 (Sangyeop Kim)",
@@ -103,7 +101,9 @@
     "areas of interest":"Text Mining, Machine learning, Bioinformatics",
     "M.S.": "Cognitive Science, Seoul Nat'l Univ., 2018",
     "B.S.":  "Psychology, University of Illinois, 2012"
-    },
+    }
+],
+"phd_students" : [    
     {
     "image": "jk.ahn7",
     "name": "안 재 관 (Jaekwan Ahn)",
@@ -140,8 +140,27 @@
     "exp.gra.": "2026. 2",
     "email": "sohhyung at dm.snu.ac.kr",
     "areas of interest":"Machine Learning, Deep Learning, Natural Language Processing",
-    "B.S.":  "Industrial engineering, Seoul Nat'l Univ., 2021",
+    "B.S.":  "Industrial Engineering, Information Science and Culture, Seoul Nat'l Univ., 2021",
     "highschool": "Dongguk Girls' Highschool, 2015"
+    },
+    {
+    "image": "eojinKim",
+    "name": "김 어 진 (Eojin Kim)",
+    "exp.gra.": "2023. 2",
+    "email": "kimuj7017 at dm.snu.ac.kr",
+    "areas of interest":"Machine Learning, Deep Learning, Data Analytics",
+    "B.S.":  "Computer Science and Engineering, POSTECH, 2021",
+    "highschool": "Chungju High School, 2017"
+    },
+    {
+    "image": "suyeonLee",
+    "name": "이 수 연 (Suyeon Lee)",
+    "exp.gra.": "2023. 2",
+    "email": "suyeon.lee at dm.snu.ac.kr",
+    "experience": "Lotte Duty Free, 2017-2020",
+    "areas of interest":"Machine Learning, Text Mining, Deep Learning",
+    "B.S.":  "Business Administration, Seoul Nat'l Univ., 2017",
+    "highschool": "Dongsan High School, 2012"
     }
 ],
 "ms_students": [
@@ -164,15 +183,6 @@
     "highschool": "Great Plains Lutheran High, 2014"
     },
     {
-    "image": "terryhahm",
-    "name": "함 영 석 (Youngseok Hahm)",
-    "exp.gra.": "2022. 8",
-    "email": "terryhahm at dm.snu.ac.kr",
-    "areas of interest":"Machine Learning, Deep Learning, Data Analytics",
-    "B.S.":  "Statistics and Computer Science, Mathematics, University of Illinois at Urbana-Champaign, 2019",
-    "highschool": "Shanghai Community International School, 2013"
-    },
-    {
     "image": "joowon.kim",
     "name": "김 주 원 (Joowon Kim)",
     "exp.gra.": "2023. 2",
@@ -181,25 +191,6 @@
     "areas of interest":"MLOps, Neural Architecture Search",
     "B.S.":  "Computer Engineering, UNIST, 2020",
     "highschool": "Goyang foreign language, 2013"
-    },
-    {
-    "image": "eojinKim",
-    "name": "김 어 진 (Eojin Kim)",
-    "exp.gra.": "2023. 2",
-    "email": "kimuj7017 at dm.snu.ac.kr",
-    "areas of interest":"Machine Learning, Deep Learning, Data Analytics",
-    "B.S.":  "Computer Science and Engineering, POSTECH, 2021",
-    "highschool": "Chungju High School, 2017"
-    },
-    {
-    "image": "suyeonLee",
-    "name": "이 수 연 (Suyeon Lee)",
-    "exp.gra.": "2023. 2",
-    "email": "suyeon.lee at dm.snu.ac.kr",
-    "experience": "Lotte Duty Free, 2017-2020",
-    "areas of interest":"Machine Learning, Text Mining, Deep Learning",
-    "B.S.":  "Business Administration, Seoul Nat'l Univ., 2017",
-    "highschool": "Dongsan High School, 2012"
     },
     {
     "image": "keonwookim",
