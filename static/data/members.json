@@ -1,13 +1,4 @@
 {"phd_candidates": [
-	{
-    "image": "sungwhan",
-    "name": "전 성 환 (Sung Whan Jeon)",
-    "exp.gra.": "2022. 8",
-    "email": "sjeon at dm.snu.ac.kr",
-    "areas of interest":"Deep Learning, Text Mining, Graph Embedding, Finance, Time Series Analysis",
-    "B.S.":  "Computer Science, Mathematics, Emory Univ. 2014",
-    "highschool": "St. John's, 2009"
-    },
     {
     "image": "hyejin2",
     "name": "이 혜 진 (Hyejin Lee)",
@@ -209,25 +200,6 @@
     "areas of interest":"Machine Learning, Text Mining, Deep Learning",
     "B.S.":  "Business Administration, Seoul Nat'l Univ., 2017",
     "highschool": "Dongsan High School, 2012"
-    },
-    {
-    "image": "yeonsuLee",
-    "name": "이 연 수 (Yeonsu Lee)",
-    "exp.gra.": "2023. 2",
-    "email": "yslee at dm.snu.ac.kr",
-    "areas of interest":"Deep Learning, Audio Signal Processing",
-    "B.S.":  "Industrial Engineering, Seoul Nat'l Univ., 2021",
-    "highschool": "Yeonsu High School, 2017"
-    },
-    {
-    "image": "nuriHan",
-    "name": "한 누 리 (Nuri Han)",
-    "exp.gra.": "2023. 2",
-    "email": "nrhan0623 at dm.snu.ac.kr",
-    "experience": "Samsung Electronics, 2016-2020",
-    "areas of interest":"Machine Learning, Deep Learning",
-    "B.S.":  "Computer Science and Engineering, Korea Univ, 2016",
-    "highschool": "Youngdongil High School, 2008"
     },
     {
     "image": "keonwookim",

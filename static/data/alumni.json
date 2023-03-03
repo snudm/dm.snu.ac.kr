@@ -1,5 +1,32 @@
 [
 {
+	"year": "2023.02",
+	"name": "전성환",
+    "degree": "박사",
+	"image": "sungwhan",
+	"job": "삼성전자 종합기술원",
+	"job_address": "https://www.samsung-dsrecruit.com/division_intro/generalTechnique/index.php",
+	"dissertation": "AI/ML 개발 및 연구"
+},
+{
+	"year": "2023.02",
+	"name": "이연수",
+	"degree": "석사",
+	"image": "yeonsuLee",
+	"job": "티맥스에이아이",
+	"job_address": "https://www.tmax.co.kr/tmaxai",
+	"dissertation": "Pseudo-labeling, Pre-training with Multilingual Untranscribed Speech Corpora and Fine-tuning for Low-resource Speech Synthesis"
+},
+{
+	"year": "2023.02",
+	"name": "한누리",
+	"degree": "석사",
+	"image": "nuriHan",
+	"job": "삼성전자",
+	"job_address": "https://www.samsung-dsrecruit.com/division_intro/generalTechnique/index.php",
+	"dissertation": "AI/ML"
+},
+{
 	"year": "2022.08",
 	"name": "김기정",
 	"degree": "석사",
