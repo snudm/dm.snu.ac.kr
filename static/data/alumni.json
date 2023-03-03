@@ -6,7 +6,7 @@
 	"image": "sungwhan",
 	"job": "삼성전자 종합기술원",
 	"job_address": "https://www.samsung-dsrecruit.com/division_intro/generalTechnique/index.php",
-	"dissertation": "AI/ML 개발 및 연구"
+	"dissertation": "Building Named Entity Knowledge Graph Using Named Entity Normalization"
 },
 {
 	"year": "2023.02",
@@ -31,9 +31,9 @@
 	"name": "함영석",
 	"degree": "석사",
 	"image": "terryhahm",
-	"job": "수정중",
-	"job_address": "https://www.samsung-dsrecruit.com/division_intro/generalTechnique/index.php",
-	"dissertation": "AI/ML"
+	"job": "Prism39",
+	"job_address": "https://www.prism39.com/",
+	"dissertation": "Automatic Classification of News on CEO Turnover Cause for post-turnover Volatility prediction"
 },
 {
 	"year": "2022.08",
