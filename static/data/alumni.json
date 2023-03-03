@@ -22,9 +22,9 @@
 	"name": "한누리",
 	"degree": "석사",
 	"image": "nuriHan",
-	"job": "삼성전자",
-	"job_address": "https://www.samsung-dsrecruit.com/division_intro/generalTechnique/index.php",
-	"dissertation": "AI/ML"
+	"job": "삼성전자 DS부문 설비기술연구소",
+	"job_address": "https://www.samsung-dsrecruit.com/division_intro/laboratory/index.php",
+	"dissertation": "반도체 설비의 지식 관리를 위한 SBERT 기반 고장 조치 중심 요약 및 키워드 추출"
 },
 {
 	"year": "2023.02",
