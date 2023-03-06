@@ -10,16 +10,6 @@
     "highschool": "New Hampton School, 2004"
     },
     {
-    "image": "sj.kang",
-    "name": "강 성 진(Sungjin Kang)",
-    "exp.gra.": "2022. 8",
-    "email": "sungjin.kang at bdai.snu.ac.kr",
-    "experience": "Samsung Electronics, 2013-2019",
-    "M.S.":  "Industrial Engineering, Seoul Nat'l Univ., 2013",
-    "B.S.":  "Industrial & Systems Engineering, KAIST, 2011",
-    "highschool": "Gwangju Science Academy, 2006"
-    },
-    {
     "image": "jw.choi",
     "name": "최 진 우(Jinwoo Choi)",
     "exp.gra.": "2022. 8",
@@ -181,16 +171,6 @@
     "areas of interest":"FashionAI, Recommendation System, Data Analytics",
     "B.S.":  "Computer Science, University of Minnesota, 2020",
     "highschool": "Great Plains Lutheran High, 2014"
-    },
-    {
-    "image": "joowon.kim",
-    "name": "김 주 원 (Joowon Kim)",
-    "exp.gra.": "2023. 2",
-    "email": "joowon.kim at bdai.snu.ac.kr",
-    "experience": "QRAFT(Fin-tech startup) 2017-2020; COXWAVE 2021-",
-    "areas of interest":"MLOps, Neural Architecture Search",
-    "B.S.":  "Computer Engineering, UNIST, 2020",
-    "highschool": "Goyang foreign language, 2013"
     },
     {
     "image": "keonwookim",
@@ -368,11 +348,31 @@
     {
     "image": "jssim",
     "name": "심 재 승 (Jaeseung Sim)",
-    "exp.gra.": "2024. 2",
+    "exp.gra.": "On leave",
     "email": "jssim at dm.snu.ac.kr",
     "areas of interest": "Natural Language Processing, Graph Analysis, Knowledge Graph",
     "B.S.": "Industrial Engineering, Yonsei Univ., 2022",
     "highschool": "Shinsung High School, 2016"
+    },
+    {
+    "image": "sj.kang",
+    "name": "강 성 진(Sungjin Kang)",
+    "exp.gra.": "On leave",
+    "email": "sungjin.kang at bdai.snu.ac.kr",
+    "experience": "Samsung Electronics, 2013-2019",
+    "M.S.":  "Industrial Engineering, Seoul Nat'l Univ., 2013",
+    "B.S.":  "Industrial & Systems Engineering, KAIST, 2011",
+    "highschool": "Gwangju Science Academy, 2006"
+    },
+    {
+    "image": "joowon.kim",
+    "name": "김 주 원 (Joowon Kim)",
+    "exp.gra.": "On leave",
+    "email": "joowon.kim at bdai.snu.ac.kr",
+    "experience": "QRAFT(Fin-tech startup) 2017-2020; COXWAVE 2021-",
+    "areas of interest":"MLOps, Neural Architecture Search",
+    "B.S.":  "Computer Engineering, UNIST, 2020",
+    "highschool": "Goyang foreign language, 2013"
     }
 ]
 }
