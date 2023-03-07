@@ -2,7 +2,7 @@
     {
     "image": "hyejin2",
     "name": "이 혜 진 (Hyejin Lee)",
-    "exp.gra.": "2022. 8",
+    "exp.gra.": "2023. 8",
     "email": "hyejinlee at bdai.snu.ac.kr",
     "experience": "Wharton School, U Penn, 2008-2011, 2013-2014; International Food Policy Research Institute, 2012; Federal Reserve Bank of Chicago, 2007",
     "M.S.": "Economics, Cornell Univ., 2013",
@@ -10,26 +10,15 @@
     "highschool": "New Hampton School, 2004"
     },
     {
-    "image": "jw.choi",
-    "name": "최 진 우(Jinwoo Choi)",
-    "exp.gra.": "2022. 8",
-    "email": "jwchoi at bdai.snu.ac.kr",
-    "experience": "SNUH Biomedical Research Institute, 2018",
-    "areas of interest":"Machine Learning",
-    "M.S.":  "Industrial & Management Engineering, Korea Univ., 2018",
-    "B.S.":  "Industrial & Management Engineering, Korea Univ., 2016",
-    "highschool": "Gyeongnam Science, 2012"
-    },
-    {
-    "image": "yongheekim",
-    "name": "김 용 희 (Yong Hee Kim)",
-    "exp.gra.": "2023. 2",
-    "email": "yhk at bdai.snu.ac.kr",
-    "experience": "S&P Global, 2016-2021",
-    "areas of interest": "Deep Learning, Natural Language Processing",
-    "M.S.":  "Financial Engineering, UCLA, 2015",
-    "B.S.":  "Chemical Engineering, University of Texas at Austin, 2013",
-    "highschool": "Creekview, 2009"
+    "image": "m.choi",
+    "name": "최 민 (Min Choi)",
+    "exp.gra.": "2023. 8",
+    "email": "minchoi at bdai.snu.ac.kr",
+    "experience": "Shinhan Investment Corp, 2013-2018",
+    "areas of interest":"Machine Learning, Text Mining",
+    "M.S.":  "Industrial Engineering, Seoul Nat'l Univ., 2020",
+    "B.S.":  "Mathematical Science, KAIST, 2014",
+    "highschool": "Sangsan, 2009"
     },
     {
     "image": "jh_park",
@@ -42,15 +31,15 @@
     "highschool": "Yeonmu, 2012"
     },
     {
-    "image": "m.choi",
-    "name": "최 민 (Min Choi)",
-    "exp.gra.": "2024. 2",
-    "email": "minchoi at bdai.snu.ac.kr",
-    "experience": "Shinhan Investment Corp, 2013-2018",
-    "areas of interest":"Machine Learning, Text Mining",
-    "M.S.":  "Industrial Engineering, Seoul Nat'l Univ., 2020",
-    "B.S.":  "Mathematical Science, KAIST, 2014",
-    "highschool": "Sangsan, 2009"
+    "image": "jw.choi",
+    "name": "최 진 우(Jinwoo Choi)",
+    "exp.gra.": "2024. 8",
+    "email": "jwchoi at bdai.snu.ac.kr",
+    "experience": "SNUH Biomedical Research Institute, 2018",
+    "areas of interest":"Machine Learning",
+    "M.S.":  "Industrial & Management Engineering, Korea Univ., 2018",
+    "B.S.":  "Industrial & Management Engineering, Korea Univ., 2016",
+    "highschool": "Gyeongnam Science, 2012"
     },
 	{
     "image": "ykkang2",
@@ -65,12 +54,33 @@
     {
     "image": "sangyeopkim",
     "name": "김 상 엽 (Sangyeop Kim)",
-    "exp.gra.": "2025. 2",
+    "exp.gra.": "2024. 8",
     "email": "pdg01117 at bdai.snu.ac.kr",
     "areas of interest":"Manufacturing System, Time Series Analysis",
     "M.S.": "Industrial Engineering, Seoul Nat'l Univ., 2021",
     "B.S.":  "Industrial Engineering, Seoul Nat'l Univ., 2019",
     "highschool": "Donga, 2013"
+    },
+    {
+    "image": "leegusong",
+    "name": "송 이 구 (Leegu Song)",
+    "exp.gra.": "2024. 8",
+    "email": "song.leegu at bdai.snu.ac.kr",
+	"experience": "Quant Lab, 2016-2018",
+    "areas of interest":"Text Mining, Machine learning, Bioinformatics",
+    "M.S.": "Cognitive Science, Seoul Nat'l Univ., 2018",
+    "B.S.":  "Psychology, University of Illinois, 2012"
+    },
+    {
+    "image": "yongheekim",
+    "name": "김 용 희 (Yong Hee Kim)",
+    "exp.gra.": "2025. 2",
+    "email": "yhk at bdai.snu.ac.kr",
+    "experience": "S&P Global, 2016-2021",
+    "areas of interest": "Deep Learning, Natural Language Processing",
+    "M.S.":  "Financial Engineering, UCLA, 2015",
+    "B.S.":  "Chemical Engineering, University of Texas at Austin, 2013",
+    "highschool": "Creekview, 2009"
     },
     {
     "image": "yj_yoo",
@@ -81,16 +91,6 @@
     "areas of interest": "Deep Learning, Natural Language Processing, Finance",
     "B.S.":  "Mathematics, Electrical and Computer Engineering, Seoul Nat'l Univ., 2020",
     "highschool": "Hana Academy Seoul, 2014"
-    },
-    {
-    "image": "leegusong",
-    "name": "송 이 구 (Leegu Song)",
-    "exp.gra.": "2025. 2",
-    "email": "song.leegu at bdai.snu.ac.kr",
-	"experience": "Quant Lab, 2016-2018",
-    "areas of interest":"Text Mining, Machine learning, Bioinformatics",
-    "M.S.": "Cognitive Science, Seoul Nat'l Univ., 2018",
-    "B.S.":  "Psychology, University of Illinois, 2012"
     }
 ],
 "phd_students" : [    
@@ -157,7 +157,7 @@
     {
     "image": "jihyun.bae",
     "name": "배 지 현 (Jihyun Bae)",
-    "exp.gra.": "2022. 8",
+    "exp.gra.": "2023. 8",
     "email": "jihyun.bae at bdai.snu.ac.kr",
     "areas of interest":"Deep Learning",
     "B.S.":  "Business, System Management Engineering, Sungkyunkwan Univ., 2020",
@@ -166,7 +166,7 @@
     {
     "image": "ywchoi",
     "name": "최 용 우 (Yongwoo Choi)",
-    "exp.gra.": "2022. 8",
+    "exp.gra.": "2023. 8",
     "email": "ywchoi at bdai.snu.ac.kr",
     "areas of interest":"FashionAI, Recommendation System, Data Analytics",
     "B.S.":  "Computer Science, University of Minnesota, 2020",
