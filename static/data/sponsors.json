@@ -3,7 +3,36 @@
     "title_ko": "스마트 제조",
     "title_en": "Smart Manufacturing",
     "projects": [
-
+    {
+        "id": "lgelectronics",
+        "description_ko": "자율주행차 사용자 서비스 개발",
+        "description_en": "Development of Self-driving Vehicle User Service" 
+    },
+    {
+        "id": "skhynix",
+        "description_ko": "HRD 텍스트 분석을 통한 고성과자 예비리더 예측",
+        "description_en": "Prediction of High-Quality Snack Preliminary Leader through HRD Text Analysis" 
+    },
+    {
+        "id": "samsungelec",
+        "description_ko": "반도체 Knowledge Graph 개발",
+        "description_en": "Development of Semiconductor Knowledge Graph" 
+    },
+    {
+        "id": "samsungelec",
+        "description_ko": "학습 기반 수율 예측",
+        "description_en": "Learning-based yield prediction" 
+    },
+    {
+        "id": "mobis",
+        "description_ko": "C-MDPS 작동소음 특징 주파수 추출",
+        "description_en": "C-MDPS operating noise feature frequency extraction" 
+    },
+    {
+        "id": "hyundaiwia",
+        "description_ko": "차량 계측 데이터 자동화",
+        "description_en": "Automation vehicle measurement data" 
+    },
     {
         "id": "hyundai",
         "description_ko": "전력변환 제어를 위한 데이터 분석",
@@ -159,6 +188,11 @@
     "title_en": "Finance",
     "projects": [
     {
+        "id": "nhinvestment",
+        "description_ko": "소셜미디어 투자 핫토픽 탐지",
+        "description_en": "Social media investment hot topic detection"
+    },
+    {
         "id": "nationalresearchfoundationofkorea",
         "description_ko": "기업 공지, 뉴스 비정형 데이터 기반 기업의 네트워크 구축 및 분류",
         "description_en": "Construction and Classification of Corporate Network Based on Unstructured Data: Corporate Disclosures and News Articles"
@@ -234,6 +268,21 @@
     "title_ko": "서비스",
     "title_en": "Service",
     "projects": [
+    {
+        "id": "koreanfilmcouncil",
+        "description_ko": "공공기관의  영화  데이터  연계  및  통합  DB 구축 연구",
+        "description_en": "Linkage and Integration of Film Data in Public Institutions" 
+    },
+    {
+        "id": "edubase",
+        "description_ko": "인공지능 기반 수학 문제 인식",
+        "description_en": "Recognition of AI-based math problems" 
+    },
+    {
+        "id": "zipfund",
+        "description_ko": "데이터 기반 아파트 전세가격 추정",
+        "description_en": "Data-Based Apartment Lease Price Estimation" 
+    },
     {
         "id": "edubase",
         "description_ko": "수학 문제 자동 인식 및 토픽 지식네트워크 구축",
