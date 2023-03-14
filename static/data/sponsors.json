@@ -4,16 +4,6 @@
     "title_en": "Smart Manufacturing",
     "projects": [
     {
-        "id": "lgelectronics",
-        "description_ko": "자율주행차 사용자 서비스 개발",
-        "description_en": "Development of Self-driving Vehicle User Service" 
-    },
-    {
-        "id": "skhynix",
-        "description_ko": "HRD 텍스트 분석을 통한 고성과자 예비리더 예측",
-        "description_en": "Prediction of High-Quality Snack Preliminary Leader through HRD Text Analysis" 
-    },
-    {
         "id": "samsungelec",
         "description_ko": "반도체 Knowledge Graph 개발",
         "description_en": "Development of Semiconductor Knowledge Graph" 
@@ -42,11 +32,6 @@
         "id": "samsungelec",
         "description_ko": "설비 이상 탐지를 위한 강건한 딥러닝 모델 개발",
         "description_en": "Development of robust deep learning models for facility anomaly detection" 
-    },
-    {
-        "id": "hyundaiwia",
-        "description_ko": "차량 계측 데이터의 자동화 분석 TOOL 개발",
-        "description_en": "Development of Automatic Analysis Tool for Automobile CAN Data " 
     },
     {
         "id": "samsungelec",
@@ -188,6 +173,11 @@
     "title_en": "Finance",
     "projects": [
     {
+        "id": "quantit",
+        "description_ko": "소셜 인디케이터 기반 주가 변곡점 예측",
+        "description_en": "Social indicator-based stock price inflection point prediction"
+    },
+    {
         "id": "nhinvestment",
         "description_ko": "소셜미디어 투자 핫토픽 탐지",
         "description_en": "Social media investment hot topic detection"
@@ -269,14 +259,14 @@
     "title_en": "Service",
     "projects": [
     {
+        "id": "lgelectronics",
+        "description_ko": "자율주행차 사용자 서비스 개발",
+        "description_en": "Development of Self-driving Vehicle User Service" 
+    },
+    {
         "id": "koreanfilmcouncil",
         "description_ko": "공공기관의  영화  데이터  연계  및  통합  DB 구축 연구",
         "description_en": "Linkage and Integration of Film Data in Public Institutions" 
-    },
-    {
-        "id": "edubase",
-        "description_ko": "인공지능 기반 수학 문제 인식",
-        "description_en": "Recognition of AI-based math problems" 
     },
     {
         "id": "zipfund",
@@ -359,6 +349,11 @@
     "title_ko": "마케팅, 영업, HR",
     "title_en": "Marketing, Sales, HR",
     "projects": [
+    {
+        "id": "skhynix",
+        "description_ko": "HRD 텍스트 분석을 통한 고성과자 예비리더 예측",
+        "description_en": "Prediction of High-Quality Snack Preliminary Leader through HRD Text Analysis" 
+    },
     {
         "id": "hyundai",
         "description_ko": "데이터 기반 인재 선발 모델링 및 조기 퇴사 예측",
