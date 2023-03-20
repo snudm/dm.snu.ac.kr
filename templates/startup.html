@@ -1,0 +1,22 @@
+{% extends "layout.html" %}
+
+{% block contents %}
+<h2>Project Topics</h2>
+	<ul>
+	
+	</ul>
+<!-- <h2>Project Topics</h2> 교수님이 지우라고 하심. -->
+{% for topic in topics %}
+<div>
+    <h3>{{ topic['title_%s' % locale] }}</h3>
+    <ul>
+    {% for project in topic['projects'] %}
+        <li class="project border">
+            <img margin:0 auto; src="{{ url_for('static', filename='images/projects/%s.png' % project['id']) }}">
+            <p>{{ project['description_%s' % locale] }}</p>
+        </li>
+    {% endfor %}
+    </ul>
+</div>
+{% endfor %}
+{% endblock %}
