@@ -125,6 +125,12 @@ def sponsors():
                            topics=read_json_data('sponsors.json'))
 
 
+@app.route('/<lang_code>/development/startup')
+def sponsors():
+    return render_template('sponsors.html',
+                           topics=read_json_data('startup.json'))
+
+
 @app.route('/<lang_code>/education')
 def education():
     return render_template('education.html',
