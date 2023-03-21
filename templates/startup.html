@@ -14,6 +14,9 @@
         <li class="project border">
             <img margin:0 auto; src="{{ url_for('static', filename='images/startuplogo/%s.png' % company['id']) }}">
             <p>{{ company['description_%s' % locale] }}</p>
+            <p>{{ company['ceo'] }}</p>
+            <p>{{ company['membber'] }}</p>
+            <p>{{ company['URL'] }}</p>
         </li>
     {% endfor %}
     </ul>

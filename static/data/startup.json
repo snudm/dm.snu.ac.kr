@@ -4,19 +4,46 @@
     "title_en": "Smart Manufacturing",
     "companys": [
     {
-        "id": "samsungelec",
-        "description_ko": "반도체 Knowledge Graph 개발",
-        "description_en": "Development of Semiconductor Knowledge Graph" 
+        "id": "coxwave",
+        "description_ko": "AI-native 제품을 위한 제품 분석 툴",
+        "ceo": "CEO: 김기정",
+        "member":"CPO: 김주원, 엔지니어: 안영훈",
+        "URL": "https://coxwave.com/"
     },
     {
-        "id": "samsungelec",
-        "description_ko": "학습 기반 수율 예측",
-        "description_en": "Learning-based yield prediction" 
+        "id": "rtm",
+        "description_ko": "AI기반 제조공정 진단 솔루션",
+        "ceo": "CEO: 성기석",
+        "member":"Vice President: 박진우, 엔지니어: 강성진, 김상엽",
+        "URL": "https://rtm.ai/"
     },
     {
-        "id": "mobis",
-        "description_ko": "C-MDPS 작동소음 특징 주파수 추출",
-        "description_en": "C-MDPS operating noise feature frequency extraction" 
+        "id": "sweetndata",
+        "description_ko": "생성AI 기반 엔터테이너 디지털 포트폴리오 관리 및 프로필 사진 제작 서비스",
+        "ceo": "CEO: 안재관",
+        "member":" ",
+        "URL": "https://www.sweetndata.com"
+    },
+    {
+        "id": "databank",
+        "description_ko": "토플 / 아이엘츠 학습 플랫폼",
+        "ceo": "CEO: 송다훈",
+        "member":"CTO: 조현상",
+        "URL": "https://www.testglider.com/en"
+    },
+    {
+        "id": "prism39",
+        "description_ko": "Financial Data Enablement SaaS",
+        "ceo": "CEO: 김현용",
+        "member":"Chef Quant: 김용희, 엔지니어: 임성연, 함영석",
+        "URL": "https://www.prism39.com/"
+    },
+    {
+        "id": "neuralworks",
+        "description_ko": "No-code AI SaaS with AI-ops platform",
+        "ceo": "CEO: 장민",
+        "member":"CTO: 한대희",
+        "URL": "https://neuralworks.io/"
     }
     ]
 }
