@@ -11,7 +11,7 @@
     <h3>{{ topic['title_%s' % locale] }}</h3>
     <ul>
     {% for company in topic['companys'] %}
-        <li class="project border">
+        <li class="project_fixed border">
             <img margin:0 auto; src="{{ url_for('static', filename='images/startuplogo/%s.png' % company['id']) }}">
             <p>{{ company['description_%s' % locale] }}</p>
             <p>{{ company['ceo'] }}</p>

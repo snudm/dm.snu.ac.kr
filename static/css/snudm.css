@@ -220,7 +220,17 @@ table.alumni td:nth-child(2) {
     vertical-align: middle;
     width: 23%;
 }
-
+.project_fixed {
+    color: #777;
+    display: inline-block;
+    margin: 3px 1px;
+    height: 280px;
+    width: 220px;
+    padding: 5px 10px;
+    text-align: center;
+    vertical-align: middle;
+    
+}
 
 .project_semi {
     color: #777;
