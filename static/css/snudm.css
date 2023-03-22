@@ -224,6 +224,8 @@ table.alumni td:nth-child(2) {
     color: #777;
     display: inline-block;
     margin: 3px 1px;
+    min-height: 155px;
+    min-width: 210px;
     height: 260px;
     padding: 5px 10px;
     text-align: center;
