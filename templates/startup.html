@@ -16,7 +16,7 @@
             <p>{{ company['description_%s' % locale] }}</p>
             <p>{{ company['ceo'] }}</p>
             <p>{{ company['member'] }}</p>
-            <p>{{ company['URL'] }}</p>
+            <a href="{{ company['URL'] }}">{{ company['URL'] }}</a>
         </li>
     {% endfor %}
     </ul>
