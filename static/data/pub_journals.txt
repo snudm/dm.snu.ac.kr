@@ -1,3 +1,4 @@
+"Domain-slot Relationship Modeling using a Pre-trained Language Encoder for Multi-Domain Dialogue State Tracking", Jinwon An, Sungzoon Cho, Junseong Bang, Misuk Kim, IEEE Transactions on Audio, Speech and Language Processing, Vol. 30, 2091-2102, 10 June 2022
 "Abuse detection in healthcare insurance with disease-treatment network embedding", Jehyuk Lee and Sungzoon Cho, journal of biomedical informatics, Volume 123, 103936, November 2021
 "Active cluster annotation for wafer map pattern classification in semiconductor manufacturing", Jaewoong Shim, Seokho Kang, Sungzoon Cho, Expert Systems with Applications, Volume 183, 115429, 30 November 2021
 "Adaptive fault detection framework for recipe transition in semiconductor manufacturing", Jaewoong Shim, Sungzoon Cho, Euiseok Kum, Suho Jeong, Computers & Industrial Engineering, Volume 161, 107632, November 2021
