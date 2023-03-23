@@ -2,4 +2,4 @@ Flask==1.0
 Flask-Babel==0.8
 markdown==2.5.2
 Flask-Uploads==0.2.0
-werkzeug==0.15.3
+werkzeug==2.2.3
