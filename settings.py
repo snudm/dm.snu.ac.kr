@@ -18,11 +18,11 @@ MENUS = [
     'home',
     ('people', ['professor', 'students', 'alumni']),
     ('degrees',['PhD','Masters','admission']),
-    'startup',
     'courses',
     ('research', ['journal','conference', 'insight']),
     ('projects', ['sponsors', 'FAQ']),
     'education',
+    'startup',
     'opendata',
     'contact'
 ]
