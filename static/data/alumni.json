@@ -4,7 +4,7 @@
 	"name": "전성환",
     "degree": "박사",
 	"image": "sungwhan",
-	"job": "삼성전자 종합기술원",
+	"job": "Samsung Advanced Institute of Technology 삼성종합기술원",
 	"job_address": "https://www.samsung-dsrecruit.com/division_intro/generalTechnique/index.php",
 	"dissertation": "Building Named Entity Knowledge Graph Using Named Entity Normalization"
 },
@@ -76,7 +76,7 @@
 	"name": "신훈식",
 	"degree": "박사",
 	"image": "hsshin",
-	"job": "삼성전자 종합기술원",
+	"job": "Samsung Advanced Institute of Technology 삼성종합기술원",
 	"job_address": "https://www.samsung-dsrecruit.com/division_intro/generalTechnique/index.php",
 	"dissertation": "Automatic summarization via classification-based entity-representative feature learning and its applications"
 },	
@@ -102,7 +102,7 @@
     "name": "안진원",
 	"degree": "박사",
 	"image": "jwahn",
-	"job": "삼성전자 종합기술원",
+	"job": "Samsung Advanced Institute of Technology 삼성종합기술원",
 	"job_address": "https://www.samsung-dsrecruit.com/division_intro/generalTechnique/index.php",
 	"dissertation": "Towards mastering complex reasoning with Transformers: applications in visual, conversational and mathematical reasoning"
 }
@@ -160,7 +160,7 @@
 	"name": "이제혁",
 	"degree": "박사",
 	"image": "jhlee",
-	"job": "삼성전자",
+	"job": "국민대학교 경영대학 AI빅데이터융합경영학과 교수",
 	"dissertation": "Deep Learning-based Abuse Detection in Healthcare Insurance with Medical Treatment Data"
  },{
 	"year": "2020.02",
@@ -582,7 +582,7 @@
 	"year": "2013. 2",
 	"name": "김동일",
 	"degree": "박사",
-	"job": "충남대학교 컴퓨터공학과 교수",
+	"job": "이화여자대학교 인공지능대학 데이터사이언스학과 교수",
 	"dissertation": "Intelligent data selection and semi-supervised learning for support vector regression",
 	"diss_address": "http://snu-primo.hosted.exlibrisgroup.com/82SNU:ALL:82SNU_INST21463531750002591"
 },
