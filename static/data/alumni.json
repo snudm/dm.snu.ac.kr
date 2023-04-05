@@ -232,8 +232,8 @@
 	"name": "이형욱",
 	"degree": "석사",
 	"image": "hu.lee",
-	"job": "티맥스",
-	"job_address": "http://www.tmaxsoft.com",
+	"job": "비바리퍼블리카(토스)",
+	"job_address": "https://toss.im/career",
 	"dissertation": "듀얼 어텐션 메커니즘 기반 Bidirectional Encoder-Decoder Recurrent Neural Network를 활용한 다변량 시계열 예측",
 	"diss_address": "https://snu-primo.hosted.exlibrisgroup.com/permalink/f/1l6eo7m/82SNU_INST21684276660002591"
  },
@@ -296,8 +296,8 @@
 	"name": "양효창",
 	"image": "hc2",
 	"degree": "석사",
-	"job": "티맥스",
-	"job_address": "http://www.tmaxsoft.com",
+	"job": "NC soft",
+	"job_address": "https://kr.ncsoft.com/kr/index.do",
 	"dissertation": "그래프 합성곱 신경망을 이용한 3차원 고해상도 메쉬 객체 재생성",
 	"diss_address": "http://snu-primo.hosted.exlibrisgroup.com/82SNU:ALL:82SNU_INST21628439070002591"
  },
