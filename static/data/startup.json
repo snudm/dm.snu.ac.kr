@@ -8,49 +8,56 @@
         "description_ko": "No-code AI SaaS with AI-ops platform",
         "ceo": "장민(CEO)",
         "member":"한대희(CTO)",
-        "URL": "https://neuralworks.io/"
+        "URL": "https://neuralworks.io/",
+        "f_date": "설립일: 2017.03"
     },
     {
         "id": "rtm_logo",
         "description_ko": "AI기반 제조공정 진단 솔루션            ",
         "ceo": "성기석(CEO)",
         "member":"박진우(VP), 강성진(Engineer), 김상엽(Engineer)",
-        "URL": "https://rtm.ai/"
+        "URL": "https://rtm.ai/",
+        "f_date": "설립일: 2018.05"
     },
     {
         "id": "databank_logo",
         "description_ko": "토플 / 아이엘츠 학습 플랫폼            ",
         "ceo": "송다훈(CEO)",
         "member":"조현상(CTO)",
-        "URL": "https://www.testglider.com/en"
+        "URL": "https://www.testglider.com/en",
+        "f_date": "설립일: 2019.07"
     },
     {
         "id": "prism39_logo",
         "description_ko": "Financial Data Enablement SaaS"       ,
         "ceo": "김현용(CEO)",
         "member":"김용희(CQ), 임성연(Engineer), 함영석(Engineer)",
-        "URL": "https://www.prism39.com/"
+        "URL": "https://www.prism39.com/",
+        "f_date": "설립일: 2020.01"
     },
     {
         "id": "coxwave_logo",
         "description_ko": "AI-native 제품을 위한 제품 분석 툴         ",
         "ceo": "김기정(CEO)",
         "member":"김주원(CPO), 안영훈(Engineer)",
-        "URL": "https://coxwave.com/"
+        "URL": "https://coxwave.com/",
+        "f_date": "설립일: 2021.05"
     },
     {
         "id": "onout_logo",
         "description_ko": "메이저 패션 브랜드를 위한 AI 기반 D2C 재고판매/고객관리 솔루션",
         "ceo": "최용우(CEO)",
         "member":"김어진(Engineer), 정철환(Engineer)",
-        "URL": "https://namu.wiki/w/온아웃"
+        "URL": "https://namu.wiki/w/온아웃",
+        "f_date": "설립일: 2022.05"
     },
     {
         "id": "sweetndata_logo",
         "description_ko": "생성AI 기반 엔터테이너 디지털 포트폴리오 관리 및 프로필 사진 제작 서비스",
         "ceo": "안재관(CEO)",
         "member":"             ",
-        "URL": "https://www.sweetndata.com"
+        "URL": "https://www.sweetndata.com",
+        "f_date": "설립일: 2022.04"
     }
     ]
 }
