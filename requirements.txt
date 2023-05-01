@@ -1,4 +1,4 @@
-Flask==1.0
+Flask==2.3.2
 Flask-Babel==0.8
 markdown==2.5.2
 Flask-Uploads==0.2.0
