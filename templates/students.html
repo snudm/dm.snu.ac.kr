@@ -172,13 +172,24 @@ $window.resize(function() {
 				</tr>
 				{% endif %}
 
-        		{% if 'publication' in student.keys() %}
+        		{% if 'first_publication' in student.keys() %}
 				<tr>
 					<td>Publications</td>
 					<td>
-						{{ student.get('publication') }}
+						{{ student.get('first_publication') }}
 					</td>
 				</tr>
+				{% endif %}
+
+				{% if 'other_publication' in student.keys() %}
+				{% for pub in student['other_publication'] %}
+					<tr>
+						<td> </td>
+						<td>
+							{{ pub }}
+						</td>
+					</tr>
+				{% endfor %}
 				{% endif %}
 
 				{% if 'online_activity' in student.keys() %}
