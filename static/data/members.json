@@ -18,7 +18,10 @@
     "areas of interest":"Machine Learning, Text Mining",
     "M.S.":  "Industrial Engineering, Seoul Nat'l Univ., 2020",
     "B.S.":  "Mathematical Science, KAIST, 2014",
-    "highschool": "Sangsan, 2009"
+    "highschool": "Sangsan, 2009",
+    "first_publication": "Clustering National Security Threats Using Two-Step Disentanglement Method On Stock Prices, KDMS 2018",
+    "other_publication": ["Classification of important sentence for patent technology trend analysis, KIIE Spring Conference 2021", "처음주식, 이콘 2020", "한 달 배워 평생 써먹는 진짜 돈 공부, 길벗 2021"],
+    "online_activity": "https://www.youtube.com/c/챔CHAM_money"
     },
     {
     "image": "jh_park",
@@ -28,7 +31,9 @@
     "experience": "Bankware Global, 2017-2018; Hankook Research, 2016; Internship at Linewalks, 2014",
     "areas of interest":"Text Mining, Natural Language Processing",
     "B.S.":  "Business, Korea Univ., 2016",
-    "highschool": "Yeonmu, 2012"
+    "highschool": "Yeonmu, 2012",
+    "first_publication": "Twitter Embedding for Covariance Matrix Estimation & Portfolio Optimization, KDMS 2022",
+    "other_publication": ["UMAP과 HDBSCAN 군집화 기반의 반도체 제조 공정 데이터 대상 레이블 전파 방법, KIIE 2022", "Automatic Keyword Extraction and NER-Normalization Based Knowledge Network Construction for Patent Summarization, KIIE 2021", "Music-Circles: Can Music Be Represented With Numbers?, arXiv preprint 2021", "A frequency- and ranking-based approach for new event detection using non-contiguous bigrams from text data of the central bankers’ speeches, KDMS 2019", "InfoAnoGAN: An Interpretable Anomaly Detection Method Using InfoGAN based on Unsupervised Learning, KDMS 2019"]
     },
     {
     "image": "jw.choi",
@@ -56,20 +61,26 @@
     "name": "김 상 엽 (Sangyeop Kim)",
     "exp.gra.": "2024. 8",
     "email": "pdg01117 at bdai.snu.ac.kr",
+    "working": "RTM",
     "areas of interest":"Manufacturing System, Time Series Analysis",
     "M.S.": "Industrial Engineering, Seoul Nat'l Univ., 2021",
     "B.S.":  "Industrial Engineering, Seoul Nat'l Univ., 2019",
-    "highschool": "Donga, 2013"
+    "highschool": "Donga, 2013",
+    "first_publication": "Alternate Multitask Learning Method for Fault Detection Model in Semiconductor Manufacturing, PHMAP 2021",
+    "other_publication": ["Semi Supervised Layer Anomaly Detection Model of Multivariate Time Series in Manufacturing, KCS 2023"]
     },
     {
     "image": "leegusong",
     "name": "송 이 구 (Leegu Song)",
     "exp.gra.": "2024. 8",
     "email": "song.leegu at bdai.snu.ac.kr",
+    "working": "에피바이오텍",
 	"experience": "Quant Lab, 2016-2018",
     "areas of interest":"Text Mining, Machine learning, Bioinformatics",
     "M.S.": "Cognitive Science, Seoul Nat'l Univ., 2018",
-    "B.S.":  "Psychology, University of Illinois, 2012"
+    "B.S.":  "Psychology, University of Illinois, 2012",
+    "first_publication": "A Comparison of Oversampling Methods on Imbalanced Topic Classification of Korean News Articles, JCS 2017",
+    "other_publication": ["Comparative Analysis on Encoding Methods for Convolutional Neural Network in Korean Text Classification, 2018"]
     },
     {
     "image": "yongheekim",
@@ -99,10 +110,14 @@
     "name": "안 재 관 (Jaekwan Ahn)",
     "exp.gra.": "2025. 8",
     "email": "jk.ahn7 at bdai.snu.ac.kr",
+    "working": "스위트앤데이터",
 	"areas of interest": "Deep Learning, Reinforcement Learning, Stochastic Process, Econometrics",
     "M.S.": "Economics, London school of Economics, 2014",
     "B.S.":  "Economics, Durham University, 2012",
-    "highschool": "Felsted School"
+    "highschool": "Felsted School",
+    "first_publication": "프롬프트 엔지니어, 알투스 2023",
+    "other_publication": ["Twitter Embedding for Covariance Matrix Estimation & Portfolio Optimzation, KDMS 2022"],
+    "online_activity": "https://www.linkedin.com/in/jaekwan-ahn-6409ba80/"
     },
     {
     "image": "kimjungbin",
@@ -122,7 +137,9 @@
     "email": "hjkim at bdai.snu.ac.kr",
     "areas of interest":"Deep Learning, Meta-Learning, Natural Language Processing",
     "B.S.":  "Industrial and Management Engineering, POSTECH, 2021",
-    "highschool": "Paichai High School, 2017"
+    "highschool": "Paichai High School, 2017",
+    "first_publication": "A Comprehensive Image-based Virtual Try-on Network: Bringing Real-World Images into Use, CKAIA 2022",
+    "online_activity": "https://github.com/hjkim811"
     },
     {
     "image": "sohyungPark",
@@ -138,9 +155,12 @@
     "name": "김 어 진 (Eojin Kim)",
     "exp.gra.": "2027. 2",
     "email": "kimuj7017 at bdai.snu.ac.kr",
+    "working": "ONOUT",
     "areas of interest":"Machine Learning, Deep Learning, Data Analytics",
     "B.S.":  "Computer Science and Engineering, POSTECH, 2021",
-    "highschool": "Chungju High School, 2017"
+    "highschool": "Chungju High School, 2017",
+    "first_publication": "Optical Korean Character Recognition using CRNN with BiLSTM for video analysis, KIIE 2022",
+    "other_publication": ["A Comprehensive Image-based Virtual Try-on Network: Brining Real-World Images into Use, Korean Artificial Intelligence Association 2022"]
     },
     {
     "image": "suyeonLee",
@@ -168,9 +188,11 @@
     "name": "최 용 우 (Yongwoo Choi)",
     "exp.gra.": "2023. 8",
     "email": "ywchoi at bdai.snu.ac.kr",
+    "working": "ONOUT",
     "areas of interest":"FashionAI, Recommendation System, Data Analytics",
     "B.S.":  "Computer Science, University of Minnesota, 2020",
-    "highschool": "Great Plains Lutheran High, 2014"
+    "highschool": "Great Plains Lutheran High, 2014",
+    "first_publication": "트렌딩 패션 브랜드 의류 이미지 분석 기반 색상 팔레트 생성: 딥 러닝 접근 방식, KIIE 2022"
     },
     {
     "image": "keonwookim",
@@ -239,7 +261,8 @@
     "email": "jamesoh0813 at bdai.snu.ac.kr",
     "areas of interest": "Anomaly Detection, Time Series Analysis, Graph Neural Network",
     "B.S.": "Computer Science and Engineering, Sogang Univ., 2023",
-    "highschool": "Dankook University High School, 2018"
+    "highschool": "Dankook University High School, 2018",
+    "online_activity": "https://github.com/dhwjdfuf"
     },
     {
     "image": "jwjung",
@@ -356,7 +379,8 @@
     "email": "jssim at dm.snu.ac.kr",
     "areas of interest": "Natural Language Processing, Graph Analysis, Knowledge Graph",
     "B.S.": "Industrial Engineering, Yonsei Univ., 2022",
-    "highschool": "Shinsung High School, 2016"
+    "highschool": "Shinsung High School, 2016",
+    "online_activity": "https://github.com/sjskoko"
     },
     {
     "image": "sj.kang",
@@ -376,7 +400,8 @@
     "experience": "QRAFT(Fin-tech startup) 2017-2020; COXWAVE 2021-",
     "areas of interest":"MLOps, Neural Architecture Search",
     "B.S.":  "Computer Engineering, UNIST, 2020",
-    "highschool": "Goyang foreign language, 2013"
+    "highschool": "Goyang foreign language, 2013",
+    "first_publication": "실무에서 활용하는 프롬프트 엔지니어링, 위키북스 2023"
     }
 ]
 }
