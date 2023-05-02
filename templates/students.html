@@ -109,20 +109,29 @@ $window.resize(function() {
 				</tr>
 				{% endif %}
 
-				{% if 'homepage' in student.keys() %}
+				<!-- {% if 'homepage' in student.keys() %}
 				<tr>
 					<td>Homepage</td>
 					<td>
 						<a href="{{ student.get('homepage') }}">{{ student.get('homepage') }}</a>
 					</td>
 				</tr>
-				{% endif %}
+				{% endif %} -->
 
 				{% if 'areas of interest' in student.keys() %}
 				<tr>
 					<td>Areas of Interest</td>
 					<td>
 						{{ student.get('areas of interest') }}
+					</td>
+				</tr>
+				{% endif %}
+
+				{% if 'working' in student.keys() %}
+				<tr>
+					<td>Working</td>
+					<td>
+						{{ student.get('working') }}
 					</td>
 				</tr>
 				{% endif %}
@@ -163,11 +172,20 @@ $window.resize(function() {
 				</tr>
 				{% endif %}
 
-        {% if 'publication' in student.keys() %}
+        		{% if 'publication' in student.keys() %}
 				<tr>
 					<td>Publications</td>
 					<td>
 						{{ student.get('publication') }}
+					</td>
+				</tr>
+				{% endif %}
+
+				{% if 'online_activity' in student.keys() %}
+				<tr>
+					<td>Online Activity</td>
+					<td>
+						<a href="{{ student.get('online_activity') }}">{{ student.get('online_activity') }}</a>
 					</td>
 				</tr>
 				{% endif %}
