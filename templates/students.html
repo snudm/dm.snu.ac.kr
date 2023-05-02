@@ -162,6 +162,15 @@ $window.resize(function() {
 					</td>
 				</tr>
 				{% endif %}
+
+        {% if 'publication' in student.keys() %}
+				<tr>
+					<td>Publications</td>
+					<td>
+						{{ student.get('publication') }}
+					</td>
+				</tr>
+				{% endif %}
 			</table>
 		</div>
 	</div>
