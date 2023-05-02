@@ -200,6 +200,17 @@ $window.resize(function() {
 					</td>
 				</tr>
 				{% endif %}
+
+				{% if 'online_others' in student.keys() %}
+				{% for onlines in student['online_others'] %}
+					<tr>
+						<td> </td>
+						<td>
+							<a href="{{ onlines }}">{{ onlines }}</a>
+						</td>
+					</tr>
+				{% endfor %}
+				{% endif %}
 			</table>
 		</div>
 	</div>

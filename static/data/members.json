@@ -30,10 +30,12 @@
     "email": "jihyeparkk at bdai.snu.ac.kr",
     "experience": "Bankware Global, 2017-2018; Hankook Research, 2016; Internship at Linewalks, 2014",
     "areas of interest":"Text Mining, Natural Language Processing",
-    "B.S.":  "Business, Korea Univ., 2016",
+    "B.S.":  "Business Administration, Korea Univ., 2016",
     "highschool": "Yeonmu, 2012",
     "first_publication": "Twitter Embedding for Covariance Matrix Estimation & Portfolio Optimization, KDMS 2022",
-    "other_publication": ["UMAP과 HDBSCAN 군집화 기반의 반도체 제조 공정 데이터 대상 레이블 전파 방법, KIIE 2022", "Automatic Keyword Extraction and NER-Normalization Based Knowledge Network Construction for Patent Summarization, KIIE 2021", "Music-Circles: Can Music Be Represented With Numbers?, arXiv preprint 2021", "A frequency- and ranking-based approach for new event detection using non-contiguous bigrams from text data of the central bankers’ speeches, KDMS 2019", "InfoAnoGAN: An Interpretable Anomaly Detection Method Using InfoGAN based on Unsupervised Learning, KDMS 2019"]
+    "other_publication": ["UMAP과 HDBSCAN 군집화 기반의 반도체 제조 공정 데이터 대상 레이블 전파 방법, KIIE 2022", "Automatic Keyword Extraction and NER-Normalization Based Knowledge Network Construction for Patent Summarization, KIIE 2021", "Music-Circles: Can Music Be Represented With Numbers?, arXiv preprint 2021", "A frequency- and ranking-based approach for new event detection using non-contiguous bigrams from text data of the central bankers’ speeches, KDMS 2019", "InfoAnoGAN: An Interpretable Anomaly Detection Method Using InfoGAN based on Unsupervised Learning, KDMS 2019"],
+    "online_activity": "https://sophia-jihye.github.io/",
+    "online_others": ["https://github.com/sophia-jihye"]
     },
     {
     "image": "jw.choi",
@@ -67,7 +69,9 @@
     "B.S.":  "Industrial Engineering, Seoul Nat'l Univ., 2019",
     "highschool": "Donga, 2013",
     "first_publication": "Alternate Multitask Learning Method for Fault Detection Model in Semiconductor Manufacturing, PHMAP 2021",
-    "other_publication": ["Semi Supervised Layer Anomaly Detection Model of Multivariate Time Series in Manufacturing, KCS 2023"]
+    "other_publication": ["Semi Supervised Layer Anomaly Detection Model of Multivariate Time Series in Manufacturing, KCS 2023"],
+    "online_activity": "https://github.com/sangyeop-kim",
+    "online_others": ["https://sangyeop-kim.github.io/"]
     },
     {
     "image": "leegusong",
@@ -98,7 +102,7 @@
     "name": "유 용 재 (Yongjae Yoo)",
     "exp.gra.": "2025. 2",
     "email": "yooy at bdai.snu.ac.kr",
-    "online_activity" : "http://yooy.mystrikingly.com/",
+    "online_activity": "http://yooy.mystrikingly.com/",
     "areas of interest": "Deep Learning, Natural Language Processing, Finance",
     "B.S.":  "Mathematics, Electrical and Computer Engineering, Seoul Nat'l Univ., 2020",
     "highschool": "Hana Academy Seoul, 2014"
@@ -401,7 +405,9 @@
     "areas of interest":"MLOps, Neural Architecture Search",
     "B.S.":  "Computer Engineering, UNIST, 2020",
     "highschool": "Goyang foreign language, 2013",
-    "first_publication": "실무에서 활용하는 프롬프트 엔지니어링, 위키북스 2023"
+    "first_publication": "실무에서 활용하는 프롬프트 엔지니어링, 위키북스 2023",
+    "online_activity": "https://github.com/joowon-dm-snu",
+    "online_others": ["https://www.linkedin.com/in/joowon-kim-a9147415b/", "https://medium.com/@joowon.kim"]
     }
 ]
 }
