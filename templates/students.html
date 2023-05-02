@@ -175,9 +175,11 @@ $window.resize(function() {
         		{% if 'publication' in student.keys() %}
 				<tr>
 					<td>Publications</td>
-					<td>
-						{{ student.get('publication') }}
-					</td>
+					{% for pub in student['publication'] %}
+						<td>
+							{{ pub }}
+						</td>
+					{% endfor %}
 				</tr>
 				{% endif %}
 
