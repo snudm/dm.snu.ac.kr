@@ -131,6 +131,7 @@
     "name": "김 정 빈 (Jeongbin Kim)",
     "exp.gra.": "2025. 8",
     "email": "kjb93814 at bdai.snu.ac.kr",
+    "working": "QMIT",
     "areas of interest":"Sports Analytics, Deep Learning, Latent Feature Extraction",
     "experience": "TmaxData, 2018-2021",
     "M.S.": "Industrial and Management Engineering, POSTECH, 2018",
@@ -374,11 +375,13 @@
     {
     "image": "jhkim",
     "name": "김 재 현 (Jaehyun Kim)",
-    "exp.gra.": "On leave",
+    "exp.gra.": "On leave @ 네이버 파이낸셜",
     "email": "jhkim at dm.snu.ac.kr",
+    "experience": "네이버 파이낸셜, 2022-",
     "areas of interest": "Finance, Algorithm, Stochastic Process",
     "B.S.": "Mathematics, Electronic and Electrical Engineering, POSTECH, 2022",
-    "highschool": "Daejeon Dongsin Science, 2016"
+    "highschool": "Daejeon Dongsin Science, 2016",
+    "online_activity": "https://www.linkedin.com/in/kim-jaehyun-511177132/"
     },
     {
     "image": "jssim",
