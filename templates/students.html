@@ -89,7 +89,7 @@ $window.resize(function() {
 {% for header, member_key in member_header_key_pairs %}
 <h2> {{ header }} </h2>
 	{% for student in students[member_key] %}
-	<div id="{{ student['image'] }}" class="member hover row" style="position: relative; left: 200px; top: 450px;">
+	<div id="{{ student['image'] }}" style="position: relative; left: 200px; top: 450px;">
 		<div class="col-md-2">
 			<img class="width-100 thumbnail" src="{{ url_for('static', filename='images/members/%s.jpg' % student['image']) }}">
 		</div>
