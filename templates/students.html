@@ -174,7 +174,7 @@ $window.resize(function() {
 
         		{% if 'first_publication' in student.keys() %}
 				<tr>
-					<td>Publications</td>
+					<td>Publication</td>
 					<td>
 						{{ student.get('first_publication') }}
 					</td>
@@ -192,6 +192,26 @@ $window.resize(function() {
 				{% endfor %}
 				{% endif %}
 
+				{% if 'first_project' in student.keys() %}
+				<tr>
+					<td>Research Project</td>
+					<td>
+						{{ student.get('first_project') }}
+					</td>
+				</tr>
+				{% endif %}
+
+				{% if 'other_project' in student.keys() %}
+				{% for proj in student['other_project'] %}
+					<tr>
+						<td> </td>
+						<td>
+							{{ proj }}
+						</td>
+					</tr>
+				{% endfor %}
+				{% endif %}
+				
 				{% if 'online_activity' in student.keys() %}
 				<tr>
 					<td>Online Activity</td>

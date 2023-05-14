@@ -24,6 +24,8 @@
     "highschool": "Sangsan, 2009",
     "first_publication": "Clustering National Security Threats Using Two-Step Disentanglement Method On Stock Prices, KDMS 2018",
     "other_publication": ["Classification of important sentence for patent technology trend analysis, KIIE Spring Conference 2021", "처음주식, 이콘 2020", "한 달 배워 평생 써먹는 진짜 돈 공부, 길벗 2021"],
+    "first_project":"소셜 인디케이터 기반 변곡점 예측 모델 개발, Quantit, 2022",
+    "other_project":["종목 토론방 데이터 분석 기반 투자 portfolio 연구, Quantit, 2021-2022", "텍스트마이닝을 활용한 전고체전지/음극재 특허 분석 및 MAP 구축, LG화학, 2020-2021"],
     "online_activity": "https://www.youtube.com/c/챔CHAM_money"
     },
     {
@@ -73,6 +75,8 @@
     "highschool": "Donga, 2013",
     "first_publication": "Alternate Multitask Learning Method for Fault Detection Model in Semiconductor Manufacturing, PHMAP 2021",
     "other_publication": ["Semi Supervised Layer Anomaly Detection Model of Multivariate Time Series in Manufacturing, KCS 2023"],
+    "first_project":"기계학습을 활용한 데이터 기반 진단, 고장예지 및 내구성평가 기술 연구, 삼성전자 DS부문, 2019-2020",
+    "other_project":["딥러닝을 활용한 강건한 설비 이상 탐지 기법 연구, 삼성전자 설비기술연구소, 2020-2021", "예방품질능력 강화 위한 컨버터 지능형 진단 기술 개발, 현대NGV, 2019-2020", "공정 관리를 위한 health index 스코어링 platform 구축, PSK, 2020-", "실시간 공정 제어가 가능한 원자층 식각장비 개발, 산업통상자원부, 2020-", "공공기관의 영화 데이터 연계 및 통합 DB 구축 방안 연구 수행계획서, 영화진흥위원회, 2021", "플라즈마 밀도 추정 모델 개발, 쎄미시스코, 2020", "제어 이력 (coater) 과 계측 데이터 (WG, vision)를 학습하여 코팅 품질 최적화를 위한 AI 제어 모델 개발, LG화학, 2020-2021", "전동화 배터리 공정 용접 불량 원인 분류 알고리즘 개발, 현대모비스, 2021", "인공지능 기반 선제적 불량 관리 솔루션 개발, LOT Vacuum, 2021"],
     "online_activity": "https://github.com/sangyeop-kim",
     "online_others": ["https://sangyeop-kim.github.io/"]
     },
@@ -124,6 +128,8 @@
     "highschool": "Felsted School",
     "first_publication": "프롬프트 엔지니어, 알투스 2023",
     "other_publication": ["Twitter Embedding for Covariance Matrix Estimation & Portfolio Optimzation, KDMS 2022"],
+    "first_project": "빅데이터 분석 모델 구축을 위한 정보 추출, 데이터 레이블링, 데이터셋 변화 적응 알고리즘 연구, 한국연구재단, 2022",
+    "other_project": ["소셜미디어 텍스트 분석을 통한 투자 관련 핫토픽 탐지, NH투자증권, 2022"],
     "online_activity": "https://www.linkedin.com/in/jaekwan-ahn-6409ba80/"
     },
     {
