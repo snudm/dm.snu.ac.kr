@@ -62,10 +62,13 @@
     "name": "강 연 국 (Younkook Kang)",
     "exp.gra.": "2024. 8",
     "email": "ykkang at bdai.snu.ac.kr",
+    "working": "삼성전자",
     "experience": "Samsung Electronics, 2009-",
     "areas of interest":"Autonomous Control, Reinforcement Learning, Transport System",
     "M.S.":  "Industrial Engineering, Seoul Nat'l Univ., 2019",
-    "B.S.":  "Industrial Engineering, Korea Univ., 2008"
+    "B.S.":  "Industrial Engineering, Korea Univ., 2008",
+    "first_publication": "Traffic Flow Speed Prediction in Overhead Transport Systems for Semiconductor Fabrication Using Dense-UNet, 2022",
+    "other_publication": ["Clustered multi-task sequence-to-sequence learning for autonomous vehicle repositioning. IEEE 2021", "Dynamic vehicle traffic control using deep reinforcement learning in automated material handling system, AAAI 2019", "강화학습을 이용한 제조 물류자동화 시스템 경로 제어 파라미터 최적화, Master's thesis 2019", "딥러닝을 이용한 제조 물류시스템 Vehicle 구간 정체 예측, KIIE 2018"]
     },
     {
     "image": "sangyeopkim",
@@ -170,6 +173,7 @@
     "areas of interest":"Machine Learning, Deep Learning, Natural Language Processing",
     "B.S.":  "Industrial Engineering, Information Science and Culture, Seoul Nat'l Univ., 2021",
     "highschool": "Dongguk Girls' Highschool, 2015",
+    "first_publication": "이모지 임베딩을 활용한 한글 소셜 미디어 텍스트 임베딩 방법론 연구, KIIE 2022",
     "first_project": "빅데이터 분석 모델 구축을 위한 정보 추출, 데이터 레이블링, 데이터셋 변화 적응 알고리즘 연구, 한국연구재단, 2021-",
     "other_project": ["영화 관련 기관들의 영화 및 영화인 데이터 통합 방안 연구, 영화진흥위원회, 2021", "종목 토론방 데이터 분석 기반 투자 Portfolio 연구, Quantit, 2021-2022", "소셜 인디케이터 기반 변곡점 예측 모델 개발, Quantit, 2022", "데이터 기반 차세대 자동차 사용자 경험 연구 및 모델링, LG전자, 2023-", "반도체 분야 지식 그래프 구축 연구, 삼성전자 SAIT, 2023-"]
     },
@@ -194,6 +198,8 @@
     "areas of interest":"Machine Learning, Text Mining, Deep Learning",
     "B.S.":  "Business Administration, Seoul Nat'l Univ., 2017",
     "highschool": "Dongsan High School, 2012",
+    "first_publication": "Transformer 기반의 한국어 언어 모델의 사회적 편향 분석. 한국경영과학회 2022",
+    "other_publication": ["약지도 방식을 활용한 한국어 텍스트 분류, Master's thesis 2023"],
     "first_project": "빅데이터 분석 모델 구축을 위한 정보 추출, 데이터 레이블링, 데이터셋 변화 적응 알고리즘 연구, 한국연구재단, 2022-",
     "other_project": ["데이터 기반 차세대 자동차 사용자 경험 연구 및 모델링, LG 전자, 2023-"]
     }
@@ -207,6 +213,7 @@
     "areas of interest":"Deep Learning",
     "B.S.":  "Business, System Management Engineering, Sungkyunkwan Univ., 2020",
     "highschool": "Gwacheon foreign language, 2016",
+    "first_publication": "한국어 제품 리뷰 데이터 대상 감성 지식 강화형 감성 분석 모델, KIIE 2022",
     "first_project": "영화 관련 기관들의 영화 및 영화인 데이터 통합 방안 연구, 영화진흥위원회, 2021",
     "other_project": ["데이터 기반 차세대 자동차 사용자 경험 연구 및 모델링, LG전자, 2023-", "빅데이터 분석 모델 구축을 위한 정보 추출, 데이터 레이블링, 데이터셋 변화 적응 알고리즘 연구, 한국연구재단, 2022-", "공공기관의 영화인DB 연계 방안 및 영화인경력인증시스템 도입을 위한 기초 연구, 영화진흥위원회, 2020-2021"]
     },
@@ -424,6 +431,7 @@
     "M.S.":  "Industrial Engineering, Seoul Nat'l Univ., 2013",
     "B.S.":  "Industrial & Systems Engineering, KAIST, 2011",
     "highschool": "Gwangju Science Academy, 2006",
+    "first_publication": "군집화 기법과 문서 순위를 이용한 한국어 티윗 상의 토픽 추출, Master's thesis 2013",
     "first_project": "딥러닝을 활용한 강건한 설비 이상 탐지 기법 연구, 삼성전자 설비기술연구소, 2020-2021",
     "other_project": ["현대카드 D-tag 성능 향상을 위한 고객 데이터 내 범주 불균형 문제 해결, 현대카드, 2020-2020", "영화진흥위원회 영화관 입장권 통합전산망 기반 빅데이터 활용 기초 연구, 영화진흥위원회, 2019"]
     },
