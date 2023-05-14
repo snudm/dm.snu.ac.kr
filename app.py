@@ -119,6 +119,12 @@ def development():
     return redirect(url_for('faq', lang_code=get_locale()))
 
 
+@app.route('/<lang_code>/development/ongoing_topics')
+def ongoing_topics():
+    return render_template('ongoing_topics.html',
+                           topics=read_json_data('ongoing_topics.json'))
+
+
 @app.route('/<lang_code>/development/sponsors')
 def sponsors():
     return render_template('sponsors.html',
