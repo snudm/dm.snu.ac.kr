@@ -125,8 +125,8 @@ def ongoing_topics():
                            topics=read_json_data('ongoing_topics.json'))
 
 
-@app.route('/<lang_code>/development/sponsors')
-def sponsors():
+@app.route('/<lang_code>/development/past_topics')
+def past_topics():
     return render_template('sponsors.html',
                            topics=read_json_data('sponsors.json'))
 
