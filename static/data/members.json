@@ -55,7 +55,11 @@
     "areas of interest":"Machine Learning",
     "M.S.":  "Industrial & Management Engineering, Korea Univ., 2018",
     "B.S.":  "Industrial & Management Engineering, Korea Univ., 2016",
-    "highschool": "Gyeongnam Science, 2012"
+    "highschool": "Gyeongnam Science, 2012",
+    "first_publication": "A Comparison of the Penalized Regression with Approaches in Bioinformatics for Network Inference, Master's thesis 2018",
+    "other_publication": ["공공데이터를 활용한 머신러닝 기반 상업용 건물 가격 추정: l. 공공데이터, 소스데이터 확보 및 전처리, KIIE 2019", "공공데이터를 활용한 머신러닝 기반 상업용 건물 가격 추정: Ⅱ. 건물 매매가 추정 모델 구축, KIIE 2019", "Combined the SMAC mimetic and BCL2 inhibitor sensitizes neoadjuvant chemotherapy by targeting necrosome complexes in tyrosine aminoacyl-tRNA synthase-positive breast cancer. Breast Cancer Research, 2020", "머신 러닝 기법을 활용한 축구 경기 결과 예측 및 베팅 전략 수립-유럽 7 대 리그를 대상으로, 한국경영과학회 2021", "UMAP 과 HDBSCAN 군집화 기반의 반도체 제조 공정 데이터 대상 레이블 전파 방법, 한국경영과학회 2022"],
+    "first_project": "신경병리 PET 뇌영상기반 알츠하이머성 치매 조기진단 및 예측 기술 개발, 한국연구재단, 2017-2018",
+    "other_project": ["HDA (FCA) 사용자 설정 패턴 빅테이터 분석 알고리즘 개발, 현대엔지비(주), 2018-2019", "데이터 불균형 문제 해결을 위한 연구, 현대카드, 2020", "데이터 기반 아파트 전세가격 추정, 집펀드, 2020", "빅데이터-AI 비즈니스 밸류 기획, LG유플러스, 2021", "빅데이터-AI 비즈니스 밸류 기획, 선진, 2021", "차량 계측 데이터의 자동화 분석 TOOL 개발, 현대엔지비, 2021-2022", "빅데이터 분석 모델 구축을 위한 정보 추출, 데이터 레이블링, 데이터셋 변화 적응 알고리즘 연구, 한국연구재단, 2021-", "딥러닝을 이용한 강건한 설비 이상 탐지 기법 연구, 삼성전자, 2021-", "머신러닝/딥 러닝 모델 기반 수율 예측 모델 개발, 삼성전자, 2023-"]
     },
 	{
     "image": "ykkang2",
@@ -162,7 +166,7 @@
     "highschool": "Paichai High School, 2017",
     "first_publication": "A Comprehensive Image-based Virtual Try-on Network: Bringing Real-World Images into Use, CKAIA 2022",
     "first_project": "반도체 분야 지식 그래프 구축 연구, 삼성전자, 2023- , 반도체 제조 도메인 특화 엔티티 추출",
-    "other_project": ["차량 계측 데이터의 자동화 분석 TOOL 개발, 현대위아, 2021-2022, 차량 계측 데이터 분석 과정 자동화 소프트웨어 및 UI 구축", "차량 계측 데이터의 자동화 분석 TOOL 개발, 현대위아, 2021-2022, 차량 계측 데이터 분석 과정 자동화 소프트웨어 및 UI 구축", "빅데이터 분석 모델 구축을 위한 정보 추출, 데이터 레이블링, 데이터셋 변화 적응 알고리즘 연구, 한국연구재단, 2021- , 기업 공시 데이터 수집 및 객체 추출 알고리즘 개발"],
+    "other_project": ["차량 계측 데이터의 자동화 분석 TOOL 개발, 현대위아, 2021-2022, 차량 계측 데이터 분석 과정 자동화 소프트웨어 및 UI 구축", "빅데이터 분석 모델 구축을 위한 정보 추출, 데이터 레이블링, 데이터셋 변화 적응 알고리즘 연구, 한국연구재단, 2021- , 기업 공시 데이터 수집 및 객체 추출 알고리즘 개발"],
     "online_activity": "https://github.com/hjkim811"
     },
     {
