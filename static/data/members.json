@@ -366,7 +366,7 @@
     "B.S.":  "Psychology, Seoul Nat'l Univ., 2013"
     },
 	{
-	"image": "jwyang",
+	"image": "jw_yang",
 	"name": "양 지 원 (Jiwon Yang)",
 	"exp.gra.": "On leave",
 	"email": "yang at dm.snu.ac.kr",
@@ -451,15 +451,6 @@
     "first_publication": "실무에서 활용하는 프롬프트 엔지니어링, 위키북스 2023",
     "online_activity": "https://github.com/joowon-dm-snu",
     "online_others": ["https://www.linkedin.com/in/joowon-kim-a9147415b/", "https://medium.com/@joowon.kim"]
-    },
-    {
-	"image": "jwyang",
-	"name": "양 지 원 (Jiwon Yang)",
-	"exp.gra.": "On leave",
-	"email": "yang at dm.snu.ac.kr",
-	"areas of interest": "Learning Algorithms, Mining for Manufacturing Systems",
-	"B.S.": "Industrial Engineering, and Computer Science and Engineering, Seoul Nat'l Univ., 2010",
-	"highschool": "Sangdong, 2005"
     }
 ]
 }
