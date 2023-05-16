@@ -20,7 +20,7 @@ MENUS = [
     ('degrees',['PhD','Masters','admission']),
     'courses',
     ('research', ['journal','conference', 'insight']),
-    ('projects', ['ongoings', 'past', 'FAQ']),
+    ('projects', ['ongoing', 'past', 'FAQ']),
     'education',
     'startup',
     'opendata',
