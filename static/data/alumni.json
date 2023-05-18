@@ -212,8 +212,8 @@
 	"name": "박봉준",
 	"degree": "석사",
 	"image": "bj.park",
-	"job": "삼성 디스플레이",
-	"job_address": "http://www.samsungdisplay.com",
+	"job": "GS 에너지 DX Lab",
+	"job_address": "http://www.gsenergy.co.kr/Default.aspx",
 	"dissertation": "다변량 시계열 데이터의 시각화를 위한 변수 인덱싱",
 	"diss_address": "https://snu-primo.hosted.exlibrisgroup.com/permalink/f/1l6eo7m/82SNU_INST21684279490002591"
  },
@@ -475,7 +475,7 @@
 	"degree": "석사",
 	"dissertation": "소수 범주 데이터 영역의 확장",
 	"diss_address": "http://snu-primo.hosted.exlibrisgroup.com/82SNU:ALL:82SNU_INST21544691700002591",
-	"job": "RTM",
+	"job": "서울과학기술대학교 교수",
 	"job_address": "http://www.rtmindustrial.com/web/inc/main.asp"
 },
 {
@@ -548,7 +548,7 @@
 	"year": "2014. 2",
 	"name": "이승경",
 	"degree": "박사",
-	"job": "LG CNS",
+	"job": "신한카드",
 	"dissertation": "Probabilistic Local Reconstruction for k-Nearest Neighbor Learning",
 	"diss_address": "http://snu-primo.hosted.exlibrisgroup.com/82SNU:ALL:82SNU_INST21433165660002591"
 },
@@ -648,7 +648,7 @@
 	"year": "2011. 2",
 	"name": "박주성",
 	"degree": "석사",
-	"job": "딜로이트 컨설팅",
+	"job": "네이버",
 	"dissertation": "임의 장문의 키보드 키스트로크 다이나믹스 기반 사용자 인증을 위한 왼손, 오른손, 스페이스 바 간 입력시간의 다중 Kolmogorov-Smirnov 검정",
 	"diss_address": "http://snu-primo.hosted.exlibrisgroup.com/82SNU:ALL:82SNU_INST21453353260002591"
 },
