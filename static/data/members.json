@@ -237,11 +237,13 @@
     "name": "김 건 우 (Keonwoo Kim)",
     "exp.gra.": "2024. 2",
     "email": "keonwookim at bdai.snu.ac.kr",
+    "experience": "Neosapience, 2022",
     "areas of interest": "Deep Learning, Natural Language Processing",
     "B.S.": "Industrial Engineering, UNIST, 2022",
     "highschool": "Gimpo foreign language, 2016",
     "first_publication": "KeLong: Korean extra Long text summarization, KDMS 2022",
     "other_publication": ["User-defined Content Detection Framework, Interactive Learning for Natural Language Processing Workshop at NeurIPS 2022"],
+    "first_project": "종목 토론방 advertisement spam detection 연구, Quantit, 2022",
     "online_activity": "https://www.linkedin.com/in/keonwookim97/"
     },
     {
