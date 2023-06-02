@@ -147,6 +147,41 @@ $window.resize(function() {
 
 				{% if 'M.S.' in student.keys() %}
 				<tr>
+					<td>Education</td>
+					<td>
+						{{ student.get('M.S.') }}
+					</td>
+				</tr>
+				<tr>
+					<td> </td>
+					<td>
+						{{ student.get('B.S.') }}
+					</td>
+				</tr>
+				<tr>
+					<td> </td>
+					<td>
+						{{ student.get('highschool') }}
+					</td>
+				</tr>
+				{% else %}
+				<tr>
+					<td>Education</td>
+					<td>
+						{{ student.get('B.S.') }}
+					</td>
+				</tr>
+				<tr>
+					<td> </td>
+					<td>
+						{{ student.get('highschool') }}
+					</td>
+				</tr>
+				{% endif %}
+
+
+				{% if 'M.S.' in student.keys() %}
+				<tr>
 					<td>M.S.</td>
 					<td>
 						{{ student.get('M.S.') }}
