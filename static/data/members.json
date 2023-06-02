@@ -39,8 +39,8 @@
     "areas of interest":"Text Mining, Natural Language Processing",
     "B.S.":  "Business Administration, Korea Univ., 2016",
     "highschool": "Yeonmu, 2012",
-    "first_publication": "Building knowledge graphs from technical documents using named entity recognition and normalization models, Intelligent Data Analysis 2023",
-    "other_publication": ["Twitter Embedding for Covariance Matrix Estimation & Portfolio Optimization, KDMS 2022", "UMAP과 HDBSCAN 군집화 기반의 반도체 제조 공정 데이터 대상 레이블 전파 방법, KIIE 2022", "Automatic Keyword Extraction and NER-Normalization Based Knowledge Network Construction for Patent Summarization, KIIE 2021", "Music-Circles: Can Music Be Represented With Numbers?, arXiv preprint 2021", "A frequency- and ranking-based approach for new event detection using non-contiguous bigrams from text data of the central bankers’ speeches, KDMS 2019", "InfoAnoGAN: An Interpretable Anomaly Detection Method Using InfoGAN based on Unsupervised Learning, KDMS 2019"],
+    "first_publication": "Hot Topic Detection in Central Bankers' Speeches, Expert Systems with Applications 2023",
+    "other_publication": ["Building knowledge graphs from technical documents using named entity recognition and normalization models, Intelligent Data Analysis 2023", "Twitter Embedding for Covariance Matrix Estimation & Portfolio Optimization, KDMS 2022", "UMAP과 HDBSCAN 군집화 기반의 반도체 제조 공정 데이터 대상 레이블 전파 방법, KIIE 2022", "Automatic Keyword Extraction and NER-Normalization Based Knowledge Network Construction for Patent Summarization, KIIE 2021", "Music-Circles: Can Music Be Represented With Numbers?, arXiv preprint 2021", "A frequency- and ranking-based approach for new event detection using non-contiguous bigrams from text data of the central bankers’ speeches, KDMS 2019", "InfoAnoGAN: An Interpretable Anomaly Detection Method Using InfoGAN based on Unsupervised Learning, KDMS 2019"],
     "first_project": "반도체 분야 지식 그래프 구축 연구, 삼성전자, 2023-, 반도체 제조 도메인 특화 엔티티 추출",
     "other_project": ["빅데이터 분석 모델 구축을 위한 정보 추출, 데이터 레이블링, 데이터셋 변화 적응 알고리즘 연구, 한국연구재단, 2021-, FOMC 및 한국은행에서 발행되는 텍스트 데이터 수집 및 분석", "딥러닝을 활용한 강건한 설비 이상 탐지 기법 연구, 삼성전자, 2020-, 반도체 제조 공정 센서 데이터 대상 레이블 전파 방법을 제안", "소셜미디어 텍스트 분석을 통한 투자 관련 핫토픽 탐지, NH투자증권, 2022, 주식 관련 트윗을 사용하여 언어 모델(Word2Vec, FastText, BERT)을 구축하는 프레임워크를 제안", "인공지능 기술을 통한 문서 분류 자동화 시스템 구축, 삼성전자, 2019-2021, SciBERT를 이용한 문서 분류"],
     "online_activity": "https://sophia-jihye.github.io/",
@@ -120,10 +120,13 @@
     "name": "유 용 재 (Yongjae Yoo)",
     "exp.gra.": "2025. 2",
     "email": "yooy at bdai.snu.ac.kr",
+    "experience": "Honorary Mayor of Seoul, 2022-",
     "online_activity": "http://yooy.mystrikingly.com/",
     "areas of interest": "Deep Learning, Natural Language Processing, Finance",
     "B.S.":  "Mathematics, Electrical and Computer Engineering, Seoul Nat'l Univ., 2020",
-    "highschool": "Hana Academy Seoul, 2014"
+    "highschool": "Hana Academy Seoul, 2014",
+    "first_project": "공간 지식추론 엔진 기술 개발 기획, 국토교통부, 2020-2021",
+    "other_project": ["머신러닝을 이용한 효과적인 사회성과 예측 모형 개발 및 적용, 사회적가치연구원, 2020", "딥러닝을 활용한 강건한 설비 이상 탐지 기법 연구, 삼성전자, 2021-", "NH농협 4차산업혁명 핵심인재양성과정, NH농협, 2021-", "빅데이터-AI 비즈니스 밸류 기획, LG전자, 2022", "소셜미디어 텍스트 분석을 통한 투자관련 핫토픽 탐지, NH투자증권, 2021", "공공기관의 영화 데이터 연계 및 통합 DB 구축 방안 연구, 영화진흥위원회, 2021", "빅데이터 분석 모델 구축을 위한 정보 추출, 데이터 레이블링, 데이터셋 변화 적응 알고리즘 연구, 한국연구재단, 2021-"]
     }
 ],
 "phd_students" : [    
@@ -191,7 +194,8 @@
     "B.S.":  "Computer Science and Engineering, POSTECH, 2021",
     "highschool": "Chungju High School, 2017",
     "first_publication": "Optical Korean Character Recognition using CRNN with BiLSTM for video analysis, KIIE 2022",
-    "other_publication": ["A Comprehensive Image-based Virtual Try-on Network: Brining Real-World Images into Use, Korean Artificial Intelligence Association 2022"]
+    "other_publication": ["A Comprehensive Image-based Virtual Try-on Network: Brining Real-World Images into Use, Korean Artificial Intelligence Association 2022"],
+    "first_project": "차량 계측 데이터의 자동화 분석 TOOL 개발, 현대엔지비, 2021-2022"
     },
     {
     "image": "suyeonLee",
