@@ -145,67 +145,42 @@ $window.resize(function() {
 				</tr>
 				{% endif %}
 
+
 				{% if 'M.S.' in student.keys() %}
 				<tr>
 					<td>Education</td>
 					<td>
-						{{ student.get('M.S.') }}
+						M.S. {{ student.get('M.S.') }}
 					</td>
 				</tr>
 				<tr>
 					<td> </td>
 					<td>
-						{{ student.get('B.S.') }}
+						B.S. {{ student.get('B.S.') }}
 					</td>
 				</tr>
 				<tr>
 					<td> </td>
 					<td>
-						{{ student.get('highschool') }}
+						Hihg School, {{ student.get('highschool') }}
 					</td>
 				</tr>
 				{% else %}
 				<tr>
 					<td>Education</td>
 					<td>
-						{{ student.get('B.S.') }}
+						B.S. {{ student.get('B.S.') }}
 					</td>
 				</tr>
 				<tr>
 					<td> </td>
 					<td>
-						{{ student.get('highschool') }}
+						High School, {{ student.get('highschool') }}
 					</td>
 				</tr>
 				{% endif %}
 
 
-				{% if 'M.S.' in student.keys() %}
-				<tr>
-					<td>M.S.</td>
-					<td>
-						{{ student.get('M.S.') }}
-					</td>
-				</tr>
-				{% endif %}
-
-				{% if 'B.S.' in student.keys() %}
-				<tr>
-					<td>B.S.</td>
-					<td>
-						{{ student.get('B.S.') }}
-					</td>
-				</tr>
-				{% endif %}
-
-				{% if 'highschool' in student.keys() %}
-				<tr>
-					<td>High school</td>
-					<td>
-						{{ student.get('highschool') }}
-					</td>
-				</tr>
-				{% endif %}
 
         		{% if 'first_publication' in student.keys() %}
 				<tr>
