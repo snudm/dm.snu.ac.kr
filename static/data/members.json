@@ -296,6 +296,7 @@
     "name": "송 선 화 (Seonhwa Song)",
     "exp.gra.": "2025. 2",
     "email": "shsong at bdai.snu.ac.kr",
+    "working": "Hyundai Mobis, 2015-",
     "areas of interest": "Machine Learning, Deep Learning, Time Series Analysis",
     "B.S.": "Industrial and Management Engineering, POSTECH, 2015",
     "highschool": "Gyeongnam Girls' High School, 2011"
@@ -337,7 +338,8 @@
     "areas of interest": "Deep Learning, Machine Learning, Natural Language Processing",
     "B.S.": "Naval Architecture and Ocean Engineering, Industrial Engineering, Seoul Nat'l Univ., 2023",
     "highschool": "Juyeop High School, 2017",
-    "first_project": "빅데이터 분석을 통한 HR 인사이트 도출 기획, SK하이닉스, 2023-"
+    "first_project": "빅데이터 분석을 통한 HR 인사이트 도출 기획, SK하이닉스, 2023-",
+    "other_project": ["종목 토론방 advertisement spam detection 연구, Quantit, 2022"]
     },
     {
     "image": "escho",
