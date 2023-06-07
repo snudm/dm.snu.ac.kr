@@ -26,7 +26,7 @@ var n = noty({
 var n = noty({
     layout: 'topRight',
     theme: 'relax',
-    text: '<strong>[2023 산업공학학회 발표 논문]</strong><br><br>- 박지혜, 김현종, 박소형, 반도체 제조 도메인 특화 지식 그래프 구축을 위한 엔티티 추출 방법 연구, KIIE 2023<br>- 최진우, 차량 평가 데이터 분석 과정 자동화 소프트웨어 및 UI 구축, KIIE 2023<br>- 박소형, User generated text의 키워드 정보를 활용한 혈당 예측 연구, KIIE 2023<br>- 김현종, 사업보고서 내 캡션 추출을 위한 규칙 기반 알고리즘 연구, KIIE 2023<br>       반도체 제조 도메인 특화 지식 그래프 구축을 위한 엔티티 추출 방법 연구, KIIE 2023<br>       차량 평가 계측 데이터 분석 과정 자동화 소프트웨어 및 UI 구축, KIIE 2023<br>- 배지현, 대조학습 방법을 통한 금융 텍스트 데이터 추상 요약 모델, KIIE 2023<br>- 채성원, An Optimized Algorithm of Pedestrian Classification for Linear Queue Detection, KIIE 2023<br><br><a onclick="close_popup()">[팝업 닫기]</a>',
+    text: '<strong>[2023 산업공학학회 발표 논문]</strong><br><br>- 박지혜, 김현종, 박소형, 반도체 제조 도메인 특화 지식 그래프 구축을 위한 엔티티 추출 방법 연구, KIIE 2023<br>- 최진우, 김현종, 김어진, 차량 평가 데이터 분석 과정 자동화 소프트웨어 및 UI 구축, KIIE 2023<br>- 박소형, User generated text의 키워드 정보를 활용한 혈당 예측 연구, KIIE 2023<br>- 김현종, 사업보고서 내 캡션 추출을 위한 규칙 기반 알고리즘 연구, KIIE 2023<br>- 배지현, 대조학습 방법을 통한 금융 텍스트 데이터 추상 요약 모델, KIIE 2023<br>- 채성원, An Optimized Algorithm of Pedestrian Classification for Linear Queue Detection, KIIE 2023<br><br><a onclick="close_popup()">[팝업 닫기]</a>',
     animation: {
         open: 'animated bounceInDown',
         close: {height: 'toggle'}, // jQuery animate function property object
