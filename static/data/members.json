@@ -258,6 +258,7 @@
     "areas of interest": "Deep Learning, Anomaly Detection, Time Series Analysis",
     "B.S.": "Naval Architecture and Ocean Engineering, Seoul Nat'l Univ., 2021",
     "highschool": "Bucheon High School, 2014",
+    "first_project": "C-MDPS 작동소음 특징 주파수 추출, 현대모비스, 2023-",
     "online_activity": "https://github.com/Song-Jun-Ho"
     },
     {
@@ -279,6 +280,7 @@
     "B.S.": "Energy Resources Engineering, Seoul Nat'l Univ., 2022",
     "highschool": "Gwangmyeong High School, 2016",
     "first_project":"빅데이터 분석 모델 구축을 위한 정보 추출, 데이터 레이블링, 데이터셋 변화 적응 알고리즘 연구, 한국연구재단, 2022-",
+    "other_project":["C-MDPS 작동소음 특징 주파수 추출, 현대모비스, 2023-"],
     "online_activity": "https://github.com/sjbinch"
     },
     {
@@ -309,6 +311,7 @@
     "areas of interest": "Anomaly Detection, Time Series Analysis, Graph Neural Network",
     "B.S.": "Computer Science and Engineering, Sogang Univ., 2023",
     "highschool": "Dankook University High School, 2018",
+    "first_project": "C-MDPS 작동소음 특징 주파수 추출, 현대모비스, 2023-",
     "online_activity": "https://github.com/dhwjdfuf"
     },
     {
@@ -328,7 +331,8 @@
     "email": "happybee2 at bdai.snu.ac.kr",
     "areas of interest": "Machine Learning, Recommendation System",
     "B.S.": "Industrial Engineering, Seoul Nat'l Univ., 2023",
-    "highschool": "Gyeonggi Science High School, 2017"
+    "highschool": "Gyeonggi Science High School, 2017",
+    "first_project": "C-MDPS 작동소음 특징 주파수 추출, 현대모비스, 2023-"
     },
     {
     "image": "yj_cho",
