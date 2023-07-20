@@ -9,6 +9,11 @@
         "description_en": "Development of Algorithms for Big Data Information Extraction, Data Labeling, and Dataset Shift Adaptation"
     },
     {
+        "id": "mobis",
+        "description_ko": "C-MDPS 작동소음 특징 주파수 추출",
+        "description_en": "C-MDPS operating noise feature frequency extraction" 
+    },
+    {
         "id": "samsungelec",
         "description_ko": "반도체 Knowledge Graph 개발",
         "description_en": "Development of Semiconductor Knowledge Graph" 
