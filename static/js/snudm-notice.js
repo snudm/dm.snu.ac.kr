@@ -11,7 +11,6 @@ var n = noty({
     }
 });
 */
-{/* <a href="https://event-us.kr/neuralworks/event/65309" class="pull-right">[바로가기]</a> */}
 var n = noty({
     layout: 'topRight',
     theme: 'relax',
