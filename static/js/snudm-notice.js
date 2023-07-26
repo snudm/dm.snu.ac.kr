@@ -15,7 +15,7 @@
 var n = noty({
     layout: 'topRight',
     theme: 'relax',
-    text: '<strong>[제1회 서울대학교 AI빅데이터 캠프]</strong><br><br>1) 일 시 : 2023년 8월 30일 (수) 9:30~18:30<br>2) 장 소 : 서울대학교 38동 520호, 글로벌공학교육센터 대강당<br>3) 대 상 : 고등학교 1~3학년<br>4) 등 록 : https://event-us.kr/neuralworks/event/65309<br>5) 마 감 : 2023년 8월 15일 (화) 23시 59분<br>6) 참 가 비 : 22만원<br>7) 준 비 물 : 노트북 컴퓨터<br>8) 제 공 : 점심, 다과, 수료증, 추천 도서, 기념품, 우수 팀에 상장과 상품권<br>9) 주 최 : 서울대 빅데이터AI센터, 산업시스템혁신연구소, 뉴럴웍스랩<br>10) 문 의: camp@bdai.snu.ac.kr (캠프), camp@neuralworks.io (결제)<br><br><a onclick="close_popup()">[팝업 닫기]</a>',
+    text: '<strong>[제1회 서울대학교 AI빅데이터 캠프]</strong><br><br>1) 일 시 : 2023년 8월 30일 (수) 9:30~18:30<br>2) 장 소 : 서울대학교 38동 520호, 글로벌공학교육센터 대강당<br>3) 대 상 : 고등학교 1~3학년<br>4) 등 록 : https://event-us.kr/neuralworks/event/65309<br>5) 마 감 : 2023년 8월 15일 (화) 23시 59분<br>6) 참 가 비 : 22만원<br>7) 준 비 물 : 노트북 컴퓨터<br>8) 제 공 : 점심, 다과, 수료증, 추천 도서, 기념품, 우수 팀에 상장과 상품권<br>9) 주 최 : 서울대 빅데이터AI센터, 산업시스템혁신연구소, 뉴럴웍스랩<br>10) 문 의: camp@bdai.snu.ac.kr (캠프), camp@neuralworks.io (결제)<br><br><a href="https://event-us.kr/neuralworks/event/65309" class="pull-right">[바로가기]</a>',
     animation: {
         open: 'animated bounceInDown',
         close: {height: 'toggle'}, // jQuery animate function property object
