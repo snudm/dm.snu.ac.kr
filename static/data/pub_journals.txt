@@ -1,3 +1,8 @@
+"Incorporation of Company-Related Factual Knowledge into Pre-trained Language Models for Stock-Related Spam Tweet Filtering", Jihye Park and Sungzoon Cho, Expert Systems With Applications, Volume 234, 30 December 2023, 121021
+"General-Use Unsupervised Keyword Extraction Model for Text Analysis", Hoonsik Shin, Hyejin Lee, Sungzoon Cho, Expert Systems with Applications, Volume 233, 15 December 2023, 120889
+"Hot Topic Detection in Central Bankers’ Speeches", Jihye Park, Hye Jin Lee, Sungzoon Cho, Expert Systems with Applications, Volume 230, 15 November 2023, 120563
+"A sensor data mining process for identifying root causes associated with low yield in semiconductor manufacturing", Kim, E., An, J., Cho, H.-C., Cho, S. and Lee, B. Data Technologies and Applications, Vol. 57 No. 3,  2023, pp. 397-417. https://doi.org/10.1108/DTA-08-2022-0341
+"Edge Weight Updating Neural Network for Named Entity Normalization." Jeon, S.H., Cho, S., Neural Process Lett, December 21, 2022. https://doi.org/10.1007/s11063-022-11102-2
 "Domain-slot Relationship Modeling using a Pre-trained Language Encoder for Multi-Domain Dialogue State Tracking", Jinwon An, Sungzoon Cho, Junseong Bang, Misuk Kim, IEEE Transactions on Audio, Speech and Language Processing, Vol. 30, 2091-2102, 10 June 2022
 "Abuse detection in healthcare insurance with disease-treatment network embedding", Jehyuk Lee and Sungzoon Cho, journal of biomedical informatics, Volume 123, 103936, November 2021
 "Active cluster annotation for wafer map pattern classification in semiconductor manufacturing", Jaewoong Shim, Seokho Kang, Sungzoon Cho, Expert Systems with Applications, Volume 183, 115429, 30 November 2021
