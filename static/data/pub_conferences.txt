@@ -1,3 +1,15 @@
+"Enhancing Sentiment Knowledge via Self-Supervised Meta-Learning", 김현종, 조성준, RepL4NLP 2023
+"Post-training Approach Using Form 10-K Filings to Inject Financial Domain-specific Factual Knowledge into Pretrained Language Models for Data-driven Financial Spam Filtering", 박지혜, 조성준, 한국데이터마이닝학회 2023 춘계학술대회
+"Prompt-based abstractive text summarization", 배지현, 조성준, 한국데이터마이닝학회 2023 춘계학술대회
+"A Study on Reinforcement Learning based Artificial Neural Network for Scheduling Painting Processes in Shipbuilding", 송준호, 조성준, 한국데이터마이닝학회 2023 춘계학술대회
+"Empirical Analysis of Deep Learning based Asset Allocation in the Global Market", 강지혜, 조성준, 한국데이터마이닝학회 2023 춘계학술대회
+"Land Cover Map Production with Semantic Segmentation of Satellite Image", 방승재, 조성준, 한국데이터마이닝학회 2023 춘계학술대회
+"An Optimized Algorithm of Pedestrian Classification for Linear Queue Detection", 채성원, 김주명, 이상민, 조성준, 대한산업공학회 2023 춘계공동학술대회
+"대조학습 방법을 통한 금융 텍스트 데이터 추상 요약 모델", 배지현, 조성준, 대한산업공학회 2023 춘계공동학술대회
+"사업보고서 내 캡션 추출을 위한 규칙 기반 알고리즘 연구", 김현종, 심재승, 안재관, 조성준, 대한산업공학회 2023 춘계공동학술대회
+"User generated text의 키워드 정보를 활용한 혈당 예측 연구", 박소형, 조성준, 대한산업공학회 2023 춘계공동학술대회
+"차량 평가 데이터 분석 과정 자동화 소프트웨어 및 UI 구축", 최진우, 김현종, 김어진, 조성준, 대한산업공학회 2023 춘계공동학술대회
+"반도체 제조 도메인 특화 지식 그래프 구축을 위한 엔티티 추출 방법 연구", 박지혜, 김현종, 박소형, 조성준, 대한산업공학회 2023 춘계공동학술대회
 "Graph Based Aspect Extraction and Rating Classification of Customer Review Data", Sung Whan Jeon, Hye Jin Lee, Hyeonguk Lee, Sungzoon Cho, International Conference on Database Systems for Advanced Applications, DASFAA 2019: Database Systems for Advanced Applications, Lecture Notes in Computer Science book series (LNCS, volume 11448), pp 186-199, Chiang Mai, Thailand, April 22~25, 2019
 "공공데이터를 활용한 머신러닝 기반 상업용 건물 가격 추정_1. 공공데이터,소스데이터 확보 및 전처리", 김상엽, 전성환, 최진우, 강인혜, 이중건, 조성준, 대한산업공학회 2019 춘계공동학술대회, 광주 김대중컨벤션센터, 2019년 4월.
 "공공데이터를 활용한 머신러닝 기반 상업용 건물 가격 추정_2. 건물 매매가 추정 모델 구축", 최진우, 전성환, 김상엽, 강인혜, 이중건, 조성준, 대한산업공학회 2019 춘계공동학술대회, 광주 김대중컨벤션센터, 2019년 4월.
