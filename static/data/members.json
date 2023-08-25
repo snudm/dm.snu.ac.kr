@@ -167,9 +167,10 @@
     "areas of interest":"Deep Learning, Meta-Learning, Natural Language Processing",
     "B.S.":  "Industrial and Management Engineering, POSTECH, 2021",
     "highschool": "Paichai High School, 2017",
-    "first_publication": "A Comprehensive Image-based Virtual Try-on Network: Bringing Real-World Images into Use, CKAIA 2022",
-    "first_project": "반도체 분야 지식 그래프 구축 연구, 삼성전자, 2023- , 반도체 제조 도메인 특화 엔티티 추출",
-    "other_project": ["차량 계측 데이터의 자동화 분석 TOOL 개발, 현대위아, 2021-2022, 차량 계측 데이터 분석 과정 자동화 소프트웨어 및 UI 구축", "빅데이터 분석 모델 구축을 위한 정보 추출, 데이터 레이블링, 데이터셋 변화 적응 알고리즘 연구, 한국연구재단, 2021- , 기업 공시 데이터 수집 및 객체 추출 알고리즘 개발"],
+    "first_publication": "Enhancing Sentiment Knowledge via Self-Supervised Meta-Learning, RepL4NLP 2023",
+    "other_publication": ["사업보고서 내 캡션 추출을 위한 규칙 기반 알고리즘 연구, KIIE 2023", "반도체 제조 도메인 특화 지식 그래프 구축을 위한 엔티티 추출 방법 연구, KIIE 2023", "차량 평가 계측 데이터 분석 과정 자동화 소프트웨어 및 UI 구축, KIIE 2023", "A Comprehensive Image-based Virtual Try-on Network: Bringing Real-World Images into Use, CKAIA 2022"],
+    "first_project": "반도체 분야 지식 그래프 구축 연구, 삼성전자, 2023-",
+    "other_project": ["차량 계측 데이터의 자동화 분석 TOOL 개발, 현대위아, 2021-2022", "빅데이터 분석 모델 구축을 위한 정보 추출, 데이터 레이블링, 데이터셋 변화 적응 알고리즘 연구, 한국연구재단, 2021-"],
     "online_activity": "https://github.com/hjkim811"
     },
     {
