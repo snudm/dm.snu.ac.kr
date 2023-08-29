@@ -212,8 +212,8 @@
 	"name": "박봉준",
 	"degree": "석사",
 	"image": "bj.park",
-	"job": "GS 에너지 DX Lab",
-	"job_address": "http://www.gsenergy.co.kr/Default.aspx",
+	"job": "현대 모비스",
+	"job_address": "https://www.mobis.co.kr/kr/index.do",
 	"dissertation": "다변량 시계열 데이터의 시각화를 위한 변수 인덱싱",
 	"diss_address": "https://snu-primo.hosted.exlibrisgroup.com/permalink/f/1l6eo7m/82SNU_INST21684279490002591"
  },
@@ -540,7 +540,7 @@
 	"year": "2014. 2",
 	"name": "민헌기",
 	"degree": "석사",
-	"job": "KPMG 컨설팅",
+	"job": "구글코리아, 클라우드 사업팀",
 	"dissertation": "트위터 사용자 분류를 위한 반교사 학습 접근 방안",
 	"diss_address": "http://snu-primo.hosted.exlibrisgroup.com/82SNU:ALL:82SNU_INST21431166310002591"
 },
@@ -770,7 +770,7 @@
 	"year": "2007",
 	"name": "이형주",
 	"degree": "박사",
-	"job": "라인플러스",
+	"job": "라인인베스트먼트테크",
 	"dissertation": "Novelty detection for class imbalance : LVQ-based algorithm and its applications to security and CRM",
 	"diss_address": "http://snu-primo.hosted.exlibrisgroup.com/82SNU:ALL:82SNU_INST21461066790002591"
 },
@@ -849,7 +849,7 @@
 	"year": "2003",
 	"name": "정세희",
 	"degree": "석사",
-	"job": "NC soft",
+	"job": "현대카드",
 	"dissertation": "인공 신경망을 이용한 옵션 가격 결정 모형",
 	"diss_address": "http://snu-primo.hosted.exlibrisgroup.com/82SNU:ALL:82SNU_INST21475783750002591"
 },
@@ -897,8 +897,8 @@
 	"name": "장민",
 	"image": "mjang",
 	"degree": "박사",
-	"job": "Chaintob 대표",
-	"job_address": "http://www.chaintob.com",
+	"job": "뉴럴웍스 대표",
+	"job_address": "https://neuralworks.io/",
 	"dissertation": "Ensemble Learning Algorithm using Virtual Data"
 },
 {
@@ -1022,7 +1022,7 @@
 	"image": "mjang",
 	"degree": "석사",
 	"dissertation": "Modeling Map Formation in Proprioceptive Cortex",
-	"job": "Chaintob 대표",
-	"job_address": "http://www.chaintob.com"
+	"job": "뉴럴웍스 대표",
+	"job_address": "https://neuralworks.io/"
 }
 ]
