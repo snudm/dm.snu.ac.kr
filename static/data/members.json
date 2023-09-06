@@ -182,6 +182,7 @@
     "B.S.":  "Industrial Engineering, Information Science and Culture, Seoul Nat'l Univ., 2021",
     "highschool": "Dongguk Girls' Highschool, 2015",
     "first_publication": "이모지 임베딩을 활용한 한글 소셜 미디어 텍스트 임베딩 방법론 연구, KIIE 2022",
+    "other_publication": ["A Product and Service Design Framework for Autonomous Vehicle: Identifying and Systematizing User Needs via Graph-Based Social Media Analysis and Activity Theory, ITSC 2023"],
     "first_project": "빅데이터 분석 모델 구축을 위한 정보 추출, 데이터 레이블링, 데이터셋 변화 적응 알고리즘 연구, 한국연구재단, 2021-",
     "other_project": ["영화 관련 기관들의 영화 및 영화인 데이터 통합 방안 연구, 영화진흥위원회, 2021", "종목 토론방 데이터 분석 기반 투자 Portfolio 연구, Quantit, 2021-2022", "소셜 인디케이터 기반 변곡점 예측 모델 개발, Quantit, 2022", "데이터 기반 차세대 자동차 사용자 경험 연구 및 모델링, LG전자, 2023-", "반도체 분야 지식 그래프 구축 연구, 삼성전자 SAIT, 2023-"]
     },
@@ -273,7 +274,7 @@
     "online_activity": "https://github.com/sjskoko"
     },
     {
-    "image": "jhkang",
+    "image": "jh_kang",
     "name": "강 지 혜 (Jihye Kang)",
     "exp.gra.": "2024. 8",
     "email": "jeehaee.kang at bdai.snu.ac.kr",
