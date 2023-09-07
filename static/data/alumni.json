@@ -1,5 +1,32 @@
 [
 {
+	"year": "2023.08",
+	"name": "박지혜",
+    "degree": "박사",
+	"image": "jh_park",
+	"job": "삼성전자 DS부문 설비기술연구소 ",
+	"job_address": "https://www.samsung-dsrecruit.com/recruits/division_intro/detail/laboratory.php",
+	"dissertation": "Financial Risk Assessment Automation: Hot Topic Detection in Speeches, Sentiment Analysis of News Articles, and Spam Filtering on Twitter"
+},
+{
+	"year": "2023.08",
+	"name": "배지현",
+    "degree": "석사",
+	"image": "jihyun.bae",
+	"job": "_",
+	// "job_address": "https://www.samsung-dsrecruit.com/division_intro/generalTechnique/index.php",
+	"dissertation": "프롬프트 기반 학습을 활용한 텍스트 추상 요약 모델"
+},
+{
+	"year": "2023.08",
+	"name": "최용우",
+    "degree": "석사",
+	"image": "ywchoi",
+	"job": "ONOUT",
+	"job_address": "https://namu.wiki/w/온아웃",
+	"dissertation": "_"
+},
+{
 	"year": "2023.02",
 	"name": "전성환",
     "degree": "박사",

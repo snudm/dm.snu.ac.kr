@@ -31,22 +31,6 @@
     "online_activity": "https://www.youtube.com/c/챔CHAM_money"
     },
     {
-    "image": "jh_park",
-    "name": "박 지 혜 (Jihye Park)",
-    "exp.gra.": "2023. 8",
-    "email": "jihyeparkk at bdai.snu.ac.kr",
-    "experience": "Bankware Global, 2017-2018; Hankook Research, 2016; Internship at Linewalks, 2014",
-    "areas of interest":"Text Mining, Natural Language Processing",
-    "B.S.":  "Business Administration, Korea Univ., 2016",
-    "highschool": "Yeonmu, 2012",
-    "first_publication": "Incorporation of company-related factual knowledge into pre-trained language models for stock-related spam tweet filtering, Expert Systems with Applications 2023",
-    "other_publication": ["Hot Topic Detection in Central Bankers' Speeches, Expert Systems with Applications 2023", "Building knowledge graphs from technical documents using named entity recognition and normalization models, Intelligent Data Analysis 2023", "Twitter Embedding for Covariance Matrix Estimation & Portfolio Optimization, KDMS 2022", "UMAP과 HDBSCAN 군집화 기반의 반도체 제조 공정 데이터 대상 레이블 전파 방법, KIIE 2022", "Automatic Keyword Extraction and NER-Normalization Based Knowledge Network Construction for Patent Summarization, KIIE 2021", "Music-Circles: Can Music Be Represented With Numbers?, arXiv preprint 2021", "A frequency- and ranking-based approach for new event detection using non-contiguous bigrams from text data of the central bankers’ speeches, KDMS 2019", "InfoAnoGAN: An Interpretable Anomaly Detection Method Using InfoGAN based on Unsupervised Learning, KDMS 2019"],
-    "first_project": "반도체 분야 지식 그래프 구축 연구, 삼성전자, 2023-, 반도체 제조 도메인 특화 엔티티 추출",
-    "other_project": ["빅데이터 분석 모델 구축을 위한 정보 추출, 데이터 레이블링, 데이터셋 변화 적응 알고리즘 연구, 한국연구재단, 2021-, FOMC 및 한국은행에서 발행되는 텍스트 데이터 수집 및 분석", "딥러닝을 활용한 강건한 설비 이상 탐지 기법 연구, 삼성전자, 2020-, 반도체 제조 공정 센서 데이터 대상 레이블 전파 방법을 제안", "소셜미디어 텍스트 분석을 통한 투자 관련 핫토픽 탐지, NH투자증권, 2022, 주식 관련 트윗을 사용하여 언어 모델(Word2Vec, FastText, BERT)을 구축하는 프레임워크를 제안", "인공지능 기술을 통한 문서 분류 자동화 시스템 구축, 삼성전자, 2019-2021, SciBERT를 이용한 문서 분류"],
-    "online_activity": "https://sophia-jihye.github.io/",
-    "online_others": ["https://github.com/sophia-jihye"]
-    },
-    {
     "image": "jw.choi",
     "name": "최 진 우(Jinwoo Choi)",
     "exp.gra.": "2024. 8",
@@ -215,29 +199,6 @@
     }
 ],
 "ms_students": [
-    {
-    "image": "jihyun.bae",
-    "name": "배 지 현 (Jihyun Bae)",
-    "exp.gra.": "2023. 8",
-    "email": "jihyun.bae at bdai.snu.ac.kr",
-    "areas of interest":"Deep Learning",
-    "B.S.":  "Business, System Management Engineering, Sungkyunkwan Univ., 2020",
-    "highschool": "Gwacheon foreign language, 2016",
-    "first_publication": "한국어 제품 리뷰 데이터 대상 감성 지식 강화형 감성 분석 모델, KIIE 2022",
-    "first_project": "영화 관련 기관들의 영화 및 영화인 데이터 통합 방안 연구, 영화진흥위원회, 2021",
-    "other_project": ["데이터 기반 차세대 자동차 사용자 경험 연구 및 모델링, LG전자, 2023-", "빅데이터 분석 모델 구축을 위한 정보 추출, 데이터 레이블링, 데이터셋 변화 적응 알고리즘 연구, 한국연구재단, 2022-", "공공기관의 영화인DB 연계 방안 및 영화인경력인증시스템 도입을 위한 기초 연구, 영화진흥위원회, 2020-2021"]
-    },
-    {
-    "image": "ywchoi",
-    "name": "최 용 우 (Yongwoo Choi)",
-    "exp.gra.": "2023. 8",
-    "email": "ywchoi at bdai.snu.ac.kr",
-    "working": "ONOUT",
-    "areas of interest":"FashionAI, Recommendation System, Data Analytics",
-    "B.S.":  "Computer Science, University of Minnesota, 2020",
-    "highschool": "Great Plains Lutheran High, 2014",
-    "first_publication": "트렌딩 패션 브랜드 의류 이미지 분석 기반 색상 팔레트 생성: 딥 러닝 접근 방식, KIIE 2022"
-    },
     {
     "image": "keonwookim",
     "name": "김 건 우 (Keonwoo Kim)",
