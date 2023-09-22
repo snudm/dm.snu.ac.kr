@@ -208,8 +208,8 @@
     "areas of interest": "Deep Learning, Natural Language Processing",
     "B.S.": "Industrial Engineering, UNIST, 2022",
     "highschool": "Gimpo foreign language, 2016",
-    "first_publication": "KeLong: Korean extra Long text summarization, KDMS 2022",
-    "other_publication": ["User-defined Content Detection Framework, Interactive Learning for Natural Language Processing Workshop at NeurIPS 2022"],
+    "first_publication": "MEMTO: Memory-guided Transformer for Multivariate Time Series Anomaly Detection, NeurIPS 2023",
+    "other_publication": ["KeLong: Korean extra Long text summarization, KDMS 2022", "User-defined Content Detection Framework, Interactive Learning for Natural Language Processing Workshop at NeurIPS 2022"],
     "first_project": "종목 토론방 advertisement spam detection 연구, Quantit, 2022",
     "online_activity": "https://www.linkedin.com/in/keonwookim97/"
     },
@@ -221,6 +221,7 @@
     "areas of interest": "Deep Learning, Anomaly Detection, Time Series Analysis",
     "B.S.": "Naval Architecture and Ocean Engineering, Seoul Nat'l Univ., 2021",
     "highschool": "Bucheon High School, 2014",
+    "first_publication": "MEMTO: Memory-guided Transformer for Multivariate Time Series Anomaly Detection, NeurIPS 2023",
     "first_project": "C-MDPS 작동소음 특징 주파수 추출, 현대모비스, 2023-",
     "online_activity": "https://github.com/Song-Jun-Ho"
     },
@@ -284,6 +285,7 @@
     "areas of interest": "Anomaly Detection, Time Series Analysis, Graph Neural Network",
     "B.S.": "Computer Science and Engineering, Sogang Univ., 2023",
     "highschool": "Dankook University High School, 2018",
+    "first_publication": "MEMTO: Memory-guided Transformer for Multivariate Time Series Anomaly Detection, NeurIPS 2023",
     "first_project": "C-MDPS 작동소음 특징 주파수 추출, 현대모비스, 2023-",
     "online_activity": "https://github.com/dhwjdfuf"
     },
