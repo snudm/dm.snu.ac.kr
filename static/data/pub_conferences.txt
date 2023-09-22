@@ -1,6 +1,4 @@
 "MEMTO: Memory-guided Transformer for Multivariate Time Series Anomaly Detection", NeurIPS 2023, New Orleans, 2023.12
-"UCDF: User-defined Content Detection Framework", 김건우, 조성준, 이용건, NeurIPS 2022 Workshop of Interactive Learning for Natural Language Processing, New Orleans, 2022.12
-"KeLong: Korean extra Long text summarization", 김건우, 김재희, 조효원, 장준원, 전민진, 조성준, KDMS 2022, 부산, 2022.08
 "A Product and Service Design Framework for Autonomous Vehicle: Identifying and Systematizing User Needs via Graph-Based Social Media Analysis and Activity Theory", 박소형, 윤별이, 조성준, 윤명환, 정철, 김충래, 이석준, 김승만, ITSC 2023, Bilbao, Spain, 2023.09
 "Enhancing Sentiment Knowledge via Self-Supervised Meta-Learning", 김현종, 조성준, RepL4NLP 2023, Toronto, Canada, 2023.07
 "Post-training Approach Using Form 10-K Filings to Inject Financial Domain-specific Factual Knowledge into Pretrained Language Models for Data-driven Financial Spam Filtering", 박지혜, 조성준, 한국데이터마이닝학회 2023 춘계학술대회, 강릉 원주대학교, 2023년 6월
@@ -14,6 +12,8 @@
 "User generated text의 키워드 정보를 활용한 혈당 예측 연구", 박소형, 조성준, 박성연, 양헉용 대한산업공학회 2023 춘계공동학술대회, 제주 신화월드, 2023년 6월
 "차량 평가 데이터 분석 과정 자동화 소프트웨어 및 UI 구축", 최진우, 김현종, 김어진, 조성준, 대한산업공학회 2023 춘계공동학술대회, 제주 신화월드, 2023년 6월
 "반도체 제조 도메인 특화 지식 그래프 구축을 위한 엔티티 추출 방법 연구", 박지혜, 김현종, 박소형, 조성준, 대한산업공학회 2023 춘계공동학술대회, 제주 신화월드, 2023년 6월
+"UCDF: User-defined Content Detection Framework", 김건우, 조성준, 이용근, NeurIPS 2022 Workshop of Interactive Learning for Natural Language Processing, New Orleans, 2022.12
+"KeLong: Korean extra Long text summarization", 김건우, 김재희, 조효원, 장준원, 전민진, 조성준, KDMS 2022, 부산, 2022.08
 "Graph Based Aspect Extraction and Rating Classification of Customer Review Data", Sung Whan Jeon, Hye Jin Lee, Hyeonguk Lee, Sungzoon Cho, International Conference on Database Systems for Advanced Applications, DASFAA 2019: Database Systems for Advanced Applications, Lecture Notes in Computer Science book series (LNCS, volume 11448), pp 186-199, Chiang Mai, Thailand, April 22~25, 2019
 "공공데이터를 활용한 머신러닝 기반 상업용 건물 가격 추정_1. 공공데이터,소스데이터 확보 및 전처리", 김상엽, 전성환, 최진우, 강인혜, 이중건, 조성준, 대한산업공학회 2019 춘계공동학술대회, 광주 김대중컨벤션센터, 2019년 4월.
 "공공데이터를 활용한 머신러닝 기반 상업용 건물 가격 추정_2. 건물 매매가 추정 모델 구축", 최진우, 전성환, 김상엽, 강인혜, 이중건, 조성준, 대한산업공학회 2019 춘계공동학술대회, 광주 김대중컨벤션센터, 2019년 4월.
