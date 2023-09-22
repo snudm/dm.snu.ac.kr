@@ -1,4 +1,4 @@
-"MEMTO: Memory-guided Transformer for Multivariate Time Series Anomaly Detection", NeurIPS 2023, New Orleans, 2023.12
+"MEMTO: Memory-guided Transformer for Multivariate Time Series Anomaly Detection"송준호, 김건우, 오정렬, 조성준, NeurIPS 2023, New Orleans, 2023.12
 "A Product and Service Design Framework for Autonomous Vehicle: Identifying and Systematizing User Needs via Graph-Based Social Media Analysis and Activity Theory", 박소형, 윤별이, 조성준, 윤명환, 정철, 김충래, 이석준, 김승만, ITSC 2023, Bilbao, Spain, 2023.09
 "Enhancing Sentiment Knowledge via Self-Supervised Meta-Learning", 김현종, 조성준, RepL4NLP 2023, Toronto, Canada, 2023.07
 "Post-training Approach Using Form 10-K Filings to Inject Financial Domain-specific Factual Knowledge into Pretrained Language Models for Data-driven Financial Spam Filtering", 박지혜, 조성준, 한국데이터마이닝학회 2023 춘계학술대회, 강릉 원주대학교, 2023년 6월
