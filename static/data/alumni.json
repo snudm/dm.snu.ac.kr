@@ -1,6 +1,16 @@
 [
 {
 	"year": "2023.08",
+	"name": "양 지 원",
+	"degree": "박사",
+	"image": "jw_yang",
+	"email": "yang at dm.snu.ac.kr",
+	"job": "바임컨설팅그룹",
+	"job_address": "http://www.vaiim.com/",
+	"dissertation": "_"
+},
+{
+	"year": "2023.08",
 	"name": "박지혜",
     "degree": "박사",
 	"image": "jh_park",
@@ -13,7 +23,7 @@
 	"name": "배지현",
     "degree": "석사",
 	"image": "jihyun.bae",
-	"job": "_",
+	"job": "서울대학교 경영학 박사과정",
 	"dissertation": "프롬프트 기반 학습을 활용한 텍스트 추상 요약 모델"
 },
 {
