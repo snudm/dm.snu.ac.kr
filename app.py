@@ -63,19 +63,19 @@ def degrees():
 
 
 @app.route('/<lang_code>/degrees/phd')
-def phd_():
+def phd():
     return render_template('degrees_phd.html',
                            phd=read_json_data('degrees.json'))
 
 
 @app.route('/<lang_code>/degrees/masters')
-def masters_():
+def masters():
     return render_template('degrees_masters.html',
                            masters=read_json_data('degrees.json'))
 
 
 @app.route('/<lang_code>/degrees/admission')
-def admission_():
+def admission():
     return render_template('degrees_qna.html',
                            admission=read_json_data('degrees.json'))
 
@@ -163,7 +163,7 @@ def professor():
 
 @app.route('/<lang_code>/people/students')
 def PhD():
-    headers = [u'박사 수료', u'박사 과정']
+    headers = [u'박사 수료']
     member_keys = ['phd_candidates', 'phd_students', 'ms_students', 'on_leave']
 
     return render_template('students.html', students=read_json_data('members_phd.json'), member_header_key_pairs=zip(headers, member_keys))
