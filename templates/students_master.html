@@ -1,0 +1,331 @@
+{% extends "layout.html" %}
+
+{% block extended_headers %}
+<!-- image slider  -->
+<link rel="stylesheet" href="{{url_for('static', filename = 'css/flexslider.css')}}" type="text/css">
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.6.2/jquery.min.js"></script>
+<script src="{{url_for('static', filename = 'js/jquery.flexslider.js')}}"></script>
+<script type="text/javascript" charset="utf-8">
+(function() {
+
+// store the slider in a local variable
+var $window = $(window),
+	flexslider;
+
+// tiny helper function to add breakpoints
+function getGridSize() {
+	return (window.innerWidth < 900) ? 1 : 1;
+ }
+
+$(function() {
+	SyntaxHighlighter.all();
+});
+
+$(window).load(function() {
+	$('.flexslider').flexslider({
+		animation: "slide",
+		controlNav: true,
+		itemWidth:  420, // calculate slide width based on window, divide by 3 to show 3
+		itemMargin: 5,
+		animationLoop: true,
+		slideshow: true,
+		minItems:getGridSize(),
+		maxItems:getGridSize()
+	});
+	$('.member-image-wrapper').css({
+		height: $('.flexslider').width()*0.562
+	})
+});
+
+// check grid size on resize event
+$window.resize(function() {
+	var gridSize = getGridSize();
+
+	flexslider.vars.minItems = gridSize;
+	flexslider.vars.maxItems = gridSize;
+	});
+}());
+</script>
+{% endblock %}
+
+
+{% block contents %}
+<h2>People</h2>
+<div class="flexslider" style="width:100%;margin:auto;">
+  <ul class="slides">
+    <li>
+      <div class="member-image-wrapper" style="background-image: url({{ url_for('static', filename='images/home_1.jpg') }})"></div>
+    </li>
+    <li>
+      <div class="member-image-wrapper" style="background-image: url({{ url_for('static', filename='images/home_2.jpg') }})"></div>
+    </li>
+    <li>
+      <div class="member-image-wrapper" style="background-image: url({{ url_for('static', filename='images/home_3.jpg') }})"></div>
+    </li>
+    <li>
+      <div class="member-image-wrapper" style="background-image: url({{ url_for('static', filename='images/home_4.jpg') }})"></div>
+    </li>
+    <li>
+      <div class="member-image-wrapper" style="background-image: url({{ url_for('static', filename='images/home_5.jpg') }})"></div>
+    </li>
+    <li>
+      <div class="member-image-wrapper" style="background-image: url({{ url_for('static', filename='images/home_6.jpg') }})"></div>
+    </li>
+    <li>
+      <div class="member-image-wrapper" style="background-image: url({{ url_for('static', filename='images/home_7.jpg') }})"></div>
+    </li>
+    <li>
+      <div class="member-image-wrapper" style="background-image: url({{ url_for('static', filename='images/home_8.jpg') }})"></div>
+    </li>
+    <li>
+      <div class="member-image-wrapper" style="background-image: url({{ url_for('static', filename='images/home_9.jpg') }})"></div>
+    </li>
+    <li>
+      <div class="member-image-wrapper" style="background-image: url({{ url_for('static', filename='images/home_10.jpg') }})"></div>
+    </li>
+	<li>
+      <div class="member-image-wrapper" style="background-image: url({{ url_for('static', filename='images/home_11.jpg') }})"></div>
+    </li>
+  </ul>
+</div>
+
+{% for header, member_key in member_header_key_pairs %}
+<h2> {{ header }} </h2>
+	{% for student in students[member_key] %}
+	<div id="{{ student['image'] }}" class="member hover row">
+		<div style="position: relative; left: 0px; top: 0px;">
+			<img class="width-100 thumbnail" src="{{ url_for('static', filename='images/members/%s.jpg' % student['image']) }}">
+		</div>
+		<div class="col-md-10">
+			{% if student['exp.gra.'] != 'On leave' %}
+				<h3>{{ student['name'] }} <span class="expect_graduate"> (졸업예정 {{student['exp.gra.']}})</span></h3>
+			{% else %}
+				<h3>{{ student['name'] }} <span class="expect_graduate"> ({{student['exp.gra.']}})</span></h3>
+			{% endif %}
+			<table class="table table-condensed">
+				{% if 'email' in student.keys() %}
+				<tr>
+					<td>Email</td>
+					<td>
+						{{ student.get('email')}}
+					</td>
+				</tr>
+				{% endif %}
+
+				<!-- {% if 'homepage' in student.keys() %}
+				<tr>
+					<td>Homepage</td>
+					<td>
+						<a href="{{ student.get('homepage') }}">{{ student.get('homepage') }}</a>
+					</td>
+				</tr>
+				{% endif %} -->
+
+				{% if 'areas of interest' in student.keys() %}
+				<tr>
+					<td>Areas of Interest</td>
+					<td>
+						{{ student.get('areas of interest') }}
+					</td>
+				</tr>
+				{% endif %}
+
+				{% if 'working' in student.keys() %}
+				<tr>
+					<td>Working</td>
+					<td>
+						{{ student.get('working') }}
+					</td>
+				</tr>
+				{% endif %}
+
+				{% if 'experience' in student.keys() %}
+				<tr>
+					<td>Experience</td>
+					<td>
+						{{ student.get('experience') }}
+					</td>
+				</tr>
+				{% endif %}
+
+
+				{% if 'M.S.' in student.keys() %}
+				<tr>
+					<td>Education</td>
+					<td>
+						M.S. {{ student.get('M.S.') }}
+					</td>
+				</tr>
+				<tr>
+					<td> </td>
+					<td>
+						B.S. {{ student.get('B.S.') }}
+					</td>
+				</tr>
+				<tr>
+					<td> </td>
+					<td>
+						High School, {{ student.get('highschool') }}
+					</td>
+				</tr>
+				{% else %}
+				<tr>
+					<td>Education</td>
+					<td>
+						B.S. {{ student.get('B.S.') }}
+					</td>
+				</tr>
+				<tr>
+					<td> </td>
+					<td>
+						High School, {{ student.get('highschool') }}
+					</td>
+				</tr>
+				{% endif %}
+
+
+
+        		{% if 'first_publication' in student.keys() %}
+				<tr>
+					<td>Publication</td>
+					<td>
+						{{ student.get('first_publication') }}
+					</td>
+				</tr>
+				{% endif %}
+
+				{% if 'other_publication' in student.keys() %}
+				{% for pub in student['other_publication'] %}
+					<tr>
+						<td> </td>
+						<td>
+							{{ pub }}
+						</td>
+					</tr>
+				{% endfor %}
+				{% endif %}
+
+				{% if 'first_project' in student.keys() %}
+				<tr>
+					<td>Research Project</td>
+					<td>
+						{{ student.get('first_project') }}
+					</td>
+				</tr>
+				{% endif %}
+
+				{% if 'other_project' in student.keys() %}
+				{% for proj in student['other_project'] %}
+					<tr>
+						<td> </td>
+						<td>
+							{{ proj }}
+						</td>
+					</tr>
+				{% endfor %}
+				{% endif %}
+				
+				{% if 'online_activity' in student.keys() %}
+				<tr>
+					<td>Online Activity</td>
+					<td>
+						<a href="{{ student.get('online_activity') }}">{{ student.get('online_activity') }}</a>
+					</td>
+				</tr>
+				{% endif %}
+
+				{% if 'online_others' in student.keys() %}
+				{% for onlines in student['online_others'] %}
+					<tr>
+						<td> </td>
+						<td>
+							<a href="{{ onlines }}">{{ onlines }}</a>
+						</td>
+					</tr>
+				{% endfor %}
+				{% endif %}
+			</table>
+		</div>
+	</div>
+	{% endfor %}
+{% endfor %}
+
+<!--
+<h2>Ph.D. All but Dissertation</h2>
+{% for student in students['phd_abd'] %}
+<div id="{{ student['image'] }}" class="student hover row">
+    <div class="col-md-2">
+        <img class="width-100 thumbnail" src="{{ url_for('static', filename='images/members/%s.jpg' % student['image']) }}">
+    </div>
+    <div class="col-md-10">
+        <h3>{{ student['name'] }}</h3>
+        <table class="table table-condensed">
+            {% if 'email' in student.keys() %}
+            <tr>
+                <td>Email</td>
+                <td>
+                    {{ student.get('email')}}
+                </td>
+            </tr>
+            {% endif %}
+
+            {% if 'homepage' in student.keys() %}
+            <tr>
+                <td>Homepage</td>
+                <td>
+                    <a href="{{ student.get('homepage') }}">{{ student.get('homepage') }}</a>
+                </td>
+            </tr>
+            {% endif %}
+
+            {% if 'areas of interest' in student.keys() %}
+            <tr>
+                <td>areas of interest</td>
+                <td>
+                    {{ student.get('areas of interest') }}
+                </td>
+            </tr>
+            {% endif %}
+
+            {% if 'job' in student.keys() %}
+            <tr>
+                <td>Job</td>
+                <td>
+                    {{ student.get('job') }}
+                </td>
+            </tr>
+            {% endif %}
+
+            {% if 'M.S.' in student.keys() %}
+            <tr>
+                <td>M.S.</td>
+                <td>
+                    {{ student.get('M.S.') }}
+                </td>
+            </tr>
+            {% endif %}
+
+            {% if 'B.S.' in student.keys() %}
+            <tr>
+                <td>B.S.</td>
+                <td>
+                    {{ student.get('B.S.') }}
+                </td>
+            </tr>
+            {% endif %}
+
+            {% if 'highschool' in student.keys() %}
+            <tr>
+                <td>Highschool</td>
+                <td>
+                    {{ student.get('highschool') }}
+                </td>
+            </tr>
+            {% endif %}
+        </table>
+    </div>
+</div>
+{% endfor %}
+-->
+
+{% endblock %}
