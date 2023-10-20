@@ -1,16 +1,6 @@
 [
 {
 	"year": "2023.08",
-	"name": "양 지 원",
-	"degree": "박사",
-	"image": "jw_yang",
-	"email": "yang at dm.snu.ac.kr",
-	"job": "바임컨설팅그룹",
-	"job_address": "http://www.vaiim.com/",
-	"dissertation": "_"
-},
-{
-	"year": "2023.08",
 	"name": "박지혜",
     "degree": "박사",
 	"image": "jh_park",
@@ -33,6 +23,26 @@
 	"image": "ywchoi",
 	"job": "ONOUT",
 	"job_address": "https://namu.wiki/w/온아웃",
+	"dissertation": "_"
+},
+{
+	"year": "2023.08",
+	"name": "양 지 원",
+	"degree": "박사",
+	"image": "jw_yang",
+	"email": "yang at dm.snu.ac.kr",
+	"job": "바임컨설팅그룹",
+	"job_address": "http://www.vaiim.com/",
+	"dissertation": "_"
+},
+{
+	"year": "2023.08",
+	"name": "강 인 혜",
+	"degree": "석사 수료",
+	"image": "ih.kang",
+	"email": "inhye.kang at dm.snu.ac.kr",
+	"job": "KT",
+	"job_address": "https://www.kt.com/",
 	"dissertation": "_"
 },
 {
