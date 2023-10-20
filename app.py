@@ -161,6 +161,13 @@ def students():
 
     return render_template('students.html', students=read_json_data('members.json'), member_header_key_pairs=zip(headers, member_keys))
 
+@app.route('/<lang_code>/people/students')
+def masters():
+    headers = [u'박사 수료', u'박사 과정', u'석사 과정', u'휴학생']
+    member_keys = ['phd_candidates', 'phd_students', 'ms_students', 'on_leave']
+
+    return render_template('students.html', students=read_json_data('members.json'), member_header_key_pairs=zip(headers, member_keys))
+
 
 @app.route('/<lang_code>/people/alumni')
 def alumni():
