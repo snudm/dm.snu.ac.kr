@@ -63,13 +63,13 @@ def degrees():
 
 
 @app.route('/<lang_code>/degrees/phd')
-def PhD_course():
+def PhDcourse():
     return render_template('degrees_phd.html',
                            phd=read_json_data('degrees.json'))
 
 
 @app.route('/<lang_code>/degrees/masters')
-def Masters_course():
+def Masterscourse():
     return render_template('degrees_masters.html',
                            masters=read_json_data('degrees.json'))
 
