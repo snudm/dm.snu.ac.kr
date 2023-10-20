@@ -162,7 +162,7 @@ def professor():
 #     return render_template('students.html', students=read_json_data('members.json'), member_header_key_pairs=zip(headers, member_keys))
 
 @app.route('/<lang_code>/people/PhD')
-def PhD():
+def phD():
     headers = [u'박사 수료']
     member_keys = ['phd_candidates', 'phd_students', 'ms_students', 'on_leave']
 
