@@ -17,7 +17,7 @@ CONTACT = {
 MENUS = [
     'home',
     ('people', ['professor', 'PhD', 'masters', 'onleave', 'alumni']),
-    ('degrees',['PhD','Masters','admission']),
+    ('degrees',['PhD_course','Masters_course','admission']),
     'courses',
     ('research', ['journal','conference', 'insight']),
     ('projects', ['ongoing', 'past', 'FAQ']),
