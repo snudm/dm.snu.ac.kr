@@ -63,13 +63,13 @@ def degrees():
 
 
 @app.route('/<lang_code>/degrees/phd')
-def PhDcourse():
+def phd():
     return render_template('degrees_phd.html',
                            phd=read_json_data('degrees.json'))
 
 
 @app.route('/<lang_code>/degrees/masters')
-def Masterscourse():
+def masters():
     return render_template('degrees_masters.html',
                            masters=read_json_data('degrees.json'))
 
@@ -161,21 +161,21 @@ def professor():
 
 #     return render_template('students.html', students=read_json_data('members.json'), member_header_key_pairs=zip(headers, member_keys))
 
-@app.route('/<lang_code>/people/students')
+@app.route('/<lang_code>/people/PhD')
 def PhD():
     headers = [u'박사 수료']
     member_keys = ['phd_candidates', 'phd_students', 'ms_students', 'on_leave']
 
     return render_template('students.html', students=read_json_data('members_phd.json'), member_header_key_pairs=zip(headers, member_keys))
 
-@app.route('/<lang_code>/people/students')
+@app.route('/<lang_code>/people/masters')
 def masters():
     headers = [u'석사 과정']
     member_keys = ['phd_candidates', 'phd_students', 'ms_students', 'on_leave']
 
     return render_template('students.html', students=read_json_data('members_masters.json'), member_header_key_pairs=zip(headers, member_keys))
 
-@app.route('/<lang_code>/people/students')
+@app.route('/<lang_code>/people/onleave')
 def onleave():
     headers = [u'휴학생']
     member_keys = ['phd_candidates', 'phd_students', 'ms_students', 'on_leave']
