@@ -1,0 +1,119 @@
+{"phd_candidates": [
+    {
+    "image": "hy.kim",
+    "name": "김 현 용 (Hyunyong Kim)",
+    "exp.gra.": "On leave",
+    "email": "david.kimhy at dm.snu.ac.kr",
+    "experience": "AXA, 2015-2018",
+    "areas of interest":"Machine Learning, Deep Learning, Finance",
+    "M.S.":  "Industrial Engineering, Seoul Nat'l Univ., 2020",
+    "B.S.":  "Applied Biology and Chemistry, Statistics, Seoul Nat'l Univ., 2015",
+    "highschool": "Seil, 2009"
+    },
+    {
+    "image": "hyunsangcho",
+    "name": "조 현 상 (Hyunsang Cho)",
+    "exp.gra.": "On leave",
+    "email": "brianhscho at dm.snu.ac.kr",
+    "experience": "Analysis Group, Inc., 2016-2018",
+    "areas of interest":"Machine Learning, Text Mining",
+    "B.S.":  "Statistics, Carnegie Mellon, 2016",
+    "highschool": "Edgewood High, 2009"
+    },
+    {
+    "image": "jw_lee",
+    "name": "이 재 원 (Jaewon Lee)",
+    "exp.gra.": "On leave",
+    "email": "jaewon.lee at dm.snu.ac.kr",
+    "experience": "NAVER (Company.AI), 2017-2020; Hana Financial Investment, 2016-2017",
+    "areas of interest": "Multi-modal Deep Learning, Natural Language Processing, Text Mining",
+    "B.S.":  "Applied Maths & Statistics, Computer Science, Johns Hopkins University, 2015",
+    "highschool": "Cheongshim International Academy, 2009"
+    },
+    {
+    "image": "jhkim",
+    "name": "김 재 현 (Jaehyun Kim)",
+    "exp.gra.": "On leave @ 네이버 파이낸셜",
+    "email": "jhkim at dm.snu.ac.kr",
+    "experience": "네이버 파이낸셜, 2022-",
+    "areas of interest": "Finance, Algorithm, Stochastic Process",
+    "B.S.": "Mathematics, Electronic and Electrical Engineering, POSTECH, 2022",
+    "highschool": "Daejeon Dongsin Science, 2016",
+    "online_activity": "https://www.linkedin.com/in/kim-jaehyun-511177132/"
+    },
+    {
+    "image": "sj.kang",
+    "name": "강 성 진(Sungjin Kang)",
+    "exp.gra.": "On leave @ RTM",
+    "email": "sungjin.kang at bdai.snu.ac.kr",
+    "experience": "Samsung Electronics, 2013-2019",
+    "M.S.":  "Industrial Engineering, Seoul Nat'l Univ., 2013",
+    "B.S.":  "Industrial & Systems Engineering, KAIST, 2011",
+    "highschool": "Gwangju Science Academy, 2006",
+    "first_publication": "군집화 기법과 문서 순위를 이용한 한국어 티윗 상의 토픽 추출, Master's thesis 2013",
+    "first_project": "딥러닝을 활용한 강건한 설비 이상 탐지 기법 연구, 삼성전자 설비기술연구소, 2020-2021",
+    "other_project": ["현대카드 D-tag 성능 향상을 위한 고객 데이터 내 범주 불균형 문제 해결, 현대카드, 2020-2020", "영화진흥위원회 영화관 입장권 통합전산망 기반 빅데이터 활용 기초 연구, 영화진흥위원회, 2019"]
+    },
+    {
+    "image": "joowon.kim",
+    "name": "김 주 원 (Joowon Kim)",
+    "exp.gra.": "On leave @ 콕스웨이브",
+    "email": "joowon.kim at bdai.snu.ac.kr",
+    "experience": "QRAFT(Fin-tech startup) 2017-2020; COXWAVE 2021-",
+    "areas of interest":"MLOps, Neural Architecture Search",
+    "B.S.":  "Computer Engineering, UNIST, 2020",
+    "highschool": "Goyang foreign language, 2013",
+    "first_publication": "실무에서 활용하는 프롬프트 엔지니어링, 위키북스 2023",
+    "online_activity": "https://github.com/joowon-dm-snu",
+    "online_others": ["https://www.linkedin.com/in/joowon-kim-a9147415b/", "https://medium.com/@joowon.kim"]
+    }
+],
+"phd_students" : [    
+    {
+    "image": "jk.ahn7",
+    "name": "안 재 관 (Jaekwan Ahn)",
+    "exp.gra.": "2025. 8",
+    "email": "jk.ahn7 at bdai.snu.ac.kr",
+    "working": "스위트앤데이터",
+	"areas of interest": "Deep Learning, Reinforcement Learning, Stochastic Process, Econometrics",
+    "M.S.": "Economics, London school of Economics, 2014",
+    "B.S.":  "Economics, Durham University, 2012",
+    "highschool": "Felsted School",
+    "first_publication": "프롬프트 엔지니어, 알투스 2023",
+    "other_publication": ["Twitter Embedding for Covariance Matrix Estimation & Portfolio Optimzation, KDMS 2022"],
+    "first_project": "빅데이터 분석 모델 구축을 위한 정보 추출, 데이터 레이블링, 데이터셋 변화 적응 알고리즘 연구, 한국연구재단, 2022",
+    "other_project": ["소셜미디어 텍스트 분석을 통한 투자 관련 핫토픽 탐지, NH투자증권, 2022"],
+    "online_activity": "https://www.linkedin.com/in/jaekwan-ahn-6409ba80/"
+    }
+],
+"ms_students": [
+    {
+    "image": "keonwookim",
+    "name": "김 건 우 (Keonwoo Kim)",
+    "exp.gra.": "2024. 2",
+    "email": "keonwookim at bdai.snu.ac.kr",
+    "experience": "Neosapience, 2022",
+    "areas of interest": "Deep Learning, Natural Language Processing",
+    "B.S.": "Industrial Engineering, UNIST, 2022",
+    "highschool": "Gimpo foreign language, 2016",
+    "first_publication": "DRAFT: Dense Retrieval Augmented Few-shot Topic classifier framework, EMNLP 2023 findings",
+    "other_publication": ["MEMTO: Memory-guided Transformer for Multivariate Time Series Anomaly Detection, NeurIPS 2023", "User-defined Content Detection Framework, InterNLP Workshop at NeurIPS 2022", "KeLong: Korean extra Long text summarization, KDMS 2022"],
+    "first_project": "종목 토론방 advertisement spam detection 연구, Quantit, 2022",
+    "online_activity": "https://www.linkedin.com/in/keonwookim97/"
+    }
+],
+
+"on_leave": [
+    {
+    "image": "hy.kim",
+    "name": "김 현 용 (Hyunyong Kim)",
+    "exp.gra.": "On leave",
+    "email": "david.kimhy at dm.snu.ac.kr",
+    "experience": "AXA, 2015-2018",
+    "areas of interest":"Machine Learning, Deep Learning, Finance",
+    "M.S.":  "Industrial Engineering, Seoul Nat'l Univ., 2020",
+    "B.S.":  "Applied Biology and Chemistry, Statistics, Seoul Nat'l Univ., 2015",
+    "highschool": "Seil, 2009"
+    }
+]
+}
