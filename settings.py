@@ -16,7 +16,7 @@ CONTACT = {
 #2021/12/29 교수님 지시로 activities 탭 삭제
 MENUS = [
     'home',
-    ('people', ['professor', 'phD', 'masters', 'onleave', 'alumni']),
+    ('people', ['professor', 'PhD', 'masters', 'onleave', 'alumni']),
     ('degrees',['PhD','Masters','admission']),
     'courses',
     ('research', ['journal','conference', 'insight']),
