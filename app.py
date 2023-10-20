@@ -162,23 +162,23 @@ def professor():
 #     return render_template('students.html', students=read_json_data('members.json'), member_header_key_pairs=zip(headers, member_keys))
 
 @app.route('/<lang_code>/people/students')
-def PhD():
+def PhD_students():
     headers = [u'박사 수료', u'박사 과정']
-    member_keys = ['phd_candidates', 'phd_students', 'ms_students', 'on_leave']
+    member_keys = ['phd_candidates', 'phd_students']
 
     return render_template('students.html', students=read_json_data('members_phd.json'), member_header_key_pairs=zip(headers, member_keys))
 
 @app.route('/<lang_code>/people/students')
-def masters():
+def masters_students():
     headers = [u'석사 과정']
-    member_keys = ['phd_candidates', 'phd_students', 'ms_students', 'on_leave']
+    member_keys = ['masters_students']
 
-    return render_template('students.html', students=read_json_data('members_master.json'), member_header_key_pairs=zip(headers, member_keys))
+    return render_template('students.html', students=read_json_data('members_masters.json'), member_header_key_pairs=zip(headers, member_keys))
 
 @app.route('/<lang_code>/people/students')
 def onleave():
     headers = [u'휴학생']
-    member_keys = ['phd_candidates', 'phd_students', 'ms_students', 'on_leave']
+    member_keys = ['onleave_students']
 
     return render_template('students.html', students=read_json_data('members_onleave.json'), member_header_key_pairs=zip(headers, member_keys))
 
