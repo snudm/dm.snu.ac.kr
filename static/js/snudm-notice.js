@@ -15,7 +15,7 @@
 var n = noty({
     layout: 'topRight',
     theme: 'relax',
-    text: '<strong>[2023 SNU Venture Builder 최우수상 수상]</strong><br><br>- 대회명 : SNU Venture Builder 시즌2 대학원생 데모데이<br>- 주관 : 중소벤처기업부, 창업진흥원, 서울대학교<br>- 수상 내용 : 채성원 연구원(공동소속 GenIP), 최우수상 수상<br><a href="https://event-us.kr/neuralworks/event/65309" class="pull-left">[바로가기]</a><br><a href="https://ifh.cc/v-CQsB4P" target="_blank"><img src="https://ifh.cc/g/CQsB4P.jpg" border="0"></a><br>',
+    text: '<strong>[2023 학회/저널 Accepted Paper]</strong><br><br>-송준호, 김건우, 오정렬, 조성준, MEMTO: Memory-guided Transformer for Multivariate Time Series Anomaly Detection, NeurIPS 2023<br>- 박지혜, 조성준, Incorporation of company-related factual knowledge into pre-trained language models for stock-related spam tweet filtering, Expert Systems With Applications 2023<br>- 신훈식, 이혜진, 조성준, General-Use Unsupervised Keyword Extraction Model for Text Analysis, Expert Systems with Applications 2023<br>- 박지혜, 이혜진, 조성준, Hot Topic Detection in Central Bankers\' Speeches, Expert Systems With Applications 2023<br>- 김현종, 조성준, Enhancing Sentiment Knowledge via Self-Supervised Meta-Learning, RepL4NLP 2023<br><br><a onclick="close_popup()">[팝업 닫기]</a>',
     animation: {
         open: 'animated bounceInDown',
         close: {height: 'toggle'}, // jQuery animate function property object
@@ -25,15 +25,15 @@ var n = noty({
 });
 
 var n = noty({
-    layout: 'topRight',
-    theme: 'relax',
-    text: '<strong>[2023 학회/저널 Accepted Paper]</strong><br><br>-송준호, 김건우, 오정렬, 조성준, MEMTO: Memory-guided Transformer for Multivariate Time Series Anomaly Detection, NeurIPS 2023<br>- 박지혜, 조성준, Incorporation of company-related factual knowledge into pre-trained language models for stock-related spam tweet filtering, Expert Systems With Applications 2023<br>- 신훈식, 이혜진, 조성준, General-Use Unsupervised Keyword Extraction Model for Text Analysis, Expert Systems with Applications 2023<br>- 박지혜, 이혜진, 조성준, Hot Topic Detection in Central Bankers\' Speeches, Expert Systems With Applications 2023<br>- 김현종, 조성준, Enhancing Sentiment Knowledge via Self-Supervised Meta-Learning, RepL4NLP 2023<br><br><a onclick="close_popup()">[팝업 닫기]</a>',
-    animation: {
-        open: 'animated bounceInDown',
-        close: {height: 'toggle'}, // jQuery animate function property object
-        easing: 'swing', // easing
-        speed: 500 // opening & closing animation speed
-    }
+  layout: 'topRight',
+  theme: 'relax',
+  text: '<strong>[2023 SNU Venture Builder 최우수상 수상]</strong><br><br>- 대회명 : SNU Venture Builder 시즌2 대학원생 데모데이<br>- 주관 : 중소벤처기업부, 창업진흥원, 서울대학교<br>- 수상 내용 : 채성원 연구원(공동소속 GenIP), 최우수상 수상<br><a href="https://event-us.kr/neuralworks/event/65309" class="pull-left">[바로가기]</a><br><a href="https://ifh.cc/v-CQsB4P" target="_blank"><img src="https://ifh.cc/g/CQsB4P.jpg" border="0"></a><br><br><a onclick="close_popup()">[팝업 닫기]</a>',
+  animation: {
+      open: 'animated bounceInDown',
+      close: {height: 'toggle'}, // jQuery animate function property object
+      easing: 'swing', // easing
+      speed: 500 // opening & closing animation speed
+  }
 });
 
 // var n = noty({
