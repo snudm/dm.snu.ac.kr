@@ -70,50 +70,41 @@
 ],
 "phd_students" : [    
     {
-    "image": "jk.ahn7",
-    "name": "안 재 관 (Jaekwan Ahn)",
-    "exp.gra.": "2025. 8",
-    "email": "jk.ahn7 at bdai.snu.ac.kr",
-    "working": "스위트앤데이터",
+    "image": " ",
+    "name": " ",
+    "exp.gra.": " 2025. 8",
+    "email": " ",
+    "working": " ",
 	"areas of interest": "Deep Learning, Reinforcement Learning, Stochastic Process, Econometrics",
     "M.S.": "Economics, London school of Economics, 2014",
     "B.S.":  "Economics, Durham University, 2012",
-    "highschool": "Felsted School",
-    "first_publication": "프롬프트 엔지니어, 알투스 2023",
-    "other_publication": ["Twitter Embedding for Covariance Matrix Estimation & Portfolio Optimzation, KDMS 2022"],
-    "first_project": "빅데이터 분석 모델 구축을 위한 정보 추출, 데이터 레이블링, 데이터셋 변화 적응 알고리즘 연구, 한국연구재단, 2022",
-    "other_project": ["소셜미디어 텍스트 분석을 통한 투자 관련 핫토픽 탐지, NH투자증권, 2022"],
-    "online_activity": "https://www.linkedin.com/in/jaekwan-ahn-6409ba80/"
+    "highschool": " "
     }
 ],
 "ms_students": [
     {
-    "image": "keonwookim",
-    "name": "김 건 우 (Keonwoo Kim)",
+    "image": " ",
+    "name": " ",
     "exp.gra.": "2024. 2",
-    "email": "keonwookim at bdai.snu.ac.kr",
-    "experience": "Neosapience, 2022",
+    "email": " ",
+    "experience": " ",
     "areas of interest": "Deep Learning, Natural Language Processing",
-    "B.S.": "Industrial Engineering, UNIST, 2022",
-    "highschool": "Gimpo foreign language, 2016",
-    "first_publication": "DRAFT: Dense Retrieval Augmented Few-shot Topic classifier framework, EMNLP 2023 findings",
-    "other_publication": ["MEMTO: Memory-guided Transformer for Multivariate Time Series Anomaly Detection, NeurIPS 2023", "User-defined Content Detection Framework, InterNLP Workshop at NeurIPS 2022", "KeLong: Korean extra Long text summarization, KDMS 2022"],
-    "first_project": "종목 토론방 advertisement spam detection 연구, Quantit, 2022",
-    "online_activity": "https://www.linkedin.com/in/keonwookim97/"
+    "B.S.": " ",
+    "highschool": " "
     }
 ],
 
 "on_leave": [
     {
-    "image": "hy.kim",
-    "name": "김 현 용 (Hyunyong Kim)",
+    "image": " ",
+    "name": " ",
     "exp.gra.": "On leave",
-    "email": "david.kimhy at dm.snu.ac.kr",
-    "experience": "AXA, 2015-2018",
+    "email": " ",
+    "experience": " ",
     "areas of interest":"Machine Learning, Deep Learning, Finance",
     "M.S.":  "Industrial Engineering, Seoul Nat'l Univ., 2020",
     "B.S.":  "Applied Biology and Chemistry, Statistics, Seoul Nat'l Univ., 2015",
-    "highschool": "Seil, 2009"
+    "highschool": " "
     }
 ]
 }
