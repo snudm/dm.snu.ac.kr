@@ -36,6 +36,14 @@
         "f_date": "설립일: 2020.01"
     },
     {
+        "id": "bereview_logo",
+        "description_ko": "자연어 처리 기술(NLP)로 개발한 리뷰 분석 AI를 커머스 플랫폼에 API로 제공",
+        "ceo": "한송원(CEO)",
+        "member":"             ",
+        "URL": "https://www.bereview.co.kr/",
+        "f_date": "설립일: 2020.08"
+    },
+    {
         "id": "coxwave_logo",
         "description_ko": "AI-native 제품을 위한 제품 분석 툴         ",
         "ceo": "김기정(CEO)",
