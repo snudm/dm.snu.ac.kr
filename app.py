@@ -199,7 +199,7 @@ def notice(id):
 
 @app.route('/<lang_code>/development/faq')
 def faq():
-    print request.view_args
+    # print request.view_args
     return render_template('faq.html',
                            faq=read_json_data('faq.json'))
 
