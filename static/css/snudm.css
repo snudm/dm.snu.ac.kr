@@ -368,8 +368,17 @@ margin:auto;
 }
 
 .flex-container {
-    display: flex; /* Flexbox를 활성화 */
-    align-items: center; /* 요소들을 세로 중앙에 위치시킴 */
-    justify-content: flex-start; /* 요소들을 가로로 왼쪽 정렬 */
+    display: flex;
+    align-items: center;
+    flex-wrap: wrap; /* 필요에 따라 줄 바꿈 허용 */
+}
+
+/* 추가적인 미디어 쿼리나 스타일링이 필요할 수 있음 */
+@media (max-width: 768px) {
+    .hidden-xs { display: none; }
+}
+
+@media (min-width: 769px) {
+    .visible-xs { display: none; }
 }
 
