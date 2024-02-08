@@ -366,3 +366,21 @@ margin:auto;
     background-repeat: no-repeat;
     background-position: center;
 }
+
+
+.flex-container {
+    display: flex;
+    align-items: center;
+    flex-wrap: wrap; /* 필요에 따라 줄 바꿈 허용 */
+    max-width: 100%; /* 이미지와 텍스트의 최대 너비를 제한 */
+    white-space: nowrap; /* 텍스트를 한 줄에 표시 */
+}
+
+/* 추가적인 미디어 쿼리나 스타일링이 필요할 수 있음 */
+@media (max-width: 768px) {
+    .hidden-xs { display: none; }
+}
+
+@media (min-width: 769px) {
+    .visible-xs { display: none; }
+}

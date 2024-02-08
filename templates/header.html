@@ -26,7 +26,7 @@
     </div>
     <div class="navbar-header">
       <a class="navbar-brand" href="{{ url_for('home', lang_code=locale) }}">
-        <span id="title">
+        <span id="title" class="flex-container">
           <img class="visible-xs" src="{{ url_for('static', filename='images/BDAI_2.png') }}" style="width: 30px; height: 30px; margin-right: 10px;">
           <span class="visible-xs">SNU BDAI</span>
           <img class="hidden-xs" src="{{ url_for('static', filename='images/BDAI_2.png') }}" style="width: 65px; height: 65px; margin-right: 10px;">
@@ -34,7 +34,7 @@
         </span>
       </a>
     </div>
-
+    
     <!-- Collect the nav links, forms, and other content for toggling -->
     <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1" >
       <!-- 교수님 요청으로 Nav bar 수정하면서 padding-left 붙임 -->
