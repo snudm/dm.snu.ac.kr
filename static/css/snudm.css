@@ -366,3 +366,10 @@ margin:auto;
     background-repeat: no-repeat;
     background-position: center;
 }
+
+.flex-container {
+    display: flex; /* Flexbox를 활성화 */
+    align-items: center; /* 요소들을 세로 중앙에 위치시킴 */
+    justify-content: flex-start; /* 요소들을 가로로 왼쪽 정렬 */
+}
+
