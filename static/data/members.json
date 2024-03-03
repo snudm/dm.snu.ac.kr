@@ -345,11 +345,11 @@
     "name": "김 진 석 (Jinseok Kim)",
     "exp.gra.": "2025. 8",
     "email": "jsk0821 at bdai.snu.ac.kr",
-    "areas of interest": "Deep Learning",
-    "B.S.": "Computing, KAIST, 2023",
+    "areas of interest": "Natural language processing, Deep Learning",
+    "B.S.": "Computer Science, KAIST, 2023",
     "highschool": "Posung High school, 2017",
     "first_publication": "Controllable prompt tuning with relation dependent tokens, KCC 2023",
-    "online_activity": "https://github.com/bluejeans8"
+    "online_activity": "https://www.linkedin.com/in/jinseok-kim-06612a25b/"
     },
     {
     "image": "hkmyung",
@@ -370,6 +370,103 @@
     "areas of interest": "Data Analysis, Text Mining",
     "B.S.": "Business Administration, Seoul Nat'l Univ., 2016",
     "highschool": "Daea High School, 2007"
+    },
+    {
+    "image": "Hyungi_Min",
+    "name": "민 현 기 (Hyungi Min)",
+    "exp.gra.": "2026. 2",
+    "email": "alsgusrl0 at bdai.snu.ac.kr",
+    "areas of interest": "Data Analysis, Machine Learning, Deep Learning",
+    "B.S.": "Industrial Engineering, Seoul Nat'l Univ., 2024"
+    },
+    {
+    "image": "KyuHa_Hwang",
+    "name": "황 규 하 (Kyuha Hwang)",
+    "exp.gra.": "2026. 2",
+    "email": "kyuhahwang at bdai.snu.ac.kr",
+    "experience": "Samsung Electronics (Device Solutions) 2018 ~",
+    "areas of interest": "Digital Transformation, Natural Language Processing, Text Mining",
+    "B.S.": "Communication & Business Administration, Sogang Univ., 2017",
+    "highschool": "Myungduk Foreign Language Highschool, 2009",
+    "first_project": "Digital Transformation based on Enterprise Architecture, Samsung Electronics, 2022",
+    "other_project": ["Open Compute Project, Samsung Electronics, 2021", "Solution Firmware; The Complete Book, Samsung Electronics, 2020"],
+    "online_activity": "https://www.linkedin.com/in/kyuhahwang"
+    },
+    {
+    "image": "DongHyun_Kim",
+    "name": "김 동 현 (Donghyun Kim)",
+    "exp.gra.": "2026. 2",
+    "email": "dhkim at bdai.snu.ac.kr",
+    "areas of interest": "Machine Learning, Deep Learning, Recommendation System",
+    "B.S.": "Business Administration, Computer Science, Korea Univ., 2024",
+    "highschool": "International School of Qingdao, 2016"
+    },
+    {
+    "image": "Hangyeul_Lee",
+    "name": "이 한 결 (Hangyeul Lee)",
+    "exp.gra.": "2026. 2",
+    "email": "mikelee at bdai.snu.ac.kr",
+    "areas of interest": "Educational Data Mining, Text Mining",
+    "B.S.": "Advanced Computing (Honours), ANU, 2021",
+    "highschool": "Korea Science Academy, 2014",
+    "online_activity": "https://github.com/hanliger"
+    },
+    {
+    "image": "Jaeik_Park",
+    "name": "박 재 익 (Jaeik Park)",
+    "exp.gra.": "2026. 2",
+    "email": "jaeiksan at bdai.snu.ac.kr",
+    "areas of interest": "Sports Analysis, Deep Learning, Natural Language Processing",
+    "B.S.": "Electrical and Computer Engineering, Seoul National University, 2024",
+    "highschool": "Goyang Foreign Language High School, 2014"
+    },
+    {
+    "image": "Haein_Lee",
+    "name": "이 해 인 (Haein Lee)",
+    "exp.gra.": "2026. 2",
+    "email": "hilee at bdai.snu.ac.kr",
+    "experience": "ROK Army, 2018~",
+    "areas of interest": "Data analysis, HR, Information management",
+    "B.S.": "Area Studies(Spain), Korea Military Academy, 2018",
+    "highschool": "Gwacheon foreign language, 2013"
+    },
+    {
+    "image": "Jongheon_Jeong",
+    "name": "정 종 헌 (Jongheon Jeong)",
+    "exp.gra.": "2026. 2",
+    "email": "jongheonno1 at bdai.snu.ac.kr",
+    "areas of interest": "Deep Learning, Machine Learning, Time Series Analysis",
+    "B.S.": "Industrial & Management Engineering, Korea univ., 2024",
+    "highschool": "Paichai High School, 2017"
+    },
+    {
+    "image": "Taeseung_You",
+    "name": "유 태 승 (Taeseung You)",
+    "exp.gra.": "2026. 2",
+    "email": "taeseung.you at bdai.snu.ac.kr",
+    "areas of interest": "NLP, machine learning, reinforcement learning",
+    "B.S.": "Computer Science,The University of Manchester,2023",
+    "highschool": "Ewha womans university Highschool, 2018"
+    },
+    {
+    "image": "Seunghyun_Yun",
+    "name": "윤 승 현 (Seunghyun Yun)",
+    "exp.gra.": "2026. 2",
+    "email": "shyun at bdai.snu.ac.kr",
+    "experience": "TrueValue Inc, COO & Co-Founder, 2017-2023",
+    "areas of interest": "Natural Language Processing, Text Mining, Knowledge Graph",
+    "B.S.": "Physics & Business, KAIST, 2022",
+    "highschool": "High School, Jeonnam Science, 2014"
+    },
+    {
+    "image": "Hyunwoo_Kim",
+    "name": "김 현 우 (Hyunwoo Kim)",
+    "exp.gra.": "2026. 2",
+    "email": "khw585 at bdai.snu.ac.kr",
+    "experience": "",
+    "areas of interest": "",
+    "B.S.": "",
+    "highschool": ""
     }
 ],
 "on_leave": [
