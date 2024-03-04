@@ -1,5 +1,21 @@
 [
 {
+	"year": "2024.02",
+	"name": "김건우",
+    "degree": "석사",
+	"image": "keonwookim",
+	"job": "VRCREW",
+	"job_address": "https://www.vrcrew.com/",
+	"dissertation": "Topic-agnostic Few-shot Classification Framework using Dense Retrieval Model for Solving Real-world Applications"
+},
+{
+	"year": "2024.02",
+	"name": "송준호",
+    "degree": "석사",
+	"image": "jh_song",
+	"job": "LG전자 생산기술원 제조AI솔루션팀"
+},
+{
 	"year": "2023.08",
 	"name": "박지혜",
     "degree": "박사",

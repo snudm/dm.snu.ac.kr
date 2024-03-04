@@ -2,7 +2,7 @@
     {
     "image": "hyejin2",
     "name": "이 혜 진 (Hyejin Lee)",
-    "exp.gra.": "2023. 8",
+    "exp.gra.": "2024. 8",
     "email": "hyejinlee at bdai.snu.ac.kr",
     "experience": "Wharton School, U Penn, 2008-2011, 2013-2014; International Food Policy Research Institute, 2012; Federal Reserve Bank of Chicago, 2007",
     "M.S.": "Economics, Cornell Univ., 2013",
@@ -17,7 +17,7 @@
     {
     "image": "m.choi",
     "name": "최 민 (Min Choi)",
-    "exp.gra.": "2023. 8",
+    "exp.gra.": "2024. 8",
     "email": "minchoi at bdai.snu.ac.kr",
     "experience": "Shinhan Investment Corp, 2013-2018",
     "areas of interest":"Machine Learning, Text Mining",
@@ -199,32 +199,6 @@
     }
 ],
 "ms_students": [
-    {
-    "image": "keonwookim",
-    "name": "김 건 우 (Keonwoo Kim)",
-    "exp.gra.": "2024. 2",
-    "email": "keonwookim at bdai.snu.ac.kr",
-    "experience": "Neosapience, 2022",
-    "areas of interest": "Deep Learning, Natural Language Processing",
-    "B.S.": "Industrial Engineering, UNIST, 2022",
-    "highschool": "Gimpo foreign language, 2016",
-    "first_publication": "DRAFT: Dense Retrieval Augmented Few-shot Topic classifier framework, EMNLP 2023 findings",
-    "other_publication": ["MEMTO: Memory-guided Transformer for Multivariate Time Series Anomaly Detection, NeurIPS 2023", "User-defined Content Detection Framework, InterNLP Workshop at NeurIPS 2022", "KeLong: Korean extra Long text summarization, KDMS 2022"],
-    "first_project": "종목 토론방 advertisement spam detection 연구, Quantit, 2022",
-    "online_activity": "https://www.linkedin.com/in/keonwookim97/"
-    },
-    {
-    "image": "jh_song",
-    "name": "송 준 호 (Junho Song)",
-    "exp.gra.": "2024. 2",
-    "email": "jhsong at bdai.snu.ac.kr",
-    "areas of interest": "Deep Learning, Anomaly Detection, Time Series Analysis",
-    "B.S.": "Naval Architecture and Ocean Engineering, Seoul Nat'l Univ., 2021",
-    "highschool": "Bucheon High School, 2014",
-    "first_publication": "MEMTO: Memory-guided Transformer for Multivariate Time Series Anomaly Detection, NeurIPS 2023",
-    "first_project": "C-MDPS 작동소음 특징 주파수 추출, 현대모비스, 2023-",
-    "online_activity": "https://github.com/Song-Jun-Ho"
-    },
     {
     "image": "jssim",
     "name": "심 재 승 (Jaeseung Sim)",
@@ -445,7 +419,7 @@
     "exp.gra.": "2026. 2",
     "email": "taeseung.you at bdai.snu.ac.kr",
     "areas of interest": "NLP, machine learning, reinforcement learning",
-    "B.S.": "Computer Science,The University of Manchester,2023",
+    "B.S.": "Computer Science, The University of Manchester, 2023",
     "highschool": "Ewha womans university Highschool, 2018"
     },
     {
@@ -456,17 +430,17 @@
     "experience": "TrueValue Inc, COO & Co-Founder, 2017-2023",
     "areas of interest": "Natural Language Processing, Text Mining, Knowledge Graph",
     "B.S.": "Physics & Business, KAIST, 2022",
-    "highschool": "High School, Jeonnam Science, 2014"
+    "highschool": "Jeonnam Science, 2014"
     },
     {
     "image": "Hyunwoo_Kim",
     "name": "김 현 우 (Hyunwoo Kim)",
     "exp.gra.": "2026. 2",
     "email": "khw585 at bdai.snu.ac.kr",
-    "experience": "",
-    "areas of interest": "",
-    "B.S.": "",
-    "highschool": ""
+    "experience": " Samsung Electornics, 2016-",
+    "areas of interest": "Machine learning, Smart Factory",
+    "B.S.": "Electronics Engineering, Kyungpook National Univ., 2016",
+    "highschool": "Kyungwon High school, 2010"
     }
 ],
 "on_leave": [
