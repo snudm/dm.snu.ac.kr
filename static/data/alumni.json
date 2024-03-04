@@ -13,7 +13,8 @@
 	"name": "송준호",
     "degree": "석사",
 	"image": "jh_song",
-	"job": "LG전자 생산기술원 제조AI솔루션팀"
+	"job": "LG전자 생산기술원 제조AI솔루션팀",
+	"dissertation": "Unsupervised Learning Framework with Memory-augmented Transformer for Multivariate Time Series Anomaly Detection"
 },
 {
 	"year": "2023.08",
