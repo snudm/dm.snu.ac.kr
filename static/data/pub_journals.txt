@@ -1,3 +1,4 @@
+"Stock price momentum modeling using social media data", Min Choi, Hye Jin Lee, Soh Hyung Park, Sung Whan Jeon, Sungzoon Cho, Expert Systems With Application, Volume 237, Part C, 2024, 121589
 "Incorporation of Company-Related Factual Knowledge into Pre-trained Language Models for Stock-Related Spam Tweet Filtering", Jihye Park and Sungzoon Cho, Expert Systems With Applications, Volume 234, 30 December 2023, 121021
 "General-Use Unsupervised Keyword Extraction Model for Text Analysis", Hunsik Shin, Hyejin Lee, Sungzoon Cho, Expert Systems with Applications, Volume 233, 15 December 2023, 120889
 "Hot Topic Detection in Central Bankers’ Speeches", Jihye Park, Hye Jin Lee, Sungzoon Cho, Expert Systems with Applications, Volume 230, 15 November 2023, 120563

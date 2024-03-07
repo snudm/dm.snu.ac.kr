@@ -1,5 +1,11 @@
 "DRAFT: Dense Retrieval Augmented Few-shot Topic classifier Framework", Keonwoo Kim, Youngun Lee, EMNLP 2023 findings, Singapore, 2023.12
 "MEMTO: Memory-guided Transformer for Multivariate Time Series Anomaly Detection", Junho Song, Keonwoo Kim, Jeonglyul Oh, Sungzoon Cho, NeurIPS 2023, New Orleans, 2023.12
+"반도체 분야 특화 지식 그래프 구축을 위한 특허 문서 내 기술 엔티티 및 관계 온톨로지 분석 연구", 박소형, 김현종, 이수연, 조성준, 전성환, 한국데이터마이닝학회 2023 추계 학술대회, 서울 양재동 엘타워, 2023년 11월
+"빅데이터 분석을 통한 HR 인사이트 도출 기획", 이혜진, 조영재, 채성원, 한국데이터마이닝학회 2023 추계 학술대회, 서울 양재동 엘타워, 2023년 11월
+"금융 데이터 수집, 가공 및 배포를 위한 연구실 단위의 DevOps 구축 연구", 이혜진, 최진우, 박지혜, 유용재, 안재관, 김현종, 박소형, 이수연, 심재승, 한국데이터마이닝학회 2023 추계 학술대회, 서울 양재동 엘타워, 2023년 11월
+"빅데이터와 인공지능을 활용한 최신 무기체계 동향", 조은상, 조성준, 한국데이터마이닝학회 2023 추계 학술대회, 서울 양재동 엘타워, 2023년 11월
+"Bi-encoder와 Contrastive Learning을 활용한 재료과학 분야 Named Entity Recognition", 김현종, 박소형, 이수연, 조성준, 전성환, 2023 대한산업공학회 추계학술대회, UNIST, 2023년 11월
+"PacMAP을 이용한 반도체 제조 공정 데이터에서의 이상 탐지", 유용재, 최진우, 박지혜, 유하늘, 박광균, 임재용, 박현섭, 윤동운, 김수정, 조성민, 금의석, 조성준,2023 대한산업공학회 추계학술대회, UNIST, 2023년 11월
 "A Product and Service Design Framework for Autonomous Vehicle: Identifying and Systematizing User Needs via Graph-Based Social Media Analysis and Activity Theory", 박소형, 윤별이, 조성준, 윤명환, 정철, 김충래, 이석준, 김승만, ITSC 2023, Bilbao, Spain, 2023.09
 "Enhancing Sentiment Knowledge via Self-Supervised Meta-Learning", 김현종, 조성준, RepL4NLP 2023, Toronto, Canada, 2023.07
 "Post-training Approach Using Form 10-K Filings to Inject Financial Domain-specific Factual Knowledge into Pretrained Language Models for Data-driven Financial Spam Filtering", 박지혜, 조성준, 한국데이터마이닝학회 2023 춘계학술대회, 강릉 원주대학교, 2023년 6월
