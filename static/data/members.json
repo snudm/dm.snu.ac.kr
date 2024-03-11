@@ -111,16 +111,14 @@
     "highschool": "Hana Academy Seoul, 2014",
     "first_project": "공간 지식추론 엔진 기술 개발 기획, 국토교통부, 2020-2021",
     "other_project": ["머신러닝을 이용한 효과적인 사회성과 예측 모형 개발 및 적용, 사회적가치연구원, 2020", "딥러닝을 활용한 강건한 설비 이상 탐지 기법 연구, 삼성전자, 2021-", "NH농협 4차산업혁명 핵심인재양성과정, NH농협, 2021-", "빅데이터-AI 비즈니스 밸류 기획, LG전자, 2022", "소셜미디어 텍스트 분석을 통한 투자관련 핫토픽 탐지, NH투자증권, 2021", "공공기관의 영화 데이터 연계 및 통합 DB 구축 방안 연구, 영화진흥위원회, 2021", "빅데이터 분석 모델 구축을 위한 정보 추출, 데이터 레이블링, 데이터셋 변화 적응 알고리즘 연구, 한국연구재단, 2021-"]
-    }
-],
-"phd_students" : [    
+    },
     {
     "image": "jk.ahn7",
     "name": "안 재 관 (Jaekwan Ahn)",
     "exp.gra.": "2025. 8",
     "email": "jk.ahn7 at bdai.snu.ac.kr",
     "working": "스위트앤데이터",
-	"areas of interest": "Deep Learning, Reinforcement Learning, Stochastic Process, Econometrics",
+    "areas of interest": "Deep Learning, Reinforcement Learning, Stochastic Process, Econometrics",
     "M.S.": "Economics, London school of Economics, 2014",
     "B.S.":  "Economics, Durham University, 2012",
     "highschool": "Felsted School",
@@ -152,7 +150,7 @@
     "B.S.":  "Industrial and Management Engineering, POSTECH, 2021",
     "highschool": "Paichai High School, 2017",
     "first_publication": "Enhancing Sentiment Knowledge via Self-Supervised Meta-Learning, RepL4NLP 2023",
-    "other_publication": ["사업보고서 내 캡션 추출을 위한 규칙 기반 알고리즘 연구, KIIE 2023", "반도체 제조 도메인 특화 지식 그래프 구축을 위한 엔티티 추출 방법 연구, KIIE 2023", "차량 평가 계측 데이터 분석 과정 자동화 소프트웨어 및 UI 구축, KIIE 2023", "A Comprehensive Image-based Virtual Try-on Network: Bringing Real-World Images into Use, CKAIA 2022"],
+    "other_publication": ["Bi-encoder와 Contrastive Learning을 활용한 재료과학 분야 Named Entity Recognition, KIIE 2023", "사업보고서 내 캡션 추출을 위한 규칙 기반 알고리즘 연구, KIIE 2023", "금융 데이터 수집, 가공 및 배포를 위한 연구실 단위의 DevOps 구축 연구, KDMS 2023","반도체 분야 특화 지식 그래프 구축을 위한 특허 문서 내 기술 엔티티 및 관계 온톨로지 분석 연구, KDMS 2023","반도체 제조 도메인 특화 지식 그래프 구축을 위한 엔티티 추출 방법 연구, KIIE 2023", "차량 평가 계측 데이터 분석 과정 자동화 소프트웨어 및 UI 구축, KIIE 2023", "A Comprehensive Image-based Virtual Try-on Network: Bringing Real-World Images into Use, CKAIA 2022"],
     "first_project": "반도체 분야 지식 그래프 구축 연구, 삼성전자, 2023-",
     "other_project": ["차량 계측 데이터의 자동화 분석 TOOL 개발, 현대위아, 2021-2022", "빅데이터 분석 모델 구축을 위한 정보 추출, 데이터 레이블링, 데이터셋 변화 적응 알고리즘 연구, 한국연구재단, 2021-"],
     "online_activity": "https://github.com/hjkim811"
@@ -165,11 +163,13 @@
     "areas of interest":"Machine Learning, Deep Learning, Natural Language Processing",
     "B.S.":  "Industrial Engineering, Information Science and Culture, Seoul Nat'l Univ., 2021",
     "highschool": "Dongguk Girls' Highschool, 2015",
-    "first_publication": "User generated text의 키워드 정보를 활용한 혈당 예측 연구, KIIE 2023",
-    "other_publication": ["A Product and Service Design Framework for Autonomous Vehicle: Identifying and Systematizing User Needs via Graph-Based Social Media Analysis and Activity Theory, ITSC 2023", "반도체 제조 도메인 특화 지식 그래프 구축을 위한 엔티티 추출 방법 연구, KIIE 2023", "이모지 임베딩을 활용한 한글 소셜 미디어 텍스트 임베딩 방법론 연구, KIIE 2022"],
+    "first_publication": "Stock price momentum modeling using social media data, Expert Systems with Applications 2024",
+    "other_publication": ["A Product and Service Design Framework for Autonomous Vehicle: Identifying and Systematizing User Needs via Graph-Based Social Media Analysis and Activity Theory, ITSC 2023", "PacMAP을 이용한 반도체 제조 공정 데이터에서의 이상 탐지, KIIE 2023", "Bi-encoder와 Contrastive Learning을 활용한 재료과학 분야 Named Entity Recognition, KIIE 2023", "반도체 분야 특화 지식 그래프 구축을 위한 특허 문서 내 기술 엔티티 및 관계 온톨로지 분석 연구, KDMS 2023", "금융 데이터 수집, 가공 및 배포를 위한 연구실 단위의 DevOps 구축 연구 KDMS 2023", "User generated text의 키워드 정보를 활용한 혈당 예측 연구, KIIE 2023", "반도체 제조 도메인 특화 지식 그래프 구축을 위한 엔티티 추출 방법 연구, KIIE 2023", "이모지 임베딩을 활용한 한글 소셜 미디어 텍스트 임베딩 방법론 연구, KIIE 2022"],
     "first_project": "빅데이터 분석 모델 구축을 위한 정보 추출, 데이터 레이블링, 데이터셋 변화 적응 알고리즘 연구, 한국연구재단, 2021-",
-    "other_project": ["영화 관련 기관들의 영화 및 영화인 데이터 통합 방안 연구, 영화진흥위원회, 2021", "종목 토론방 데이터 분석 기반 투자 Portfolio 연구, Quantit, 2021-2022", "소셜 인디케이터 기반 변곡점 예측 모델 개발, Quantit, 2022", "데이터 기반 차세대 자동차 사용자 경험 연구 및 모델링, LG전자, 2023-", "반도체 분야 지식 그래프 구축 연구, 삼성전자 SAIT, 2023-"]
-    },
+    "other_project": ["영화 관련 기관들의 영화 및 영화인 데이터 통합 방안 연구, 영화진흥위원회, 2021", "종목 토론방 데이터 분석 기반 투자 Portfolio 연구, Quantit, 2021-2022", "소셜 인디케이터 기반 변곡점 예측 모델 개발, Quantit, 2022", "데이터 기반 차세대 자동차 사용자 경험 연구 및 모델링, LG전자, 2023", "반도체 분야 지식 그래프 구축 연구, 삼성전자 SAIT, 2023-"]
+    }
+],
+"phd_students" : [    
     {
     "image": "eojinKim",
     "name": "김 어 진 (Eojin Kim)",
