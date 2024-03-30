@@ -256,10 +256,12 @@
     "name": "오 정 렬 (Jeongryeol Oh)",
     "exp.gra.": "2025. 2",
     "email": "jamesoh0813 at bdai.snu.ac.kr",
-    "areas of interest": "Anomaly Detection, Time Series Analysis, Graph Neural Network",
+    "areas of interest": "Recommender System, Time Series Analysis, Graph Neural Network",
     "B.S.": "Computer Science and Engineering, Sogang Univ., 2023",
     "highschool": "Dankook University High School, 2018",
     "first_publication": "MEMTO: Memory-guided Transformer for Multivariate Time Series Anomaly Detection, NeurIPS 2023",
+    "other_publication": ["Dictionary Contrastive Forward Learning via Adaptive Label Embeddings, ICLR 2024 Spotlight"],
+
     "first_project": "C-MDPS 작동소음 특징 주파수 추출, 현대모비스, 2023-",
     "online_activity": "https://github.com/dhwjdfuf"
     },
