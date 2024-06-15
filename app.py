@@ -118,15 +118,16 @@ def datamining():
 def development():
     return redirect(url_for('faq', lang_code=get_locale()))
 
-
+"""
+2024/06/15 교수님 지시로 삭제
 @app.route('/<lang_code>/development/ongoing')
 def ongoing():
     return render_template('ongoing_topics.html',
                            topics=read_json_data('ongoing_topics.json'))
+"""
 
-
-@app.route('/<lang_code>/development/past')
-def past():
+@app.route('/<lang_code>/development/topics')
+def topics():
     return render_template('sponsors.html',
                            topics=read_json_data('sponsors.json'))
 
