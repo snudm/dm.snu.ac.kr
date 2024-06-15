@@ -5,8 +5,8 @@
     "projects": [
     {
         "id": "mobis",
-        "description_ko": "\nC-MDPS 작동소음 특징 주파수 추출",
-        "description_en": "\nC-MDPS operating noise feature frequency extraction" 
+        "description_ko": "C-MDPS 작동소음 특징 주파수 추출",
+        "description_en": "C-MDPS operating noise feature frequency extraction" 
     },
     {
         "id": "samsungelec",
