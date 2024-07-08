@@ -246,9 +246,11 @@
     "name": "송 선 화 (Seonhwa Song)",
     "exp.gra.": "2025. 2",
     "email": "shsong at bdai.snu.ac.kr",
-    "working": "Hyundai Mobis, 2015-2023",
+    "working": "삼성전자 2023~",
     "areas of interest": "Machine Learning, Deep Learning, Time Series Analysis",
     "B.S.": "Industrial and Management Engineering, POSTECH, 2015",
+    "first_publication": "1d CNN-LSTM 모델을 활용한 제조 볼트 체결 프로세스 시계열 데이터 이상 감지 방법론 개발, KIIE, 2024",
+    "first_project": "소성역 각도법 볼트 체결선도 소성여부 이상감지 방법론 연구, 현대모비스, KIIE, 2023",
     "highschool": "Gyeongnam Girls' High School, 2011"
     },
     {
@@ -283,7 +285,8 @@
     "areas of interest": "Machine Learning, Recommendation System",
     "B.S.": "Industrial Engineering, Seoul Nat'l Univ., 2023",
     "highschool": "Gyeonggi Science High School, 2017",
-    "first_project": "C-MDPS 작동소음 특징 주파수 추출, 현대모비스, 2023-"
+    "first_project": "C-MDPS 작동소음 특징 주파수 추출, 현대모비스, 2023-",
+    "first_publication": "1d CNN-LSTM 모델을 활용한 제조 볼트 체결 프로세스 시계열 데이터 이상 감지 방법론 개발, KIIE, 2024"
     },
     {
     "image": "yj_cho",
