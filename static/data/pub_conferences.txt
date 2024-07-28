@@ -1,3 +1,18 @@
+"Safe-Embed: Unveiling the Safety-Critical Knowledge of Sentence Encoders", Jinseok Kim, Jaewon Jung, Sangyeop Kim, Sohyung Park, Sungzoon Cho, KnowledgeableLMs@ACL 2024, Bangkok, 2024. 08
+"Pretraining Vision-Language Model for Difference Visual Question Answering in Longitudinal Chest X-rays", Yeongjae Cho, Taehee Kim, Heejun Shin, Sungzoon Cho, Dongmyung Shin, MIDL 2024, Paris, 2024. 07
+"How are you feeling today, Depression Auto-Test Chatbot", 김어진, 오민해, 박소형, 오정렬, 조성준, 한국데이터마이닝학회 2024 춘계학술대회, 서울 양재동 엘타워, 2024년 5월
+"KMI: A Dataset of Korean Motivational Interviewing Dialogues for Psychotherapy", 김현종, 이수연, 조영재, 류은서, 조요한, 성수란, 조성준, 한국데이터마이닝학회 2024 춘계학술대회, 서울 양재동 엘타워, 2024년 5월
+"기술 문서의 도메인 특화 관계형 지식 온톨로지 구축에 기반한 지식 그래프 생성 시스템 및 방법", 박소형, 김현종, 이수연, 전성환, 조성준, 한국데이터마이닝학회 2024 춘계학술대회, 서울 양재동 엘타워, 2024년 5월
+"소리 데이터를 활용한 C-EPS 모터 소음 불량품 검출 모델 제작", 방승재, 조현철, 오정렬, 정철환, 조인제, 박준서, 서재용, 유성식, 조성준, 한국데이터마이닝학회 2024 춘계학술대회, 서울 양재동 엘타워, 2024년 5월
+"머신 러닝 기반의 서울시 아파트 전세가 형성에 대한 주거 환경 영향 분석", 최진우, 방승재, 유용재, 조성준, 한국데이터마이닝학회 2024 춘계학술대회, 서울 양재동 엘타워, 2024년 5월
+"Vision Transformer Models for Defect Detectioni : Fine-Tuning Strategies for Manufacturing Applications", Seungjai Bang, Jihye Kang, Sungzoon Cho, 한국경영과학회·대한산업공학회·한국시뮬레이션학회 2024 춘계공동학술대회, 여수엑스포컨벤션센터, 2024년 5월
+"정확한 의료 질의응답을 위한 Medline, PubMed 데이터 기반 지식증강생성 및 임베딩, 검색, 초거대 언어모델 탐색", 정재원, 안지용, 명현기, 조성준, 한국경영과학회·대한산업공학회·한국시뮬레이션학회 2024 춘계공동학술대회, 여수엑스포컨벤션센터, 2024년 5월
+"처방전 데이터 및 의학 지식 그래프 기반 검색 증강 생성 기술을 이용한 개인화된 헬스케어 대화 시스템 연구", 박소형, 김어진, 조성준, 한국경영과학회·대한산업공학회·한국시뮬레이션학회 2024 춘계공동학술대회, 여수엑스포컨벤션센터, 2024년 5월
+"1d CNN-LSTM 모델을 활용한 볼트 체결 프로세스 시계열 데이터 이상감지 방법론 개발	", 송선화, 정철환, 조성준, 한국경영과학회·대한산업공학회·한국시뮬레이션학회 2024 춘계공동학술대회,여수엑스포컨벤션센터, 2024년 5월
+"Face Image Augmentation Method for Personalized Latent Diffusion Model", 심재승, 안재관, 조성준, 한국경영과학회·대한산업공학회·한국시뮬레이션학회 2024 춘계공동학술대회, 여수엑스포컨벤션센터, 2024년 5월
+"LangChain과 대규모 언어 모델을 활용한 일정 및 메모 관리 애플리케이션", 조영재, 김현종, 류은서, 이수연, 조성준, 한국경영과학회·대한산업공학회·한국시뮬레이션학회 2024 춘계공동학술대회, 여수엑스포컨벤션센터, 2024년 5월
+"대규모 언어모델을 이용한 턴 단위 대화 전략 예측 연구", 김현종, 이수연, 조영재, 류은서, 조성준, 한국경영과학회·대한산업공학회·한국시뮬레이션학회 2024 춘계공동학술대회, 여수엑스포컨벤션센터, 2024년 5월
+"정체 영향도 예측을 통한 OHT 유량 자율 조정", 강연국, 이상민, 임광영, 조성준, 한국경영과학회·대한산업공학회·한국시뮬레이션학회 2024 춘계공동학술대회, 여수엑스포컨벤션센터, 2024년 5월
 "DRAFT: Dense Retrieval Augmented Few-shot Topic classifier Framework", Keonwoo Kim, Youngun Lee, EMNLP 2023 findings, Singapore, 2023.12
 "MEMTO: Memory-guided Transformer for Multivariate Time Series Anomaly Detection", Junho Song, Keonwoo Kim, Jeonglyul Oh, Sungzoon Cho, NeurIPS 2023, New Orleans, 2023.12
 "반도체 분야 특화 지식 그래프 구축을 위한 특허 문서 내 기술 엔티티 및 관계 온톨로지 분석 연구", 박소형, 김현종, 이수연, 조성준, 전성환, 한국데이터마이닝학회 2023 추계 학술대회, 서울 양재동 엘타워, 2023년 11월

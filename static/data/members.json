@@ -294,11 +294,14 @@
     "name": "조 영 재 (Yeongjae Cho)",
     "exp.gra.": "2025. 2",
     "email": "yjcho at bdai.snu.ac.kr",
-    "areas of interest": "Deep Learning, Machine Learning, Natural Language Processing",
+    "areas of interest": "Vision Language Model, Large Langauge Model",
     "B.S.": "Naval Architecture and Ocean Engineering, Industrial Engineering, Seoul Nat'l Univ., 2023",
     "highschool": "Juyeop High School, 2017",
-    "first_project": "빅데이터 분석을 통한 HR 인사이트 도출 기획, SK하이닉스, 2023-",
-    "other_project": ["종목 토론방 advertisement spam detection 연구, Quantit, 2022"]
+    "first_publication": "Generalizing Visual Question Answering from Synthetic to Human-Written Questions via a Chain of QA with a Large Language Model, ECAI 2024",
+    "other_publication": ["Pretraining Vision-Language Model for Difference Visual Question Answering in Longitudinal Chest X-rays, MIDL 2024", "LangChain을 활용한 일정 및 메모 관리 어플리케이션, KIIE 2024", "빅데이터 분석을 통한 HR 인사이트 도출 기획, KIIE 2023"],
+    "first_project": "빅데이터 분석을 통한 HR 인사이트 도출 기획, SK하이닉스, 2023",
+    "other_project": ["종목 토론방 advertisement spam detection 연구, Quantit, 2022"],
+    "online_activity": "https://www.linkedin.com/in/yeongjae-cho-a23bb622a/"
     },
     {
     "image": "escho",
@@ -327,10 +330,11 @@
     "name": "김 진 석 (Jinseok Kim)",
     "exp.gra.": "2025. 8",
     "email": "jsk0821 at bdai.snu.ac.kr",
-    "areas of interest": "Information Retrieval, Retrieval Augmented Generation",
+    "areas of interest": "Information Retrieval",
     "B.S.": "Computer Science, KAIST, 2023",
     "highschool": "Posung High school, 2017",
-    "first_publication": "Controllable prompt tuning with relation dependent tokens, KCC 2023",
+    "first_publication": "Safe-Embed: Unveiling the Safety-Critical Knowledge of Sentence Encoders, KnowledgeableLMs@ACL 2024",
+    "other_publication": ["Controllable prompt tuning with relation dependent tokens, KCC 2023"],
     "online_activity": "https://www.linkedin.com/in/jinseok-kim-06612a25b/"
     },
     {
