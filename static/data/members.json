@@ -104,13 +104,13 @@
     "name": "유 용 재 (Yongjae Yoo)",
     "exp.gra.": "2025. 2",
     "email": "yooy at bdai.snu.ac.kr",
-    "experience": "Honorary Mayor of Seoul, 2022-",
+    "experience": "Honorary Mayor of Seoul, 2022-2023",
     "online_activity": "http://yooy.mystrikingly.com/",
-    "areas of interest": "Deep Learning, Natural Language Processing, Finance",
+    "areas of interest": "Machine Learning, Text Mining, Computer Science Education",
     "B.S.":  "Mathematics, Electrical and Computer Engineering, Seoul Nat'l Univ., 2020",
     "highschool": "Hana Academy Seoul, 2014",
     "first_project": "공간 지식추론 엔진 기술 개발 기획, 국토교통부, 2020-2021",
-    "other_project": ["머신러닝을 이용한 효과적인 사회성과 예측 모형 개발 및 적용, 사회적가치연구원, 2020", "딥러닝을 활용한 강건한 설비 이상 탐지 기법 연구, 삼성전자, 2021-", "NH농협 4차산업혁명 핵심인재양성과정, NH농협, 2021-", "빅데이터-AI 비즈니스 밸류 기획, LG전자, 2022", "소셜미디어 텍스트 분석을 통한 투자관련 핫토픽 탐지, NH투자증권, 2021", "공공기관의 영화 데이터 연계 및 통합 DB 구축 방안 연구, 영화진흥위원회, 2021", "빅데이터 분석 모델 구축을 위한 정보 추출, 데이터 레이블링, 데이터셋 변화 적응 알고리즘 연구, 한국연구재단, 2021-"]
+    "other_project": ["머신러닝을 이용한 효과적인 사회성과 예측 모형 개발 및 적용, 사회적가치연구원, 2020", "딥러닝을 활용한 강건한 설비 이상 탐지 기법 연구, 삼성전자, 2021-", "NH농협 4차산업혁명 핵심인재양성과정, NH농협, 2021-", "빅데이터-AI 비즈니스 밸류 기획, LG전자, 2022", "DT University 데이터사관학교 자문·교육, 하나금융그룹, 2023", "소셜미디어 텍스트 분석을 통한 투자관련 핫토픽 탐지, NH투자증권, 2021", "공공기관의 영화 데이터 연계 및 통합 DB 구축 방안 연구, 영화진흥위원회, 2021", "빅데이터 분석 모델 구축을 위한 정보 추출, 데이터 레이블링, 데이터셋 변화 적응 알고리즘 연구, 한국연구재단, 2021-"]
     },
     {
     "image": "jk.ahn7",
@@ -276,14 +276,18 @@
     "experience": "Bagelcode, 2019-2020",
     "areas of interest": "Machine Learning, Deep Learning",
     "B.S.": "Industrial and Management Engineering, POSTECH, 2023",
-    "highschool": "Sangsan High School, 2018"
+    "highschool": "Sangsan High School, 2018",
+    "first_project": "제조 데이터 유형 분류 및 상관 분석을 통한 혐의분석 자동화, 삼성전자 반도체 연구소, 2023",
+    "first_publication": "Safe-Embed: Unveiling the Safety-Critical Knowledge of Sentence Encoders, KnowledgeableLMs@ACL 2024",
+    "other_publication": ["정확한 의료 질의응답을 위한 Medline, PubMed 데이터 기반 지식증강생성 및 임베딩, 검색, 초거대 언어모델 탐색, KIIE 2024"],
+    "online_activity": "https://www.linkedin.com/in/jaewon-jung-30115b296/https://github.com/JwdanielJung?tab=repositories"
     },
     {
     "image": "chjung",
     "name": "정 철 환 (Cholhwan Jung)",
     "exp.gra.": "2025. 2",
     "email": "happybee2 at bdai.snu.ac.kr",
-    "areas of interest": "Machine Learning, Recommendation System",
+    "areas of interest": "Recommender System, Information Retrieval, LLM based recommendation, LLM safety",
     "B.S.": "Industrial Engineering, Seoul Nat'l Univ., 2023",
     "highschool": "Gyeonggi Science High School, 2017",
     "first_project": "C-MDPS 작동소음 특징 주파수 추출, 현대모비스, 2023-",
