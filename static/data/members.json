@@ -274,13 +274,14 @@
     "exp.gra.": "2025. 2",
     "email": "wjdwodnjs302 at bdai.snu.ac.kr",
     "experience": "Bagelcode, 2019-2020",
-    "areas of interest": "Machine Learning, Deep Learning",
+    "areas of interest": "Recommender System, Information Retrieval, LLM based recommendation, LLM safety",
     "B.S.": "Industrial and Management Engineering, POSTECH, 2023",
     "highschool": "Sangsan High School, 2018",
     "first_project": "제조 데이터 유형 분류 및 상관 분석을 통한 혐의분석 자동화, 삼성전자 반도체 연구소, 2023",
     "first_publication": "Safe-Embed: Unveiling the Safety-Critical Knowledge of Sentence Encoders, KnowledgeableLMs@ACL 2024",
     "other_publication": ["정확한 의료 질의응답을 위한 Medline, PubMed 데이터 기반 지식증강생성 및 임베딩, 검색, 초거대 언어모델 탐색, KIIE 2024"],
-    "online_activity": "https://www.linkedin.com/in/jaewon-jung-30115b296/https://github.com/JwdanielJung?tab=repositories"
+    "online_activity": "https://www.linkedin.com/in/jaewon-jung-30115b296/",
+    "online_others": ["https://github.com/JwdanielJung?tab=repositories"]
     },
     {
     "image": "chjung",
