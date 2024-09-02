@@ -15,22 +15,6 @@
     "online_activity": "https://github.com/JinDepot"
     },
     {
-    "image": "m.choi",
-    "name": "최 민 (Min Choi)",
-    "exp.gra.": "2024. 8",
-    "email": "minchoi at bdai.snu.ac.kr",
-    "experience": "Shinhan Investment Corp, 2013-2018",
-    "areas of interest":"Machine Learning, Text Mining",
-    "M.S.":  "Industrial Engineering, Seoul Nat'l Univ., 2020",
-    "B.S.":  "Mathematical Science, KAIST, 2014",
-    "highschool": "Sangsan, 2009",
-    "first_publication": "Clustering National Security Threats Using Two-Step Disentanglement Method On Stock Prices, KDMS 2018",
-    "other_publication": ["Classification of important sentence for patent technology trend analysis, KIIE Spring Conference 2021", "처음주식, 이콘 2020", "한 달 배워 평생 써먹는 진짜 돈 공부, 길벗 2021", "Stock Investment Strategy using social media data and machine learning, Master's thesis 2020"],
-    "first_project":"소셜 인디케이터 기반 변곡점 예측 모델 개발, Quantit, 2022",
-    "other_project":["종목 토론방 데이터 분석 기반 투자 portfolio 연구, Quantit, 2021-2022", "텍스트마이닝을 활용한 전고체전지/음극재 특허 분석 및 MAP 구축, LG화학, 2020-2021"],
-    "online_activity": "https://www.youtube.com/c/챔CHAM_money"
-    },
-    {
     "image": "jw.choi",
     "name": "최 진 우(Jinwoo Choi)",
     "exp.gra.": "2024. 8",
@@ -199,48 +183,6 @@
     }
 ],
 "ms_students": [
-    {
-    "image": "jssim",
-    "name": "심 재 승 (Jaeseung Sim)",
-    "exp.gra.": "2024. 8",
-    "email": "jssim at dm.snu.ac.kr",
-    "areas of interest": "Natural Language Processing, Graph Analysis, Knowledge Graph",
-    "B.S.": "Industrial Engineering, Yonsei Univ., 2022",
-    "highschool": "Shinsung High School, 2016",
-    "online_activity": "https://github.com/sjskoko"
-    },
-    {
-    "image": "jh_kang",
-    "name": "강 건 영 (Gunyoung Kang)",
-    "exp.gra.": "2024. 8",
-    "email": "jeehaee.kang at bdai.snu.ac.kr",
-    "experience": "BCG Seoul, 2016; Shinhan BNP Paribas Asset Management, 2016-2019; Daelim Industrial Co., 2020-2021; Truston Asset Management, 2022",
-    "areas of interest": "Deep Learning, Time Series Data, Finance, Blockchain ",
-    "B.S.": "Business, Yonsei Univ.",
-    "highschool": "Sokcho"
-    },
-    {
-    "image": "sjbang",
-    "name": "방 승 재 (Seungjai Bang)",
-    "exp.gra.": "2024. 8",
-    "email": "sjbang at bdai.snu.ac.kr",
-    "areas of interest": "Anomaly Detection, Time Series Analysis, Object Detection, Image generation",
-    "B.S.": "Energy Resources Engineering, Seoul Nat'l Univ., 2022",
-    "highschool": "Gwangmyeong High School, 2016",
-    "first_project":"빅데이터 분석 모델 구축을 위한 정보 추출, 데이터 레이블링, 데이터셋 변화 적응 알고리즘 연구, 한국연구재단, 2022-",
-    "other_project":["C-MDPS 작동소음 특징 주파수 추출, 현대모비스, 2023-"],
-    "online_activity": "https://github.com/sjbinch"
-    },
-    {
-    "image": "jslee",
-    "name": "이 종 서 (Jongseo Lee)",
-    "exp.gra.": "2024. 8",
-    "email": "jongseo3.lee at bdai.snu.ac.kr",
-    "working": "Samsung Engineering, 2013-",
-    "areas of interest": "Machine Learning, Time Series Regression, Smart Factory",
-    "B.S.": "Aeronautical & Astronautical Engineering, Purdue University, 2013",
-    "highschool": "Western Michigan Christian High School, 2007"
-    },
     {
     "image": "shsong",
     "name": "송 선 화 (Seonhwa Song)",
@@ -458,6 +400,28 @@
     "areas of interest": "Machine learning, Smart Factory",
     "B.S.": "Electronics Engineering, Kyungpook National Univ., 2016",
     "highschool": "Kyungwon High school, 2010"
+    },
+    {
+    "image": "woongbi_jang",
+    "name": "장 웅 비 (Woongbi Jang)",
+    "exp.gra.": "2026. 8",
+    "email": "wbjkwjj at bdai.snu.ac.kr",
+    "areas of interest": " Multimodal Learning, Data Science",
+    "B.S.": "Computer Science, KAIST, 2023",
+    "highschool": "Hansung Science High School, 2017",
+    "online_activity": " https://github.com/kwjjwb"
+    },
+    {
+    "image": "jungyoub_cha",
+    "name": "차 정 엽 (Jungyoub Cha)",
+    "exp.gra.": "2026. 8",
+    "email": "jungyoub.cha at bdai.snu.ac.kr",
+    "experience": "NAVER, 2022-2023",
+    "areas of interest": "Machine Learning, Deep Learning, Natural Language Processing",
+    "B.S.": "Electrical Engineering, KAIST, 2024",
+    "highschool": "Gyeonggibuk Science High School, 2017",
+    "first_publication": "CHOP: Integrating ChatGPT into EFL Oral Presentation Practice, EDM 2024 Workshop: Leveraging Large Language Models for Next Generation Educational Technologies",
+    "online_activity": "https://www.linkedin.com/in/jungyoub-cha-25303a25wjdd"
     }
 ],
 "on_leave": [

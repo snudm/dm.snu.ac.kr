@@ -1,5 +1,51 @@
 [
 {
+	"year": "2024.08",
+	"name": "이종서",
+	"degree": "석사",
+	"image": "jslee",
+	"job": "삼성 E&A",
+	"job_address": "https://www.samsungena.com/kr/",
+	"dissertation": "Forecasting Building Operation Dynamics Using a Physics-Informed Spatio-Temporal Graph Neural Network (PISTGNN) Ensemble"
+},
+
+{
+	"year": "2024.08",
+	"name": "방승재",
+	"degree": "석사",
+	"image": "sjbang",
+	"job": "LG전자 생산기술원 제조AI솔루션팀",
+	"job_address": "https://lg-pri.com/",
+	"dissertation": "Vision Transformer Models for Defect Detection: Fine-Tuning Strategies for Manufacturing Applications"
+},
+{
+	"year": "2024.08",
+	"name": "강건영",
+	"degree": "석사",
+	"image": "jh_kang",
+	"job": "NH Investment & securities",
+	"job_address": "https://www.nhqv.com/",
+	"dissertation": "Asset movement prediction with mamba and transformer based hybrid structure"
+},
+{
+	"year": "2024.08",
+	"name": "심재승",
+	"degree": "석사",
+	"image": "jssim",
+	"job": "Sweetndata",
+	"job_address": "https://www.sweetndata.com",
+	"dissertation": "Face Augmentation Method for Latent Diffusion Model"
+},
+{
+	"year": "2024.08",
+	"name": "최민",
+	"degree": "박사",
+	"image": "m.choi",
+	"job": "김앤장 법률 사무소 AI&IT Center",
+	"job_address": "https://www.kimchang.com/ko/main.kc",
+	"dissertation": "Leveraging Social Media Data and Homomorphic Encryption for Collective Intelligence-based Investing Strategies"
+},
+{
 	"year": "2024.02",
 	"name": "김건우",
     "degree": "석사",
@@ -14,6 +60,7 @@
     "degree": "석사",
 	"image": "jh_song",
 	"job": "LG전자 생산기술원 제조AI솔루션팀",
+	"job_address": "https://lg-pri.com/",
 	"dissertation": "Unsupervised Learning Framework with Memory-augmented Transformer for Multivariate Time Series Anomaly Detection"
 },
 {
@@ -39,7 +86,7 @@
     "degree": "석사",
 	"image": "ywchoi",
 	"job": "ONOUT",
-	"job_address": "https://namu.wiki/w/온아웃",
+	"job_address": "https://corp.on-out.com/",
 	"dissertation": "_"
 },
 {
