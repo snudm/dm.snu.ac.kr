@@ -12,17 +12,17 @@
 // });
 // */
 
-var n = noty({
-    layout: 'topRight',
-    theme: 'relax',
-    text: '<strong>[2023 학회/저널 Accepted Paper]</strong><br><br>-송준호, 김건우, 오정렬, 조성준, MEMTO: Memory-guided Transformer for Multivariate Time Series Anomaly Detection, NeurIPS 2023<br>- 박지혜, 조성준, Incorporation of company-related factual knowledge into pre-trained language models for stock-related spam tweet filtering, Expert Systems With Applications 2023<br>- 신훈식, 이혜진, 조성준, General-Use Unsupervised Keyword Extraction Model for Text Analysis, Expert Systems with Applications 2023<br>- 박지혜, 이혜진, 조성준, Hot Topic Detection in Central Bankers\' Speeches, Expert Systems With Applications 2023<br>- 김현종, 조성준, Enhancing Sentiment Knowledge via Self-Supervised Meta-Learning, RepL4NLP 2023<br><br><a onclick="close_popup()">[팝업 닫기]</a>',
-    animation: {
-        open: 'animated bounceInDown',
-        close: {height: 'toggle'}, // jQuery animate function property object
-        easing: 'swing', // easing
-        speed: 500 // opening & closing animation speed
-    }
-});
+// var n = noty({
+//     layout: 'topRight',
+//     theme: 'relax',
+//     text: '<strong>[2023 학회/저널 Accepted Paper]</strong><br><br>-송준호, 김건우, 오정렬, 조성준, MEMTO: Memory-guided Transformer for Multivariate Time Series Anomaly Detection, NeurIPS 2023<br>- 박지혜, 조성준, Incorporation of company-related factual knowledge into pre-trained language models for stock-related spam tweet filtering, Expert Systems With Applications 2023<br>- 신훈식, 이혜진, 조성준, General-Use Unsupervised Keyword Extraction Model for Text Analysis, Expert Systems with Applications 2023<br>- 박지혜, 이혜진, 조성준, Hot Topic Detection in Central Bankers\' Speeches, Expert Systems With Applications 2023<br>- 김현종, 조성준, Enhancing Sentiment Knowledge via Self-Supervised Meta-Learning, RepL4NLP 2023<br><br><a onclick="close_popup()">[팝업 닫기]</a>',
+//     animation: {
+//         open: 'animated bounceInDown',
+//         close: {height: 'toggle'}, // jQuery animate function property object
+//         easing: 'swing', // easing
+//         speed: 500 // opening & closing animation speed
+//     }
+// });
 
 // var n = noty({
 //   layout: 'topRight',
