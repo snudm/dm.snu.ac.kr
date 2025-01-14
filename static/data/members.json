@@ -2,7 +2,7 @@
     {
     "image": "hyejin2",
     "name": "이 혜 진 (Hyejin Lee)",
-    "exp.gra.": "2024. 8",
+    "exp.gra.": "2025. 2",
     "email": "hyejinlee at bdai.snu.ac.kr",
     "experience": "Wharton School, U Penn, 2008-2011, 2013-2014; International Food Policy Research Institute, 2012; Federal Reserve Bank of Chicago, 2007",
     "M.S.": "Economics, Cornell Univ., 2013",
@@ -17,7 +17,7 @@
     {
     "image": "jw.choi",
     "name": "최 진 우(Jinwoo Choi)",
-    "exp.gra.": "2024. 8",
+    "exp.gra.": "2025. 2",
     "email": "jwchoi at bdai.snu.ac.kr",
     "experience": "SNUH Biomedical Research Institute, 2018",
     "areas of interest":"Machine Learning",
@@ -32,7 +32,7 @@
 	{
     "image": "ykkang2",
     "name": "강 연 국 (Younkook Kang)",
-    "exp.gra.": "2024. 8",
+    "exp.gra.": "2025. 2",
     "email": "ykkang at bdai.snu.ac.kr",
     "working": "삼성전자",
     "experience": "Samsung Electronics, 2009-",
@@ -62,7 +62,7 @@
     {
     "image": "leegusong",
     "name": "송 이 구 (Leegu Song)",
-    "exp.gra.": "2024. 8",
+    "exp.gra.": "2025. 8",
     "email": "song.leegu at bdai.snu.ac.kr",
     "working": "에피바이오텍",
 	"experience": "Quant Lab, 2016-2018",
@@ -75,7 +75,7 @@
     {
     "image": "yongheekim",
     "name": "김 용 희 (Yong Hee Kim)",
-    "exp.gra.": "2025. 2",
+    "exp.gra.": "2025. 8",
     "email": "yhk at bdai.snu.ac.kr",
     "experience": "S&P Global, 2016-2021",
     "areas of interest": "Deep Learning, Natural Language Processing",
@@ -86,7 +86,7 @@
     {
     "image": "yj_yoo",
     "name": "유 용 재 (Yongjae Yoo)",
-    "exp.gra.": "2025. 2",
+    "exp.gra.": "2025. 8",
     "email": "yooy at bdai.snu.ac.kr",
     "experience": "Honorary Mayor of Seoul, 2022-2023",
     "online_activity": "http://yooy.mystrikingly.com/",
@@ -151,6 +151,16 @@
     "other_publication": ["How are you feeling today, Depression Auto-Test Chatbot, KDMS 2024", "기술 문서의 도메인 특화 관계형 지식 온톨로지 구축에 기반한 지식 그래프 생성 시스템 및 방법, KDMS 2024","처방전 데이터 및 의학 지식 그래프 기반 검색 증강 생성 기술을 이용한 개인화된 헬스케어 대화 시스템 연구, KIIE 2024", "Stock price momentum modeling using social media data, Expert Systems with Applications 2024", "A Product and Service Design Framework for Autonomous Vehicle: Identifying and Systematizing User Needs via Graph-Based Social Media Analysis and Activity Theory, ITSC 2023", "Bi-encoder와 Contrastive Learning을 활용한 재료과학 분야 Named Entity Recognition, KIIE 2023", "반도체 분야 특화 지식 그래프 구축을 위한 특허 문서 내 기술 엔티티 및 관계 온톨로지 분석 연구, KDMS 2023", "금융 데이터 수집, 가공 및 배포를 위한 연구실 단위의 DevOps 구축 연구 KDMS 2023", "User generated text의 키워드 정보를 활용한 혈당 예측 연구, KIIE 2023", "반도체 제조 도메인 특화 지식 그래프 구축을 위한 엔티티 추출 방법 연구, KIIE 2023", "이모지 임베딩을 활용한 한글 소셜 미디어 텍스트 임베딩 방법론 연구, KIIE 2022"],
     "first_project": "빅데이터 분석 모델 구축을 위한 정보 추출, 데이터 레이블링, 데이터셋 변화 적응 알고리즘 연구, 한국연구재단, 2021-",
     "other_project": ["영화 관련 기관들의 영화 및 영화인 데이터 통합 방안 연구, 영화진흥위원회, 2021", "종목 토론방 데이터 분석 기반 투자 Portfolio 연구, Quantit, 2021-2022", "소셜 인디케이터 기반 변곡점 예측 모델 개발, Quantit, 2022", "데이터 기반 차세대 자동차 사용자 경험 연구 및 모델링, LG전자, 2023", "반도체 분야 지식 그래프 구축 연구, 삼성전자 SAIT, 2023-"]
+    },
+    {
+    "image": "jw_lee",
+    "name": "이 재 원 (Jaewon Lee)",
+    "exp.gra.": "2026. 2",
+    "email": "jaewon.lee at dm.snu.ac.kr",
+    "experience": "NAVER (Company.AI), 2017-2020; Hana Financial Investment, 2016-2017",
+    "areas of interest": "Multi-modal Deep Learning, Natural Language Processing, Text Mining",
+    "B.S.":  "Applied Maths & Statistics, Computer Science, Johns Hopkins University, 2015",
+    "highschool": "Cheongshim International Academy, 2009"
     }
 ],
 "phd_students" : [    
