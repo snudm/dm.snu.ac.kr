@@ -53,6 +53,12 @@ $window.resize(function() {
 <h2>People</h2>
 <div class="flexslider" style="width:100%;margin:auto;">
   <ul class="slides">
+	<li>
+	  <div class="member-image-wrapper" style="background-image: url({{ url_for('static', filename='images/home_15.jpg') }})"></div>
+	</li>
+	<li>
+	  <div class="member-image-wrapper" style="background-image: url({{ url_for('static', filename='images/home_16.jpg') }})"></div>
+	</li>  
     <li>
       <div class="member-image-wrapper" style="background-image: url({{ url_for('static', filename='images/home_img_1.jpg') }})"></div>
     </li>
@@ -232,6 +238,17 @@ $window.resize(function() {
 					</tr>
 				{% endfor %}
 				{% endif %}
+				{% if 'Links' in student.keys() %}
+					{% set link1 = student['Links'][0] %}
+					{% set link2 = student['Links'][1] %}
+					<tr>
+						<td> Links </td>
+						<td>
+							<a href="{{ link1 }}">CV</a>, <a href="{{ link2 }}">LinkedIn</a>
+						</td>
+					</tr>
+				{% endif %}
+			
 			</table>
 		</div>
 	</div>
