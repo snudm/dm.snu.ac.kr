@@ -1,5 +1,50 @@
 [
 {
+	"year": "2025.02",
+	"name": "조은상",
+	"degree": "석사",
+	"image" : "escho",
+	"job": "육군사관학교 컴퓨터과학교수",
+	"job_address": "https://www.kma.ac.kr:461/kma/427/subview.do"
+	"dissertation": "스마트폰 기반 북한군 저고도 무인항공기 식별"
+},
+{
+	"year": "2025.02",
+	"name": "조영재",
+	"degree": "석사",
+	"image" : "yj_cho",
+	"job": "삼성 리서치",
+	"job_address": "https://www.samsung.com/sec/about-us/business-area/r-and-d-center/",
+	"dissertation": "Mitigating Multimodal Hallucination via Attention-Guided Ensemble Decoding"
+},
+{
+	"year": "2025.02",
+	"name": "정철환",
+	"degree": "석사",
+	"image" : "chjung",
+	"job": "온아웃(주)",
+	"job_address": "https://corp.on-out.com/",
+	"dissertation": "Image Captioning and Item Retrieval with Vision-Language Models and LLM-Generated Data in Fashion Domain"
+},	
+{
+	"year": "2025.02",
+	"name": "정재원",
+	"degree": "석사",
+	"image" : "jwjung",
+	"job": "오늘의집(버킷플레이스)",
+	"job_address": "https://www.bucketplace.com/",
+	"dissertation": "Similarity Search–Augmented Prompt Safety Classification for Detecting Unsafe Prompts in Large Language Models"
+},	
+{
+	"year": "2025.02",
+	"name": "오정렬",
+	"degree": "석사",
+	"image" : "jr_oh",
+	"job": "Dable",
+	"job_address": "https://dable.io/ko/",
+	"dissertation": "Sequential short-video recommendation framework with passive negative feedback data of longer time span"
+},
+{
 	"year": "2024.08",
 	"name": "이종서",
 	"degree": "석사",
