@@ -13,9 +13,9 @@
 	"name": "송선화",
 	"degree": "석사",
 	"image" : "shsong",
-	"job": "",
-	"job_address": "",
-	"dissertation": ""
+	"job": "삼성전자 메모리사업부",
+	"job_address": "https://semiconductor.samsung.com/kr/about-us/business-area/memory/",
+	"dissertation": "Mitigating Class Imbalance in Acoustic Emission Classification Using Spectrogram Generative Adversarial Network"
 },
 {
 	"year": "2025.08",
