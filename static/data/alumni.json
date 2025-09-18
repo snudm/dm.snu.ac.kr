@@ -22,9 +22,9 @@
 	"name": "하정욱",
 	"degree": "석사",
 	"image" : "juha",
-	"job": "",
-	"job_address": "",
-	"dissertation": ""
+	"job": "산업통상자원부",
+	"job_address": "https://www.motie.go.kr/",
+	"dissertation": "Understanding User Perception of Human-LLM Collaboration in AI-Assisted Strategic planning"
 },
 {
 	"year": "2025.08",
