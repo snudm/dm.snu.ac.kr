@@ -4,15 +4,24 @@
 	"name": "김상엽",
 	"degree": "박사",
 	"image" : "sangyeopkim",
-	"job": "",
-	"job_address": "",
-	"dissertation": ""
+	"job": "콕스웨이브",
+	"job_address": "https://coxwave.com/",
+	"dissertation": "Integration of Large Language Models and Information Retrieval: A Study on Semantic Search, Recommendation, Strategic Planning and User Analysis"
 },
 {
 	"year": "2025.08",
 	"name": "송선화",
 	"degree": "석사",
 	"image" : "shsong",
+	"job": "",
+	"job_address": "",
+	"dissertation": ""
+},
+{
+	"year": "2025.08",
+	"name": "하정욱",
+	"degree": "석사",
+	"image" : "juha",
 	"job": "",
 	"job_address": "",
 	"dissertation": ""

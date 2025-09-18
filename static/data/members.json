@@ -43,18 +43,6 @@
     "other_publication": ["Clustered multi-task sequence-to-sequence learning for autonomous vehicle repositioning. IEEE 2021", "Dynamic vehicle traffic control using deep reinforcement learning in automated material handling system, AAAI 2019", "강화학습을 이용한 제조 물류자동화 시스템 경로 제어 파라미터 최적화, Master's thesis 2019", "딥러닝을 이용한 제조 물류시스템 Vehicle 구간 정체 예측, KIIE 2018"]
     },
     {
-    "image": "sangyeopkim",
-    "name": "김 상 엽 (Sangyeop Kim)",
-    "exp.gra.": "2025. 8",
-    "email": "pdg01117 at bdai.snu.ac.kr",
-    "working": "Coxwave",
-    "areas of interest":"Information Retrieval, Conversational AI, AI Safety",
-    "M.S.": "Industrial Engineering, Seoul Nat'l Univ., 2021",
-    "B.S.":  "Industrial Engineering, Seoul Nat'l Univ., 2019",
-    "highschool": "Donga, 2013",
-    "Links": ["https://drive.google.com/file/d/1S2iZpqSs0iC4TNsEh4WnnW6M-GCqzvqn/view?usp=drive_link","https://www.linkedin.com/in/sangyeop-kim-a6242a207"]
-    },
-    {
     "image": "leegusong",
     "name": "송 이 구 (Leegu Song)",
     "exp.gra.": "2025. 8",
@@ -188,63 +176,6 @@
     }
 ],
 "ms_students": [
-    {
-    "image": "shsong",
-    "name": "송 선 화 (Seonhwa Song)",
-    "exp.gra.": "2025. 2",
-    "email": "shsong at bdai.snu.ac.kr",
-    "experience": "현대 모비스, 2015-2023",
-    "working": "삼성전자, 2023-",
-    "areas of interest": "Machine Learning, Deep Learning, Time Series Analysis",
-    "B.S.": "Industrial and Management Engineering, POSTECH, 2015",
-    "first_publication": "1d CNN-LSTM 모델을 활용한 제조 볼트 체결 프로세스 시계열 데이터 이상 감지 방법론 개발, KIIE, 2024",
-    "first_project": "소성역 각도법 볼트 체결선도 소성여부 이상감지 방법론 연구, 현대모비스, KIIE, 2023",
-    "highschool": "Gyeongnam Girls' High School, 2011"
-    },
-    {
-    "image": "swchae",
-    "name": "채 성 원 (Sungwon Chae)",
-    "exp.gra.": "2025. 2",
-    "email": "chae at bdai.snu.ac.kr",
-    "experience": "GenIP, CTO & Co-Founder, 2023-2024",
-    "working": "Kim & Chang AI · IT System Center",
-    "areas of interest": "Deep Learning, Natural Language Processing, Legal Tech",
-    "B.S.": "Industrial Engineering, Seoul Nat'l Univ., 2023",
-    "highschool": "Banpo High School, 2018",
-    "first_project": "빅데이터 분석을 통한 HR 인사이트 도출 기획, SK하이닉스, 2023-"
-    },
-    {
-    "image": "jskim",
-    "name": "김 진 석 (Jinseok Kim)",
-    "exp.gra.": "2025. 8",
-    "email": "jsk0821 at bdai.snu.ac.kr",
-    "areas of interest": "Information Retrieval",
-    "B.S.": "Computer Science, KAIST, 2023",
-    "highschool": "Posung High school, 2017",
-    "first_publication": "Safe-Embed: Unveiling the Safety-Critical Knowledge of Sentence Encoders, KnowledgeableLMs@ACL 2024",
-    "other_publication": ["Controllable prompt tuning with relation dependent tokens, KCC 2023"],
-    "online_activity": "https://www.linkedin.com/in/jinseok-kim-06612a25b/"
-    },
-    {
-    "image": "hkmyung",
-    "name": "명 현 기 (Hyunkee Myung)",
-    "exp.gra.": "2025. 8",
-    "email": "hyunki1015 at bdai.snu.ac.kr",
-    "experience": "Bagelcode, 2019-",
-    "areas of interest": "Machine Learning, Deep Learning",
-    "B.S.": "Industrial and Management Engineering, POSTECH, 2022",
-    "highschool": "Busan-il Science, 2016"
-    },
-    {
-    "image": "juha",
-    "name": "하 정 욱 (Junguk Ha)",
-    "exp.gra.": "2025. 8",
-    "email": "ksmulti at bdai.snu.ac.kr",
-    "experience": "Ministry of Trade, Industy and Energy 2017-; Office of the President 2021-2022",
-    "areas of interest": "Data Analysis, Text Mining",
-    "B.S.": "Business Administration, Seoul Nat'l Univ., 2016",
-    "highschool": "Daea High School, 2007"
-    },
     {
     "image": "Hyungi_Min",
     "name": "민 현 기 (Hyungi Min)",
