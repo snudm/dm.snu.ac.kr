@@ -1,5 +1,50 @@
 [
 {
+	"year": "2025.08",
+	"name": "김상엽",
+	"degree": "박사",
+	"image" : "sangyeopkim",
+	"job": "",
+	"job_address": "",
+	"dissertation": ""
+},
+{
+	"year": "2025.08",
+	"name": "송선화",
+	"degree": "석사",
+	"image" : "shsong",
+	"job": "",
+	"job_address": "",
+	"dissertation": ""
+},
+{
+	"year": "2025.08",
+	"name": "채성원",
+	"degree": "석사",
+	"image" : "swchae",
+	"job": "김·장 법률사무소",
+	"job_address": "https://www.kimchang.com/ko/main.kc",
+	"dissertation": "An Empirical Assessment of Legal Risk via Joint Benchmark Evaluation"
+},
+{
+	"year": "2025.08",
+	"name": "김진석",
+	"degree": "석사",
+	"image" : "jskim",
+	"job": "Kmong",
+	"job_address": "https://kmong.com/?airbridge_referrer=airbridge%3Dtrue%26campaign%3D874874596%26campaign_id%3D874874596%26ad_group%3D76628375026%26ad_group_id%3D76628375026%26ad_creative%3D743779912502%26ad_creative_id%3D743779912502%26term%3Dkmong%26sub_id%3Dg%26sub_id_1%3D%26sub_id_2%3D%26sub_id_3%3De%26click_id%3DCj0KCQjwuKnGBhD5ARIsAD19RsZjnlo5hweoBQX3k7GoOU32uqdmZyjv8VGKZqSYOE33wUqmM3tUKW0aAvM7EALw_wcB%26gclid%3DCj0KCQjwuKnGBhD5ARIsAD19RsZjnlo5hweoBQX3k7GoOU32uqdmZyjv8VGKZqSYOE33wUqmM3tUKW0aAvM7EALw_wcB%26ad_type%3Dclick&utm_source=google.adwords&utm_campaign=00_%ED%81%AC%EB%AA%BD%EB%B8%8C%EB%9E%9C%EB%93%9C_pc&utm_medium=Search&utm_term=kmong&ad_creative_id=743779912502&ad_group=00_00_%ED%81%AC%EB%AA%BD(%EC%9D%BC%EC%B9%98%EA%B2%80%EC%83%89)&campaign_id=874874596&sub_id=g&sub_id_1=&sub_id_2=&gad_source=1&gad_campaignid=874874596&gbraid=0AAAAADPEzGt6A3nTSiwAUaHErhL5_qeyT&gclid=Cj0KCQjwuKnGBhD5ARIsAD19RsZjnlo5hweoBQX3k7GoOU32uqdmZyjv8VGKZqSYOE33wUqmM3tUKW0aAvM7EALw_wcB",
+	"dissertation": "Query Expansion with Large Language Models for Scalable Information Retrieval Systems"
+},
+{
+	"year": "2025.08",
+	"name": "명현기",
+	"degree": "석사",
+	"image" : "hkmyung",
+	"job": "Bagelcode DATA&AI팀",
+	"job_address": "https://www.bagelcode.com/",
+	"dissertation": "Text-to-SQL with Table Retrieval and Metadata"
+},
+{
 	"year": "2025.02",
 	"name": "조은상",
 	"degree": "석사",
