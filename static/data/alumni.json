@@ -4,8 +4,8 @@
 	"name": "김상엽",
 	"degree": "박사",
 	"image" : "sangyeopkim",
-	"job": "Coxwave",
-	"job_address": "https://coxwave.com/",
+	"job": "이화여자대학교 인공지능대학 데이터사이언스전공 교수",
+	"job_address": "https://datascience.ewha.ac.kr/datascience/index.do",
 	"dissertation": "Integration of Large Language Models and Information Retrieval: A Study on Semantic Search, Recommendation, Strategic Planning and User Analysis"
 },
 {
@@ -285,8 +285,8 @@
 	"name": "신훈식",
 	"degree": "박사",
 	"image": "hsshin",
-	"job": "Samsung Advanced Institute of Technology 삼성종합기술원",
-	"job_address": "https://www.samsung-dsrecruit.com/division_intro/generalTechnique/index.php",
+	"job": "홍익대학교 산업·데이터공학과 교수",
+	"job_address": "https://ie.hongik.ac.kr/ie/index.do",
 	"dissertation": "Automatic summarization via classification-based entity-representative feature learning and its applications"
 },	
 {
@@ -311,8 +311,8 @@
     "name": "안진원",
 	"degree": "박사",
 	"image": "jwahn",
-	"job": "Samsung Advanced Institute of Technology 삼성종합기술원",
-	"job_address": "https://www.samsung-dsrecruit.com/division_intro/generalTechnique/index.php",
+	"job": "인천대학교 경영학부 교수",
+	"job_address": "https://biz.inu.ac.kr/biz/index.do?epTicket=LOG",
 	"dissertation": "Towards mastering complex reasoning with Transformers: applications in visual, conversational and mathematical reasoning"
 }
 ,{
@@ -791,7 +791,8 @@
 	"year": "2013. 2",
 	"name": "김동일",
 	"degree": "박사",
-	"job": "이화여자대학교 인공지능대학 데이터사이언스학과 교수",
+	"job": "이화여자대학교 인공지능대학 데이터사이언스전공 교수",
+	"job_address": "https://datascience.ewha.ac.kr/datascience/index.do",
 	"dissertation": "Intelligent data selection and semi-supervised learning for support vector regression",
 	"diss_address": "http://snu-primo.hosted.exlibrisgroup.com/82SNU:ALL:82SNU_INST21463531750002591"
 },
@@ -882,7 +883,8 @@
 	"name": "강필성",
 	"image" : "pskang",
 	"degree": "박사",
-	"job": "고려대학교 산업경영공학부 교수",
+	"job": "서울대학교 산업공학과 교수",
+	"job_address": "https://ie.snu.ac.kr/",
 	"dissertation": "Locally linear reconstruction for prediction, detection, clustering",
 	"diss_address": "http://snu-primo.hosted.exlibrisgroup.com/82SNU:ALL:82SNU_INST21423520140002591"
 },
