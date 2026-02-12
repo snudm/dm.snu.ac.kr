@@ -122,8 +122,8 @@
 	"name": "강건영",
 	"degree": "석사",
 	"image": "jh_kang",
-	"job": "NH Investment & securities",
-	"job_address": "https://www.nhqv.com/",
+	"job": "미래에셋자산운용 AI R&D",
+	"job_address": "https://investments.miraeasset.com/magi/index.do?gad_source=1&gad_campaignid=21959739586&gbraid=0AAAAA-ifwIjE_5_r2L8pEev97vXDoRkX1&gclid=CjwKCAiAkbbMBhB2EiwANbxtbS1TqO0KtmI4-iOkTvAz8OvJjsCYaG1p3I79SFHmcHNNu38eJ5HgPxoCp4IQAvD_BwE",
 	"dissertation": "Asset movement prediction with mamba and transformer based hybrid structure"
 },
 {
@@ -190,7 +190,7 @@
 },
 {
 	"year": "2023.08",
-	"name": "양 지 원",
+	"name": "양지원",
 	"degree": "박사",
 	"image": "jw_yang",
 	"email": "yang at dm.snu.ac.kr",
@@ -200,7 +200,7 @@
 },
 {
 	"year": "2023.08",
-	"name": "강 인 혜",
+	"name": "강인혜",
 	"degree": "석사 수료",
 	"image": "ih.kang",
 	"email": "inhye.kang at dm.snu.ac.kr",
@@ -240,8 +240,8 @@
 	"name": "함영석",
 	"degree": "석사",
 	"image": "terryhahm",
-	"job": "Prism39",
-	"job_address": "https://www.prism39.com/",
+	"job": "ONOUT",
+	"job_address": "https://corp.on-out.com/",
 	"dissertation": "Automatic Classification of News on CEO Turnover Cause for post-turnover Volatility prediction"
 },
 {
@@ -267,8 +267,8 @@
 	"name": "임성연",
 	"degree": "석사",
 	"image": "sungyeonlim",
-	"job": "Prism39",
-	"job_address": "https://www.prism39.com/",
+	"job": "한국투자공사",
+	"job_address": "https://www.kic.kr/",
 	"dissertation": "Stock Short Sales Fee Prediction"
 },	
 {
@@ -276,8 +276,7 @@
 	"name": "조현흠",
 	"degree": "석사",
 	"image": "heum",
-	"job": "휴먼스케이프",
-	"job_address": "https://humanscape.io/kr/index.html",
+	"job": "히포프로토콜 블록체인 리드",
 	"dissertation": "머신러닝 모델 유동화와 자동화 거래 시장 설계"
 },	
 {
@@ -303,7 +302,7 @@
     "name": "안용대",
 	"degree": "박사",
 	"image": "ydahn",
-	"job": "Desilo, 세종대학교 교수",
+	"job": "Desilo, 숭실대학교 교수",
 	"dissertation": "Popularity Prediction and Relation detection of video contents: Movies, TV programs and Youtube channels"
 },	
 {
@@ -328,8 +327,7 @@
     "name": "김현성",
 	"degree": "석사",
 	"image": "hs_kim",
-	"job": "핏투게더",
-	"job_address": "https://www.fitogether.com/",
+	"job": "KAIST 박사과정",
 	"dissertation": "6MapNet: Characterizing Soccer Players via a Deep Embedding of GPS Data"
 }
 ,{
@@ -337,7 +335,7 @@
 	"name": "선지민",
 	"degree": "석사",
 	"image": "jm.sun",
-	"job": "Carnegie Mellon University 박사과정",
+	"job": "Cohere",
 	"dissertation": "Cross-lingual Transfer Learning for Offensive Language Identification in Low-resource Settings"
 }
 ,{
@@ -345,8 +343,8 @@
     "name": "남상호",
 	"degree": "석사",
     "image": "sanghonam",
-	"job": "카카오모빌리티",
-	"job_address": "https://www.kakaomobility.com/",
+	"job": "모두싸인",
+	"job_address": "https://modusign.co.kr/",
 	"dissertation": "거래 대화 텍스트를 이용한 온라인 중고 거래 플랫폼 사기 거래 탐지"
 }
 ,{
@@ -376,7 +374,7 @@
 	"name": "김현용",
 	"degree": "석사",
 	"image": "hy.kim",
-	"job": "서울대학교 박사과정",
+	"job": "prism39",
 	"dissertation": "GRU 기반 지역별 교통사고 심도 예측 모형"
  },
  {
@@ -441,8 +439,8 @@
 	"name": "이형욱",
 	"degree": "석사",
 	"image": "hu.lee",
-	"job": "비바리퍼블리카(토스)",
-	"job_address": "https://toss.im/career",
+	"job": "다겸",
+	"job_address": "https://dagyeom.com/",
 	"dissertation": "듀얼 어텐션 메커니즘 기반 Bidirectional Encoder-Decoder Recurrent Neural Network를 활용한 다변량 시계열 예측",
 	"diss_address": "https://snu-primo.hosted.exlibrisgroup.com/permalink/f/1l6eo7m/82SNU_INST21684276660002591"
  },
@@ -545,8 +543,8 @@
 	"name": "김태욱",
 	"image": "taewook_2",
 	"degree": "석사",
-	"job": "네이버",
-	"job_address": "https://www.navercorp.com/",
+	"job": "SK Telecom",
+	"job_address": "https://www.sktelecom.com/",
 	"dissertation": "연속형 변수의 구간 별 임베딩과 클러스터링을 통한 다변수적 이산화 방법",
 	"diss_address": "http://snu-primo.hosted.exlibrisgroup.com/82SNU:ALL:82SNU_INST21605852730002591"
 },
@@ -555,8 +553,8 @@
 	"name": "문지형",
 	"image": "jihyeong",
 	"degree": "석사",
-	"job": "업스테이지",
-	"job_address": "https://www.naverlabs.com/",
+	"job": "강남언니",
+	"job_address": "https://www.gangnamunni.com/",
 	"dissertation": "Relation Memory Network: A Simple Neural architecture for Text-based Reasoning",
 	"diss_address": "http://snu-primo.hosted.exlibrisgroup.com/82SNU:ALL:82SNU_INST21605852690002591"
 },
@@ -602,7 +600,7 @@
 	"name": "김미숙",
 	"degree": "박사",
 	"image": "mskim",
-	"job": "세종대학교 데이터사이언스 학과 교수",
+	"job": "한대학교 데이터사이언스학과 교수",
 	"dissertation": "Prediction of stock price, base rate, and interest rate spread with text data",
 	"diss_address": "http://snu-primo.hosted.exlibrisgroup.com/82SNU:ALL:82SNU_INST21605742570002591"
 },
@@ -611,7 +609,7 @@
 	"name": "양호성",
 	"image": "hsyang",
 	"degree": "석사",
-	"job": "SKT",
+	"job": "우아한형제들",
 	"dissertation": "분산 표상을 활용한 브랜드 시각화 및 키워드 추출",
 	"diss_address": "http://snu-primo.hosted.exlibrisgroup.com/82SNU:ALL:82SNU_INST21574578960002591"
 },
@@ -724,7 +722,7 @@
 	"year": "2015. 2",
 	"name": "허민회",
 	"degree": "박사",
-	"job": "현대자동차 AIR Lab",
+	"job": "삼성전자",
 	"dissertation": "Demand Forecasting, Keyword Selecting, and Ad Placing in Digital Marketing with Text Mining",
 	"diss_address": "http://snu-primo.hosted.exlibrisgroup.com/82SNU:ALL:82SNU_INST21412877860002591"
 },
@@ -757,7 +755,7 @@
 	"year": "2014. 2",
 	"name": "이승경",
 	"degree": "박사",
-	"job": "신한카드",
+	"job": "안랩",
 	"dissertation": "Probabilistic Local Reconstruction for k-Nearest Neighbor Learning",
 	"diss_address": "http://snu-primo.hosted.exlibrisgroup.com/82SNU:ALL:82SNU_INST21433165660002591"
 },
@@ -765,7 +763,7 @@
 	"year": "2013. 8",
 	"name": "강성진",
 	"degree": "석사",
-	"job": "서울대학교 박사과정",
+	"job": "앤서스랩",
 	"dissertation": "군집화 기법과 문서 순위를 이용한 한국어 트윗 상의 토픽 추출",
 	"diss_address": "http://snu-primo.hosted.exlibrisgroup.com/82SNU:ALL:82SNU_INST21431317210002591"
 },
@@ -774,8 +772,8 @@
 	"name": "김현중",
 	"degree": "석사",
 	"image": "hjkim",
-	"job": "네이버랩스 파파고팀",
-	"job_address": "https://www.naverlabs.com/",
+	"job": "네이버 클라우",
+	"job_address": "https://www.ncloud.com/v2/",
 	"dissertation": "단어 추출과 스트링 매치를 이용한 수기 입력 텍스트의 노이즈 처리",
 	"diss_address": "http://snu-primo.hosted.exlibrisgroup.com/82SNU:ALL:82SNU_INST21432869030002591"
 },
@@ -806,7 +804,7 @@
 },
 {
 	"year": "2012. 2",
-	"name": "염정근",
+	"name": "염지아",
 	"degree": "석사",
 	"job": "한국거래소",
 	"dissertation": "영화평점을 바탕으로 한 최적 스크린 수 결정",
@@ -908,7 +906,7 @@
 	"year": "2009. 2",
 	"name": "홍유나",
 	"degree": "석사",
-	"job": "카카오뱅크",
+	"job": "감정평가사(대교)",
 	"dissertation": "의사결정나무를 이용한 One-Support Vector Machine의 이상 탐지 규칙 도출",
 	"diss_address": "http://snu-primo.hosted.exlibrisgroup.com/82SNU:ALL:82SNU_INST21458998610002591"
 },
@@ -916,7 +914,7 @@
 	"year": "2009. 2",
 	"name": "원소윤",
 	"degree": "석사",
-	"job": "삼성카드",
+	"job": "제논",
 	"dissertation": "뉴스 키워드 분석을 통한 다우지수의 방향성 예측",
 	"diss_address": "http://snu-primo.hosted.exlibrisgroup.com/82SNU:ALL:82SNU_INST21458997570002591"
 },
@@ -1083,7 +1081,7 @@
 	"year": "2002",
 	"name": "임용업",
 	"degree": "석사",
-	"job": "SK Telecom",
+	"job": "SK하이닉스",
 	"dissertation": "데이터 마이닝을 이용한 매출액변화 예측모델링",
 	"diss_address": "http://snu-primo.hosted.exlibrisgroup.com/82SNU:ALL:82SNU_INST21477748000002591"
 },
@@ -1099,7 +1097,7 @@
 	"year": "2001",
 	"name": "이봉기",
 	"degree": "석사",
-	"job": "SK Planet",
+	"job": "G마켓",
 	"dissertation": "입력 데이터 분포에 따른 가상 샘플 생성",
 	"diss_address": "http://snu-primo.hosted.exlibrisgroup.com/82SNU:ALL:82SNU_INST21418959260002591"
 },
@@ -1188,7 +1186,7 @@
 	"year": "1997",
 	"name": "한대희",
 	"degree": "석사",
-	"job": "Pendium Slow Campus 대표"
+	"job": "뉴럴스튜디오 대표"
 },
 {
 	"year": "1997",
@@ -1225,7 +1223,7 @@
 	"year": "1995",
 	"name": "정태일",
 	"degree": "석사",
-	"job": "모비젠 솔루션 영업실장"
+	"job": "씨지인사이드"
 },
 {
 	"year": "1995",
@@ -1233,7 +1231,6 @@
 	"image": "mjang",
 	"degree": "석사",
 	"dissertation": "Modeling Map Formation in Proprioceptive Cortex",
-	"job": "뉴럴웍스 대표",
-	"job_address": "https://neuralworks.io/"
+	"job": "SMAI 대표",
 }
 ]
