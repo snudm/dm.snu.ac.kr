@@ -172,6 +172,11 @@
     "title_ko": "금융",
     "title_en": "Finance",
     "projects": [
+	{
+        "id": "samsung_fireinsurance",
+        "description_ko": "빅데이터 기반 모빌리티 사고 위험 진단 및 예측",
+        "description_en": "Big Data–Driven Mobility Accident Risk Analysis and Prediction"
+    },
     {
         "id": "nationalresearchfoundationofkorea",
         "description_ko": "빅데이터 정보 추출, 데이터 레이블링, 데이터셋 변화 적응 알고리즘 개발",
@@ -354,6 +359,11 @@
     "title_ko": "마케팅, 영업, HR",
     "title_en": "Marketing, Sales, HR",
     "projects": [
+	{
+        "id": "jw",
+        "description_ko": "매출 예측 프로세스 자동화, 외부 요인 변수화 및 Hybrid AI 예측 모델 개발",
+        "description_en": "Automating the Sales Forecasting Process, External-Factor Feature Engineering, and Development of a Hybrid AI Forecasting Model" 
+    },
     {
         "id": "skhynix",
         "description_ko": "HRD 텍스트 분석을 통한 고성과자 예비리더 예측",
