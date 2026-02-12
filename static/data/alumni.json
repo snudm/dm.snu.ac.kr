@@ -1106,8 +1106,7 @@
 	"name": "장민",
 	"image": "mjang",
 	"degree": "박사",
-	"job": "뉴럴웍스 대표",
-	"job_address": "https://neuralworks.io/",
+	"job": "SMAI 대표",
 	"dissertation": "Ensemble Learning Algorithm using Virtual Data"
 },
 {
@@ -1231,6 +1230,6 @@
 	"image": "mjang",
 	"degree": "석사",
 	"dissertation": "Modeling Map Formation in Proprioceptive Cortex",
-	"job": "SMAI 대표",
+	"job": "SMAI 대표"
 }
 ]
